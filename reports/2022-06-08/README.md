@@ -54,7 +54,7 @@ Found 61 suspensions for tracked accounts.
             <td>2020-01-29</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>10783</td>
+            <td>12006</td>
             <td>627</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ Found 61 suspensions for tracked accounts.
             <td>2021-10-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>966</td>
+            <td>999</td>
             <td>2171</td>
         </tr>
         <tr>
@@ -294,7 +294,7 @@ Found 61 suspensions for tracked accounts.
             <td>2022-05-18</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>146</td>
+            <td>147</td>
             <td>5864</td>
         </tr>
         <tr>
@@ -474,7 +474,7 @@ Found 61 suspensions for tracked accounts.
             <td>2021-12-12</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>1410</td>
+            <td>1406</td>
             <td>24138</td>
         </tr>
         <tr>
@@ -803,7 +803,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Foxpoasting">Foxpoasting</a>
             </td>
             <td align="center"></td>
-            <td>78</td>
+            <td>86</td>
             <td>13291</td>
         </tr>
         <tr>
@@ -816,12 +816,12 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Old_Wise_Hermit">Old_Wise_Hermit</a>
             </td>
             <td align="center"></td>
-            <td>333</td>
+            <td>336</td>
             <td>32157</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519499930703851520">
-                <img src="https://pbs.twimg.com/profile_images/1519502627247050752/YI9x1_r3_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1548962175779082240/hESolB20_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/jen_giuntoli">jen_giuntoli</a></td>
@@ -829,7 +829,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ultra_lioness">ultra_lioness</a>
             </td>
             <td align="center"></td>
-            <td>1545</td>
+            <td>1691</td>
             <td>37494</td>
         </tr>
         <tr>
@@ -1135,7 +1135,7 @@ Found 713 suspensions for tracked accounts.
             <td>2020-03-04</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>10253</td>
+            <td>10265</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1222051880253231104">
@@ -1520,7 +1520,7 @@ Found 713 suspensions for tracked accounts.
             <td>2010-07-14</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>2303</td>
+            <td>2312</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1482002621821067266">
@@ -1542,7 +1542,7 @@ Found 713 suspensions for tracked accounts.
             <td>2013-01-10</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>2220</td>
+            <td>2212</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1052980960076189697">

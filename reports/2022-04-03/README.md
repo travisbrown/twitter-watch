@@ -144,7 +144,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Ana_appreciater">Ana_appreciater</a>
             </td>
             <td align="center"></td>
-            <td>1008</td>
+            <td>1003</td>
             <td>17278</td>
         </tr>
         <tr>
@@ -157,7 +157,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/StinkyOnMePinky">StinkyOnMePinky</a>
             </td>
             <td align="center"></td>
-            <td>237</td>
+            <td>236</td>
             <td>20234</td>
         </tr>
         <tr>

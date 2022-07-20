@@ -381,7 +381,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/teturis">teturis</a>
             </td>
             <td align="center"></td>
-            <td>1971</td>
+            <td>1972</td>
             <td>1963</td>
         </tr>
         <tr>
@@ -394,7 +394,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/iwantfascism">iwantfascism</a>
             </td>
             <td align="center"></td>
-            <td>188</td>
+            <td>187</td>
             <td>2760</td>
         </tr>
         <tr>
@@ -433,7 +433,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/meaniepants_iii">meaniepants_iii</a>
             </td>
             <td align="center"></td>
-            <td>63</td>
+            <td>62</td>
             <td>3134</td>
         </tr>
         <tr>
@@ -446,7 +446,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Papabeartotem">Papabeartotem</a>
             </td>
             <td align="center"></td>
-            <td>152</td>
+            <td>155</td>
             <td>4886</td>
         </tr>
         <tr>
@@ -459,7 +459,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/8xnia">8xnia</a>
             </td>
             <td align="center"></td>
-            <td>637</td>
+            <td>632</td>
             <td>29833</td>
         </tr>
         <tr>
@@ -472,7 +472,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Sliabh_Dubh">Sliabh_Dubh</a>
             </td>
             <td align="center"></td>
-            <td>371</td>
+            <td>372</td>
             <td>46458</td>
         </tr>
         <tr>
@@ -485,7 +485,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MaureenMal12">MaureenMal12</a>
             </td>
             <td align="center"></td>
-            <td>1715</td>
+            <td>1914</td>
             <td>59930</td>
         </tr>
         <tr>

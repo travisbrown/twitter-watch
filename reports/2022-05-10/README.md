@@ -114,7 +114,7 @@ Found 29 suspensions for tracked accounts.
             <td>2020-08-09</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>452</td>
+            <td>473</td>
             <td>7999</td>
         </tr>
         <tr>
@@ -393,7 +393,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/kangminjlee">kangminjlee</a>
             </td>
             <td align="center"></td>
-            <td>35995</td>
+            <td>36032</td>
             <td>267</td>
         </tr>
         <tr>
@@ -445,14 +445,14 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/THEUNITEDSPOT0">THEUNITEDSPOT0</a>
             </td>
             <td align="center"></td>
-            <td>12925</td>
+            <td>12916</td>
             <td>96710</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 1049 suspensions for tracked accounts.
+Found 1050 suspensions for tracked accounts.
 111 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -598,6 +598,17 @@ Found 1049 suspensions for tracked accounts.
             <td>12346</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2413154590">
+                <img src="https://pbs.twimg.com/profile_images/1545072826377555973/gn0vhel0_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mabel_nft">mabel_nft</a></td>
+            <td>2014-03-15</td>
+            <td>2022-05-19</td>
+            <td align="center"></td>
+            <td>11457</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1246809092250841094">
                 <img src="https://pbs.twimg.com/profile_images/1520105142636498944/BDRR2LIE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -607,17 +618,6 @@ Found 1049 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>10957</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2413154590">
-                <img src="https://pbs.twimg.com/profile_images/1545072826377555973/gn0vhel0_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mabel_nft">mabel_nft</a></td>
-            <td>2014-03-15</td>
-            <td>2022-05-19</td>
-            <td align="center"></td>
-            <td>10936</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1122499341233606656">
@@ -705,7 +705,7 @@ Found 1049 suspensions for tracked accounts.
             <td>2009-03-17</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>6249</td>
+            <td>6258</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=769920031970951168">
@@ -717,17 +717,6 @@ Found 1049 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>5794</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1450201165359198208">
-                <img src="https://pbs.twimg.com/profile_images/1499187289284562948/DZg_7P9S_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/JRAYSnews">JRAYSnews</a></td>
-            <td>2021-10-18</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>5265</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=30628216">
@@ -750,6 +739,17 @@ Found 1049 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>5110</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1450201165359198208">
+                <img src="https://pbs.twimg.com/profile_images/1499187289284562948/DZg_7P9S_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JRAYSnews">JRAYSnews</a></td>
+            <td>2021-10-18</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>5052</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1132842196137390080">

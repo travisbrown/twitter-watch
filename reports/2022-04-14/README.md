@@ -102,7 +102,7 @@ Found 12 suspensions for tracked accounts.
             <td>2021-05-12</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>90</td>
+            <td>89</td>
             <td>73720</td>
         </tr>
         <tr>
@@ -189,7 +189,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/elniggmex">elniggmex</a>
             </td>
             <td align="center"></td>
-            <td>202</td>
+            <td>194</td>
             <td>3259</td>
         </tr>
         <tr>
@@ -228,7 +228,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/paqliacci">paqliacci</a>
             </td>
             <td align="center"></td>
-            <td>74</td>
+            <td>72</td>
             <td>24344</td>
         </tr>
         <tr>
@@ -280,7 +280,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Caroline_c_57">Caroline_c_57</a>
             </td>
             <td align="center"></td>
-            <td>511</td>
+            <td>513</td>
             <td>76535</td>
         </tr>
         <tr>
@@ -293,7 +293,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SickOfMorons86">SickOfMorons86</a>
             </td>
             <td align="center"></td>
-            <td>259</td>
+            <td>258</td>
             <td>82498</td>
         </tr>
         <tr>
