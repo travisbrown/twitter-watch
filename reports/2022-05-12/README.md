@@ -839,7 +839,7 @@ Found 883 suspensions for tracked accounts.
             <td>2017-08-28</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>2357</td>
+            <td>2358</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=210212691">
@@ -864,6 +864,17 @@ Found 883 suspensions for tracked accounts.
             <td>2323</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1343541349090516995">
+                <img src="https://pbs.twimg.com/profile_images/1547116722032893952/_BghOLvK_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AdeoyeXoxo">AdeoyeXoxo</a></td>
+            <td>2020-12-28</td>
+            <td>2022-06-05</td>
+            <td align="center"></td>
+            <td>2309</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1187495878858293250">
                 <img src="https://pbs.twimg.com/profile_images/1349496557029253120/l6owpWYq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -873,17 +884,6 @@ Found 883 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2274</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1343541349090516995">
-                <img src="https://pbs.twimg.com/profile_images/1547116722032893952/_BghOLvK_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AdeoyeXoxo">AdeoyeXoxo</a></td>
-            <td>2020-12-28</td>
-            <td>2022-06-05</td>
-            <td align="center"></td>
-            <td>2249</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=614365077">

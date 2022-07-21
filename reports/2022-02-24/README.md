@@ -385,7 +385,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/0xMikael">0xMikael</a>
             </td>
             <td align="center"></td>
-            <td>490</td>
+            <td>491</td>
             <td>41679</td>
         </tr>
         <tr>
@@ -609,7 +609,7 @@ Found 262 suspensions for tracked accounts.
             <td>2016-11-13</td>
             <td>2022-02-28</td>
             <td align="center"></td>
-            <td>542742</td>
+            <td>544422</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1165266163611447296">
@@ -719,7 +719,7 @@ Found 262 suspensions for tracked accounts.
             <td>2021-02-17</td>
             <td>2022-03-02</td>
             <td align="center"></td>
-            <td>20959</td>
+            <td>20946</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1162111357">
@@ -895,7 +895,7 @@ Found 262 suspensions for tracked accounts.
             <td>2020-08-07</td>
             <td>2022-02-27</td>
             <td align="center"></td>
-            <td>2564</td>
+            <td>2570</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=542487182">

@@ -327,7 +327,7 @@ Found 41 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/deer_learner">deer_learner</a>
             </td>
             <td align="center"></td>
-            <td>408</td>
+            <td>407</td>
             <td>9961</td>
         </tr>
         <tr>
@@ -470,7 +470,7 @@ Found 41 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DrinkLoliPee">DrinkLoliPee</a>
             </td>
             <td align="center"></td>
-            <td>72</td>
+            <td>73</td>
             <td>31291</td>
         </tr>
         <tr>
@@ -1084,7 +1084,7 @@ Found 843 suspensions for tracked accounts.
             <td>2017-03-29</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>19136</td>
+            <td>19182</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3554877982">

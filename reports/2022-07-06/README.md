@@ -78,7 +78,7 @@ Found 22 suspensions for tracked accounts.
             <td>2021-12-14</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>1056</td>
+            <td>1060</td>
             <td>2039</td>
         </tr>
         <tr>
@@ -556,7 +556,7 @@ Found 20 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/dndandanh">dndandanh</a>
             </td>
             <td align="center"></td>
-            <td>437</td>
+            <td>435</td>
             <td>95934</td>
         </tr></table>
 
@@ -1641,7 +1641,7 @@ Found 793 suspensions for tracked accounts.
             <td>2018-12-02</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1185</td>
+            <td>1184</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=837132229">

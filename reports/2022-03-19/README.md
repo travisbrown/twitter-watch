@@ -277,7 +277,7 @@ Found 49 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/cowled_possum">cowled_possum</a>
             </td>
             <td align="center"></td>
-            <td>344</td>
+            <td>343</td>
             <td>5343</td>
         </tr>
         <tr>
@@ -589,7 +589,7 @@ Found 49 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AgentGuido">AgentGuido</a>
             </td>
             <td align="center"></td>
-            <td>446</td>
+            <td>445</td>
             <td>44160</td>
         </tr>
         <tr>
@@ -1934,7 +1934,7 @@ Found 1077 suspensions for tracked accounts.
             <td>2021-05-20</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>1334</td>
+            <td>1328</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1182661340">
@@ -2014,17 +2014,6 @@ Found 1077 suspensions for tracked accounts.
             <td>1057</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1468965221091790854">
-                <img src="https://pbs.twimg.com/profile_images/1502272990540533766/uPbVj4_c_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/100dayscode">100dayscode</a></td>
-            <td>2021-12-09</td>
-            <td>2022-04-07</td>
-            <td align="center"></td>
-            <td>1038</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3031132212">
                 <img src="https://pbs.twimg.com/profile_images/1501927876949590016/vcsbNACx_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2034,4 +2023,15 @@ Found 1077 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1035</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1468965221091790854">
+                <img src="https://pbs.twimg.com/profile_images/1502272990540533766/uPbVj4_c_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/100dayscode">100dayscode</a></td>
+            <td>2021-12-09</td>
+            <td>2022-04-07</td>
+            <td align="center"></td>
+            <td>1034</td>
         </tr></table>

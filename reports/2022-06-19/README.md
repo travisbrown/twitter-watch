@@ -226,7 +226,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PaxRomana88">PaxRomana88</a>
             </td>
             <td align="center"></td>
-            <td>10</td>
+            <td>9</td>
             <td>4502</td>
         </tr>
         <tr>
@@ -239,7 +239,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SporadicPosting">SporadicPosting</a>
             </td>
             <td align="center"></td>
-            <td>825</td>
+            <td>828</td>
             <td>4805</td>
         </tr>
         <tr>
@@ -459,7 +459,7 @@ Found 1275 suspensions for tracked accounts.
             <td>2020-05-15</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>45155</td>
+            <td>45392</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1194510801509314563">
@@ -800,7 +800,7 @@ Found 1275 suspensions for tracked accounts.
             <td>2011-07-04</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>3081</td>
+            <td>3086</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=764214600">

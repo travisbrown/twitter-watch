@@ -987,7 +987,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/LogicTies">LogicTies</a>
             </td>
             <td align="center"></td>
-            <td>80</td>
+            <td>81</td>
             <td>63704</td>
         </tr>
         <tr>
@@ -1518,7 +1518,7 @@ Found 1009 suspensions for tracked accounts.
             <td>2018-07-07</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>7158</td>
+            <td>7171</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1413176365143179267">
@@ -1738,7 +1738,7 @@ Found 1009 suspensions for tracked accounts.
             <td>2022-02-10</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>2703</td>
+            <td>2704</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1410248170391674886">
@@ -1906,6 +1906,17 @@ Found 1009 suspensions for tracked accounts.
             <td>1814</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1485307526094766081">
+                <img src="https://pbs.twimg.com/profile_images/1506361348250292226/XPkG9GrO_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ceezyisnthome">ceezyisnthome</a>&nbsp;(<a href="https://memory.lol/tw/id/1485307526094766081">1 other</a>)&nbsp;</td>
+            <td>2022-01-23</td>
+            <td>2022-05-14</td>
+            <td align="center"></td>
+            <td>1791</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=824020680891056130">
                 <img src="https://pbs.twimg.com/profile_images/1513430364395642880/28w9Xz37_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1915,17 +1926,6 @@ Found 1009 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1778</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1485307526094766081">
-                <img src="https://pbs.twimg.com/profile_images/1506361348250292226/XPkG9GrO_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ceezyisnthome">ceezyisnthome</a>&nbsp;(<a href="https://memory.lol/tw/id/1485307526094766081">1 other</a>)&nbsp;</td>
-            <td>2022-01-23</td>
-            <td>2022-05-14</td>
-            <td align="center"></td>
-            <td>1774</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1219717507705180161">

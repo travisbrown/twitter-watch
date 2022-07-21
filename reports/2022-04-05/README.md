@@ -378,7 +378,7 @@ Found 42 suspensions for tracked accounts.
             <td>2021-07-10</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>1864</td>
+            <td>1863</td>
             <td>79632</td>
         </tr>
         <tr>
@@ -822,7 +822,7 @@ Found 47 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/LPJRTruth">LPJRTruth</a>
             </td>
             <td align="center"></td>
-            <td>1748</td>
+            <td>1750</td>
             <td>41191</td>
         </tr>
         <tr>
@@ -926,7 +926,7 @@ Found 47 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TrumpCF">TrumpCF</a>
             </td>
             <td align="center"></td>
-            <td>6681</td>
+            <td>6706</td>
             <td>55367</td>
         </tr>
         <tr>
@@ -1095,7 +1095,7 @@ Found 47 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ShellyBrrr">ShellyBrrr</a>
             </td>
             <td align="center"></td>
-            <td>8588</td>
+            <td>8612</td>
             <td>84575</td>
         </tr>
         <tr>
@@ -2364,7 +2364,7 @@ Found 1570 suspensions for tracked accounts.
             <td>2021-03-15</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>1584</td>
+            <td>1589</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1497745029955305473">

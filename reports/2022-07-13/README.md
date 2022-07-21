@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (74)](#tracked-suspensions)
 * [Tracked screen name changes (8)](#tracked-screen-name-changes)
-* [Untracked suspensions (217)](#untracked-suspensions)
+* [Untracked suspensions (218)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -210,7 +210,7 @@ Found 74 suspensions for tracked accounts.
             <td>2019-10-16</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>18625</td>
+            <td>18684</td>
             <td>15163</td>
         </tr>
         <tr>
@@ -239,14 +239,14 @@ Found 74 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1537491684983988238">
-                <img src="https://pbs.twimg.com/profile_images/1542996308159598593/ZCC8ypbb_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549632021143633921/rC276ldY_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/IonFBS">IonFBS</a></td>
             <td>2022-06-16</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>93</td>
+            <td>95</td>
             <td>17781</td>
         </tr>
         <tr>
@@ -570,7 +570,7 @@ Found 74 suspensions for tracked accounts.
             <td>2021-10-25</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>632</td>
+            <td>634</td>
             <td>55522</td>
         </tr>
         <tr>
@@ -972,7 +972,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Godspresence_">Godspresence_</a>
             </td>
             <td align="center"></td>
-            <td>1440</td>
+            <td>1438</td>
             <td>30701</td>
         </tr>
         <tr>
@@ -1024,15 +1024,15 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KntuckyFriedMrk">KntuckyFriedMrk</a>
             </td>
             <td align="center"></td>
-            <td>639</td>
+            <td>638</td>
             <td>97854</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 2258 suspensions for tracked accounts.
-217 accounts have more than 1000 followers and are included here.
+Found 2259 suspensions for tracked accounts.
+218 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1130,7 +1130,7 @@ Found 2258 suspensions for tracked accounts.
             <td>2009-10-26</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>25538</td>
+            <td>25534</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=853131667879337985">
@@ -1747,6 +1747,17 @@ Found 2258 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3490</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=849009631800242180">
+                <img src="https://pbs.twimg.com/profile_images/1292925779135934466/s9dgHEIs_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/dadash_ghiami">dadash_ghiami</a></td>
+            <td>2017-04-03</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>3462</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3307060124">

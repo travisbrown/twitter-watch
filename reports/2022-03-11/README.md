@@ -613,7 +613,7 @@ Found 56 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/HanyaToderoff">HanyaToderoff</a>
             </td>
             <td align="center"></td>
-            <td>27668</td>
+            <td>27717</td>
             <td>41713</td>
         </tr>
         <tr>
@@ -1073,6 +1073,17 @@ Found 805 suspensions for tracked accounts.
             <td>90846</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1369376039412117509">
+                <img src="https://pbs.twimg.com/profile_images/1529789192112316416/I-rDrsFb_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Ang3lR4t">Ang3lR4t</a></td>
+            <td>2021-03-09</td>
+            <td>2022-03-21</td>
+            <td align="center"></td>
+            <td>85202</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=360217763">
                 <img src="https://pbs.twimg.com/profile_images/1488152473890181121/5Wb7lnQ3_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1104,17 +1115,6 @@ Found 805 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>56263</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1369376039412117509">
-                <img src="https://pbs.twimg.com/profile_images/1493239343598743560/zjbTFBPr_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Ang3lR4t">Ang3lR4t</a></td>
-            <td>2021-03-09</td>
-            <td>2022-03-21</td>
-            <td align="center"></td>
-            <td>55925</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1300667280486010883">
@@ -1576,7 +1576,7 @@ Found 805 suspensions for tracked accounts.
             <td>2010-08-11</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>3018</td>
+            <td>3017</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1432151256290709509">

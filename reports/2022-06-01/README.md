@@ -126,7 +126,7 @@ Found 55 suspensions for tracked accounts.
             <td>2020-11-05</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>297</td>
+            <td>298</td>
             <td>2371</td>
         </tr>
         <tr>
@@ -1134,7 +1134,7 @@ Found 69 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/UM_Wolverine">UM_Wolverine</a>
             </td>
             <td align="center"></td>
-            <td>1405</td>
+            <td>1404</td>
             <td>52460</td>
         </tr>
         <tr>
@@ -1368,7 +1368,7 @@ Found 69 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/1p0pop">1p0pop</a>
             </td>
             <td align="center"></td>
-            <td>2822</td>
+            <td>2827</td>
             <td>74971</td>
         </tr>
         <tr>

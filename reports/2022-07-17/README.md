@@ -1137,7 +1137,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/wafflepirate">wafflepirate</a>
             </td>
             <td align="center"></td>
-            <td>5228</td>
+            <td>5224</td>
             <td>694</td>
         </tr>
         <tr>
@@ -1241,7 +1241,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/RandyFromOhio">RandyFromOhio</a>
             </td>
             <td align="center"></td>
-            <td>186</td>
+            <td>188</td>
             <td>82168</td>
         </tr></table>
 

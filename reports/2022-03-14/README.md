@@ -189,7 +189,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/CHEF_ARYAN83">CHEF_ARYAN83</a>
             </td>
             <td align="center"></td>
-            <td>1265</td>
+            <td>1267</td>
             <td>772</td>
         </tr>
         <tr>
@@ -345,7 +345,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Wallace45th">Wallace45th</a>
             </td>
             <td align="center"></td>
-            <td>137</td>
+            <td>138</td>
             <td>10158</td>
         </tr>
         <tr>
@@ -449,7 +449,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MKULTRAMlLF">MKULTRAMlLF</a>
             </td>
             <td align="center"></td>
-            <td>12866</td>
+            <td>12876</td>
             <td>16861</td>
         </tr>
         <tr>
@@ -1407,7 +1407,7 @@ Found 1198 suspensions for tracked accounts.
             <td>2009-06-15</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>2017</td>
+            <td>2020</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2164465716">

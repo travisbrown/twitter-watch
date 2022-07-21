@@ -333,7 +333,7 @@ Found 45 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JimFannonLives">JimFannonLives</a>
             </td>
             <td align="center"></td>
-            <td>3741</td>
+            <td>3740</td>
             <td>10005</td>
         </tr>
         <tr>
@@ -411,7 +411,7 @@ Found 45 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NihlstDthfetish">NihlstDthfetish</a>
             </td>
             <td align="center"></td>
-            <td>91</td>
+            <td>92</td>
             <td>23205</td>
         </tr>
         <tr>
@@ -1361,7 +1361,7 @@ Found 738 suspensions for tracked accounts.
             <td>2007-06-14</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1844</td>
+            <td>1846</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=511901624">
@@ -1471,7 +1471,7 @@ Found 738 suspensions for tracked accounts.
             <td>2009-03-15</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>1563</td>
+            <td>1562</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=743610787688644609">

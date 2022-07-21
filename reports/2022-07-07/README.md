@@ -1108,7 +1108,7 @@ Found 55 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/WmanForAmerica">WmanForAmerica</a>
             </td>
             <td align="center"></td>
-            <td>12928</td>
+            <td>13050</td>
             <td>64874</td>
         </tr>
         <tr>
@@ -1238,7 +1238,7 @@ Found 55 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RudyCSalmon">RudyCSalmon</a>
             </td>
             <td align="center"></td>
-            <td>5401</td>
+            <td>5405</td>
             <td>80444</td>
         </tr>
         <tr>
@@ -1329,7 +1329,7 @@ Found 55 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/btcfkyou">btcfkyou</a>
             </td>
             <td align="center"></td>
-            <td>3389</td>
+            <td>3388</td>
             <td>91498</td>
         </tr>
         <tr>
@@ -1766,7 +1766,7 @@ Found 979 suspensions for tracked accounts.
             <td>2017-08-02</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>2974</td>
+            <td>2980</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1445131566229884931">

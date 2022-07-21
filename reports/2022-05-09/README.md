@@ -66,7 +66,7 @@ Found 26 suspensions for tracked accounts.
             <td>2009-04-07</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>3393</td>
+            <td>3401</td>
             <td>1183</td>
         </tr>
         <tr>
@@ -383,7 +383,7 @@ Found 63 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_Kogito_">_Kogito_</a>
             </td>
             <td align="center"></td>
-            <td>1121</td>
+            <td>1116</td>
             <td>1800</td>
         </tr>
         <tr>
@@ -656,7 +656,7 @@ Found 63 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RndmAccnt00022">RndmAccnt00022</a>
             </td>
             <td align="center"></td>
-            <td>184</td>
+            <td>185</td>
             <td>33970</td>
         </tr>
         <tr>
@@ -838,7 +838,7 @@ Found 63 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/fiddIehead">fiddIehead</a>
             </td>
             <td align="center"></td>
-            <td>25</td>
+            <td>24</td>
             <td>61568</td>
         </tr>
         <tr>
@@ -994,7 +994,7 @@ Found 63 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/1PatrickCornell">1PatrickCornell</a>
             </td>
             <td align="center"></td>
-            <td>3647</td>
+            <td>3645</td>
             <td>80287</td>
         </tr>
         <tr>
@@ -2083,7 +2083,7 @@ Found 1074 suspensions for tracked accounts.
             <td>2021-05-12</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1088</td>
+            <td>1089</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1228396441388843009">

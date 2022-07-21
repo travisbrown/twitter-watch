@@ -228,7 +228,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/paqliacci">paqliacci</a>
             </td>
             <td align="center"></td>
-            <td>72</td>
+            <td>74</td>
             <td>24344</td>
         </tr>
         <tr>

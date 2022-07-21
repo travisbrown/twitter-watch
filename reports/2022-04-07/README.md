@@ -336,7 +336,7 @@ Found 59 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/anuratenebris">anuratenebris</a>
             </td>
             <td align="center"></td>
-            <td>42</td>
+            <td>41</td>
             <td>3969</td>
         </tr>
         <tr>
@@ -518,7 +518,7 @@ Found 59 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Punkey_Power">Punkey_Power</a>
             </td>
             <td align="center"></td>
-            <td>574</td>
+            <td>575</td>
             <td>28091</td>
         </tr>
         <tr>
@@ -531,7 +531,7 @@ Found 59 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ThinkAnQuestion">ThinkAnQuestion</a>
             </td>
             <td align="center"></td>
-            <td>4284</td>
+            <td>4272</td>
             <td>30025</td>
         </tr>
         <tr>
@@ -1861,7 +1861,7 @@ Found 806 suspensions for tracked accounts.
             <td>2016-06-16</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>1611</td>
+            <td>1612</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=903781206403063808">

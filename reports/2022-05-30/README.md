@@ -225,7 +225,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Gay___Fieri">Gay___Fieri</a>
             </td>
             <td align="center"></td>
-            <td>466</td>
+            <td>465</td>
             <td>1828</td>
         </tr>
         <tr>
@@ -317,7 +317,7 @@ Found 656 suspensions for tracked accounts.
             <td>2011-05-13</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>254863</td>
+            <td>255031</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1317273362083778561">
@@ -592,7 +592,7 @@ Found 656 suspensions for tracked accounts.
             <td>2020-06-01</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3870</td>
+            <td>3868</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1320446057692700673">

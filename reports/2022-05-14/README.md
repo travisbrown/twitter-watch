@@ -162,7 +162,7 @@ Found 17 suspensions for tracked accounts.
             <td>2021-01-31</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>496</td>
+            <td>495</td>
             <td>56545</td>
         </tr>
         <tr>
@@ -379,7 +379,7 @@ Found 58 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/evolianwigger">evolianwigger</a>
             </td>
             <td align="center"></td>
-            <td>73</td>
+            <td>74</td>
             <td>10364</td>
         </tr>
         <tr>
@@ -496,7 +496,7 @@ Found 58 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BuckleUpBrandon">BuckleUpBrandon</a>
             </td>
             <td align="center"></td>
-            <td>9961</td>
+            <td>9970</td>
             <td>20620</td>
         </tr>
         <tr>
@@ -808,7 +808,7 @@ Found 58 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RGK360">RGK360</a>
             </td>
             <td align="center"></td>
-            <td>1440</td>
+            <td>1443</td>
             <td>72438</td>
         </tr>
         <tr>
@@ -938,7 +938,7 @@ Found 58 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jeezwhocares">jeezwhocares</a>
             </td>
             <td align="center"></td>
-            <td>97</td>
+            <td>98</td>
             <td>90262</td>
         </tr>
         <tr>
@@ -1041,7 +1041,7 @@ Found 827 suspensions for tracked accounts.
             <td>2021-03-25</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>96480</td>
+            <td>96595</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1403210730531401729">

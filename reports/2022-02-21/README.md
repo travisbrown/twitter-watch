@@ -129,7 +129,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/goofy_asl">goofy_asl</a>
             </td>
             <td align="center"></td>
-            <td>485</td>
+            <td>487</td>
             <td>1967</td>
         </tr>
         <tr>
@@ -597,7 +597,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/realjackbauer1">realjackbauer1</a>
             </td>
             <td align="center"></td>
-            <td>1029</td>
+            <td>1030</td>
             <td>60486</td>
         </tr>
         <tr>
@@ -719,7 +719,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1299915846521741313">
-                <img src="https://pbs.twimg.com/profile_images/1548933672325095425/w4xiV-4K_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549513826147520512/XMNAeGUS_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/nftbuzz_eth">nftbuzz_eth</a>&nbsp;(<a href="https://memory.lol/tw/id/1299915846521741313">2 others</a>)&nbsp;</td>
@@ -727,7 +727,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/nftbuzz">nftbuzz</a>
             </td>
             <td align="center"></td>
-            <td>40579</td>
+            <td>40589</td>
             <td>78568</td>
         </tr>
         <tr>

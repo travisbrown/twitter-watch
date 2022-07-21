@@ -30,7 +30,7 @@ Found 38 suspensions for tracked accounts.
             <td>2011-06-06</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>929</td>
+            <td>930</td>
             <td>872</td>
         </tr>
         <tr>
@@ -696,7 +696,7 @@ Found 62 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Nikol_ovich">Nikol_ovich</a>
             </td>
             <td align="center"></td>
-            <td>2509</td>
+            <td>2506</td>
             <td>19393</td>
         </tr>
         <tr>
@@ -1378,7 +1378,7 @@ Found 638 suspensions for tracked accounts.
             <td>2018-06-06</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>19240</td>
+            <td>19346</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=492848754">
@@ -1609,7 +1609,7 @@ Found 638 suspensions for tracked accounts.
             <td>2014-08-15</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>2643</td>
+            <td>2644</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=731902987749199872">

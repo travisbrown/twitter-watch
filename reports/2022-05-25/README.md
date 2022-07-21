@@ -449,7 +449,7 @@ Found 49 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/OsoBlancoX">OsoBlancoX</a>
             </td>
             <td align="center"></td>
-            <td>252</td>
+            <td>253</td>
             <td>10142</td>
         </tr>
         <tr>
@@ -514,7 +514,7 @@ Found 49 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/pastaaenjoyer">pastaaenjoyer</a>
             </td>
             <td align="center"></td>
-            <td>140</td>
+            <td>141</td>
             <td>22511</td>
         </tr>
         <tr>
@@ -657,7 +657,7 @@ Found 49 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_tr93_">_tr93_</a>
             </td>
             <td align="center"></td>
-            <td>337</td>
+            <td>339</td>
             <td>35278</td>
         </tr>
         <tr>
@@ -787,7 +787,7 @@ Found 49 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/thesneedledrop">thesneedledrop</a>
             </td>
             <td align="center"></td>
-            <td>165</td>
+            <td>166</td>
             <td>67256</td>
         </tr>
         <tr>
@@ -1317,7 +1317,7 @@ Found 2220 suspensions for tracked accounts.
             <td>2012-12-18</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>9006</td>
+            <td>8974</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=385125273">
@@ -2076,7 +2076,7 @@ Found 2220 suspensions for tracked accounts.
             <td>2020-07-17</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>1774</td>
+            <td>1781</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2187166657">

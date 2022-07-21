@@ -1134,7 +1134,7 @@ Found 82 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/WeAreEngaged_">WeAreEngaged_</a>
             </td>
             <td align="center"></td>
-            <td>120574</td>
+            <td>120534</td>
             <td>22302</td>
         </tr>
         <tr>
@@ -1537,7 +1537,7 @@ Found 82 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MagaPace">MagaPace</a>
             </td>
             <td align="center"></td>
-            <td>4335</td>
+            <td>4345</td>
             <td>62916</td>
         </tr>
         <tr>
@@ -1693,7 +1693,7 @@ Found 82 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JasonJAnger">JasonJAnger</a>
             </td>
             <td align="center"></td>
-            <td>1957</td>
+            <td>1958</td>
             <td>80905</td>
         </tr>
         <tr>
@@ -1810,7 +1810,7 @@ Found 82 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/__________Shady">__________Shady</a>
             </td>
             <td align="center"></td>
-            <td>114</td>
+            <td>113</td>
             <td>86514</td>
         </tr>
         <tr>
@@ -2911,7 +2911,7 @@ Found 1085 suspensions for tracked accounts.
             <td>2017-05-27</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>2302</td>
+            <td>2342</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=54347668">

@@ -105,7 +105,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/CrimsonFrost_">CrimsonFrost_</a>
             </td>
             <td align="center"></td>
-            <td>668</td>
+            <td>671</td>
             <td>2027</td>
         </tr>
         <tr>
@@ -209,7 +209,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AshJWilliams99">AshJWilliams99</a>
             </td>
             <td align="center"></td>
-            <td>339</td>
+            <td>347</td>
             <td>8453</td>
         </tr>
         <tr>
@@ -733,7 +733,7 @@ Found 514 suspensions for tracked accounts.
             <td>2019-10-01</td>
             <td>2022-04-07</td>
             <td align="center"></td>
-            <td>3325</td>
+            <td>3321</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=382167725">
@@ -887,7 +887,7 @@ Found 514 suspensions for tracked accounts.
             <td>2012-07-12</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>1773</td>
+            <td>1779</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=831619833280212993">

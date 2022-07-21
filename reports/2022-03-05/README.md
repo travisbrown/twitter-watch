@@ -69,7 +69,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Spiro_Ghost">Spiro_Ghost</a>
             </td>
             <td align="center"></td>
-            <td>69995</td>
+            <td>70429</td>
             <td>162</td>
         </tr>
         <tr>
@@ -290,7 +290,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NuclearMauser">NuclearMauser</a>
             </td>
             <td align="center"></td>
-            <td>493</td>
+            <td>494</td>
             <td>27964</td>
         </tr>
         <tr>
@@ -732,7 +732,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SiIentAnarchy">SiIentAnarchy</a>
             </td>
             <td align="center"></td>
-            <td>595</td>
+            <td>596</td>
             <td>99334</td>
         </tr>
         <tr>

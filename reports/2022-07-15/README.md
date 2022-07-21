@@ -2618,17 +2618,6 @@ Found 2192 suspensions for tracked accounts.
             <td>1023</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=926414792977502208">
-                <img src="https://pbs.twimg.com/profile_images/1481673769148112896/E1JOU66e_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Igor3081966">Igor3081966</a></td>
-            <td>2017-11-03</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1019</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1213252203437101056">
                 <img src="https://pbs.twimg.com/profile_images/1310699045053173763/ViC-Sv_5_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2636,6 +2625,17 @@ Found 2192 suspensions for tracked accounts.
                 <a href="https://twitter.com/AzharJumaili">AzharJumaili</a></td>
             <td>2020-01-04</td>
             <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>1021</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=926414792977502208">
+                <img src="https://pbs.twimg.com/profile_images/1481673769148112896/E1JOU66e_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Igor3081966">Igor3081966</a></td>
+            <td>2017-11-03</td>
+            <td></td>
             <td align="center"></td>
             <td>1019</td>
         </tr></table>

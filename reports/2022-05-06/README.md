@@ -30,7 +30,7 @@ Found 46 suspensions for tracked accounts.
             <td>2011-12-19</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>104595</td>
+            <td>104591</td>
             <td>106</td>
         </tr>
         <tr>
@@ -597,7 +597,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/VrohamAppalach">VrohamAppalach</a>
             </td>
             <td align="center"></td>
-            <td>1598</td>
+            <td>1596</td>
             <td>1612</td>
         </tr>
         <tr>
@@ -636,7 +636,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ChurchBurner88">ChurchBurner88</a>
             </td>
             <td align="center"></td>
-            <td>454</td>
+            <td>453</td>
             <td>2348</td>
         </tr>
         <tr>
@@ -831,7 +831,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NathanTRiggins">NathanTRiggins</a>
             </td>
             <td align="center"></td>
-            <td>10</td>
+            <td>11</td>
             <td>26758</td>
         </tr>
         <tr>
@@ -909,7 +909,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/GeoffinAr">GeoffinAr</a>
             </td>
             <td align="center"></td>
-            <td>2159</td>
+            <td>2189</td>
             <td>39932</td>
         </tr>
         <tr>
@@ -948,7 +948,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Appalachian_Kid">Appalachian_Kid</a>
             </td>
             <td align="center"></td>
-            <td>3500</td>
+            <td>3504</td>
             <td>53032</td>
         </tr>
         <tr>
@@ -987,7 +987,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/emoforester">emoforester</a>
             </td>
             <td align="center"></td>
-            <td>42</td>
+            <td>43</td>
             <td>77034</td>
         </tr>
         <tr>
@@ -1268,7 +1268,7 @@ Found 1270 suspensions for tracked accounts.
             <td>2020-02-03</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>32481</td>
+            <td>33524</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1416882519937531910">
@@ -1422,7 +1422,7 @@ Found 1270 suspensions for tracked accounts.
             <td>2021-01-08</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>12144</td>
+            <td>12231</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1233042538946166785">
@@ -1686,7 +1686,7 @@ Found 1270 suspensions for tracked accounts.
             <td>2019-10-26</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>7065</td>
+            <td>7146</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=34288932">
@@ -1950,7 +1950,7 @@ Found 1270 suspensions for tracked accounts.
             <td>2012-05-18</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>3438</td>
+            <td>3434</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=854098730588483585">
@@ -2544,7 +2544,7 @@ Found 1270 suspensions for tracked accounts.
             <td>2021-10-04</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>1544</td>
+            <td>1546</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1293849975911260163">
@@ -2918,7 +2918,7 @@ Found 1270 suspensions for tracked accounts.
             <td>2020-05-17</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1043</td>
+            <td>1047</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=741584415684337664">

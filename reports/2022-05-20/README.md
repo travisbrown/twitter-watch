@@ -215,7 +215,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/8obThe8arker">8obThe8arker</a>
             </td>
             <td align="center"></td>
-            <td>208</td>
+            <td>207</td>
             <td>20867</td>
         </tr>
         <tr>
@@ -228,7 +228,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/HeyyPooMaq">HeyyPooMaq</a>
             </td>
             <td align="center"></td>
-            <td>59</td>
+            <td>58</td>
             <td>32418</td>
         </tr>
         <tr>
@@ -369,7 +369,7 @@ Found 748 suspensions for tracked accounts.
             <td>2011-08-07</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>12775</td>
+            <td>12780</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=728593861">
@@ -677,7 +677,7 @@ Found 748 suspensions for tracked accounts.
             <td>2012-12-29</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>2039</td>
+            <td>2036</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1550088428">

@@ -226,7 +226,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/hamsterbrah">hamsterbrah</a>
             </td>
             <td align="center"></td>
-            <td>91</td>
+            <td>92</td>
             <td>20623</td>
         </tr>
         <tr>
@@ -1096,7 +1096,7 @@ Found 1161 suspensions for tracked accounts.
             <td>2022-01-18</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1546</td>
+            <td>1545</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=884737627">

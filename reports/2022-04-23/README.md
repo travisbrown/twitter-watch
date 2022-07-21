@@ -30,7 +30,7 @@ Found 131 suspensions for tracked accounts.
             <td>2021-05-03</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>394760</td>
+            <td>395067</td>
             <td>34</td>
         </tr>
         <tr>
@@ -1630,7 +1630,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/kabobmitch">kabobmitch</a>
             </td>
             <td align="center"></td>
-            <td>340</td>
+            <td>338</td>
             <td>17267</td>
         </tr>
         <tr>
@@ -2813,7 +2813,7 @@ Found 1114 suspensions for tracked accounts.
             <td>2019-11-11</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>2315</td>
+            <td>2309</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1498772072692080644">
@@ -3187,7 +3187,7 @@ Found 1114 suspensions for tracked accounts.
             <td>2010-05-17</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1482</td>
+            <td>1480</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1421131101922332672">

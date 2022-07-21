@@ -30,7 +30,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-05-07</td>
             <td>2022-02-17</td>
             <td align="center"></td>
-            <td>782455</td>
+            <td>782618</td>
             <td>20</td>
         </tr>
         <tr>
@@ -129,7 +129,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/whitecollartrad">whitecollartrad</a>
             </td>
             <td align="center"></td>
-            <td>1653</td>
+            <td>1654</td>
             <td>1214</td>
         </tr>
         <tr>
@@ -389,7 +389,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DrBMcDH">DrBMcDH</a>
             </td>
             <td align="center"></td>
-            <td>83</td>
+            <td>84</td>
             <td>31641</td>
         </tr>
         <tr>
@@ -857,7 +857,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/cowboysuicide">cowboysuicide</a>
             </td>
             <td align="center"></td>
-            <td>575</td>
+            <td>573</td>
             <td>96719</td>
         </tr></table>
 

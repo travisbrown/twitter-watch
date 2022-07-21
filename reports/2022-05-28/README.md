@@ -54,7 +54,7 @@ Found 14 suspensions for tracked accounts.
             <td>2009-05-23</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>892</td>
+            <td>901</td>
             <td>1191</td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FungibleTokns">FungibleTokns</a>
             </td>
             <td align="center"></td>
-            <td>1183</td>
+            <td>1188</td>
             <td>14911</td>
         </tr>
         <tr>
@@ -717,7 +717,7 @@ Found 816 suspensions for tracked accounts.
             <td>2012-01-22</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4682</td>
+            <td>4681</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1154333410204291072">
@@ -816,7 +816,7 @@ Found 816 suspensions for tracked accounts.
             <td>2009-12-23</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>2837</td>
+            <td>2835</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=811609284085739520">

@@ -321,7 +321,7 @@ Found 66 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/LRH_Superfan">LRH_Superfan</a>
             </td>
             <td align="center"></td>
-            <td>26352</td>
+            <td>26358</td>
             <td>345</td>
         </tr>
         <tr>
@@ -893,7 +893,7 @@ Found 66 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/indic_chic">indic_chic</a>
             </td>
             <td align="center"></td>
-            <td>83</td>
+            <td>85</td>
             <td>68545</td>
         </tr>
         <tr>
@@ -1991,14 +1991,14 @@ Found 682 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=952971606191738881">
-                <img src="https://pbs.twimg.com/profile_images/1539987247155630081/kErQYVjz_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549166876718239746/7NDkGIbU_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/KristjanSarac">KristjanSarac</a></td>
             <td>2018-01-15</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>2137</td>
+            <td>2136</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1530334449593892864">

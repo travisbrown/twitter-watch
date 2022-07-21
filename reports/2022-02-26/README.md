@@ -105,7 +105,7 @@ Found 56 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/LeGreentext">LeGreentext</a>
             </td>
             <td align="center"></td>
-            <td>1767</td>
+            <td>1768</td>
             <td>1122</td>
         </tr>
         <tr>
@@ -378,7 +378,7 @@ Found 56 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/sagar__dubey">sagar__dubey</a>
             </td>
             <td align="center"></td>
-            <td>1889</td>
+            <td>1888</td>
             <td>36128</td>
         </tr>
         <tr>
@@ -904,7 +904,7 @@ Found 776 suspensions for tracked accounts.
             <td>2011-10-29</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>22950</td>
+            <td>23040</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1411916304647344129">
@@ -992,7 +992,7 @@ Found 776 suspensions for tracked accounts.
             <td>2021-05-05</td>
             <td>2022-02-28</td>
             <td align="center"></td>
-            <td>8612</td>
+            <td>8630</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=22779332">

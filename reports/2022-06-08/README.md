@@ -54,7 +54,7 @@ Found 61 suspensions for tracked accounts.
             <td>2020-01-29</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>12006</td>
+            <td>12357</td>
             <td>627</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ Found 61 suspensions for tracked accounts.
             <td>2021-10-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>999</td>
+            <td>1008</td>
             <td>2171</td>
         </tr>
         <tr>
@@ -294,7 +294,7 @@ Found 61 suspensions for tracked accounts.
             <td>2022-05-18</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>147</td>
+            <td>149</td>
             <td>5864</td>
         </tr>
         <tr>
@@ -803,7 +803,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Foxpoasting">Foxpoasting</a>
             </td>
             <td align="center"></td>
-            <td>86</td>
+            <td>85</td>
             <td>13291</td>
         </tr>
         <tr>
@@ -1135,7 +1135,7 @@ Found 713 suspensions for tracked accounts.
             <td>2020-03-04</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>10265</td>
+            <td>10258</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1222051880253231104">
@@ -1520,7 +1520,7 @@ Found 713 suspensions for tracked accounts.
             <td>2010-07-14</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>2312</td>
+            <td>2315</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1482002621821067266">

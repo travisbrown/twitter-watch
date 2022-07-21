@@ -258,7 +258,7 @@ Found 30 suspensions for tracked accounts.
             <td>2021-04-02</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>26778</td>
+            <td>26817</td>
             <td>46633</td>
         </tr>
         <tr>
@@ -808,12 +808,12 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JohnnyDoomsayer">JohnnyDoomsayer</a>
             </td>
             <td align="center"></td>
-            <td>196</td>
+            <td>197</td>
             <td>45546</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1476218582237433859">
-                <img src="https://pbs.twimg.com/profile_images/1545521307181252609/sGaattJt_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549641622916300800/PuD4xlap_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/almostlostbuzau">almostlostbuzau</a>&nbsp;(<a href="https://memory.lol/tw/id/1476218582237433859">6 others</a>)&nbsp;</td>
@@ -821,7 +821,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/alidlesseye">alidlesseye</a>
             </td>
             <td align="center"></td>
-            <td>195</td>
+            <td>198</td>
             <td>50748</td>
         </tr>
         <tr>
@@ -834,7 +834,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/andrownicus">andrownicus</a>
             </td>
             <td align="center"></td>
-            <td>236</td>
+            <td>237</td>
             <td>52302</td>
         </tr>
         <tr>
@@ -912,7 +912,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/coinbaseone">coinbaseone</a>
             </td>
             <td align="center"></td>
-            <td>2972</td>
+            <td>2974</td>
             <td>62125</td>
         </tr>
         <tr>

@@ -126,7 +126,7 @@ Found 50 suspensions for tracked accounts.
             <td>2014-09-10</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>17385</td>
+            <td>17437</td>
             <td>4896</td>
         </tr>
         <tr>
@@ -697,7 +697,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/zeldazonk130">zeldazonk130</a>
             </td>
             <td align="center"></td>
-            <td>254</td>
+            <td>280</td>
             <td>2610</td>
         </tr>
         <tr>
@@ -1249,7 +1249,7 @@ Found 1493 suspensions for tracked accounts.
             <td>2020-12-06</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>19216</td>
+            <td>19296</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2190273049">
@@ -1601,7 +1601,7 @@ Found 1493 suspensions for tracked accounts.
             <td>2020-08-23</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>6386</td>
+            <td>6442</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2730818361">

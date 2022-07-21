@@ -30,7 +30,7 @@ Found 33 suspensions for tracked accounts.
             <td>2021-05-14</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>77276</td>
+            <td>77314</td>
             <td>155</td>
         </tr>
         <tr>
@@ -42,7 +42,7 @@ Found 33 suspensions for tracked accounts.
             <td>2021-09-18</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>8015</td>
+            <td>8006</td>
             <td>697</td>
         </tr>
         <tr>
@@ -441,7 +441,7 @@ Found 48 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/fdesertwanderer">fdesertwanderer</a>
             </td>
             <td align="center"></td>
-            <td>1082</td>
+            <td>1083</td>
             <td>5113</td>
         </tr>
         <tr>
@@ -571,7 +571,7 @@ Found 48 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/gunsmithgroyper">gunsmithgroyper</a>
             </td>
             <td align="center"></td>
-            <td>24</td>
+            <td>23</td>
             <td>12297</td>
         </tr>
         <tr>
@@ -701,7 +701,7 @@ Found 48 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Neolncel">Neolncel</a>
             </td>
             <td align="center"></td>
-            <td>259</td>
+            <td>256</td>
             <td>34786</td>
         </tr>
         <tr>
@@ -1158,7 +1158,7 @@ Found 951 suspensions for tracked accounts.
             <td>2012-07-25</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>27634</td>
+            <td>27639</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=297540702">
@@ -1180,7 +1180,7 @@ Found 951 suspensions for tracked accounts.
             <td>2009-04-27</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>23552</td>
+            <td>23595</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1305446390">
@@ -1469,6 +1469,17 @@ Found 951 suspensions for tracked accounts.
             <td>2561</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1416054688949145600">
+                <img src="https://pbs.twimg.com/profile_images/1548720663510261767/6rbglMrX_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BensonMathe">BensonMathe</a>&nbsp;(<a href="https://memory.lol/tw/id/1416054688949145600">2 others</a>)&nbsp;</td>
+            <td>2021-07-16</td>
+            <td>2022-06-05</td>
+            <td align="center"></td>
+            <td>2432</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1296472805702348801">
                 <img src="https://pbs.twimg.com/profile_images/1507531751891083267/IemA4OAi_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1478,17 +1489,6 @@ Found 951 suspensions for tracked accounts.
             <td>2022-06-27</td>
             <td align="center"></td>
             <td>2424</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1416054688949145600">
-                <img src="https://pbs.twimg.com/profile_images/1548720663510261767/6rbglMrX_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/BensonMathe">BensonMathe</a>&nbsp;(<a href="https://memory.lol/tw/id/1416054688949145600">2 others</a>)&nbsp;</td>
-            <td>2021-07-16</td>
-            <td>2022-06-05</td>
-            <td align="center"></td>
-            <td>2411</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1504486099254583299">

@@ -250,7 +250,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jesuislecanada">jesuislecanada</a>
             </td>
             <td align="center"></td>
-            <td>636</td>
+            <td>634</td>
             <td>22114</td>
         </tr>
         <tr>
@@ -923,7 +923,7 @@ Found 267 suspensions for tracked accounts.
             <td>2021-04-26</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>3445</td>
+            <td>3443</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=917543171890077696">

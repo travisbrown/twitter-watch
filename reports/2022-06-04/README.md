@@ -894,7 +894,7 @@ Found 29 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/LexCon75">LexCon75</a>
             </td>
             <td align="center"></td>
-            <td>2155</td>
+            <td>2151</td>
             <td>22207</td>
         </tr>
         <tr>
@@ -1037,7 +1037,7 @@ Found 29 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/45johnM">45johnM</a>
             </td>
             <td align="center"></td>
-            <td>1874</td>
+            <td>1876</td>
             <td>59130</td>
         </tr>
         <tr>
@@ -1313,7 +1313,7 @@ Found 978 suspensions for tracked accounts.
             <td>2021-04-03</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>14427</td>
+            <td>14384</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495769902854062084">
@@ -1434,7 +1434,7 @@ Found 978 suspensions for tracked accounts.
             <td>2017-06-28</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>7421</td>
+            <td>7448</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1210993208219488257">

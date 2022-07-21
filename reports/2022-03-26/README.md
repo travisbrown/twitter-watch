@@ -264,7 +264,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JohnJtheSane">JohnJtheSane</a>
             </td>
             <td align="center"></td>
-            <td>1045</td>
+            <td>1044</td>
             <td>1901</td>
         </tr>
         <tr>
@@ -615,7 +615,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/origirior">origirior</a>
             </td>
             <td align="center"></td>
-            <td>61</td>
+            <td>60</td>
             <td>78083</td>
         </tr>
         <tr>
@@ -771,7 +771,7 @@ Found 750 suspensions for tracked accounts.
             <td>2021-09-22</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>32141</td>
+            <td>32137</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1211998564353638402">
@@ -1005,6 +1005,17 @@ Found 750 suspensions for tracked accounts.
             <td>5224</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=472056704">
+                <img src="https://pbs.twimg.com/profile_images/1528056973333241856/h5Qw0Bs3_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/adilnawazpti">adilnawazpti</a></td>
+            <td>2012-01-23</td>
+            <td>2022-04-07</td>
+            <td align="center"></td>
+            <td>5173</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=23101366">
                 <img src="https://pbs.twimg.com/profile_images/982800481108963329/mwyBiSHh_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1014,17 +1025,6 @@ Found 750 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>5079</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=472056704">
-                <img src="https://pbs.twimg.com/profile_images/1528056973333241856/h5Qw0Bs3_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/adilnawazpti">adilnawazpti</a></td>
-            <td>2012-01-23</td>
-            <td>2022-04-07</td>
-            <td align="center"></td>
-            <td>4949</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1357302065337413636">
@@ -1046,7 +1046,7 @@ Found 750 suspensions for tracked accounts.
             <td>2014-02-03</td>
             <td>2022-03-27</td>
             <td align="center"></td>
-            <td>4623</td>
+            <td>4617</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1380622241092808708">
@@ -1354,7 +1354,7 @@ Found 750 suspensions for tracked accounts.
             <td>2021-10-05</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>1969</td>
+            <td>1966</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1143313065980628992">
@@ -1442,7 +1442,7 @@ Found 750 suspensions for tracked accounts.
             <td>2021-12-15</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>1689</td>
+            <td>1691</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=14348458">

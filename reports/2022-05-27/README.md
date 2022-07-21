@@ -309,7 +309,7 @@ Found 47 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Marcus_cel">Marcus_cel</a>
             </td>
             <td align="center"></td>
-            <td>10720</td>
+            <td>10735</td>
             <td>534</td>
         </tr>
         <tr>
@@ -504,7 +504,7 @@ Found 47 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/addytheyoung">addytheyoung</a>
             </td>
             <td align="center"></td>
-            <td>628</td>
+            <td>630</td>
             <td>30215</td>
         </tr>
         <tr>
@@ -1013,7 +1013,7 @@ Found 763 suspensions for tracked accounts.
             <td>2013-10-21</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>61874</td>
+            <td>61959</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2350724678">
@@ -1321,7 +1321,7 @@ Found 763 suspensions for tracked accounts.
             <td>2021-03-14</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3443</td>
+            <td>3512</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=889794661879099393">
@@ -1343,7 +1343,7 @@ Found 763 suspensions for tracked accounts.
             <td>2016-11-01</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>3305</td>
+            <td>3296</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=45560547">
@@ -1574,7 +1574,7 @@ Found 763 suspensions for tracked accounts.
             <td>2021-10-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1597</td>
+            <td>1599</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1329428054532370434">
@@ -1728,7 +1728,7 @@ Found 763 suspensions for tracked accounts.
             <td>2017-01-12</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>1270</td>
+            <td>1267</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=989207813531488256">

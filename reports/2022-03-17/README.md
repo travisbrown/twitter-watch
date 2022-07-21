@@ -249,7 +249,7 @@ Found 60 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/divinetrickr">divinetrickr</a>
             </td>
             <td align="center"></td>
-            <td>779</td>
+            <td>784</td>
             <td>1229</td>
         </tr>
         <tr>
@@ -639,7 +639,7 @@ Found 60 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PaulaMaeW">PaulaMaeW</a>
             </td>
             <td align="center"></td>
-            <td>2677</td>
+            <td>2678</td>
             <td>41943</td>
         </tr>
         <tr>
@@ -1045,7 +1045,7 @@ Found 698 suspensions for tracked accounts.
             <td>2009-04-15</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>31614</td>
+            <td>31604</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2985922395">

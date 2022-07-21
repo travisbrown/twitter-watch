@@ -32,16 +32,16 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 139035
-* Total number of suspension reversals detected: 4588
-* Mean number of followers for suspended accounts: 1628.07
+* Total number of suspensions detected: 140478
+* Total number of suspension reversals detected: 4589
+* Mean number of followers for suspended accounts: 1691.54
 * Median number of followers for suspended accounts: 53
-* Mean age of suspended accounts (days): 948.13
+* Mean age of suspended accounts (days): 948.52
 * Median age of suspended accounts (days): 254
 * Total number of verified accounts suspended: 88
-* Total number of protected accounts suspended: 7220
+* Total number of protected accounts suspended: 7285
 * Total number of suspensions for accounts previously withheld in specific countries: 9
-* Total number of screen name changes detected: 279923
+* Total number of screen name changes detected: 283816
 
 
 
@@ -224,6 +224,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>260</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1491461480734146566">
+                <img src="https://pbs.twimg.com/profile_images/1518593240844451840/Evu8n1BT_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FACTSRTRUTH777">FACTSRTRUTH777</a></td>
+            <td>2022-02-09</td>
+            <td>2022-07-21</td>
+            <td>38018</td>
+            <td>262</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1263061223341506560">
                 <img src="https://pbs.twimg.com/profile_images/1319698929248862209/gFPGWxjV_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -266,17 +277,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-04-04</td>
             <td>43511</td>
             <td>282</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=23292743">
-                <img src="https://pbs.twimg.com/profile_images/1515332535202775042/MVbmcbAd_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/aimeeterese">aimeeterese</a></td>
-            <td>2009-03-08</td>
-            <td>2022-04-29</td>
-            <td>32190</td>
-            <td>305</td>
         </tr></table>
 
 ## Daily reports
@@ -290,11 +290,19 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2022-07-21/">21 July 2022</a>
+            </td>
+            <td>1179</td>
+            <td>43</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2022-07-20/">20 July 2022</a>
             </td>
-            <td>1070</td>
+            <td>1384</td>
             <td>27</td>
-            <td>21</td>
+            <td>24</td>
         </tr>
         <tr>
             <td>

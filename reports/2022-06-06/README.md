@@ -645,7 +645,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/EldianLifter">EldianLifter</a>
             </td>
             <td align="center"></td>
-            <td>1310</td>
+            <td>1312</td>
             <td>1484</td>
         </tr>
         <tr>

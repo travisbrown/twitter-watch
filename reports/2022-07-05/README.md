@@ -54,7 +54,7 @@ Found 39 suspensions for tracked accounts.
             <td>2020-06-09</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>491</td>
+            <td>492</td>
             <td>1990</td>
         </tr>
         <tr>
@@ -695,7 +695,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DFDVBYA">DFDVBYA</a>
             </td>
             <td align="center"></td>
-            <td>889</td>
+            <td>887</td>
             <td>56594</td>
         </tr>
         <tr>
@@ -799,7 +799,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/cpfoot22">cpfoot22</a>
             </td>
             <td align="center"></td>
-            <td>2656</td>
+            <td>2655</td>
             <td>83152</td>
         </tr>
         <tr>

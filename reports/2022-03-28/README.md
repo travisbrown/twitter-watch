@@ -154,7 +154,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Serena_Partrick">Serena_Partrick</a>
             </td>
             <td align="center"></td>
-            <td>6470</td>
+            <td>6536</td>
             <td>662</td>
         </tr>
         <tr>
@@ -851,7 +851,7 @@ Found 519 suspensions for tracked accounts.
             <td>2008-07-23</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3685</td>
+            <td>3681</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2413089888">
@@ -972,7 +972,7 @@ Found 519 suspensions for tracked accounts.
             <td>2009-06-27</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>2415</td>
+            <td>2422</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3293407354">

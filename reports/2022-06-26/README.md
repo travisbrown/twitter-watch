@@ -385,7 +385,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
     </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1373468746745065473">
-                <img src="https://pbs.twimg.com/profile_images/1548754144638472198/3_dZCaXh_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549033371052933121/ihy7R9fc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/WinterSunnyArc">WinterSunnyArc</a>&nbsp;(<a href="https://memory.lol/tw/id/1373468746745065473">48 others</a>)&nbsp;</td>
@@ -393,7 +393,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SunnyWinterzArc">SunnyWinterzArc</a>
             </td>
             <td align="center"></td>
-            <td>973</td>
+            <td>969</td>
             <td>1796</td>
         </tr>
         <tr>
@@ -510,7 +510,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/amapyceI">amapyceI</a>
             </td>
             <td align="center"></td>
-            <td>281</td>
+            <td>279</td>
             <td>33611</td>
         </tr>
         <tr>
@@ -666,7 +666,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/terfbabynothing">terfbabynothing</a>
             </td>
             <td align="center"></td>
-            <td>1401</td>
+            <td>1408</td>
             <td>96716</td>
         </tr></table>
 
@@ -981,7 +981,7 @@ Found 1337 suspensions for tracked accounts.
             <td>2015-02-05</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>6682</td>
+            <td>6686</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1251088750035136513">

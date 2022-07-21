@@ -591,7 +591,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/hunterscrackho">hunterscrackho</a>
             </td>
             <td align="center"></td>
-            <td>1372</td>
+            <td>1371</td>
             <td>81460</td>
         </tr>
         <tr>
@@ -755,7 +755,7 @@ Found 882 suspensions for tracked accounts.
             <td>2015-11-25</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>57736</td>
+            <td>57754</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1278340594998431746">
@@ -1151,7 +1151,7 @@ Found 882 suspensions for tracked accounts.
             <td>2011-02-11</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>3682</td>
+            <td>3710</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2279790467">

@@ -126,7 +126,7 @@ Found 21 suspensions for tracked accounts.
             <td>2021-07-21</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>50</td>
+            <td>51</td>
             <td>9062</td>
         </tr>
         <tr>
@@ -297,7 +297,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NotTopLobsta">NotTopLobsta</a>
             </td>
             <td align="center"></td>
-            <td>954</td>
+            <td>955</td>
             <td>2156</td>
         </tr>
         <tr>
@@ -323,7 +323,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/gothgirlfetish">gothgirlfetish</a>
             </td>
             <td align="center"></td>
-            <td>294</td>
+            <td>293</td>
             <td>2522</td>
         </tr>
         <tr>
@@ -349,7 +349,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/aoxMairoSenegal">aoxMairoSenegal</a>
             </td>
             <td align="center"></td>
-            <td>185295</td>
+            <td>185283</td>
             <td>8232</td>
         </tr>
         <tr>
@@ -1623,7 +1623,7 @@ Found 513 suspensions for tracked accounts.
             <td>2016-04-01</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>1188</td>
+            <td>1184</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1360364271918538752">

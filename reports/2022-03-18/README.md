@@ -295,7 +295,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/meghaverma_art">meghaverma_art</a>
             </td>
             <td align="center"></td>
-            <td>44755</td>
+            <td>44759</td>
             <td>3487</td>
         </tr>
         <tr>
@@ -976,7 +976,7 @@ Found 459 suspensions for tracked accounts.
             <td>2017-05-10</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>5939</td>
+            <td>5954</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=715432777429217280">

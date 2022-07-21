@@ -395,7 +395,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ChikaSupremacy">ChikaSupremacy</a>
             </td>
             <td align="center"></td>
-            <td>204</td>
+            <td>206</td>
             <td>47026</td>
         </tr>
         <tr>
@@ -408,7 +408,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SunTsar">SunTsar</a>
             </td>
             <td align="center"></td>
-            <td>5</td>
+            <td>6</td>
             <td>72685</td>
         </tr>
         <tr>
@@ -1110,7 +1110,7 @@ Found 1476 suspensions for tracked accounts.
             <td>2021-06-30</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>2211</td>
+            <td>2176</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=45515543">
@@ -1432,6 +1432,17 @@ Found 1476 suspensions for tracked accounts.
             <td>1470</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1162660747626909696">
+                <img src="https://pbs.twimg.com/profile_images/1162661583564279809/sHGx9R70_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/sharpe_le">sharpe_le</a></td>
+            <td>2019-08-17</td>
+            <td>2022-07-04</td>
+            <td align="center"></td>
+            <td>1443</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1511867630684094465">
                 <img src="https://pbs.twimg.com/profile_images/1511869763659735052/024h4-K4_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1450,17 +1461,6 @@ Found 1476 suspensions for tracked accounts.
                 <a href="https://twitter.com/TopCityZ72">TopCityZ72</a>&nbsp;(<a href="https://memory.lol/tw/id/26546773">1 other</a>)&nbsp;</td>
             <td>2009-03-25</td>
             <td></td>
-            <td align="center"></td>
-            <td>1429</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1162660747626909696">
-                <img src="https://pbs.twimg.com/profile_images/1162661583564279809/sHGx9R70_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/sharpe_le">sharpe_le</a></td>
-            <td>2019-08-17</td>
-            <td>2022-07-04</td>
             <td align="center"></td>
             <td>1429</td>
         </tr>

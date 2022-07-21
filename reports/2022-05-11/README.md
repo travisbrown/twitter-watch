@@ -580,7 +580,7 @@ Found 78 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/twtomwilson">twtomwilson</a>
             </td>
             <td align="center"></td>
-            <td>2434</td>
+            <td>2436</td>
             <td>36778</td>
         </tr>
         <tr>
@@ -710,7 +710,7 @@ Found 78 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Ezra4Liberty">Ezra4Liberty</a>
             </td>
             <td align="center"></td>
-            <td>4143</td>
+            <td>4146</td>
             <td>53235</td>
         </tr>
         <tr>
@@ -944,7 +944,7 @@ Found 78 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ES0_Wealth">ES0_Wealth</a>
             </td>
             <td align="center"></td>
-            <td>423</td>
+            <td>424</td>
             <td>71692</td>
         </tr>
         <tr>
@@ -983,7 +983,7 @@ Found 78 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MarekWojownik">MarekWojownik</a>
             </td>
             <td align="center"></td>
-            <td>27</td>
+            <td>26</td>
             <td>81049</td>
         </tr>
         <tr>
@@ -1438,7 +1438,7 @@ Found 530 suspensions for tracked accounts.
             <td>2018-11-06</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>6073</td>
+            <td>6058</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=51728924">
@@ -1911,7 +1911,7 @@ Found 530 suspensions for tracked accounts.
             <td>2016-03-20</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>1667</td>
+            <td>1676</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1336635600468733954">
@@ -2013,17 +2013,6 @@ Found 530 suspensions for tracked accounts.
             <td>1444</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1358706156210966529">
-                <img src="https://pbs.twimg.com/profile_images/1496412484487598082/CjMq4_4U_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AVFCAL79">AVFCAL79</a></td>
-            <td>2021-02-08</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>1426</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4141511834">
                 <img src="https://pbs.twimg.com/profile_images/1146583879660101633/xtCTp-0u_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2033,6 +2022,17 @@ Found 530 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1422</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1358706156210966529">
+                <img src="https://pbs.twimg.com/profile_images/1496412484487598082/CjMq4_4U_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AVFCAL79">AVFCAL79</a></td>
+            <td>2021-02-08</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>1421</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1462577822308909062">

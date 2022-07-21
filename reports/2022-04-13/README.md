@@ -30,7 +30,7 @@ Found 22 suspensions for tracked accounts.
             <td>2020-11-13</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>175330</td>
+            <td>175471</td>
             <td>64</td>
         </tr>
         <tr>
@@ -480,7 +480,7 @@ Found 621 suspensions for tracked accounts.
             <td>2020-02-21</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>127765</td>
+            <td>129411</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2408685091">
@@ -667,7 +667,7 @@ Found 621 suspensions for tracked accounts.
             <td>2021-08-28</td>
             <td>2022-04-17</td>
             <td align="center"></td>
-            <td>7599</td>
+            <td>7669</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=897878974470213632">
@@ -755,7 +755,7 @@ Found 621 suspensions for tracked accounts.
             <td>2019-08-18</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>4508</td>
+            <td>4509</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1340294224726683648">
@@ -1231,17 +1231,6 @@ Found 621 suspensions for tracked accounts.
             <td>1501</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1449669615676792833">
-                <img src="https://pbs.twimg.com/profile_images/1488182178487930883/MNigKuWP_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Judith_cohen_18">Judith_cohen_18</a></td>
-            <td>2021-10-17</td>
-            <td>2022-05-19</td>
-            <td align="center"></td>
-            <td>1477</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=931507293283332096">
                 <img src="https://pbs.twimg.com/profile_images/1546570552156082177/j_Df6jwv_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1262,6 +1251,17 @@ Found 621 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1469</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1449669615676792833">
+                <img src="https://pbs.twimg.com/profile_images/1488182178487930883/MNigKuWP_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Judith_cohen_18">Judith_cohen_18</a></td>
+            <td>2021-10-17</td>
+            <td>2022-05-19</td>
+            <td align="center"></td>
+            <td>1456</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1594863686">

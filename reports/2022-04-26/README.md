@@ -330,7 +330,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bigspliff_eth">bigspliff_eth</a>
             </td>
             <td align="center"></td>
-            <td>2095</td>
+            <td>2097</td>
             <td>65997</td>
         </tr>
         <tr>
@@ -356,7 +356,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/samplestweets">samplestweets</a>
             </td>
             <td align="center"></td>
-            <td>853</td>
+            <td>856</td>
             <td>76293</td>
         </tr>
         <tr>
@@ -1168,7 +1168,7 @@ Found 399 suspensions for tracked accounts.
             <td>2010-10-04</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>1105</td>
+            <td>1109</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1284923204">

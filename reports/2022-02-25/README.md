@@ -141,7 +141,7 @@ Found 37 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/asparagoid">asparagoid</a>
             </td>
             <td align="center"></td>
-            <td>11467</td>
+            <td>11478</td>
             <td>449</td>
         </tr>
         <tr>
@@ -206,7 +206,7 @@ Found 37 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Tocharus">Tocharus</a>
             </td>
             <td align="center"></td>
-            <td>8195</td>
+            <td>8202</td>
             <td>4110</td>
         </tr>
         <tr>

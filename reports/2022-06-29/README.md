@@ -138,7 +138,7 @@ Found 35 suspensions for tracked accounts.
             <td>2015-01-19</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>318161</td>
+            <td>318154</td>
             <td>10746</td>
         </tr>
         <tr>
@@ -478,7 +478,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/StupidTomoko">StupidTomoko</a>
             </td>
             <td align="center"></td>
-            <td>255</td>
+            <td>261</td>
             <td>2910</td>
         </tr>
         <tr>
@@ -568,7 +568,7 @@ Found 1679 suspensions for tracked accounts.
             <td>2016-01-22</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>152023</td>
+            <td>151903</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=896528609237770240">
@@ -964,7 +964,7 @@ Found 1679 suspensions for tracked accounts.
             <td>2015-06-15</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>4835</td>
+            <td>4851</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=69561379">
@@ -1228,7 +1228,7 @@ Found 1679 suspensions for tracked accounts.
             <td>2021-09-01</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>2375</td>
+            <td>2385</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1421832423734644742">

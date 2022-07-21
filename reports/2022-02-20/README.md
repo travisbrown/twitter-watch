@@ -133,7 +133,7 @@ Found 77 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/byoanarchy">byoanarchy</a>
             </td>
             <td align="center"></td>
-            <td>420</td>
+            <td>419</td>
             <td>2277</td>
         </tr>
         <tr>
@@ -146,7 +146,7 @@ Found 77 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/albizsowulo">albizsowulo</a>
             </td>
             <td align="center"></td>
-            <td>619</td>
+            <td>617</td>
             <td>2305</td>
         </tr>
         <tr>
@@ -809,7 +809,7 @@ Found 77 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/KikiAnne55">KikiAnne55</a>
             </td>
             <td align="center"></td>
-            <td>1135</td>
+            <td>1134</td>
             <td>74740</td>
         </tr>
         <tr>

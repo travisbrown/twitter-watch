@@ -420,7 +420,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/classiflied77">classiflied77</a>
             </td>
             <td align="center"></td>
-            <td>1081</td>
+            <td>1084</td>
             <td>1790</td>
         </tr>
         <tr>
@@ -511,7 +511,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RolandGunnTN">RolandGunnTN</a>
             </td>
             <td align="center"></td>
-            <td>3517</td>
+            <td>3522</td>
             <td>4892</td>
         </tr>
         <tr>
@@ -966,7 +966,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/anerkainos">anerkainos</a>
             </td>
             <td align="center"></td>
-            <td>356</td>
+            <td>354</td>
             <td>44652</td>
         </tr>
         <tr>
@@ -1057,7 +1057,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/copper_cat5">copper_cat5</a>
             </td>
             <td align="center"></td>
-            <td>1848</td>
+            <td>1847</td>
             <td>72796</td>
         </tr>
         <tr>
@@ -1200,7 +1200,7 @@ Found 64 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TwistedFakecel">TwistedFakecel</a>
             </td>
             <td align="center"></td>
-            <td>437</td>
+            <td>435</td>
             <td>99362</td>
         </tr></table>
 
@@ -1790,7 +1790,7 @@ Found 844 suspensions for tracked accounts.
             <td>2009-11-30</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>2243</td>
+            <td>2253</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1421544834297368578">
@@ -2054,7 +2054,7 @@ Found 844 suspensions for tracked accounts.
             <td>2020-02-27</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1318</td>
+            <td>1319</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1428523932731289605">

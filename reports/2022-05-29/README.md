@@ -310,7 +310,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FrontierPunishd">FrontierPunishd</a>
             </td>
             <td align="center"></td>
-            <td>677</td>
+            <td>679</td>
             <td>2460</td>
         </tr>
         <tr>
@@ -479,7 +479,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/The_OG_Doge">The_OG_Doge</a>
             </td>
             <td align="center"></td>
-            <td>782</td>
+            <td>780</td>
             <td>16806</td>
         </tr>
         <tr>
@@ -648,7 +648,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AngelosAmerica">AngelosAmerica</a>
             </td>
             <td align="center"></td>
-            <td>3503</td>
+            <td>3510</td>
             <td>33388</td>
         </tr>
         <tr>
@@ -830,7 +830,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheBigDoink_">TheBigDoink_</a>
             </td>
             <td align="center"></td>
-            <td>2056</td>
+            <td>2058</td>
             <td>56385</td>
         </tr>
         <tr>
@@ -1541,7 +1541,7 @@ Found 693 suspensions for tracked accounts.
             <td>2019-12-03</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>5069</td>
+            <td>5084</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1156559522">

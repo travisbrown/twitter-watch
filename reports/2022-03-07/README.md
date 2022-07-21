@@ -177,7 +177,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheAntiWokeProf">TheAntiWokeProf</a>
             </td>
             <td align="center"></td>
-            <td>17354</td>
+            <td>17357</td>
             <td>432</td>
         </tr>
         <tr>
@@ -229,7 +229,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/racistpimp">racistpimp</a>
             </td>
             <td align="center"></td>
-            <td>132</td>
+            <td>131</td>
             <td>2977</td>
         </tr>
         <tr>
@@ -398,7 +398,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jmoney747">jmoney747</a>
             </td>
             <td align="center"></td>
-            <td>77</td>
+            <td>78</td>
             <td>38102</td>
         </tr>
         <tr>
@@ -450,7 +450,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_Ryan_Griggs">_Ryan_Griggs</a>
             </td>
             <td align="center"></td>
-            <td>1090</td>
+            <td>1088</td>
             <td>45940</td>
         </tr>
         <tr>
@@ -749,7 +749,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AppalachiaOne">AppalachiaOne</a>
             </td>
             <td align="center"></td>
-            <td>2895</td>
+            <td>2899</td>
             <td>78887</td>
         </tr>
         <tr>
@@ -1197,7 +1197,7 @@ Found 605 suspensions for tracked accounts.
             <td>2015-05-19</td>
             <td>2022-03-11</td>
             <td align="center"></td>
-            <td>3517</td>
+            <td>3515</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1152242892385267713">

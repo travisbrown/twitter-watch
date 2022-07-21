@@ -153,7 +153,7 @@ Found 59 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Quantum_Declas">Quantum_Declas</a>
             </td>
             <td align="center"></td>
-            <td>10249</td>
+            <td>10253</td>
             <td>568</td>
         </tr>
         <tr>
@@ -166,7 +166,7 @@ Found 59 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MalesOfReddit">MalesOfReddit</a>
             </td>
             <td align="center"></td>
-            <td>12006</td>
+            <td>12357</td>
             <td>627</td>
         </tr>
         <tr>
@@ -179,7 +179,7 @@ Found 59 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PalatinePuritan">PalatinePuritan</a>
             </td>
             <td align="center"></td>
-            <td>4106</td>
+            <td>4101</td>
             <td>1017</td>
         </tr>
         <tr>
@@ -1288,7 +1288,7 @@ Found 485 suspensions for tracked accounts.
             <td>2013-10-20</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1586</td>
+            <td>1584</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1494273467633520640">

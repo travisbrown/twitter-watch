@@ -129,7 +129,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/D_503v1">D_503v1</a>
             </td>
             <td align="center"></td>
-            <td>92</td>
+            <td>93</td>
             <td>1143</td>
         </tr>
         <tr>
@@ -467,7 +467,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/47angb">47angb</a>
             </td>
             <td align="center"></td>
-            <td>43883</td>
+            <td>43989</td>
             <td>43724</td>
         </tr>
         <tr>
@@ -532,7 +532,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/lordkelvin1st">lordkelvin1st</a>
             </td>
             <td align="center"></td>
-            <td>522</td>
+            <td>527</td>
             <td>47464</td>
         </tr>
         <tr>
@@ -779,7 +779,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/llandoniffirg">llandoniffirg</a>
             </td>
             <td align="center"></td>
-            <td>9750</td>
+            <td>9786</td>
             <td>82703</td>
         </tr>
         <tr>
@@ -908,7 +908,7 @@ Found 327 suspensions for tracked accounts.
             <td>2019-02-19</td>
             <td>2022-02-25</td>
             <td align="center"></td>
-            <td>61671</td>
+            <td>61695</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1487653119106646017">
@@ -1051,7 +1051,7 @@ Found 327 suspensions for tracked accounts.
             <td>2020-05-12</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>3419</td>
+            <td>3415</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1352828197960704000">

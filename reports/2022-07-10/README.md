@@ -42,7 +42,7 @@ Found 17 suspensions for tracked accounts.
             <td>2019-12-31</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>8371</td>
+            <td>8384</td>
             <td>686</td>
         </tr>
         <tr>
@@ -483,7 +483,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/christgnosis">christgnosis</a>
             </td>
             <td align="center"></td>
-            <td>1341</td>
+            <td>1344</td>
             <td>39043</td>
         </tr>
         <tr>
@@ -743,7 +743,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RedDragonRun">RedDragonRun</a>
             </td>
             <td align="center"></td>
-            <td>315</td>
+            <td>320</td>
             <td>80654</td>
         </tr>
         <tr>
@@ -761,7 +761,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1455381241738498059">
-                <img src="https://pbs.twimg.com/profile_images/1548805776030011396/oe94FuyW_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549952206501208064/NR4Hboq__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/stranoia_luvbug">stranoia_luvbug</a>&nbsp;(<a href="https://memory.lol/tw/id/1455381241738498059">3 others</a>)&nbsp;</td>
@@ -1126,7 +1126,7 @@ Found 407 suspensions for tracked accounts.
             <td>2022-03-03</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>3841</td>
+            <td>3890</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1311476083577909249">

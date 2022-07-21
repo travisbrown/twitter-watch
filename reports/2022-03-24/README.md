@@ -30,7 +30,7 @@ Found 15 suspensions for tracked accounts.
             <td>2021-07-08</td>
             <td>2022-03-29</td>
             <td align="center"></td>
-            <td>1603</td>
+            <td>1610</td>
             <td>1571</td>
         </tr>
         <tr>
@@ -316,7 +316,7 @@ Found 45 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Christo_Fresh">Christo_Fresh</a>
             </td>
             <td align="center"></td>
-            <td>101</td>
+            <td>100</td>
             <td>4535</td>
         </tr>
         <tr>
@@ -355,7 +355,7 @@ Found 45 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/trashyComanche9">trashyComanche9</a>
             </td>
             <td align="center"></td>
-            <td>243</td>
+            <td>242</td>
             <td>9946</td>
         </tr>
         <tr>
@@ -420,7 +420,7 @@ Found 45 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FloridaThales">FloridaThales</a>
             </td>
             <td align="center"></td>
-            <td>1845</td>
+            <td>1844</td>
             <td>19878</td>
         </tr>
         <tr>
@@ -537,7 +537,7 @@ Found 45 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/maasais_theil">maasais_theil</a>
             </td>
             <td align="center"></td>
-            <td>635</td>
+            <td>637</td>
             <td>43663</td>
         </tr>
         <tr>
@@ -1277,7 +1277,7 @@ Found 833 suspensions for tracked accounts.
             <td>2021-12-14</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>2500</td>
+            <td>2503</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1293634823450431488">
@@ -1860,5 +1860,5 @@ Found 833 suspensions for tracked accounts.
             <td>2011-08-29</td>
             <td>2022-04-17</td>
             <td align="center"></td>
-            <td>1030</td>
+            <td>1022</td>
         </tr></table>

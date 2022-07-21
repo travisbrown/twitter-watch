@@ -1563,7 +1563,7 @@ Found 391 suspensions for tracked accounts.
             <td>2015-08-08</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>60310</td>
+            <td>60860</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=182345452">
@@ -2003,7 +2003,7 @@ Found 391 suspensions for tracked accounts.
             <td>2022-02-03</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1209</td>
+            <td>1210</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3986694012">

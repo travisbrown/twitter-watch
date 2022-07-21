@@ -1175,7 +1175,7 @@ Found 475 suspensions for tracked accounts.
             <td>2012-08-13</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1383</td>
+            <td>1384</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1443282869644836872">

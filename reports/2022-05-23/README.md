@@ -178,7 +178,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/PhilosopherFren">PhilosopherFren</a>
             </td>
             <td align="center"></td>
-            <td>1054</td>
+            <td>1057</td>
             <td>21549</td>
         </tr>
         <tr>
@@ -395,7 +395,7 @@ Found 968 suspensions for tracked accounts.
             <td>2012-02-19</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>8120</td>
+            <td>8116</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=113129819">

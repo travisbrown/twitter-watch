@@ -346,7 +346,7 @@ Found 65 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/aandozeus">aandozeus</a>
             </td>
             <td align="center"></td>
-            <td>421</td>
+            <td>422</td>
             <td>1500</td>
         </tr>
         <tr>
@@ -385,7 +385,7 @@ Found 65 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SAPPHlCWHITEBOY">SAPPHlCWHITEBOY</a>
             </td>
             <td align="center"></td>
-            <td>627</td>
+            <td>625</td>
             <td>2557</td>
         </tr>
         <tr>
@@ -1126,7 +1126,7 @@ Found 65 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BidensTopGuy">BidensTopGuy</a>
             </td>
             <td align="center"></td>
-            <td>47</td>
+            <td>49</td>
             <td>95707</td>
         </tr>
         <tr>
@@ -1205,7 +1205,7 @@ Found 679 suspensions for tracked accounts.
             <td>2020-10-16</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>167268</td>
+            <td>168078</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2309892359">
@@ -1238,7 +1238,7 @@ Found 679 suspensions for tracked accounts.
             <td>2021-10-14</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>84037</td>
+            <td>85406</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1522338048540909568">
@@ -1527,6 +1527,17 @@ Found 679 suspensions for tracked accounts.
             <td>2744</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1525646591348117506">
+                <img src="https://pbs.twimg.com/profile_images/1547231558142230530/HintfCJE_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/sexwithuruncle">sexwithuruncle</a></td>
+            <td>2022-05-15</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>2735</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=273134568">
                 <img src="https://pbs.twimg.com/profile_images/1456136665114689540/SOGcKEY-_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1547,17 +1558,6 @@ Found 679 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2509</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1525646591348117506">
-                <img src="https://pbs.twimg.com/profile_images/1547231558142230530/HintfCJE_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/sexwithuruncle">sexwithuruncle</a></td>
-            <td>2022-05-15</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>2469</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2904644481">

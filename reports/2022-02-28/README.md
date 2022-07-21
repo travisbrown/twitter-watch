@@ -30,7 +30,7 @@ Found 14 suspensions for tracked accounts.
             <td>2008-09-27</td>
             <td>2022-02-28</td>
             <td align="center"></td>
-            <td>3350</td>
+            <td>3351</td>
             <td>750</td>
         </tr>
         <tr>
@@ -252,7 +252,7 @@ Found 60 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/real_lord_miles">real_lord_miles</a>
             </td>
             <td align="center"></td>
-            <td>116528</td>
+            <td>116592</td>
             <td>2293</td>
         </tr>
         <tr>
@@ -525,7 +525,7 @@ Found 60 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ctlcsm">ctlcsm</a>
             </td>
             <td align="center"></td>
-            <td>440</td>
+            <td>441</td>
             <td>22364</td>
         </tr>
         <tr>
@@ -577,7 +577,7 @@ Found 60 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BusinessWillet">BusinessWillet</a>
             </td>
             <td align="center"></td>
-            <td>897</td>
+            <td>900</td>
             <td>28476</td>
         </tr>
         <tr>
@@ -707,7 +707,7 @@ Found 60 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DanielAbelAsher">DanielAbelAsher</a>
             </td>
             <td align="center"></td>
-            <td>105</td>
+            <td>104</td>
             <td>46714</td>
         </tr>
         <tr>
@@ -733,7 +733,7 @@ Found 60 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ycleptocrat">ycleptocrat</a>
             </td>
             <td align="center"></td>
-            <td>159</td>
+            <td>158</td>
             <td>48047</td>
         </tr>
         <tr>
@@ -1207,7 +1207,7 @@ Found 407 suspensions for tracked accounts.
             <td>2021-01-06</td>
             <td>2022-03-30</td>
             <td align="center"></td>
-            <td>2924</td>
+            <td>2936</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427569149992005637">

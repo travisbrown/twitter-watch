@@ -217,7 +217,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/fashbasher1000">fashbasher1000</a>
             </td>
             <td align="center"></td>
-            <td>946</td>
+            <td>944</td>
             <td>3741</td>
         </tr>
         <tr>
@@ -542,7 +542,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/lionsNotSheep81">lionsNotSheep81</a>
             </td>
             <td align="center"></td>
-            <td>142</td>
+            <td>143</td>
             <td>59062</td>
         </tr>
         <tr>
@@ -1181,7 +1181,7 @@ Found 412 suspensions for tracked accounts.
             <td>2014-06-12</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>1412</td>
+            <td>1414</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=882585118677889024">

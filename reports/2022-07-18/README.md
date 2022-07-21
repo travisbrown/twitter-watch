@@ -598,7 +598,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/KittyKatFren">KittyKatFren</a>
             </td>
             <td align="center"></td>
-            <td>466</td>
+            <td>473</td>
             <td>2161</td>
         </tr>
         <tr>
@@ -637,7 +637,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/osamabingroomer">osamabingroomer</a>
             </td>
             <td align="center"></td>
-            <td>130</td>
+            <td>127</td>
             <td>2740</td>
         </tr>
         <tr>
@@ -650,7 +650,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/eyeandoe">eyeandoe</a>
             </td>
             <td align="center"></td>
-            <td>43168</td>
+            <td>43144</td>
             <td>3142</td>
         </tr>
         <tr>
@@ -811,7 +811,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=24490384">
-                <img src="https://pbs.twimg.com/profile_images/1549479595010834432/jTq-OS-t_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549813936190619648/BT5CAxAY_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/ProbablyAGI">ProbablyAGI</a>&nbsp;(<a href="https://memory.lol/tw/id/24490384">15 others</a>)&nbsp;</td>
@@ -819,7 +819,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/EyeGotTheHookup">EyeGotTheHookup</a>
             </td>
             <td align="center"></td>
-            <td>23942</td>
+            <td>23943</td>
             <td>11834</td>
         </tr>
         <tr>
@@ -832,7 +832,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Krang_Gang">Krang_Gang</a>
             </td>
             <td align="center"></td>
-            <td>119</td>
+            <td>120</td>
             <td>14798</td>
         </tr>
         <tr>
@@ -936,7 +936,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/nicpaulenache">nicpaulenache</a>
             </td>
             <td align="center"></td>
-            <td>42049</td>
+            <td>42048</td>
             <td>23219</td>
         </tr>
         <tr>
@@ -975,7 +975,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/deal_democrat">deal_democrat</a>
             </td>
             <td align="center"></td>
-            <td>732</td>
+            <td>735</td>
             <td>27656</td>
         </tr>
         <tr>
@@ -1118,7 +1118,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SrbskyRusnyak">SrbskyRusnyak</a>
             </td>
             <td align="center"></td>
-            <td>846</td>
+            <td>860</td>
             <td>42872</td>
         </tr>
         <tr>
@@ -1404,7 +1404,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/mamounasiren">mamounasiren</a>
             </td>
             <td align="center"></td>
-            <td>47</td>
+            <td>49</td>
             <td>77572</td>
         </tr>
         <tr>
@@ -1495,7 +1495,7 @@ Found 79 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Jdan_OWaydan">Jdan_OWaydan</a>
             </td>
             <td align="center"></td>
-            <td>265</td>
+            <td>264</td>
             <td>86877</td>
         </tr>
         <tr>

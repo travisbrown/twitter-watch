@@ -2769,7 +2769,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/but_im_happy">but_im_happy</a>
             </td>
             <td align="center"></td>
-            <td>12858</td>
+            <td>12856</td>
             <td>481</td>
         </tr>
         <tr>
@@ -2808,7 +2808,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TexasLindzay">TexasLindzay</a>
             </td>
             <td align="center"></td>
-            <td>21606</td>
+            <td>21702</td>
             <td>21724</td>
         </tr>
         <tr>
@@ -2821,7 +2821,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/juggleDeezNuts2">juggleDeezNuts2</a>
             </td>
             <td align="center"></td>
-            <td>43</td>
+            <td>42</td>
             <td>34179</td>
         </tr>
         <tr>
@@ -4453,17 +4453,6 @@ Found 2175 suspensions for tracked accounts.
             <td>4153</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1400023056374845440">
-                <img src="https://pbs.twimg.com/profile_images/1548607213870190592/xK2LBbeO_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MalikUmar245">MalikUmar245</a>&nbsp;(<a href="https://memory.lol/tw/id/1400023056374845440">2 others</a>)&nbsp;</td>
-            <td>2021-06-02</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>4122</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1485576668811087876">
                 <img src="https://pbs.twimg.com/profile_images/1485578084204130305/BxqD-Pm__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -4473,6 +4462,17 @@ Found 2175 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>4120</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1400023056374845440">
+                <img src="https://pbs.twimg.com/profile_images/1548607213870190592/xK2LBbeO_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MalikUmar245">MalikUmar245</a>&nbsp;(<a href="https://memory.lol/tw/id/1400023056374845440">2 others</a>)&nbsp;</td>
+            <td>2021-06-02</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>4119</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1510232317989736449">
@@ -5121,7 +5121,7 @@ Found 2175 suspensions for tracked accounts.
             <td>2021-01-13</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>2804</td>
+            <td>2811</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=918604178930352128">
@@ -6852,7 +6852,7 @@ Found 2175 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3407964124">
-                <img src="https://pbs.twimg.com/profile_images/1547079055773687808/CGm1t64L_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549555864213852160/xwCFMHfr_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/GenGen15N">GenGen15N</a>&nbsp;(<a href="https://memory.lol/tw/id/3407964124">1 other</a>)&nbsp;</td>

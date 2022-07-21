@@ -298,7 +298,7 @@ Found 126 screen name changes for tracked accounts.✔️ indicates that the acc
                 <a href="https://twitter.com/DayzOfNoah444">DayzOfNoah444</a>
             </td>
             <td align="center"></td>
-            <td>3927</td>
+            <td>3924</td>
             <td>862</td>
         </tr>
         <tr>
@@ -415,7 +415,7 @@ Found 126 screen name changes for tracked accounts.✔️ indicates that the acc
                 <a href="https://twitter.com/pennbased">pennbased</a>
             </td>
             <td align="center"></td>
-            <td>314</td>
+            <td>315</td>
             <td>6835</td>
         </tr>
         <tr>
@@ -727,7 +727,7 @@ Found 126 screen name changes for tracked accounts.✔️ indicates that the acc
                 <a href="https://twitter.com/BabyBoyPreacher">BabyBoyPreacher</a>
             </td>
             <td align="center"></td>
-            <td>55</td>
+            <td>56</td>
             <td>24886</td>
         </tr>
         <tr>
@@ -961,7 +961,7 @@ Found 126 screen name changes for tracked accounts.✔️ indicates that the acc
                 <a href="https://twitter.com/ThingsHiddenn">ThingsHiddenn</a>
             </td>
             <td align="center"></td>
-            <td>7314</td>
+            <td>7336</td>
             <td>43613</td>
         </tr>
         <tr>
@@ -1013,7 +1013,7 @@ Found 126 screen name changes for tracked accounts.✔️ indicates that the acc
                 <a href="https://twitter.com/RobAussie1">RobAussie1</a>
             </td>
             <td align="center"></td>
-            <td>4493</td>
+            <td>4498</td>
             <td>44771</td>
         </tr>
         <tr>
@@ -1390,7 +1390,7 @@ Found 126 screen name changes for tracked accounts.✔️ indicates that the acc
                 <a href="https://twitter.com/Mr_VRIL_MAXXED">Mr_VRIL_MAXXED</a>
             </td>
             <td align="center"></td>
-            <td>15117</td>
+            <td>15123</td>
             <td>63782</td>
         </tr>
         <tr>
@@ -1494,7 +1494,7 @@ Found 126 screen name changes for tracked accounts.✔️ indicates that the acc
                 <a href="https://twitter.com/MonetaryFrame">MonetaryFrame</a>
             </td>
             <td align="center"></td>
-            <td>5916</td>
+            <td>5924</td>
             <td>68276</td>
         </tr>
         <tr>
@@ -1994,7 +1994,7 @@ Found 1128 suspensions for tracked accounts.
             <td>2017-11-17</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>78188</td>
+            <td>78180</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1332800296788045833">
@@ -3182,7 +3182,7 @@ Found 1128 suspensions for tracked accounts.
             <td>2020-02-27</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1155</td>
+            <td>1172</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=20314846">

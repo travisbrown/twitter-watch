@@ -30,7 +30,7 @@ Found 26 suspensions for tracked accounts.
             <td>2022-05-03</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>375</td>
+            <td>376</td>
             <td>2176</td>
         </tr>
         <tr>
@@ -357,7 +357,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FaucciMane">FaucciMane</a>
             </td>
             <td align="center"></td>
-            <td>12289</td>
+            <td>12286</td>
             <td>566</td>
         </tr>
         <tr>
@@ -370,7 +370,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RealTXPolitics">RealTXPolitics</a>
             </td>
             <td align="center"></td>
-            <td>1473</td>
+            <td>1472</td>
             <td>1078</td>
         </tr>
         <tr>
@@ -409,7 +409,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BoozerFren">BoozerFren</a>
             </td>
             <td align="center"></td>
-            <td>558</td>
+            <td>557</td>
             <td>2299</td>
         </tr>
         <tr>
@@ -544,7 +544,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=714969950264266752">
-                <img src="https://pbs.twimg.com/profile_images/1548061127602425857/nBEXXOuL_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549799563426422786/tfeGNSe2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Couyon_Actual">Couyon_Actual</a>&nbsp;(<a href="https://memory.lol/tw/id/714969950264266752">6 others</a>)&nbsp;</td>
@@ -552,7 +552,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Space_Cajun">Space_Cajun</a>
             </td>
             <td align="center"></td>
-            <td>4391</td>
+            <td>4393</td>
             <td>22249</td>
         </tr>
         <tr>
@@ -812,7 +812,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Quack_Pot">Quack_Pot</a>
             </td>
             <td align="center"></td>
-            <td>632</td>
+            <td>634</td>
             <td>55522</td>
         </tr>
         <tr>
@@ -916,7 +916,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/2ARYAN4U">2ARYAN4U</a>
             </td>
             <td align="center"></td>
-            <td>177</td>
+            <td>174</td>
             <td>77169</td>
         </tr>
         <tr>
@@ -942,7 +942,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/solarfrancia">solarfrancia</a>
             </td>
             <td align="center"></td>
-            <td>91</td>
+            <td>92</td>
             <td>78253</td>
         </tr>
         <tr>
@@ -1441,7 +1441,7 @@ Found 675 suspensions for tracked accounts.
             <td>2009-03-18</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>3231</td>
+            <td>3229</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1231031209574248448">
@@ -1727,7 +1727,7 @@ Found 675 suspensions for tracked accounts.
             <td>2013-09-23</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>1492</td>
+            <td>1485</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1418595379201912832">

@@ -537,7 +537,7 @@ Found 59 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Groypered">Groypered</a>
             </td>
             <td align="center"></td>
-            <td>550</td>
+            <td>553</td>
             <td>2726</td>
         </tr>
         <tr>
@@ -1320,7 +1320,7 @@ Found 1329 suspensions for tracked accounts.
             <td>2014-09-09</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>357713</td>
+            <td>357664</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=29243214">
@@ -1342,7 +1342,7 @@ Found 1329 suspensions for tracked accounts.
             <td>2012-12-26</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>128864</td>
+            <td>128586</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=566777154">
@@ -2035,7 +2035,7 @@ Found 1329 suspensions for tracked accounts.
             <td>2011-04-22</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>3151</td>
+            <td>3125</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1528553063732109312">
@@ -2676,17 +2676,6 @@ Found 1329 suspensions for tracked accounts.
             <td>1251</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=3365742076">
-                <img src="https://pbs.twimg.com/profile_images/1388478561728835588/vLGZ4AIr_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/roz_jabthehut">roz_jabthehut</a>&nbsp;(<a href="https://memory.lol/tw/id/3365742076">2 others</a>)&nbsp;</td>
-            <td>2015-07-08</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>1248</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1216962316094332928">
                 <img src="https://pbs.twimg.com/profile_images/1501546312424169478/4EOQmFZZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2696,6 +2685,17 @@ Found 1329 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1246</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=3365742076">
+                <img src="https://pbs.twimg.com/profile_images/1548899140662329345/v6G6VINw_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/roz_jabthehut">roz_jabthehut</a>&nbsp;(<a href="https://memory.lol/tw/id/3365742076">2 others</a>)&nbsp;</td>
+            <td>2015-07-08</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>1244</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1316359291520069632">

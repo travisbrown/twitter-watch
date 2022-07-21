@@ -94,7 +94,7 @@ Found 69 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ArxNorth1">ArxNorth1</a>
             </td>
             <td align="center"></td>
-            <td>136</td>
+            <td>137</td>
             <td>1140</td>
         </tr>
         <tr>
@@ -159,7 +159,7 @@ Found 69 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/promocodepepe">promocodepepe</a>
             </td>
             <td align="center"></td>
-            <td>276</td>
+            <td>277</td>
             <td>2345</td>
         </tr>
         <tr>
@@ -432,7 +432,7 @@ Found 69 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SlonkPack">SlonkPack</a>
             </td>
             <td align="center"></td>
-            <td>42</td>
+            <td>41</td>
             <td>28616</td>
         </tr>
         <tr>

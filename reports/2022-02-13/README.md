@@ -30,7 +30,7 @@ Found 22 suspensions for tracked accounts.
             <td>2011-12-11</td>
             <td>2022-02-15</td>
             <td align="center"></td>
-            <td>41761</td>
+            <td>41780</td>
             <td>233</td>
         </tr>
         <tr>
@@ -362,7 +362,7 @@ Found 2739 suspensions for tracked accounts.
             <td>2017-06-29</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>77365</td>
+            <td>77377</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1312913642845855750">
@@ -472,7 +472,7 @@ Found 2739 suspensions for tracked accounts.
             <td>2020-03-15</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>36942</td>
+            <td>36938</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2156124402">
@@ -1187,7 +1187,7 @@ Found 2739 suspensions for tracked accounts.
             <td>2010-09-15</td>
             <td>2022-02-15</td>
             <td align="center"></td>
-            <td>14526</td>
+            <td>14528</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1469871670345318402">
@@ -4248,6 +4248,17 @@ Found 2739 suspensions for tracked accounts.
             <td>2776</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1189124489436520453">
+                <img src="https://pbs.twimg.com/profile_images/1488572501508587523/rghMNOt6_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BlankVishal">BlankVishal</a>&nbsp;(<a href="https://memory.lol/tw/id/1189124489436520453">5 others</a>)&nbsp;</td>
+            <td>2019-10-29</td>
+            <td>2022-04-10</td>
+            <td align="center"></td>
+            <td>2775</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=834545473">
                 <img src="https://pbs.twimg.com/profile_images/1354826929673695232/kIXM6LuQ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -4257,17 +4268,6 @@ Found 2739 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2772</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1189124489436520453">
-                <img src="https://pbs.twimg.com/profile_images/1488572501508587523/rghMNOt6_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/BlankVishal">BlankVishal</a>&nbsp;(<a href="https://memory.lol/tw/id/1189124489436520453">5 others</a>)&nbsp;</td>
-            <td>2019-10-29</td>
-            <td>2022-04-10</td>
-            <td align="center"></td>
-            <td>2771</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=33930479">
@@ -4388,7 +4388,7 @@ Found 2739 suspensions for tracked accounts.
             <td>2015-02-01</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>2716</td>
+            <td>2714</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1188483296705024000">
@@ -4809,17 +4809,6 @@ Found 2739 suspensions for tracked accounts.
             <td>2495</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2357324370">
-                <img src="https://pbs.twimg.com/profile_images/1526813838003167233/SKYN4_1P_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/billy1261">billy1261</a></td>
-            <td>2014-02-23</td>
-            <td>2022-05-06</td>
-            <td align="center"></td>
-            <td>2492</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=746089182636834816">
                 <img src="https://pbs.twimg.com/profile_images/1486862473525346305/SAWlEdHJ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -4829,6 +4818,17 @@ Found 2739 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2489</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2357324370">
+                <img src="https://pbs.twimg.com/profile_images/1526813838003167233/SKYN4_1P_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/billy1261">billy1261</a></td>
+            <td>2014-02-23</td>
+            <td>2022-05-06</td>
+            <td align="center"></td>
+            <td>2488</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1245775345330069526">
@@ -5389,7 +5389,7 @@ Found 2739 suspensions for tracked accounts.
             <td>2013-01-16</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>2185</td>
+            <td>2184</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=248503592">

@@ -479,7 +479,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Jail_4_Brandon">Jail_4_Brandon</a>
             </td>
             <td align="center"></td>
-            <td>489</td>
+            <td>488</td>
             <td>75129</td>
         </tr>
         <tr>
@@ -505,7 +505,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/btcsalida">btcsalida</a>
             </td>
             <td align="center"></td>
-            <td>61</td>
+            <td>64</td>
             <td>97296</td>
         </tr>
         <tr>

@@ -303,7 +303,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/eclectic_felix">eclectic_felix</a>
             </td>
             <td align="center"></td>
-            <td>1302</td>
+            <td>1303</td>
             <td>31037</td>
         </tr>
         <tr>
@@ -394,7 +394,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/LesFleursDuMac">LesFleursDuMac</a>
             </td>
             <td align="center"></td>
-            <td>46</td>
+            <td>47</td>
             <td>46805</td>
         </tr>
         <tr>
@@ -576,7 +576,7 @@ Found 53 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/softminus">softminus</a>
             </td>
             <td align="center"></td>
-            <td>7745</td>
+            <td>7740</td>
             <td>70442</td>
         </tr>
         <tr>

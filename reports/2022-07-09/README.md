@@ -333,7 +333,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MarmotRespecter">MarmotRespecter</a>
             </td>
             <td align="center"></td>
-            <td>12814</td>
+            <td>12838</td>
             <td>525</td>
         </tr>
         <tr>
@@ -372,7 +372,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/makrikeyed">makrikeyed</a>
             </td>
             <td align="center"></td>
-            <td>390</td>
+            <td>388</td>
             <td>2677</td>
         </tr>
         <tr>

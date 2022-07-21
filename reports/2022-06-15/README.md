@@ -670,7 +670,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/prrhsia">prrhsia</a>
             </td>
             <td align="center"></td>
-            <td>1395</td>
+            <td>1393</td>
             <td>6552</td>
         </tr>
         <tr>
@@ -683,7 +683,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/dukeofanjou22">dukeofanjou22</a>
             </td>
             <td align="center"></td>
-            <td>32</td>
+            <td>31</td>
             <td>7704</td>
         </tr>
         <tr>
@@ -735,7 +735,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/animealcoholico">animealcoholico</a>
             </td>
             <td align="center"></td>
-            <td>1152</td>
+            <td>1151</td>
             <td>53859</td>
         </tr>
         <tr>
@@ -790,7 +790,7 @@ Found 1854 suspensions for tracked accounts.
             <td>2009-08-25</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>85752</td>
+            <td>85487</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1239754822707904513">
@@ -856,7 +856,7 @@ Found 1854 suspensions for tracked accounts.
             <td>2021-01-30</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>30623</td>
+            <td>30558</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=107968051">

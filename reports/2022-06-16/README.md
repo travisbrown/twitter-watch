@@ -42,7 +42,7 @@ Found 34 suspensions for tracked accounts.
             <td>2012-03-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>26417</td>
+            <td>26449</td>
             <td>320</td>
         </tr>
         <tr>
@@ -162,7 +162,7 @@ Found 34 suspensions for tracked accounts.
             <td>2020-08-25</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>43113</td>
+            <td>43120</td>
             <td>4473</td>
         </tr>
         <tr>
@@ -518,7 +518,7 @@ Found 73 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/cunnysmegma">cunnysmegma</a>
             </td>
             <td align="center"></td>
-            <td>164</td>
+            <td>166</td>
             <td>10175</td>
         </tr>
         <tr>
@@ -583,7 +583,7 @@ Found 73 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/deportthelot">deportthelot</a>
             </td>
             <td align="center"></td>
-            <td>386</td>
+            <td>393</td>
             <td>14077</td>
         </tr>
         <tr>
@@ -778,7 +778,7 @@ Found 73 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BurningPrince_">BurningPrince_</a>
             </td>
             <td align="center"></td>
-            <td>44</td>
+            <td>43</td>
             <td>26237</td>
         </tr>
         <tr>
@@ -817,7 +817,7 @@ Found 73 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DisgracedProp">DisgracedProp</a>
             </td>
             <td align="center"></td>
-            <td>393</td>
+            <td>392</td>
             <td>29511</td>
         </tr>
         <tr>
@@ -1649,7 +1649,7 @@ Found 311 suspensions for tracked accounts.
             <td>2020-11-15</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>2725</td>
+            <td>2728</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1205165398796189697">
@@ -1836,7 +1836,7 @@ Found 311 suspensions for tracked accounts.
             <td>2013-03-23</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>1377</td>
+            <td>1373</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1498697810505609218">

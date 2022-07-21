@@ -261,7 +261,7 @@ Found 44 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/based_byzantium">based_byzantium</a>
             </td>
             <td align="center"></td>
-            <td>97</td>
+            <td>98</td>
             <td>5269</td>
         </tr>
         <tr>
@@ -534,7 +534,7 @@ Found 44 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/CatholicBoi713">CatholicBoi713</a>
             </td>
             <td align="center"></td>
-            <td>195</td>
+            <td>194</td>
             <td>45428</td>
         </tr>
         <tr>
@@ -664,7 +664,7 @@ Found 44 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ogega_d">ogega_d</a>
             </td>
             <td align="center"></td>
-            <td>153</td>
+            <td>154</td>
             <td>76432</td>
         </tr>
         <tr>

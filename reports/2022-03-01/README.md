@@ -216,7 +216,7 @@ Found 35 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/chrisYeWest">chrisYeWest</a>
             </td>
             <td align="center"></td>
-            <td>600</td>
+            <td>598</td>
             <td>2261</td>
         </tr>
         <tr>
@@ -359,7 +359,7 @@ Found 35 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/saeterjenta">saeterjenta</a>
             </td>
             <td align="center"></td>
-            <td>10142</td>
+            <td>10159</td>
             <td>38699</td>
         </tr>
         <tr>
@@ -424,7 +424,7 @@ Found 35 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ABoyNamedSuplex">ABoyNamedSuplex</a>
             </td>
             <td align="center"></td>
-            <td>102</td>
+            <td>103</td>
             <td>48503</td>
         </tr>
         <tr>
@@ -714,7 +714,7 @@ Found 626 suspensions for tracked accounts.
             <td>2018-10-26</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>9769</td>
+            <td>9902</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=88303644">
@@ -814,6 +814,17 @@ Found 626 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3250</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1448991418907865088">
+                <img src="https://pbs.twimg.com/profile_images/1539274480794599424/PPAghMIk_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ACVAULT">ACVAULT</a>&nbsp;(<a href="https://memory.lol/tw/id/1448991418907865088">1 other</a>)&nbsp;</td>
+            <td>2021-10-15</td>
+            <td>2022-03-19</td>
+            <td align="center"></td>
+            <td>3232</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1464048400542937089">
@@ -924,17 +935,6 @@ Found 626 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2445</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1448991418907865088">
-                <img src="https://pbs.twimg.com/profile_images/1505774893283127300/0lo3KyaJ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FraRusso33">FraRusso33</a></td>
-            <td>2021-10-15</td>
-            <td>2022-03-19</td>
-            <td align="center"></td>
-            <td>2444</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1327725212989861891">

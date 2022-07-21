@@ -381,7 +381,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/teturis">teturis</a>
             </td>
             <td align="center"></td>
-            <td>1972</td>
+            <td>1971</td>
             <td>1963</td>
         </tr>
         <tr>
@@ -394,7 +394,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/iwantfascism">iwantfascism</a>
             </td>
             <td align="center"></td>
-            <td>187</td>
+            <td>188</td>
             <td>2760</td>
         </tr>
         <tr>
@@ -446,7 +446,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Papabeartotem">Papabeartotem</a>
             </td>
             <td align="center"></td>
-            <td>155</td>
+            <td>156</td>
             <td>4886</td>
         </tr>
         <tr>
@@ -681,7 +681,7 @@ Found 1141 suspensions for tracked accounts.
             <td>2020-06-11</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>6724</td>
+            <td>6801</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2900855348">

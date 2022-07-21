@@ -69,7 +69,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Pissed_Penguin2">Pissed_Penguin2</a>
             </td>
             <td align="center"></td>
-            <td>418</td>
+            <td>421</td>
             <td>1996</td>
         </tr>
         <tr>
@@ -905,7 +905,7 @@ Found 705 suspensions for tracked accounts.
             <td>2017-01-29</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>4709</td>
+            <td>4710</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=49818472">
@@ -2393,17 +2393,6 @@ Found 705 suspensions for tracked accounts.
             <td>1062</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1141503846969171968">
-                <img src="https://pbs.twimg.com/profile_images/1531829425356021762/7s4kL5wO_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/safarr2030">safarr2030</a>&nbsp;(<a href="https://memory.lol/tw/id/1141503846969171968">2 others</a>)&nbsp;</td>
-            <td>2019-06-20</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>1042</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1449910455636402176">
                 <img src="https://pbs.twimg.com/profile_images/1450185475839258627/QuA3McqS_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2424,6 +2413,17 @@ Found 705 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1039</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1141503846969171968">
+                <img src="https://pbs.twimg.com/profile_images/1531829425356021762/7s4kL5wO_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/safarr2030">safarr2030</a>&nbsp;(<a href="https://memory.lol/tw/id/1141503846969171968">2 others</a>)&nbsp;</td>
+            <td>2019-06-20</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>1035</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=14063564">

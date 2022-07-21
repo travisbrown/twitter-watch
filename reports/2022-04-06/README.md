@@ -285,7 +285,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/michaelbivins44">michaelbivins44</a>
             </td>
             <td align="center"></td>
-            <td>9625</td>
+            <td>9624</td>
             <td>590</td>
         </tr>
         <tr>
@@ -649,7 +649,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/EPakOfficial">EPakOfficial</a>
             </td>
             <td align="center"></td>
-            <td>274</td>
+            <td>275</td>
             <td>25965</td>
         </tr>
         <tr>
@@ -831,7 +831,7 @@ Found 75 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/CallumLeat27">CallumLeat27</a>
             </td>
             <td align="center"></td>
-            <td>6113</td>
+            <td>6119</td>
             <td>46176</td>
         </tr>
         <tr>
@@ -1463,7 +1463,7 @@ Found 652 suspensions for tracked accounts.
             <td>2021-05-18</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>18674</td>
+            <td>18645</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1183531707489837056">
