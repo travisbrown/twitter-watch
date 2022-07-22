@@ -150,7 +150,7 @@ Found 36 suspensions for tracked accounts.
             <td>2021-08-01</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>1707</td>
+            <td>1711</td>
             <td>14700</td>
         </tr>
         <tr>
@@ -503,7 +503,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Abandonnnned">Abandonnnned</a>
             </td>
             <td align="center"></td>
-            <td>76</td>
+            <td>74</td>
             <td>8278</td>
         </tr>
         <tr>
@@ -594,7 +594,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/HeadlessZealot">HeadlessZealot</a>
             </td>
             <td align="center"></td>
-            <td>93</td>
+            <td>99</td>
             <td>95565</td>
         </tr>
         <tr>
@@ -614,7 +614,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 475 suspensions for tracked accounts.
+Found 475 suspensions for untracked accounts.
 66 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -845,7 +845,7 @@ Found 475 suspensions for tracked accounts.
             <td>2018-05-22</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>7106</td>
+            <td>7103</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=778102378629332992">

@@ -330,7 +330,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bigspliff_eth">bigspliff_eth</a>
             </td>
             <td align="center"></td>
-            <td>2097</td>
+            <td>2100</td>
             <td>65997</td>
         </tr>
         <tr>
@@ -356,7 +356,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/samplestweets">samplestweets</a>
             </td>
             <td align="center"></td>
-            <td>856</td>
+            <td>860</td>
             <td>76293</td>
         </tr>
         <tr>
@@ -376,7 +376,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 399 suspensions for tracked accounts.
+Found 399 suspensions for untracked accounts.
 78 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -412,6 +412,17 @@ Found 399 suspensions for tracked accounts.
             <td>99037</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1447862012906807296">
+                <img src="https://pbs.twimg.com/profile_images/1532052386860212230/ixdOaO7b_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/3jack23">3jack23</a>&nbsp;(<a href="https://memory.lol/tw/id/1447862012906807296">1 other</a>)&nbsp;</td>
+            <td>2021-10-12</td>
+            <td>2022-05-02</td>
+            <td align="center"></td>
+            <td>76252</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1279911709734567945">
                 <img src="https://pbs.twimg.com/profile_images/1499940911903555586/75gsciNG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -432,17 +443,6 @@ Found 399 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>42999</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1447862012906807296">
-                <img src="https://pbs.twimg.com/profile_images/1480532661882003468/K2bYhtZN_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/WavePunks_NFT">WavePunks_NFT</a></td>
-            <td>2021-10-12</td>
-            <td>2022-05-02</td>
-            <td align="center"></td>
-            <td>41774</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=933143924">
@@ -651,7 +651,7 @@ Found 399 suspensions for tracked accounts.
             <td>2010-09-28</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>6572</td>
+            <td>6563</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1088127743982592000">
@@ -695,7 +695,7 @@ Found 399 suspensions for tracked accounts.
             <td>2017-09-12</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>5012</td>
+            <td>5016</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1364212734275899395">

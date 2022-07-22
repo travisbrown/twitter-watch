@@ -66,7 +66,7 @@ Found 12 suspensions for tracked accounts.
             <td>2019-05-10</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>2946</td>
+            <td>2945</td>
             <td>7949</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 12 suspensions for tracked accounts.
             <td>2022-04-05</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>552</td>
+            <td>564</td>
             <td>11040</td>
         </tr>
         <tr>
@@ -138,7 +138,7 @@ Found 12 suspensions for tracked accounts.
             <td>2013-05-22</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>702</td>
+            <td>704</td>
             <td>82048</td>
         </tr>
         <tr>
@@ -189,7 +189,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Grumpenfella">Grumpenfella</a>
             </td>
             <td align="center"></td>
-            <td>785</td>
+            <td>797</td>
             <td>2116</td>
         </tr>
         <tr>
@@ -202,7 +202,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ISniffDirt">ISniffDirt</a>
             </td>
             <td align="center"></td>
-            <td>181</td>
+            <td>182</td>
             <td>5195</td>
         </tr>
         <tr>
@@ -215,12 +215,12 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/8obThe8arker">8obThe8arker</a>
             </td>
             <td align="center"></td>
-            <td>207</td>
+            <td>209</td>
             <td>20867</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1485172934515830786">
-                <img src="https://pbs.twimg.com/profile_images/1548173441701859329/3_-lCiRg_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549881295286800386/BfFQLN_8_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Heypoomaquina">Heypoomaquina</a></td>
@@ -248,7 +248,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
 
 ### Untracked suspensions
 
-Found 748 suspensions for tracked accounts.
+Found 748 suspensions for untracked accounts.
 75 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -347,7 +347,7 @@ Found 748 suspensions for tracked accounts.
             <td>2020-09-18</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>13079</td>
+            <td>13265</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1372888918878687240">
@@ -1051,7 +1051,7 @@ Found 748 suspensions for tracked accounts.
             <td>2009-05-12</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1063</td>
+            <td>1059</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=600306861">

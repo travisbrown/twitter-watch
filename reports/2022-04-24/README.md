@@ -66,7 +66,7 @@ Found 6 suspensions for tracked accounts.
             <td>2018-01-05</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>343</td>
+            <td>344</td>
             <td>23039</td>
         </tr>
         <tr>
@@ -169,7 +169,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheSoleWitness">TheSoleWitness</a>
             </td>
             <td align="center"></td>
-            <td>663</td>
+            <td>670</td>
             <td>2097</td>
         </tr>
         <tr>
@@ -208,7 +208,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SoakUpThe_Sun">SoakUpThe_Sun</a>
             </td>
             <td align="center"></td>
-            <td>137</td>
+            <td>144</td>
             <td>9247</td>
         </tr>
         <tr>
@@ -273,7 +273,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/sample3077">sample3077</a>
             </td>
             <td align="center"></td>
-            <td>210</td>
+            <td>207</td>
             <td>31513</td>
         </tr>
         <tr>
@@ -286,7 +286,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/manchuairforce">manchuairforce</a>
             </td>
             <td align="center"></td>
-            <td>298</td>
+            <td>299</td>
             <td>35182</td>
         </tr>
         <tr>
@@ -306,7 +306,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 3360 suspensions for tracked accounts.
+Found 3361 suspensions for untracked accounts.
 362 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -372,7 +372,7 @@ Found 3360 suspensions for tracked accounts.
             <td>2014-11-09</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>207626</td>
+            <td>207642</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1106568713514483712">
@@ -394,7 +394,7 @@ Found 3360 suspensions for tracked accounts.
             <td>2021-05-15</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>159747</td>
+            <td>159345</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1159071076992917504">
@@ -1571,7 +1571,7 @@ Found 3360 suspensions for tracked accounts.
             <td>2012-01-20</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>5959</td>
+            <td>5976</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1325113197741953024">
@@ -3213,6 +3213,17 @@ Found 3360 suspensions for tracked accounts.
             <td>1409</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1445335445060083719">
+                <img src="https://pbs.twimg.com/profile_images/1533535289062334465/_R4s4X4A_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/DarwinDoctrina_">DarwinDoctrina_</a></td>
+            <td>2021-10-05</td>
+            <td>2022-06-05</td>
+            <td align="center"></td>
+            <td>1409</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1097593323970281472">
                 <img src="https://pbs.twimg.com/profile_images/1401965513643790338/Tn41bLXK_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3222,17 +3233,6 @@ Found 3360 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1408</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1445335445060083719">
-                <img src="https://pbs.twimg.com/profile_images/1533535289062334465/_R4s4X4A_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/DarwinDoctrina_">DarwinDoctrina_</a></td>
-            <td>2021-10-05</td>
-            <td>2022-06-05</td>
-            <td align="center"></td>
-            <td>1406</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2543715447">

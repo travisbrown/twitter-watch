@@ -1137,7 +1137,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/wafflepirate">wafflepirate</a>
             </td>
             <td align="center"></td>
-            <td>5224</td>
+            <td>5225</td>
             <td>694</td>
         </tr>
         <tr>
@@ -1150,7 +1150,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SSkanderbeu">SSkanderbeu</a>
             </td>
             <td align="center"></td>
-            <td>698</td>
+            <td>721</td>
             <td>2079</td>
         </tr>
         <tr>
@@ -1207,7 +1207,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1364637559247233031">
-                <img src="https://pbs.twimg.com/profile_images/1548556545402740738/6SpZ7pjL_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549741968137371651/7AiLkt4v_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/dasjager24">dasjager24</a>&nbsp;(<a href="https://memory.lol/tw/id/1364637559247233031">1 other</a>)&nbsp;</td>
@@ -1215,12 +1215,12 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/diejager24">diejager24</a>
             </td>
             <td align="center"></td>
-            <td>1194</td>
+            <td>1193</td>
             <td>50666</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1502481863155204097">
-                <img src="https://pbs.twimg.com/profile_images/1547714223337181185/d3Ed5hoZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1550226427806527488/MeSwZHbT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/DissidentToilet">DissidentToilet</a></td>
@@ -1228,7 +1228,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ToiletMarv">ToiletMarv</a>
             </td>
             <td align="center"></td>
-            <td>206</td>
+            <td>204</td>
             <td>56202</td>
         </tr>
         <tr>
@@ -1241,14 +1241,14 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/RandyFromOhio">RandyFromOhio</a>
             </td>
             <td align="center"></td>
-            <td>188</td>
+            <td>190</td>
             <td>82168</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 1615 suspensions for tracked accounts.
+Found 1615 suspensions for untracked accounts.
 232 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -2989,6 +2989,17 @@ Found 1615 suspensions for tracked accounts.
             <td>1656</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=3808652953">
+                <img src="https://pbs.twimg.com/profile_images/1515139302606389249/vGeBLXQS_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Maximus50Brad">Maximus50Brad</a></td>
+            <td>2015-10-07</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>1652</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=342339060">
                 <img src="https://pbs.twimg.com/profile_images/1459586034094813184/0uYNcpnE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2998,17 +3009,6 @@ Found 1615 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1650</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=3808652953">
-                <img src="https://pbs.twimg.com/profile_images/1515139302606389249/vGeBLXQS_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Maximus50Brad">Maximus50Brad</a></td>
-            <td>2015-10-07</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>1644</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=637140197">
@@ -3030,7 +3030,7 @@ Found 1615 suspensions for tracked accounts.
             <td>2009-02-23</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1611</td>
+            <td>1616</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1389923750762749953">

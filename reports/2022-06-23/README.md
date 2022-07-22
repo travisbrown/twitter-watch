@@ -222,7 +222,7 @@ Found 27 suspensions for tracked accounts.
             <td>2019-09-14</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>2518</td>
+            <td>2521</td>
             <td>29716</td>
         </tr>
         <tr>
@@ -382,7 +382,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/korbendallasNY">korbendallasNY</a>
             </td>
             <td align="center"></td>
-            <td>1259</td>
+            <td>1268</td>
             <td>10288</td>
         </tr>
         <tr>
@@ -395,7 +395,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ChikaSupremacy">ChikaSupremacy</a>
             </td>
             <td align="center"></td>
-            <td>206</td>
+            <td>204</td>
             <td>47026</td>
         </tr>
         <tr>
@@ -408,7 +408,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SunTsar">SunTsar</a>
             </td>
             <td align="center"></td>
-            <td>6</td>
+            <td>7</td>
             <td>72685</td>
         </tr>
         <tr>
@@ -421,14 +421,14 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SociopaticCat">SociopaticCat</a>
             </td>
             <td align="center"></td>
-            <td>289</td>
+            <td>332</td>
             <td>86800</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 1476 suspensions for tracked accounts.
+Found 1476 suspensions for untracked accounts.
 125 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

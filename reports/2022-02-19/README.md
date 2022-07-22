@@ -54,7 +54,7 @@ Found 10 suspensions for tracked accounts.
             <td>2022-02-12</td>
             <td>2022-02-21</td>
             <td align="center"></td>
-            <td>1523</td>
+            <td>1530</td>
             <td>10143</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 10 suspensions for tracked accounts.
             <td>2013-05-27</td>
             <td>2022-02-22</td>
             <td align="center"></td>
-            <td>1157</td>
+            <td>1155</td>
             <td>30408</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 10 suspensions for tracked accounts.
             <td>2011-05-02</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1254</td>
+            <td>1252</td>
             <td>39015</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 10 suspensions for tracked accounts.
             <td>2015-01-13</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>200</td>
+            <td>205</td>
             <td>43878</td>
         </tr>
         <tr>
@@ -178,7 +178,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/desifakeer">desifakeer</a>
             </td>
             <td align="center"></td>
-            <td>266</td>
+            <td>268</td>
             <td>2487</td>
         </tr>
         <tr>
@@ -209,15 +209,15 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1384555436406415365">
-                <img src="https://pbs.twimg.com/profile_images/1534378681845616641/0JvZJreB_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1550260943061385216/LxOMIUk__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/MaximusVirtus">MaximusVirtus</a>&nbsp;(<a href="https://memory.lol/tw/id/1384555436406415365">9 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/WeigandVolk">WeigandVolk</a>&nbsp;(<a href="https://memory.lol/tw/id/1384555436406415365">9 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/LucidSaxon">LucidSaxon</a>
             </td>
             <td align="center"></td>
-            <td>697</td>
+            <td>766</td>
             <td>4467</td>
         </tr>
         <tr>
@@ -256,7 +256,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BlazedLolbert">BlazedLolbert</a>
             </td>
             <td align="center"></td>
-            <td>2224</td>
+            <td>2227</td>
             <td>14578</td>
         </tr>
         <tr>
@@ -269,7 +269,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MKRealEstate383">MKRealEstate383</a>
             </td>
             <td align="center"></td>
-            <td>1137</td>
+            <td>1134</td>
             <td>15602</td>
         </tr>
         <tr>
@@ -282,7 +282,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/streadstine">streadstine</a>
             </td>
             <td align="center"></td>
-            <td>3042</td>
+            <td>3043</td>
             <td>16835</td>
         </tr>
         <tr>
@@ -451,7 +451,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/border_vt">border_vt</a>
             </td>
             <td align="center"></td>
-            <td>316</td>
+            <td>313</td>
             <td>63465</td>
         </tr>
         <tr>
@@ -508,7 +508,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=50544234">
-                <img src="https://pbs.twimg.com/profile_images/1494915084291907588/Biaj_JI6_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549836830756970496/9AWIodj-_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/mg21012101">mg21012101</a></td>
@@ -516,7 +516,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/emmgeee2101">emmgeee2101</a>
             </td>
             <td align="center"></td>
-            <td>443</td>
+            <td>442</td>
             <td>91525</td>
         </tr>
         <tr>
@@ -542,7 +542,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/hakcutlery">hakcutlery</a>
             </td>
             <td align="center"></td>
-            <td>4448</td>
+            <td>4505</td>
             <td>95129</td>
         </tr>
         <tr>
@@ -555,14 +555,14 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/petrussiarad">petrussiarad</a>
             </td>
             <td align="center"></td>
-            <td>228</td>
+            <td>229</td>
             <td>97522</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 487 suspensions for tracked accounts.
+Found 487 suspensions for untracked accounts.
 75 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -1046,7 +1046,7 @@ Found 487 suspensions for tracked accounts.
             <td>2009-08-01</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>1918</td>
+            <td>1917</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1081292954822598656">

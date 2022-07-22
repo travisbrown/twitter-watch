@@ -90,7 +90,7 @@ Found 15 suspensions for tracked accounts.
             <td>2019-10-30</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>236</td>
+            <td>254</td>
             <td>15452</td>
         </tr>
         <tr>
@@ -225,7 +225,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Gay___Fieri">Gay___Fieri</a>
             </td>
             <td align="center"></td>
-            <td>465</td>
+            <td>464</td>
             <td>1828</td>
         </tr>
         <tr>
@@ -238,7 +238,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/germaniccocaine">germaniccocaine</a>
             </td>
             <td align="center"></td>
-            <td>4711</td>
+            <td>4712</td>
             <td>34636</td>
         </tr>
         <tr>
@@ -264,7 +264,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/humbleconquest">humbleconquest</a>
             </td>
             <td align="center"></td>
-            <td>38</td>
+            <td>40</td>
             <td>86708</td>
         </tr>
         <tr>
@@ -284,7 +284,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
 
 ### Untracked suspensions
 
-Found 656 suspensions for tracked accounts.
+Found 656 suspensions for untracked accounts.
 80 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -317,7 +317,7 @@ Found 656 suspensions for tracked accounts.
             <td>2011-05-13</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>255031</td>
+            <td>255205</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1317273362083778561">
@@ -405,7 +405,7 @@ Found 656 suspensions for tracked accounts.
             <td>2013-05-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>30270</td>
+            <td>30280</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=572122341">

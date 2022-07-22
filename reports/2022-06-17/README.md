@@ -30,7 +30,7 @@ Found 27 suspensions for tracked accounts.
             <td>2022-03-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>557</td>
+            <td>553</td>
             <td>1196</td>
         </tr>
         <tr>
@@ -434,7 +434,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/samizdathodl">samizdathodl</a>
             </td>
             <td align="center"></td>
-            <td>81</td>
+            <td>82</td>
             <td>61731</td>
         </tr>
         <tr>
@@ -460,14 +460,14 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Niqht_of_Fire">Niqht_of_Fire</a>
             </td>
             <td align="center"></td>
-            <td>21</td>
+            <td>22</td>
             <td>87735</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 1540 suspensions for tracked accounts.
+Found 1540 suspensions for untracked accounts.
 150 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -1251,6 +1251,17 @@ Found 1540 suspensions for tracked accounts.
             <td>2925</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1383784729590190081">
+                <img src="https://pbs.twimg.com/profile_images/1524543331921022979/83XiIDzT_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MvrderCvlt">MvrderCvlt</a></td>
+            <td>2021-04-18</td>
+            <td>2022-06-27</td>
+            <td align="center"></td>
+            <td>2919</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1445866405878898698">
                 <img src="https://pbs.twimg.com/profile_images/1536022105145360384/j4BYNNwS_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1282,17 +1293,6 @@ Found 1540 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2888</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1383784729590190081">
-                <img src="https://pbs.twimg.com/profile_images/1524543331921022979/83XiIDzT_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MvrderCvlt">MvrderCvlt</a></td>
-            <td>2021-04-18</td>
-            <td>2022-06-27</td>
-            <td align="center"></td>
-            <td>2884</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=814946252">

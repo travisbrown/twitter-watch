@@ -645,7 +645,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/EldianLifter">EldianLifter</a>
             </td>
             <td align="center"></td>
-            <td>1312</td>
+            <td>1323</td>
             <td>1484</td>
         </tr>
         <tr>
@@ -717,7 +717,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
 
 ### Untracked suspensions
 
-Found 793 suspensions for tracked accounts.
+Found 793 suspensions for untracked accounts.
 74 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

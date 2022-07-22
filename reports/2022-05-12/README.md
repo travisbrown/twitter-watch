@@ -138,7 +138,7 @@ Found 16 suspensions for tracked accounts.
             <td>2020-04-26</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>9377</td>
+            <td>9439</td>
             <td>32699</td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ Found 16 suspensions for tracked accounts.
             <td>2022-04-25</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>284</td>
+            <td>299</td>
             <td>89777</td>
         </tr></table>
 
@@ -276,7 +276,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/jahermeiliger">jahermeiliger</a>
             </td>
             <td align="center"></td>
-            <td>805</td>
+            <td>806</td>
             <td>44794</td>
         </tr>
         <tr>
@@ -322,7 +322,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
 
 ### Untracked suspensions
 
-Found 883 suspensions for tracked accounts.
+Found 883 suspensions for untracked accounts.
 84 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -839,7 +839,7 @@ Found 883 suspensions for tracked accounts.
             <td>2017-08-28</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>2358</td>
+            <td>2357</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=210212691">
@@ -853,6 +853,17 @@ Found 883 suspensions for tracked accounts.
             <td>2352</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1343541349090516995">
+                <img src="https://pbs.twimg.com/profile_images/1547116722032893952/_BghOLvK_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AdeoyeXoxo">AdeoyeXoxo</a></td>
+            <td>2020-12-28</td>
+            <td>2022-06-05</td>
+            <td align="center"></td>
+            <td>2331</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1480386237965889537">
                 <img src="https://pbs.twimg.com/profile_images/1509227474726518785/aBGXKokc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -862,17 +873,6 @@ Found 883 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2323</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1343541349090516995">
-                <img src="https://pbs.twimg.com/profile_images/1547116722032893952/_BghOLvK_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AdeoyeXoxo">AdeoyeXoxo</a></td>
-            <td>2020-12-28</td>
-            <td>2022-06-05</td>
-            <td align="center"></td>
-            <td>2309</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1187495878858293250">

@@ -66,7 +66,7 @@ Found 8 suspensions for tracked accounts.
             <td>2010-03-05</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>678</td>
+            <td>679</td>
             <td>31431</td>
         </tr>
         <tr>
@@ -141,7 +141,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/AZmilitary1">AZmilitary1</a>
             </td>
             <td align="center"></td>
-            <td>42055</td>
+            <td>42250</td>
             <td>211</td>
         </tr>
         <tr>
@@ -180,7 +180,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/oldschooltruth">oldschooltruth</a>
             </td>
             <td align="center"></td>
-            <td>149</td>
+            <td>147</td>
             <td>84850</td>
         </tr>
         <tr>
@@ -193,7 +193,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Smithsousamelo">Smithsousamelo</a>
             </td>
             <td align="center"></td>
-            <td>89</td>
+            <td>88</td>
             <td>95024</td>
         </tr>
         <tr>
@@ -206,14 +206,14 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KianjRyan">KianjRyan</a>
             </td>
             <td align="center"></td>
-            <td>250</td>
+            <td>251</td>
             <td>97268</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 702 suspensions for tracked accounts.
+Found 702 suspensions for untracked accounts.
 64 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -422,7 +422,7 @@ Found 702 suspensions for tracked accounts.
             <td>2009-11-26</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>3669</td>
+            <td>3733</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1088725733789323264">

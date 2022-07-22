@@ -178,7 +178,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/PhilosopherFren">PhilosopherFren</a>
             </td>
             <td align="center"></td>
-            <td>1057</td>
+            <td>1067</td>
             <td>21549</td>
         </tr>
         <tr>
@@ -191,7 +191,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/TANK_PILLED">TANK_PILLED</a>
             </td>
             <td align="center"></td>
-            <td>139</td>
+            <td>142</td>
             <td>33876</td>
         </tr>
         <tr>
@@ -256,14 +256,14 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/PatriotCowboyWY">PatriotCowboyWY</a>
             </td>
             <td align="center"></td>
-            <td>707</td>
+            <td>704</td>
             <td>86904</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 968 suspensions for tracked accounts.
+Found 968 suspensions for untracked accounts.
 66 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -684,6 +684,17 @@ Found 968 suspensions for tracked accounts.
             <td>2141</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=258112416">
+                <img src="https://pbs.twimg.com/profile_images/1514240853891596292/fkqTpME5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FreyaManslayer">FreyaManslayer</a>&nbsp;(<a href="https://memory.lol/tw/id/258112416">1 other</a>)&nbsp;</td>
+            <td>2011-02-27</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>2135</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=29741916">
                 <img src="https://pbs.twimg.com/profile_images/1500691341348638720/yxopGYXi_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -693,17 +704,6 @@ Found 968 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2101</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=258112416">
-                <img src="https://pbs.twimg.com/profile_images/1514240853891596292/fkqTpME5_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FreyaManslayer">FreyaManslayer</a>&nbsp;(<a href="https://memory.lol/tw/id/258112416">1 other</a>)&nbsp;</td>
-            <td>2011-02-27</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>2060</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=585441346">

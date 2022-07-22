@@ -131,7 +131,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/doghairinmynose">doghairinmynose</a>
             </td>
             <td align="center"></td>
-            <td>123</td>
+            <td>124</td>
             <td>2996</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Ana_appreciater">Ana_appreciater</a>
             </td>
             <td align="center"></td>
-            <td>1003</td>
+            <td>1007</td>
             <td>17278</td>
         </tr>
         <tr>
@@ -216,7 +216,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
 
 ### Untracked suspensions
 
-Found 956 suspensions for tracked accounts.
+Found 956 suspensions for untracked accounts.
 85 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -634,7 +634,7 @@ Found 956 suspensions for tracked accounts.
             <td>2022-03-13</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>3003</td>
+            <td>3002</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495774337797922821">

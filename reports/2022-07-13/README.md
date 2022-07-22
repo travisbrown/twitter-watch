@@ -210,7 +210,7 @@ Found 74 suspensions for tracked accounts.
             <td>2019-10-16</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>18684</td>
+            <td>18726</td>
             <td>15163</td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@ Found 74 suspensions for tracked accounts.
             <td>2022-06-16</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>95</td>
+            <td>117</td>
             <td>17781</td>
         </tr>
         <tr>
@@ -570,7 +570,7 @@ Found 74 suspensions for tracked accounts.
             <td>2021-10-25</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>634</td>
+            <td>637</td>
             <td>55522</td>
         </tr>
         <tr>
@@ -959,7 +959,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/japanesesummer0">japanesesummer0</a>
             </td>
             <td align="center"></td>
-            <td>5</td>
+            <td>6</td>
             <td>16389</td>
         </tr>
         <tr>
@@ -972,7 +972,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Godspresence_">Godspresence_</a>
             </td>
             <td align="center"></td>
-            <td>1438</td>
+            <td>1434</td>
             <td>30701</td>
         </tr>
         <tr>
@@ -985,7 +985,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/whalecomeback">whalecomeback</a>
             </td>
             <td align="center"></td>
-            <td>1210</td>
+            <td>1241</td>
             <td>38714</td>
         </tr>
         <tr>
@@ -1024,14 +1024,14 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KntuckyFriedMrk">KntuckyFriedMrk</a>
             </td>
             <td align="center"></td>
-            <td>638</td>
+            <td>639</td>
             <td>97854</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 2259 suspensions for tracked accounts.
+Found 2259 suspensions for untracked accounts.
 218 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

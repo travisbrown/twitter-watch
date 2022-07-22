@@ -573,14 +573,14 @@ Found 1 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/tacticalzion">tacticalzion</a>
             </td>
             <td align="center"></td>
-            <td>52</td>
+            <td>53</td>
             <td>69137</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 2192 suspensions for tracked accounts.
+Found 2192 suspensions for untracked accounts.
 186 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

@@ -54,7 +54,7 @@ Found 14 suspensions for tracked accounts.
             <td>2009-05-23</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>901</td>
+            <td>906</td>
             <td>1191</td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FungibleTokns">FungibleTokns</a>
             </td>
             <td align="center"></td>
-            <td>1188</td>
+            <td>1191</td>
             <td>14911</td>
         </tr>
         <tr>
@@ -278,7 +278,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jcordist">jcordist</a>
             </td>
             <td align="center"></td>
-            <td>118</td>
+            <td>121</td>
             <td>29642</td>
         </tr>
         <tr>
@@ -343,7 +343,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Nikolakimu">Nikolakimu</a>
             </td>
             <td align="center"></td>
-            <td>1999</td>
+            <td>2013</td>
             <td>63080</td>
         </tr>
         <tr>
@@ -356,7 +356,7 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/patriotichound">patriotichound</a>
             </td>
             <td align="center"></td>
-            <td>248</td>
+            <td>249</td>
             <td>74921</td>
         </tr>
         <tr>
@@ -369,14 +369,14 @@ Found 13 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ASED2516">ASED2516</a>
             </td>
             <td align="center"></td>
-            <td>2778</td>
+            <td>2805</td>
             <td>85515</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 816 suspensions for tracked accounts.
+Found 816 suspensions for untracked accounts.
 83 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -398,7 +398,7 @@ Found 816 suspensions for tracked accounts.
             <td>2011-07-09</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>359292</td>
+            <td>365022</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1379490605043216384">
@@ -717,7 +717,7 @@ Found 816 suspensions for tracked accounts.
             <td>2012-01-22</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4681</td>
+            <td>4686</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1154333410204291072">
@@ -816,7 +816,7 @@ Found 816 suspensions for tracked accounts.
             <td>2009-12-23</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>2835</td>
+            <td>2834</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=811609284085739520">

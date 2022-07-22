@@ -102,7 +102,7 @@ Found 12 suspensions for tracked accounts.
             <td>2021-05-12</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>89</td>
+            <td>88</td>
             <td>73720</td>
         </tr>
         <tr>
@@ -189,7 +189,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/elniggmex">elniggmex</a>
             </td>
             <td align="center"></td>
-            <td>194</td>
+            <td>197</td>
             <td>3259</td>
         </tr>
         <tr>
@@ -280,7 +280,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Caroline_c_57">Caroline_c_57</a>
             </td>
             <td align="center"></td>
-            <td>513</td>
+            <td>515</td>
             <td>76535</td>
         </tr>
         <tr>
@@ -313,7 +313,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 490 suspensions for tracked accounts.
+Found 490 suspensions for untracked accounts.
 60 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

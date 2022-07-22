@@ -126,7 +126,7 @@ Found 50 suspensions for tracked accounts.
             <td>2014-09-10</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>17437</td>
+            <td>17453</td>
             <td>4896</td>
         </tr>
         <tr>
@@ -198,7 +198,7 @@ Found 50 suspensions for tracked accounts.
             <td>2020-11-19</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>9969</td>
+            <td>9957</td>
             <td>12230</td>
         </tr>
         <tr>
@@ -282,7 +282,7 @@ Found 50 suspensions for tracked accounts.
             <td>2017-05-03</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>1719</td>
+            <td>1810</td>
             <td>35174</td>
         </tr>
         <tr>
@@ -697,7 +697,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/zeldazonk130">zeldazonk130</a>
             </td>
             <td align="center"></td>
-            <td>280</td>
+            <td>307</td>
             <td>2610</td>
         </tr>
         <tr>
@@ -723,7 +723,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/davidtogoliath3">davidtogoliath3</a>
             </td>
             <td align="center"></td>
-            <td>10065</td>
+            <td>10081</td>
             <td>23735</td>
         </tr>
         <tr>
@@ -743,7 +743,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
 
 ### Untracked suspensions
 
-Found 1493 suspensions for tracked accounts.
+Found 1493 suspensions for untracked accounts.
 222 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -952,7 +952,7 @@ Found 1493 suspensions for tracked accounts.
             <td>2011-10-20</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>77726</td>
+            <td>77711</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1488951151160614916">

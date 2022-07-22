@@ -30,7 +30,7 @@ Found 131 suspensions for tracked accounts.
             <td>2021-05-03</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>395067</td>
+            <td>396614</td>
             <td>34</td>
         </tr>
         <tr>
@@ -654,7 +654,7 @@ Found 131 suspensions for tracked accounts.
             <td>2020-06-03</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>433</td>
+            <td>439</td>
             <td>22366</td>
         </tr>
         <tr>
@@ -1134,7 +1134,7 @@ Found 131 suspensions for tracked accounts.
             <td>2012-01-17</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>48268</td>
+            <td>48258</td>
             <td>58234</td>
         </tr>
         <tr>
@@ -1314,7 +1314,7 @@ Found 131 suspensions for tracked accounts.
             <td>2009-03-06</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>3137</td>
+            <td>3136</td>
             <td>71382</td>
         </tr>
         <tr>
@@ -1630,7 +1630,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/kabobmitch">kabobmitch</a>
             </td>
             <td align="center"></td>
-            <td>338</td>
+            <td>341</td>
             <td>17267</td>
         </tr>
         <tr>
@@ -1695,14 +1695,14 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/inkwireandminds">inkwireandminds</a>
             </td>
             <td align="center"></td>
-            <td>227</td>
+            <td>228</td>
             <td>96602</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 1114 suspensions for tracked accounts.
+Found 1114 suspensions for untracked accounts.
 177 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -1735,7 +1735,7 @@ Found 1114 suspensions for tracked accounts.
             <td>2020-02-26</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>452878</td>
+            <td>452499</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1478260369269297160">
@@ -2222,17 +2222,6 @@ Found 1114 suspensions for tracked accounts.
             <td>10660</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=271991839">
-                <img src="https://pbs.twimg.com/profile_images/1426002493541011457/F3JhaNCe_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/PrimeTimePuma">PrimeTimePuma</a></td>
-            <td>2011-03-25</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>10204</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=19219887">
                 <img src="https://pbs.twimg.com/profile_images/85428318/Finn_McCool_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2242,6 +2231,17 @@ Found 1114 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>9922</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=271991839">
+                <img src="https://pbs.twimg.com/profile_images/1426002493541011457/F3JhaNCe_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PrimeTimePuma">PrimeTimePuma</a></td>
+            <td>2011-03-25</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>9846</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=16109012">
@@ -2318,7 +2318,7 @@ Found 1114 suspensions for tracked accounts.
             <td>2021-12-15</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>7679</td>
+            <td>7692</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1135749032335302657">
@@ -2329,7 +2329,7 @@ Found 1114 suspensions for tracked accounts.
             <td>2019-06-04</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>7467</td>
+            <td>7462</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1512310231925198849">
@@ -2450,7 +2450,7 @@ Found 1114 suspensions for tracked accounts.
             <td>2020-07-01</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>4089</td>
+            <td>4093</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=17926194">

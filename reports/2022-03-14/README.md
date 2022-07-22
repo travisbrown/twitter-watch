@@ -102,7 +102,7 @@ Found 12 suspensions for tracked accounts.
             <td>2021-06-03</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>617</td>
+            <td>612</td>
             <td>45898</td>
         </tr>
         <tr>
@@ -345,7 +345,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Wallace45th">Wallace45th</a>
             </td>
             <td align="center"></td>
-            <td>138</td>
+            <td>146</td>
             <td>10158</td>
         </tr>
         <tr>
@@ -436,12 +436,12 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/dnlfrankly">dnlfrankly</a>
             </td>
             <td align="center"></td>
-            <td>577</td>
+            <td>574</td>
             <td>16421</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1049751249065832448">
-                <img src="https://pbs.twimg.com/profile_images/1549191990432104448/Pn9rq7gh_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1549936366246658049/QIG52nFu_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/SHOEGAZEMlLF">SHOEGAZEMlLF</a>&nbsp;(<a href="https://memory.lol/tw/id/1049751249065832448">5 others</a>)&nbsp;</td>
@@ -449,7 +449,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MKULTRAMlLF">MKULTRAMlLF</a>
             </td>
             <td align="center"></td>
-            <td>12876</td>
+            <td>12881</td>
             <td>16861</td>
         </tr>
         <tr>
@@ -462,7 +462,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BW_Libertarian">BW_Libertarian</a>
             </td>
             <td align="center"></td>
-            <td>114</td>
+            <td>115</td>
             <td>18008</td>
         </tr>
         <tr>
@@ -514,7 +514,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ApollosValor">ApollosValor</a>
             </td>
             <td align="center"></td>
-            <td>720</td>
+            <td>722</td>
             <td>27733</td>
         </tr>
         <tr>
@@ -566,7 +566,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ashschaeffer1">ashschaeffer1</a>
             </td>
             <td align="center"></td>
-            <td>304</td>
+            <td>303</td>
             <td>36354</td>
         </tr>
         <tr>
@@ -579,7 +579,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Rising8Patriots">Rising8Patriots</a>
             </td>
             <td align="center"></td>
-            <td>166</td>
+            <td>165</td>
             <td>39106</td>
         </tr>
         <tr>
@@ -618,7 +618,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/truegodsattend">truegodsattend</a>
             </td>
             <td align="center"></td>
-            <td>795</td>
+            <td>793</td>
             <td>45420</td>
         </tr>
         <tr>
@@ -631,7 +631,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheologyHipHop">TheologyHipHop</a>
             </td>
             <td align="center"></td>
-            <td>103</td>
+            <td>102</td>
             <td>45623</td>
         </tr>
         <tr>
@@ -670,7 +670,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/frogwntcourtn">frogwntcourtn</a>
             </td>
             <td align="center"></td>
-            <td>121</td>
+            <td>122</td>
             <td>50849</td>
         </tr>
         <tr>
@@ -735,7 +735,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/0xSumanth">0xSumanth</a>
             </td>
             <td align="center"></td>
-            <td>708</td>
+            <td>709</td>
             <td>58655</td>
         </tr>
         <tr>
@@ -774,12 +774,12 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MaxMeles">MaxMeles</a>
             </td>
             <td align="center"></td>
-            <td>590</td>
+            <td>588</td>
             <td>70129</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1422834631699795970">
-                <img src="https://pbs.twimg.com/profile_images/1548567761558933504/ffH7WyzT_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1550117690890629120/JOo_gm9V_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/aintnoflwrchild">aintnoflwrchild</a>&nbsp;(<a href="https://memory.lol/tw/id/1422834631699795970">1 other</a>)&nbsp;</td>
@@ -787,7 +787,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/schizoshawty">schizoshawty</a>
             </td>
             <td align="center"></td>
-            <td>2200</td>
+            <td>2197</td>
             <td>75063</td>
         </tr>
         <tr>
@@ -846,7 +846,7 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1198 suspensions for tracked accounts.
+Found 1198 suspensions for untracked accounts.
 93 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

@@ -226,7 +226,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PaxRomana88">PaxRomana88</a>
             </td>
             <td align="center"></td>
-            <td>9</td>
+            <td>10</td>
             <td>4502</td>
         </tr>
         <tr>
@@ -239,7 +239,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SporadicPosting">SporadicPosting</a>
             </td>
             <td align="center"></td>
-            <td>828</td>
+            <td>832</td>
             <td>4805</td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AwokenSentience">AwokenSentience</a>
             </td>
             <td align="center"></td>
-            <td>110</td>
+            <td>108</td>
             <td>15506</td>
         </tr>
         <tr>
@@ -382,7 +382,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/tootsiegoblin">tootsiegoblin</a>
             </td>
             <td align="center"></td>
-            <td>1216</td>
+            <td>1293</td>
             <td>94393</td>
         </tr>
         <tr>
@@ -415,7 +415,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1275 suspensions for tracked accounts.
+Found 1275 suspensions for untracked accounts.
 90 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -459,7 +459,7 @@ Found 1275 suspensions for tracked accounts.
             <td>2020-05-15</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>45392</td>
+            <td>45531</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1194510801509314563">

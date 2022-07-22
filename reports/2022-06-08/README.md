@@ -54,7 +54,7 @@ Found 61 suspensions for tracked accounts.
             <td>2020-01-29</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>12357</td>
+            <td>12792</td>
             <td>627</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ Found 61 suspensions for tracked accounts.
             <td>2021-10-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1008</td>
+            <td>1017</td>
             <td>2171</td>
         </tr>
         <tr>
@@ -294,7 +294,7 @@ Found 61 suspensions for tracked accounts.
             <td>2022-05-18</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>149</td>
+            <td>156</td>
             <td>5864</td>
         </tr>
         <tr>
@@ -474,7 +474,7 @@ Found 61 suspensions for tracked accounts.
             <td>2021-12-12</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>1406</td>
+            <td>1403</td>
             <td>24138</td>
         </tr>
         <tr>
@@ -803,7 +803,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Foxpoasting">Foxpoasting</a>
             </td>
             <td align="center"></td>
-            <td>85</td>
+            <td>86</td>
             <td>13291</td>
         </tr>
         <tr>
@@ -816,7 +816,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Old_Wise_Hermit">Old_Wise_Hermit</a>
             </td>
             <td align="center"></td>
-            <td>336</td>
+            <td>334</td>
             <td>32157</td>
         </tr>
         <tr>
@@ -829,7 +829,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ultra_lioness">ultra_lioness</a>
             </td>
             <td align="center"></td>
-            <td>1691</td>
+            <td>1767</td>
             <td>37494</td>
         </tr>
         <tr>
@@ -842,14 +842,14 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/paisjsjsj08265">paisjsjsj08265</a>
             </td>
             <td align="center"></td>
-            <td>124</td>
+            <td>120</td>
             <td>84486</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 713 suspensions for tracked accounts.
+Found 713 suspensions for untracked accounts.
 106 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -1501,6 +1501,17 @@ Found 713 suspensions for tracked accounts.
             <td>2412</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=166756860">
+                <img src="https://pbs.twimg.com/profile_images/1537294464137449473/AxZkp2Do_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SheriffBrockman">SheriffBrockman</a>&nbsp;(<a href="https://memory.lol/tw/id/166756860">1 other</a>)&nbsp;</td>
+            <td>2010-07-14</td>
+            <td>2022-06-09</td>
+            <td align="center"></td>
+            <td>2340</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1525618329980784640">
                 <img src="https://pbs.twimg.com/profile_images/1532036989981061120/8NdyrDmk_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1510,17 +1521,6 @@ Found 713 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2325</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=166756860">
-                <img src="https://pbs.twimg.com/profile_images/1537294464137449473/AxZkp2Do_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SheriffBrockman">SheriffBrockman</a>&nbsp;(<a href="https://memory.lol/tw/id/166756860">1 other</a>)&nbsp;</td>
-            <td>2010-07-14</td>
-            <td>2022-06-09</td>
-            <td align="center"></td>
-            <td>2315</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1482002621821067266">
@@ -1542,7 +1542,7 @@ Found 713 suspensions for tracked accounts.
             <td>2013-01-10</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>2212</td>
+            <td>2197</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1052980960076189697">
