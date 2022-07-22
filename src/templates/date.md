@@ -90,7 +90,7 @@ Found {{ tracked_screen_name_changes | length }} screen name changes for tracked
 
 ### Untracked suspensions
 
-Found {{ untracked_suspensions_count }} suspensions for tracked accounts.
+Found {{ untracked_suspensions_count }} suspensions for untracked accounts.
 {{ untracked_suspensions | length }} accounts have more than {{ untracked_suspensions_limit }} followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
