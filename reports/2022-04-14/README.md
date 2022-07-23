@@ -241,7 +241,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/misinfocentral">misinfocentral</a>
             </td>
             <td align="center"></td>
-            <td>42</td>
+            <td>43</td>
             <td>40437</td>
         </tr>
         <tr>
@@ -280,7 +280,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Caroline_c_57">Caroline_c_57</a>
             </td>
             <td align="center"></td>
-            <td>515</td>
+            <td>514</td>
             <td>76535</td>
         </tr>
         <tr>
@@ -293,7 +293,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SickOfMorons86">SickOfMorons86</a>
             </td>
             <td align="center"></td>
-            <td>258</td>
+            <td>256</td>
             <td>82498</td>
         </tr>
         <tr>
@@ -306,7 +306,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/WormFinderEng">WormFinderEng</a>
             </td>
             <td align="center"></td>
-            <td>3</td>
+            <td>2</td>
             <td>93881</td>
         </tr></table>
 

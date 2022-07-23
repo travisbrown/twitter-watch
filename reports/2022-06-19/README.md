@@ -239,7 +239,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SporadicPosting">SporadicPosting</a>
             </td>
             <td align="center"></td>
-            <td>832</td>
+            <td>831</td>
             <td>4805</td>
         </tr>
         <tr>
@@ -252,7 +252,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/thisisnotarose">thisisnotarose</a>
             </td>
             <td align="center"></td>
-            <td>10</td>
+            <td>11</td>
             <td>13433</td>
         </tr>
         <tr>
@@ -343,7 +343,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/VirialExpansion">VirialExpansion</a>
             </td>
             <td align="center"></td>
-            <td>253</td>
+            <td>252</td>
             <td>59035</td>
         </tr>
         <tr>
@@ -382,7 +382,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/tootsiegoblin">tootsiegoblin</a>
             </td>
             <td align="center"></td>
-            <td>1293</td>
+            <td>1307</td>
             <td>94393</td>
         </tr>
         <tr>
@@ -452,14 +452,14 @@ Found 1275 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1261214215404224513">
-                <img src="https://pbs.twimg.com/profile_images/1534774271993593857/XJBi7Cuw_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1550348013289308161/GlmMVP9S_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/GuguPeterson">GuguPeterson</a>&nbsp;(<a href="https://memory.lol/tw/id/1261214215404224513">4 others</a>)&nbsp;</td>
             <td>2020-05-15</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>45531</td>
+            <td>45670</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1194510801509314563">

@@ -141,7 +141,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/AZmilitary1">AZmilitary1</a>
             </td>
             <td align="center"></td>
-            <td>42250</td>
+            <td>42310</td>
             <td>211</td>
         </tr>
         <tr>
@@ -422,7 +422,7 @@ Found 702 suspensions for untracked accounts.
             <td>2009-11-26</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>3733</td>
+            <td>3734</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1088725733789323264">

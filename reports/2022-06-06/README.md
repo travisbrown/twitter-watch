@@ -645,7 +645,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/EldianLifter">EldianLifter</a>
             </td>
             <td align="center"></td>
-            <td>1323</td>
+            <td>1320</td>
             <td>1484</td>
         </tr>
         <tr>
@@ -671,7 +671,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bitcoin_citizen">bitcoin_citizen</a>
             </td>
             <td align="center"></td>
-            <td>142</td>
+            <td>141</td>
             <td>45360</td>
         </tr>
         <tr>

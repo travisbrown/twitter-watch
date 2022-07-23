@@ -333,7 +333,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MarmotRespecter">MarmotRespecter</a>
             </td>
             <td align="center"></td>
-            <td>12873</td>
+            <td>12880</td>
             <td>525</td>
         </tr>
         <tr>
@@ -372,7 +372,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/makrikeyed">makrikeyed</a>
             </td>
             <td align="center"></td>
-            <td>390</td>
+            <td>389</td>
             <td>2677</td>
         </tr>
         <tr>
@@ -437,7 +437,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/wydnaR1b">wydnaR1b</a>
             </td>
             <td align="center"></td>
-            <td>90</td>
+            <td>91</td>
             <td>30931</td>
         </tr>
         <tr>
@@ -450,7 +450,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/arikryptos">arikryptos</a>
             </td>
             <td align="center"></td>
-            <td>737</td>
+            <td>757</td>
             <td>31031</td>
         </tr>
         <tr>
@@ -528,7 +528,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/sordyces">sordyces</a>
             </td>
             <td align="center"></td>
-            <td>18</td>
+            <td>19</td>
             <td>74167</td>
         </tr>
         <tr>
@@ -541,7 +541,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SeedOil_Enjoyer">SeedOil_Enjoyer</a>
             </td>
             <td align="center"></td>
-            <td>112</td>
+            <td>113</td>
             <td>78875</td>
         </tr>
         <tr>
@@ -567,7 +567,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/lfg_lou">lfg_lou</a>
             </td>
             <td align="center"></td>
-            <td>348</td>
+            <td>347</td>
             <td>93918</td>
         </tr></table>
 

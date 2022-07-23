@@ -250,7 +250,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jesuislecanada">jesuislecanada</a>
             </td>
             <td align="center"></td>
-            <td>634</td>
+            <td>635</td>
             <td>22114</td>
         </tr>
         <tr>
@@ -263,7 +263,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/corinaaa_c">corinaaa_c</a>
             </td>
             <td align="center"></td>
-            <td>957</td>
+            <td>955</td>
             <td>24459</td>
         </tr>
         <tr>
@@ -510,7 +510,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/winterishere96">winterishere96</a>
             </td>
             <td align="center"></td>
-            <td>368</td>
+            <td>367</td>
             <td>65985</td>
         </tr>
         <tr>
@@ -536,7 +536,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JuanQInfidel">JuanQInfidel</a>
             </td>
             <td align="center"></td>
-            <td>2396</td>
+            <td>2395</td>
             <td>77100</td>
         </tr>
         <tr>
@@ -653,7 +653,7 @@ Found 50 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/peace2strength">peace2strength</a>
             </td>
             <td align="center"></td>
-            <td>150</td>
+            <td>149</td>
             <td>87387</td>
         </tr>
         <tr>
@@ -923,7 +923,7 @@ Found 267 suspensions for untracked accounts.
             <td>2021-04-26</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>3441</td>
+            <td>3442</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=917543171890077696">

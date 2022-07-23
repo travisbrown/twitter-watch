@@ -210,7 +210,7 @@ Found 74 suspensions for tracked accounts.
             <td>2019-10-16</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>18726</td>
+            <td>18738</td>
             <td>15163</td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@ Found 74 suspensions for tracked accounts.
             <td>2022-06-16</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>117</td>
+            <td>115</td>
             <td>17781</td>
         </tr>
         <tr>
@@ -972,7 +972,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Godspresence_">Godspresence_</a>
             </td>
             <td align="center"></td>
-            <td>1434</td>
+            <td>1431</td>
             <td>30701</td>
         </tr>
         <tr>
@@ -985,7 +985,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/whalecomeback">whalecomeback</a>
             </td>
             <td align="center"></td>
-            <td>1241</td>
+            <td>1247</td>
             <td>38714</td>
         </tr>
         <tr>
@@ -1024,7 +1024,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KntuckyFriedMrk">KntuckyFriedMrk</a>
             </td>
             <td align="center"></td>
-            <td>639</td>
+            <td>640</td>
             <td>97854</td>
         </tr></table>
 
@@ -1130,7 +1130,7 @@ Found 2259 suspensions for untracked accounts.
             <td>2009-10-26</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>25534</td>
+            <td>25535</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=853131667879337985">
@@ -1645,7 +1645,7 @@ Found 2259 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CitizenLenz">CitizenLenz</a></td>
             <td>2021-07-08</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>3930</td>
         </tr>
@@ -2728,6 +2728,17 @@ Found 2259 suspensions for untracked accounts.
             <td>1455</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1311981647433265158">
+                <img src="https://pbs.twimg.com/profile_images/1540073594558054401/A9bqWfnZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Khojo_Hazard25">Khojo_Hazard25</a>&nbsp;(<a href="https://memory.lol/tw/id/1311981647433265158">3 others</a>)&nbsp;</td>
+            <td>2020-10-02</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>1441</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=601021985">
                 <img src="https://pbs.twimg.com/profile_images/1201142610053738497/xzJbN87__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2759,17 +2770,6 @@ Found 2259 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1424</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1311981647433265158">
-                <img src="https://pbs.twimg.com/profile_images/1540073594558054401/A9bqWfnZ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Khojo_Hazard25">Khojo_Hazard25</a>&nbsp;(<a href="https://memory.lol/tw/id/1311981647433265158">3 others</a>)&nbsp;</td>
-            <td>2020-10-02</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>1415</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1511432045037301761">

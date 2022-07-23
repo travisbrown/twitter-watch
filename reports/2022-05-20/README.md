@@ -138,7 +138,7 @@ Found 12 suspensions for tracked accounts.
             <td>2013-05-22</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>704</td>
+            <td>706</td>
             <td>82048</td>
         </tr>
         <tr>
@@ -189,7 +189,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Grumpenfella">Grumpenfella</a>
             </td>
             <td align="center"></td>
-            <td>797</td>
+            <td>795</td>
             <td>2116</td>
         </tr>
         <tr>
@@ -1051,7 +1051,7 @@ Found 748 suspensions for untracked accounts.
             <td>2009-05-12</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1059</td>
+            <td>1060</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=600306861">

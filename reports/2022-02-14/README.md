@@ -69,7 +69,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Pissed_Penguin2">Pissed_Penguin2</a>
             </td>
             <td align="center"></td>
-            <td>425</td>
+            <td>424</td>
             <td>1996</td>
         </tr>
         <tr>
@@ -905,7 +905,7 @@ Found 705 suspensions for untracked accounts.
             <td>2017-01-29</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>4707</td>
+            <td>4706</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=49818472">
@@ -2423,7 +2423,7 @@ Found 705 suspensions for untracked accounts.
             <td>2019-06-20</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1038</td>
+            <td>1039</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=14063564">

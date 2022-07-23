@@ -28,7 +28,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WLMCalifornia">WLMCalifornia</a></td>
             <td>2022-03-31</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>1103</td>
             <td>1971</td>
@@ -64,7 +64,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WLM_NEW_YORK">WLM_NEW_YORK</a></td>
             <td>2022-02-17</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>367</td>
             <td>3668</td>
@@ -138,7 +138,7 @@ Found 35 suspensions for tracked accounts.
             <td>2015-01-19</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>318368</td>
+            <td>318358</td>
             <td>10746</td>
         </tr>
         <tr>
@@ -504,7 +504,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/OBDpilled">OBDpilled</a>
             </td>
             <td align="center"></td>
-            <td>73</td>
+            <td>74</td>
             <td>44117</td>
         </tr>
         <tr>
@@ -517,7 +517,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/CHUDskyCHAD">CHUDskyCHAD</a>
             </td>
             <td align="center"></td>
-            <td>71</td>
+            <td>72</td>
             <td>84180</td>
         </tr></table>
 
@@ -964,7 +964,7 @@ Found 1679 suspensions for untracked accounts.
             <td>2015-06-15</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>4853</td>
+            <td>4864</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=69561379">
@@ -1160,7 +1160,7 @@ Found 1679 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tradersSZ1">tradersSZ1</a>&nbsp;(<a href="https://memory.lol/tw/id/1029492438715572224">2 others</a>)&nbsp;</td>
             <td>2018-08-14</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>2518</td>
         </tr>
@@ -1217,7 +1217,7 @@ Found 1679 suspensions for untracked accounts.
             <td>2021-09-01</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>2392</td>
+            <td>2397</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1289569192879050756">

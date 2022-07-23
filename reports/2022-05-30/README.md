@@ -90,7 +90,7 @@ Found 15 suspensions for tracked accounts.
             <td>2019-10-30</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>254</td>
+            <td>255</td>
             <td>15452</td>
         </tr>
         <tr>
@@ -238,7 +238,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/germaniccocaine">germaniccocaine</a>
             </td>
             <td align="center"></td>
-            <td>4712</td>
+            <td>4711</td>
             <td>34636</td>
         </tr>
         <tr>
@@ -264,7 +264,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/humbleconquest">humbleconquest</a>
             </td>
             <td align="center"></td>
-            <td>40</td>
+            <td>41</td>
             <td>86708</td>
         </tr>
         <tr>
@@ -317,7 +317,7 @@ Found 656 suspensions for untracked accounts.
             <td>2011-05-13</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>255205</td>
+            <td>255413</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1317273362083778561">
@@ -405,7 +405,7 @@ Found 656 suspensions for untracked accounts.
             <td>2013-05-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>30280</td>
+            <td>30277</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=572122341">
@@ -416,7 +416,7 @@ Found 656 suspensions for untracked accounts.
             <td>2012-05-05</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>27614</td>
+            <td>27631</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1163303124">
@@ -585,14 +585,14 @@ Found 656 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1267323662492938246">
-                <img src="https://pbs.twimg.com/profile_images/1539868684881117184/jzNJaAYU_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1550577838230835207/YEfSYYLT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/AnonyMouse_real">AnonyMouse_real</a>&nbsp;(<a href="https://memory.lol/tw/id/1267323662492938246">1 other</a>)&nbsp;</td>
             <td>2020-06-01</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3868</td>
+            <td>3873</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1320446057692700673">

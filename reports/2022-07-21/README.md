@@ -136,7 +136,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Spagetten77">Spagetten77</a></td>
             <td>2022-01-05</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>71</td>
             <td>7680</td>
@@ -232,7 +232,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Troy89298611">Troy89298611</a></td>
             <td>2018-11-20</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>2399</td>
             <td>27132</td>
@@ -412,7 +412,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GlenPronghorn">GlenPronghorn</a></td>
             <td>2020-04-25</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>623</td>
             <td>65887</td>
@@ -472,7 +472,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HuntersKilos">HuntersKilos</a></td>
             <td>2022-01-19</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>494</td>
             <td>92195</td>
@@ -1523,7 +1523,7 @@ Found 1409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Covfefe_Willi">Covfefe_Willi</a>&nbsp;(<a href="https://memory.lol/tw/id/1194639800265052165">1 other</a>)&nbsp;</td>
             <td>2019-11-13</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>3702</td>
         </tr>
@@ -1996,7 +1996,7 @@ Found 1409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/carnalcrow">carnalcrow</a></td>
             <td>2013-05-28</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>2115</td>
         </tr>
@@ -2370,7 +2370,7 @@ Found 1409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/janetho80068228">janetho80068228</a></td>
             <td>2022-03-19</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>1565</td>
         </tr>

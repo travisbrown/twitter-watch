@@ -382,7 +382,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/korbendallasNY">korbendallasNY</a>
             </td>
             <td align="center"></td>
-            <td>1268</td>
+            <td>1270</td>
             <td>10288</td>
         </tr>
         <tr>
@@ -395,7 +395,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ChikaSupremacy">ChikaSupremacy</a>
             </td>
             <td align="center"></td>
-            <td>204</td>
+            <td>208</td>
             <td>47026</td>
         </tr>
         <tr>
@@ -421,7 +421,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SociopaticCat">SociopaticCat</a>
             </td>
             <td align="center"></td>
-            <td>332</td>
+            <td>347</td>
             <td>86800</td>
         </tr></table>
 
@@ -1548,7 +1548,7 @@ Found 1476 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ha2l">ha2l</a></td>
             <td>2009-12-10</td>
-            <td></td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>1357</td>
         </tr>

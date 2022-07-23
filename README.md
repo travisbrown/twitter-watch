@@ -32,16 +32,16 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 141783
-* Total number of suspension reversals detected: 4589
-* Mean number of followers for suspended accounts: 1707.89
+* Total number of suspensions detected: 142612
+* Total number of suspension reversals detected: 4812
+* Mean number of followers for suspended accounts: 1702.13
 * Median number of followers for suspended accounts: 53
-* Mean age of suspended accounts (days): 949.97
-* Median age of suspended accounts (days): 255
+* Mean age of suspended accounts (days): 949.96
+* Median age of suspended accounts (days): 256
 * Total number of verified accounts suspended: 88
-* Total number of protected accounts suspended: 7360
+* Total number of protected accounts suspended: 7410
 * Total number of suspensions for accounts previously withheld in specific countries: 9
-* Total number of screen name changes detected: 303545
+* Total number of screen name changes detected: 316121
 
 
 
@@ -290,11 +290,19 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2022-07-23/">23 July 2022</a>
+            </td>
+            <td>480</td>
+            <td>5</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2022-07-22/">22 July 2022</a>
             </td>
-            <td>1016</td>
-            <td>36</td>
-            <td>52</td>
+            <td>1383</td>
+            <td>37</td>
+            <td>65</td>
         </tr>
         <tr>
             <td>
@@ -542,7 +550,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>831</td>
             <td>25</td>
-            <td>72</td>
+            <td>71</td>
         </tr>
         <tr>
             <td>
@@ -1486,7 +1494,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>702</td>
             <td>7</td>
-            <td>161</td>
+            <td>160</td>
         </tr>
         <tr>
             <td>

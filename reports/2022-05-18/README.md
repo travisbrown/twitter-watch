@@ -162,7 +162,7 @@ Found 14 suspensions for tracked accounts.
             <td>2010-08-03</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>321</td>
+            <td>324</td>
             <td>92271</td>
         </tr>
         <tr>
@@ -213,7 +213,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/738x738">738x738</a>
             </td>
             <td align="center"></td>
-            <td>1241</td>
+            <td>1240</td>
             <td>17594</td>
         </tr>
         <tr>
@@ -252,7 +252,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SeaHagHeretic">SeaHagHeretic</a>
             </td>
             <td align="center"></td>
-            <td>395</td>
+            <td>396</td>
             <td>92513</td>
         </tr></table>
 
