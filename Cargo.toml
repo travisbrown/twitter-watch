@@ -10,7 +10,7 @@ chrono = { version = "0.4", features = ["serde"] }
 clap = { version = "3", features = ["derive"] }
 csv = "1"
 log = "0.4"
-memory-lol = "0.1"
+memory-lol = "0.2"
 serde = "1"
 serde_derive = "1"
 serde_json = { version = "1", features = ["preserve_order"] }

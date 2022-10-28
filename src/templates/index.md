@@ -86,7 +86,7 @@ Current list of suspensions of accounts most central to far-right networks since
                 <a href="https://twitter.com/{{ item.0.record.screen_name }}">{{ item.0.record.screen_name }}</a>
                 {%- if item.0.other_screen_name_count == 0 -%}
                 {%- else -%}
-                    &nbsp;(<a href="https://memory.lol/tw/id/{{ item.0.record.user_id }}">
+                    &nbsp;(<a href="https://api.memory.lol/v1/tw/id/{{ item.0.record.user_id }}">
                         {{- item.0.other_screen_name_count }} other{{ item.0.other_screen_name_count | pluralize -}}
                     </a>)&nbsp;
                 {%- endif -%}

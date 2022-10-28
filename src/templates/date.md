@@ -30,7 +30,7 @@ Found {{ tracked_suspensions | length }} suspensions for tracked accounts.
                 <a href="https://twitter.com/{{ item.record.screen_name }}">{{ item.record.screen_name }}</a>
                 {%- if item.other_screen_name_count == 0 -%}
                 {%- else -%}
-                    &nbsp;(<a href="https://memory.lol/tw/id/{{ item.record.user_id }}">
+                    &nbsp;(<a href="https://api.memory.lol/v1/tw/id/{{ item.record.user_id }}">
                         {{- item.other_screen_name_count }} other{{ item.other_screen_name_count | pluralize -}}
                     </a>)&nbsp;
                 {%- endif -%}
@@ -38,7 +38,7 @@ Found {{ tracked_suspensions | length }} suspensions for tracked accounts.
             <td>{{ item.record.created_at | date(format="%Y-%m-%d") }}</td>
             <td>{% if item.record.reversal %}{{ item.record.reversal | date(format="%Y-%m-%d") }}{% else %}{% endif %}</td>
             <td align="center">
-                {%- if item.record.protected == 0 %}🔒{% else %}{% endif %}{% if item.record.verified == 0 -%}✔️{%- else -%}{%- endif -%}
+                {%- if item.record.protected %}🔒{% else %}{% endif %}{% if item.record.verified -%}✔️{%- else -%}{%- endif -%}
             </td>
             <td>{{ item.record.followers_count }}</td>
             <td>{{ item.ranking }}</td>
@@ -70,7 +70,7 @@ Found {{ tracked_screen_name_changes | length }} screen name changes for tracked
                 <a href="https://twitter.com/{{ item.record.previous_screen_name }}">{{ item.record.previous_screen_name }}</a>
                 {%- if item.other_screen_name_count == 0 -%}
                 {%- else -%}
-                    &nbsp;(<a href="https://memory.lol/tw/id/{{ item.record.user_id }}">
+                    &nbsp;(<a href="https://api.memory.lol/v1/tw/id/{{ item.record.user_id }}">
                         {{- item.other_screen_name_count }} other{{ item.other_screen_name_count | pluralize -}}
                     </a>)&nbsp;
                 {%- endif -%}
@@ -79,7 +79,7 @@ Found {{ tracked_screen_name_changes | length }} screen name changes for tracked
                 <a href="https://twitter.com/{{ item.record.new_screen_name }}">{{ item.record.new_screen_name }}</a>
             </td>
             <td align="center">
-                {%- if item.record.protected == 0 %}🔒{% else %}{% endif %}{% if item.record.verified == 0 -%}✔️{%- else -%}{%- endif -%}
+                {%- if item.record.protected %}🔒{% else %}{% endif %}{% if item.record.verified -%}✔️{%- else -%}{%- endif -%}
             </td>
             <td>{{ item.record.followers_count }}</td>
             <td>{{ item.ranking }}</td>
@@ -90,7 +90,7 @@ Found {{ tracked_screen_name_changes | length }} screen name changes for tracked
 
 ### Untracked suspensions
 
-Found {{ untracked_suspensions_count }} suspensions for tracked accounts.
+Found {{ untracked_suspensions_count }} suspensions for untracked accounts.
 {{ untracked_suspensions | length }} accounts have more than {{ untracked_suspensions_limit }} followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -112,7 +112,7 @@ Found {{ untracked_suspensions_count }} suspensions for tracked accounts.
                 <a href="https://twitter.com/{{ item.record.screen_name }}">{{ item.record.screen_name }}</a>
                 {%- if item.other_screen_name_count == 0 -%}
                 {%- else -%}
-                    &nbsp;(<a href="https://memory.lol/tw/id/{{ item.record.user_id }}">
+                    &nbsp;(<a href="https://api.memory.lol/v1/tw/id/{{ item.record.user_id }}">
                         {{- item.other_screen_name_count }} other{{ item.other_screen_name_count | pluralize -}}
                     </a>)&nbsp;
                 {%- endif -%}
@@ -120,7 +120,7 @@ Found {{ untracked_suspensions_count }} suspensions for tracked accounts.
             <td>{{ item.record.created_at | date(format="%Y-%m-%d") }}</td>
             <td>{% if item.record.reversal %}{{ item.record.reversal | date(format="%Y-%m-%d") }}{% else %}{% endif %}</td>
             <td align="center">
-                {%- if item.record.protected == 0 %}🔒{% else %}{% endif %}{% if item.record.verified == 0 -%}✔️{%- else -%}{%- endif -%}
+                {%- if item.record.protected %}🔒{% else %}{% endif %}{% if item.record.verified -%}✔️{%- else -%}{%- endif -%}
             </td>
             <td>{{ item.record.followers_count }}</td>
         </tr>
