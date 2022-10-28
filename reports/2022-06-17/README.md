@@ -42,7 +42,7 @@ Found 6 suspensions for tracked accounts.
             <td>2022-03-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>487</td>
+            <td>486</td>
             <td>1596</td>
         </tr>
         <tr>
@@ -117,7 +117,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/FunScalaConf">FunScalaConf</a>
             </td>
             <td align="center"></td>
-            <td>1925</td>
+            <td>1927</td>
             <td>1537</td>
         </tr>
         <tr>
@@ -195,7 +195,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/s00nd">s00nd</a>
             </td>
             <td align="center"></td>
-            <td>7895</td>
+            <td>7893</td>
             <td>86534</td>
         </tr></table>
 
@@ -312,7 +312,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2015-06-27</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>76061</td>
+            <td>76051</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1287244090208288769">
@@ -345,7 +345,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2022-04-18</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>39639</td>
+            <td>39811</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1257872916282249216">
@@ -422,7 +422,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2010-01-12</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>19561</td>
+            <td>19559</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=182446919">
@@ -481,14 +481,14 @@ Found 1561 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=187632859">
-                <img src="https://pbs.twimg.com/profile_images/1585136111709573120/5BKr4wnt_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1585767464121556992/VRqXArhu_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/01SubiWRX">01SubiWRX</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/187632859">20 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/subidayo">subidayo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/187632859">20 others</a>)&nbsp;</td>
             <td>2010-09-06</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>13281</td>
+            <td>13280</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4631268494">
@@ -576,7 +576,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2016-03-29</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>8693</td>
+            <td>8680</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=884365488">
@@ -862,7 +862,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2016-03-14</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>4012</td>
+            <td>4013</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1398688816374947845">
@@ -950,7 +950,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2021-04-18</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>3457</td>
+            <td>3460</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1481523021806452737">
@@ -1522,7 +1522,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2014-11-15</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1487</td>
+            <td>1486</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1435424922080358404">
@@ -1679,17 +1679,6 @@ Found 1561 suspensions for untracked accounts.
             <td>1265</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=50093374">
-                <img src="https://pbs.twimg.com/profile_images/1355306305544736768/rr-yIV_i_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Skwerilleee">Skwerilleee</a></td>
-            <td>2009-06-23</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1261</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3194385986">
                 <img src="https://pbs.twimg.com/profile_images/1542108940745310208/-otjDoi5_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1697,6 +1686,17 @@ Found 1561 suspensions for untracked accounts.
                 <a href="https://twitter.com/hahahanipu">hahahanipu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3194385986">1 other</a>)&nbsp;</td>
             <td>2015-05-13</td>
             <td>2022-06-27</td>
+            <td align="center"></td>
+            <td>1262</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=50093374">
+                <img src="https://pbs.twimg.com/profile_images/1355306305544736768/rr-yIV_i_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Skwerilleee">Skwerilleee</a></td>
+            <td>2009-06-23</td>
+            <td></td>
             <td align="center"></td>
             <td>1261</td>
         </tr>

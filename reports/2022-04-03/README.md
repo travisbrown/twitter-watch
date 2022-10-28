@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2009-08-05</td>
             <td></td>
             <td align="center"></td>
-            <td>13997</td>
+            <td>13995</td>
             <td>80115</td>
         </tr></table>
 
@@ -159,7 +159,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KariLakeWarRoom">KariLakeWarRoom</a>
             </td>
             <td align="center"></td>
-            <td>44266</td>
+            <td>45292</td>
             <td>72037</td>
         </tr>
         <tr>
@@ -344,7 +344,7 @@ Found 958 suspensions for untracked accounts.
             <td>2020-11-12</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>10965</td>
+            <td>10956</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=792492689535164416">
@@ -597,7 +597,7 @@ Found 958 suspensions for untracked accounts.
             <td>2022-03-13</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>2896</td>
+            <td>2894</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1414966313424932866">

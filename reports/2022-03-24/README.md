@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2020-06-09</td>
             <td>2022-05-06</td>
             <td align="center">🔒</td>
-            <td>3560</td>
+            <td>3556</td>
             <td>85703</td>
         </tr></table>
 
@@ -144,7 +144,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FloridaThales">FloridaThales</a>
             </td>
             <td align="center"></td>
-            <td>2110</td>
+            <td>2117</td>
             <td>1786</td>
         </tr>
         <tr>
@@ -214,7 +214,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=415295530">
-                <img src="https://pbs.twimg.com/profile_images/1479099162490589186/i7KUI6Sk_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1585759727153483776/rXgNvrbF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/PauIyy">PauIyy</a></td>
@@ -222,7 +222,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Christo_Fresh">Christo_Fresh</a>
             </td>
             <td align="center"></td>
-            <td>122</td>
+            <td>120</td>
             <td>5928</td>
         </tr>
         <tr>
@@ -430,7 +430,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/thou_mayest33">thou_mayest33</a>
             </td>
             <td align="center"></td>
-            <td>43</td>
+            <td>44</td>
             <td>70797</td>
         </tr>
         <tr>
@@ -495,7 +495,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/starchild2045">starchild2045</a>
             </td>
             <td align="center">🔒</td>
-            <td>233</td>
+            <td>231</td>
             <td>77839</td>
         </tr>
         <tr>
@@ -586,7 +586,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/OnTheFarmNow">OnTheFarmNow</a>
             </td>
             <td align="center"></td>
-            <td>7</td>
+            <td>6</td>
             <td>97220</td>
         </tr></table>
 
@@ -1132,7 +1132,7 @@ Found 843 suspensions for untracked accounts.
             <td>2021-02-15</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>2313</td>
+            <td>2312</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=237006936">

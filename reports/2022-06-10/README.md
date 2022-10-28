@@ -30,7 +30,7 @@ Found 1 suspensions for tracked accounts.
             <td>2021-08-03</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>4771</td>
+            <td>4786</td>
             <td>10142</td>
         </tr></table>
 
@@ -57,7 +57,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AngelMeat101">AngelMeat101</a>
             </td>
             <td align="center"></td>
-            <td>334</td>
+            <td>335</td>
             <td>1092</td>
         </tr>
         <tr>
@@ -96,7 +96,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BasharAssad420">BasharAssad420</a>
             </td>
             <td align="center"></td>
-            <td>158</td>
+            <td>159</td>
             <td>12287</td>
         </tr>
         <tr>
@@ -109,7 +109,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bronzeagemaga">bronzeagemaga</a>
             </td>
             <td align="center">🔒</td>
-            <td>226</td>
+            <td>224</td>
             <td>12397</td>
         </tr>
         <tr>
@@ -148,7 +148,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MeanMugAFujoshi">MeanMugAFujoshi</a>
             </td>
             <td align="center"></td>
-            <td>325</td>
+            <td>324</td>
             <td>28469</td>
         </tr>
         <tr>
@@ -226,7 +226,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DionysianDesign">DionysianDesign</a>
             </td>
             <td align="center"></td>
-            <td>99</td>
+            <td>98</td>
             <td>53526</td>
         </tr>
         <tr>
@@ -252,7 +252,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/codeineblood">codeineblood</a>
             </td>
             <td align="center"></td>
-            <td>163</td>
+            <td>164</td>
             <td>55007</td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Rodriguez84AR">Rodriguez84AR</a>
             </td>
             <td align="center"></td>
-            <td>220</td>
+            <td>224</td>
             <td>61647</td>
         </tr>
         <tr>
@@ -278,7 +278,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/LibertyLins22">LibertyLins22</a>
             </td>
             <td align="center"></td>
-            <td>1279</td>
+            <td>1280</td>
             <td>67283</td>
         </tr>
         <tr>
@@ -291,7 +291,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/janettoomuchsun">janettoomuchsun</a>
             </td>
             <td align="center"></td>
-            <td>719</td>
+            <td>722</td>
             <td>70837</td>
         </tr>
         <tr>
@@ -330,7 +330,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Demetrios_EL">Demetrios_EL</a>
             </td>
             <td align="center"></td>
-            <td>123</td>
+            <td>124</td>
             <td>79530</td>
         </tr>
         <tr>
@@ -647,7 +647,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2012-11-19</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>5072</td>
+            <td>5078</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3741984078">
@@ -1307,7 +1307,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2021-06-19</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>1124</td>
+            <td>1126</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1437534567108390912">

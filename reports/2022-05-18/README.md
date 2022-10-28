@@ -105,7 +105,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/738x738">738x738</a>
             </td>
             <td align="center">🔒</td>
-            <td>1175</td>
+            <td>1171</td>
             <td>33847</td>
         </tr>
         <tr>
@@ -131,7 +131,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ltstorks">ltstorks</a>
             </td>
             <td align="center"></td>
-            <td>91</td>
+            <td>92</td>
             <td>62638</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/MyCupcake1111">MyCupcake1111</a>
             </td>
             <td align="center"></td>
-            <td>978</td>
+            <td>982</td>
             <td>75071</td>
         </tr></table>
 
@@ -294,7 +294,7 @@ Found 774 suspensions for untracked accounts.
             <td>2010-03-21</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>11257</td>
+            <td>11270</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1248346194159558659">
@@ -349,7 +349,7 @@ Found 774 suspensions for untracked accounts.
             <td>2021-01-19</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>4449</td>
+            <td>4448</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1262382448295456768">
@@ -481,7 +481,7 @@ Found 774 suspensions for untracked accounts.
             <td>2020-04-06</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2530</td>
+            <td>2528</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1162727287923625984">
@@ -624,7 +624,7 @@ Found 774 suspensions for untracked accounts.
             <td>2020-03-25</td>
             <td></td>
             <td align="center"></td>
-            <td>1423</td>
+            <td>1427</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491516148046872579">
@@ -781,17 +781,6 @@ Found 774 suspensions for untracked accounts.
             <td>1006</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2843681110">
-                <img src="https://pbs.twimg.com/profile_images/1435002524638003212/aGzg_bYc_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ShabADFA">ShabADFA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2843681110">1 other</a>)&nbsp;</td>
-            <td>2014-10-25</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1004</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1279971030300348416">
                 <img src="https://pbs.twimg.com/profile_images/1480614566220468229/OJIPleN2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -800,5 +789,16 @@ Found 774 suspensions for untracked accounts.
             <td>2020-07-06</td>
             <td>2022-07-18</td>
             <td align="center">🔒</td>
+            <td>1005</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2843681110">
+                <img src="https://pbs.twimg.com/profile_images/1435002524638003212/aGzg_bYc_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ShabADFA">ShabADFA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2843681110">1 other</a>)&nbsp;</td>
+            <td>2014-10-25</td>
+            <td></td>
+            <td align="center"></td>
             <td>1004</td>
         </tr></table>
