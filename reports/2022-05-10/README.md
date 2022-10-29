@@ -233,7 +233,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2018-03-05</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>43320</td>
+            <td>43314</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1223302770771595265">
@@ -255,7 +255,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2010-05-06</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>38409</td>
+            <td>38507</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=898759943393816576">
@@ -431,7 +431,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2009-03-17</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>7138</td>
+            <td>7139</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=949416615900274689">
@@ -453,7 +453,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2018-12-15</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>6257</td>
+            <td>6213</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=769920031970951168">
@@ -552,7 +552,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2021-10-18</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>4561</td>
+            <td>4564</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2878411998">
@@ -585,7 +585,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2013-01-22</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>3771</td>
+            <td>3757</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1400846234336825349">
@@ -662,7 +662,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2019-10-12</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>3187</td>
+            <td>3198</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1428252328813993990">
@@ -794,7 +794,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2021-10-12</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>2591</td>
+            <td>2593</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1293960255911743488">
@@ -1003,7 +1003,7 @@ Found 1073 suspensions for untracked accounts.
             <td>2021-11-05</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>2024</td>
+            <td>2023</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=725633429262458880">
@@ -1160,6 +1160,17 @@ Found 1073 suspensions for untracked accounts.
             <td>1663</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=3423983597">
+                <img src="https://pbs.twimg.com/profile_images/651769345333444608/Y8cq8btD_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/baaskelabs">baaskelabs</a></td>
+            <td>2015-08-15</td>
+            <td>2022-05-14</td>
+            <td align="center"></td>
+            <td>1614</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1471071491655622665">
                 <img src="https://pbs.twimg.com/profile_images/1479412793879240705/rQyYHykF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1169,17 +1180,6 @@ Found 1073 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1614</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=3423983597">
-                <img src="https://pbs.twimg.com/profile_images/651769345333444608/Y8cq8btD_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/baaskelabs">baaskelabs</a></td>
-            <td>2015-08-15</td>
-            <td>2022-05-14</td>
-            <td align="center"></td>
-            <td>1612</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1012143838121603074">

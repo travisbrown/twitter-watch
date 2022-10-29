@@ -651,7 +651,7 @@ Found 1335 suspensions for untracked accounts.
             <td>2016-06-25</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>16330</td>
+            <td>16379</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1488585899537584128">
@@ -1292,17 +1292,6 @@ Found 1335 suspensions for untracked accounts.
             <td>2403</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1032726920574758912">
-                <img src="https://pbs.twimg.com/profile_images/1549203582141997056/M0pXXkzA_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Garyk72902103">Garyk72902103</a></td>
-            <td>2018-08-23</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>2363</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3959137035">
                 <img src="https://pbs.twimg.com/profile_images/1548243013868015617/qWreq6LC_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1312,6 +1301,17 @@ Found 1335 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2355</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1032726920574758912">
+                <img src="https://pbs.twimg.com/profile_images/1549203582141997056/M0pXXkzA_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Garyk72902103">Garyk72902103</a></td>
+            <td>2018-08-23</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>2354</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=419809528">
@@ -1941,6 +1941,17 @@ Found 1335 suspensions for untracked accounts.
             <td>1240</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=191888355">
+                <img src="https://pbs.twimg.com/profile_images/1378081509119295493/voY7cInZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Garnet478">Garnet478</a></td>
+            <td>2010-09-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1236</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2245452953">
                 <img src="https://pbs.twimg.com/profile_images/446379425370996736/qk_DbN7a_normal.jpeg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1950,17 +1961,6 @@ Found 1335 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1236</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=191888355">
-                <img src="https://pbs.twimg.com/profile_images/1378081509119295493/voY7cInZ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Garnet478">Garnet478</a></td>
-            <td>2010-09-17</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1235</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1313421457830096897">

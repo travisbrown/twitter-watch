@@ -66,7 +66,7 @@ Found 7 suspensions for tracked accounts.
             <td>2020-07-09</td>
             <td></td>
             <td align="center"></td>
-            <td>30114</td>
+            <td>30210</td>
             <td>6077</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2016-04-20</td>
             <td></td>
             <td align="center"></td>
-            <td>2651</td>
+            <td>2668</td>
             <td>25340</td>
         </tr>
         <tr>
@@ -1131,7 +1131,7 @@ Found 1418 suspensions for untracked accounts.
             <td>2009-07-02</td>
             <td></td>
             <td align="center"></td>
-            <td>3727</td>
+            <td>3713</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=963667525769875457">
@@ -1615,7 +1615,7 @@ Found 1418 suspensions for untracked accounts.
             <td>2009-11-10</td>
             <td></td>
             <td align="center"></td>
-            <td>1648</td>
+            <td>1646</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1312996644586221568">
@@ -1802,7 +1802,7 @@ Found 1418 suspensions for untracked accounts.
             <td>2021-11-23</td>
             <td></td>
             <td align="center"></td>
-            <td>1395</td>
+            <td>1401</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1317920326047629312">
@@ -1816,23 +1816,23 @@ Found 1418 suspensions for untracked accounts.
             <td>1386</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=966072936540114945">
-                <img src="https://pbs.twimg.com/profile_images/1521189597006413827/UK6Er2H__normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/jontheharris">jontheharris</a></td>
-            <td>2018-02-20</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1365</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1531365195632852995">
                 <img src="https://pbs.twimg.com/profile_images/1543302688301006849/BuLzRPwb_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/FJBLamaKonan">FJBLamaKonan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1531365195632852995">1 other</a>)&nbsp;</td>
             <td>2022-05-30</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1372</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=966072936540114945">
+                <img src="https://pbs.twimg.com/profile_images/1521189597006413827/UK6Er2H__normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/jontheharris">jontheharris</a></td>
+            <td>2018-02-20</td>
             <td></td>
             <td align="center"></td>
             <td>1365</td>
@@ -1868,7 +1868,7 @@ Found 1418 suspensions for untracked accounts.
             <td>2017-01-30</td>
             <td></td>
             <td align="center"></td>
-            <td>1337</td>
+            <td>1344</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1008106466">
@@ -1934,7 +1934,7 @@ Found 1418 suspensions for untracked accounts.
             <td>2020-02-10</td>
             <td></td>
             <td align="center"></td>
-            <td>1247</td>
+            <td>1246</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=240939819">

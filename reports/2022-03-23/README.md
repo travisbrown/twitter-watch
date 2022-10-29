@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2013-06-05</td>
             <td>2022-03-26</td>
             <td align="center"></td>
-            <td>72410</td>
+            <td>72392</td>
             <td>24421</td>
         </tr></table>
 
@@ -752,7 +752,7 @@ Found 853 suspensions for untracked accounts.
             <td>2011-04-29</td>
             <td>2022-03-29</td>
             <td align="center"></td>
-            <td>32890</td>
+            <td>32873</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=109311649">
@@ -873,7 +873,7 @@ Found 853 suspensions for untracked accounts.
             <td>2017-03-29</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>19170</td>
+            <td>19160</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3554877982">
@@ -1162,6 +1162,17 @@ Found 853 suspensions for untracked accounts.
             <td>2962</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=349185415">
+                <img src="https://pbs.twimg.com/profile_images/1585257286104145922/tkeuS_EQ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/reuben_02">reuben_02</a></td>
+            <td>2011-08-05</td>
+            <td>2022-08-02</td>
+            <td align="center"></td>
+            <td>2692</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1113895210063421441">
                 <img src="https://pbs.twimg.com/profile_images/1139853930064744449/OryuK9e7_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1171,17 +1182,6 @@ Found 853 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2691</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=349185415">
-                <img src="https://pbs.twimg.com/profile_images/1585257286104145922/tkeuS_EQ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/reuben_02">reuben_02</a></td>
-            <td>2011-08-05</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>2682</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1363223907092762624">
@@ -1665,7 +1665,7 @@ Found 853 suspensions for untracked accounts.
             <td>2011-11-21</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1227</td>
+            <td>1238</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1410701618975236103">
@@ -1786,7 +1786,7 @@ Found 853 suspensions for untracked accounts.
             <td>2016-12-10</td>
             <td>2022-03-26</td>
             <td align="center"></td>
-            <td>1055</td>
+            <td>1054</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1457875075009589248">

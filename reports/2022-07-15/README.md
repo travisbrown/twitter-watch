@@ -1152,7 +1152,7 @@ Found 2215 suspensions for untracked accounts.
             <td>2013-01-15</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>2776</td>
+            <td>2780</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=548745357">
@@ -1328,7 +1328,7 @@ Found 2215 suspensions for untracked accounts.
             <td>2018-05-10</td>
             <td></td>
             <td align="center"></td>
-            <td>2353</td>
+            <td>2352</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1290063124415078400">
@@ -1702,7 +1702,7 @@ Found 2215 suspensions for untracked accounts.
             <td>2019-06-20</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1814</td>
+            <td>1815</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2406341711">
@@ -2090,17 +2090,6 @@ Found 2215 suspensions for untracked accounts.
             <td>1366</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=834781575212580865">
-                <img src="https://pbs.twimg.com/profile_images/1506551807002439689/aKb6dVyN_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ShivOm051555">ShivOm051555</a></td>
-            <td>2017-02-23</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1346</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1229421977888317440">
                 <img src="https://pbs.twimg.com/profile_images/1299021310299901953/MBEHiEh5_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2110,6 +2099,17 @@ Found 2215 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1346</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=834781575212580865">
+                <img src="https://pbs.twimg.com/profile_images/1506551807002439689/aKb6dVyN_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ShivOm051555">ShivOm051555</a></td>
+            <td>2017-02-23</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1345</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1466773212">

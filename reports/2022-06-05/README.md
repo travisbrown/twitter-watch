@@ -442,17 +442,6 @@ Found 1174 suspensions for untracked accounts.
             <td>4267</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=39512124">
-                <img src="https://pbs.twimg.com/profile_images/1062836106700488705/jKiJza6A_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/retail_recruit">retail_recruit</a></td>
-            <td>2009-05-12</td>
-            <td>2022-06-09</td>
-            <td align="center"></td>
-            <td>3890</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=833958751698812929">
                 <img src="https://pbs.twimg.com/profile_images/1490271463278096384/fqSx8J_m_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -473,6 +462,17 @@ Found 1174 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3872</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=39512124">
+                <img src="https://pbs.twimg.com/profile_images/1062836106700488705/jKiJza6A_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/retail_recruit">retail_recruit</a></td>
+            <td>2009-05-12</td>
+            <td>2022-06-09</td>
+            <td align="center"></td>
+            <td>3871</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=883369310265249792">
@@ -571,7 +571,7 @@ Found 1174 suspensions for untracked accounts.
             <td>2018-03-01</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>3231</td>
+            <td>3230</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1319334802160553984">
@@ -1000,7 +1000,7 @@ Found 1174 suspensions for untracked accounts.
             <td>2022-01-18</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1398</td>
+            <td>1397</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1187292729518252032">

@@ -725,7 +725,7 @@ Found 507 suspensions for untracked accounts.
             <td>2008-12-27</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>5291</td>
+            <td>5294</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=217201548">
@@ -916,14 +916,14 @@ Found 507 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=880513667325931520">
-                <img src="https://pbs.twimg.com/profile_images/1499921646395830278/AigZy_bV_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586080244401938432/yzXlcl0a_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/andreasdueren">andreasdueren</a></td>
             <td>2017-06-29</td>
             <td>2022-03-11</td>
             <td align="center"></td>
-            <td>3169</td>
+            <td>3171</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=515281693">
@@ -1033,7 +1033,7 @@ Found 507 suspensions for untracked accounts.
             <td>2016-11-12</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>2398</td>
+            <td>2401</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1110732529">
@@ -1385,5 +1385,5 @@ Found 507 suspensions for untracked accounts.
             <td>2018-02-05</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1008</td>
+            <td>1009</td>
         </tr></table>

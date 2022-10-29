@@ -30,7 +30,7 @@ Found 1 suspensions for tracked accounts.
             <td>2015-09-06</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>1779</td>
+            <td>1778</td>
             <td>35652</td>
         </tr></table>
 
@@ -777,18 +777,7 @@ Found 519 suspensions for untracked accounts.
             <td>2012-07-12</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>1573</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1027709464906948610">
-                <img src="https://pbs.twimg.com/profile_images/1499411402389278721/4y8lPaK7_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SubversiveUnde1">SubversiveUnde1</a></td>
-            <td>2018-08-10</td>
-            <td>2022-03-14</td>
-            <td align="center"></td>
-            <td>1522</td>
+            <td>1574</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1333674828725956608">
@@ -822,6 +811,17 @@ Found 519 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1514</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1027709464906948610">
+                <img src="https://pbs.twimg.com/profile_images/1499411402389278721/4y8lPaK7_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SubversiveUnde1">SubversiveUnde1</a></td>
+            <td>2018-08-10</td>
+            <td>2022-03-14</td>
+            <td align="center"></td>
+            <td>1513</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1410007804723728387">

@@ -945,7 +945,7 @@ Found 1389 suspensions for untracked accounts.
             <td>2013-11-17</td>
             <td></td>
             <td align="center"></td>
-            <td>22889</td>
+            <td>22898</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=20435808">
@@ -1924,7 +1924,7 @@ Found 1389 suspensions for untracked accounts.
             <td>2020-10-02</td>
             <td></td>
             <td align="center"></td>
-            <td>1625</td>
+            <td>1627</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=989813524284301312">
@@ -2334,17 +2334,6 @@ Found 1389 suspensions for untracked accounts.
             <td>1145</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1519530662125998080">
-                <img src="https://pbs.twimg.com/profile_images/1536637771577577472/gF6GmmUL_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/GPRosenblatt2">GPRosenblatt2</a></td>
-            <td>2022-04-28</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1138</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2777942860">
                 <img src="https://pbs.twimg.com/profile_images/1435640733013352452/4JiY43w0_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2362,6 +2351,17 @@ Found 1389 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kathlee33077742">Kathlee33077742</a></td>
             <td>2020-07-11</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1137</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1519530662125998080">
+                <img src="https://pbs.twimg.com/profile_images/1536637771577577472/gF6GmmUL_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/GPRosenblatt2">GPRosenblatt2</a></td>
+            <td>2022-04-28</td>
             <td></td>
             <td align="center"></td>
             <td>1137</td>

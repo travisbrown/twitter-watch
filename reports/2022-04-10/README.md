@@ -126,7 +126,7 @@ Found 9 suspensions for tracked accounts.
             <td>2022-01-02</td>
             <td>2022-04-26</td>
             <td align="center">🔒</td>
-            <td>455</td>
+            <td>454</td>
             <td>72490</td>
         </tr></table>
 
@@ -637,7 +637,7 @@ Found 745 suspensions for untracked accounts.
             <td>2016-08-29</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>259542</td>
+            <td>259653</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=343157640">
@@ -813,7 +813,7 @@ Found 745 suspensions for untracked accounts.
             <td>2010-01-08</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>8040</td>
+            <td>8036</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1433549256523083795">
@@ -846,7 +846,7 @@ Found 745 suspensions for untracked accounts.
             <td>2021-07-31</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>7243</td>
+            <td>7258</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1352574170241015811">
@@ -934,7 +934,7 @@ Found 745 suspensions for untracked accounts.
             <td>2021-09-18</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>3798</td>
+            <td>3807</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1436607757419876357">
@@ -1187,7 +1187,7 @@ Found 745 suspensions for untracked accounts.
             <td>2019-11-20</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>1822</td>
+            <td>1821</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=64117890">
@@ -1385,7 +1385,7 @@ Found 745 suspensions for untracked accounts.
             <td>2011-04-18</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1300</td>
+            <td>1299</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1454505495130222594">

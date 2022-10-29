@@ -299,14 +299,14 @@ Found 31 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518027433336737792">
-                <img src="https://pbs.twimg.com/profile_images/1585792642821996545/MR3O28JC_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1585886245883740160/2DDzyqqT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/RealDante12">RealDante12</a></td>
             <td>2022-04-24</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>38858</td>
+            <td>39073</td>
             <td>14670</td>
         </tr>
         <tr>
@@ -366,7 +366,7 @@ Found 31 suspensions for tracked accounts.
             <td>2011-10-19</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>7634</td>
+            <td>7629</td>
             <td>45972</td>
         </tr>
         <tr>
@@ -390,7 +390,7 @@ Found 31 suspensions for tracked accounts.
             <td>2021-06-05</td>
             <td></td>
             <td align="center"></td>
-            <td>390</td>
+            <td>389</td>
             <td>82206</td>
         </tr></table>
 
@@ -1336,7 +1336,7 @@ Found 1456 suspensions for untracked accounts.
             <td>2019-06-26</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>11852</td>
+            <td>11850</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=955961020983345152">
@@ -1963,7 +1963,7 @@ Found 1456 suspensions for untracked accounts.
             <td>2021-02-14</td>
             <td>2022-08-10</td>
             <td align="center">🔒</td>
-            <td>1416</td>
+            <td>1415</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=941331735404478465">

@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2013-05-22</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>679</td>
+            <td>681</td>
             <td>87043</td>
         </tr></table>
 
@@ -246,7 +246,7 @@ Found 756 suspensions for untracked accounts.
             <td>2011-03-28</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>33773</td>
+            <td>33759</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=741546248">
@@ -290,7 +290,7 @@ Found 756 suspensions for untracked accounts.
             <td>2011-08-07</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>13124</td>
+            <td>13117</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1306919663465422848">
@@ -345,7 +345,7 @@ Found 756 suspensions for untracked accounts.
             <td>2010-04-15</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>8639</td>
+            <td>8636</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1303017485617319938">
@@ -400,7 +400,7 @@ Found 756 suspensions for untracked accounts.
             <td>2010-01-04</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>4440</td>
+            <td>4442</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1494151047853617154">
@@ -576,7 +576,7 @@ Found 756 suspensions for untracked accounts.
             <td>2020-06-27</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2316</td>
+            <td>2318</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1015312040704073729">
@@ -620,7 +620,7 @@ Found 756 suspensions for untracked accounts.
             <td>2012-12-29</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>2045</td>
+            <td>2047</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1550088428">
@@ -799,17 +799,6 @@ Found 756 suspensions for untracked accounts.
             <td>1423</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=867558668971016192">
-                <img src="https://pbs.twimg.com/profile_images/1572754734687158275/AykeWIF7_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/12841chelmno">12841chelmno</a></td>
-            <td>2017-05-25</td>
-            <td>2022-06-05</td>
-            <td align="center"></td>
-            <td>1420</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=176118358">
                 <img src="https://pbs.twimg.com/profile_images/1205535036440793089/MCl_hdGm_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -819,6 +808,17 @@ Found 756 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1415</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=867558668971016192">
+                <img src="https://pbs.twimg.com/profile_images/1572754734687158275/AykeWIF7_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/12841chelmno">12841chelmno</a></td>
+            <td>2017-05-25</td>
+            <td>2022-06-05</td>
+            <td align="center"></td>
+            <td>1413</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1400284035809648641">
@@ -1060,5 +1060,5 @@ Found 756 suspensions for untracked accounts.
             <td>2018-08-17</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1001</td>
+            <td>1002</td>
         </tr></table>

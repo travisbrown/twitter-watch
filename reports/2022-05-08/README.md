@@ -42,7 +42,7 @@ Found 2 suspensions for tracked accounts.
             <td>2017-01-10</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>284</td>
+            <td>283</td>
             <td>51178</td>
         </tr></table>
 
@@ -1021,11 +1021,11 @@ Found 492 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1567793513588203521/Hx8s6W6N_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/james12hendry">james12hendry</a></td>
+                <a href="https://twitter.com/jameshr1872">jameshr1872</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/975843796410863617">1 other</a>)&nbsp;</td>
             <td>2018-03-19</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>2279</td>
+            <td>2277</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=115312059">

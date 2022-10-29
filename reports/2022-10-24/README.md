@@ -678,7 +678,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1112 suspensions for untracked accounts.
+Found 1113 suspensions for untracked accounts.
 147 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -766,7 +766,7 @@ Found 1112 suspensions for untracked accounts.
             <td>2017-05-28</td>
             <td></td>
             <td align="center"></td>
-            <td>74059</td>
+            <td>75820</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1393429885989777412">
@@ -1151,7 +1151,7 @@ Found 1112 suspensions for untracked accounts.
             <td>2011-07-29</td>
             <td></td>
             <td align="center"></td>
-            <td>3759</td>
+            <td>3762</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=755451263987380228">
@@ -1602,7 +1602,7 @@ Found 1112 suspensions for untracked accounts.
             <td>2014-08-03</td>
             <td></td>
             <td align="center"></td>
-            <td>1985</td>
+            <td>1989</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1533045611687288832">
@@ -2067,6 +2067,17 @@ Found 1112 suspensions for untracked accounts.
             <td>1218</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1497906018029907970">
+                <img src="https://pbs.twimg.com/profile_images/1537883909538476032/rcKxyjsj_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TurdFur58439807">TurdFur58439807</a></td>
+            <td>2022-02-27</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1205</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1403368389704355842">
                 <img src="https://pbs.twimg.com/profile_images/1504745741344034834/Cryp59fl_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2109,17 +2120,6 @@ Found 1112 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1194</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1497906018029907970">
-                <img src="https://pbs.twimg.com/profile_images/1537883909538476032/rcKxyjsj_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/TurdFur58439807">TurdFur58439807</a></td>
-            <td>2022-02-27</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1184</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1557661720503816192">

@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2016-08-08</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>2959355</td>
+            <td>2960979</td>
             <td>15471</td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2019-09-06</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>24132</td>
+            <td>24115</td>
             <td>93163</td>
         </tr></table>
 
@@ -839,14 +839,14 @@ Found 1045 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1357285809632776193">
-                <img src="https://pbs.twimg.com/profile_images/1562840449349451776/A9fdC_lJ_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1585682308782333954/symjqkje_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/berthacute_47">berthacute_47</a></td>
             <td>2021-02-04</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>3451</td>
+            <td>3459</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1260238322">
