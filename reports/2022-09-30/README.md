@@ -275,7 +275,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bostronix">bostronix</a>
             </td>
             <td align="center"></td>
-            <td>224</td>
+            <td>223</td>
             <td>58594</td>
         </tr>
         <tr>
@@ -288,7 +288,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Gat0rGate">Gat0rGate</a>
             </td>
             <td align="center"></td>
-            <td>23</td>
+            <td>24</td>
             <td>89100</td>
         </tr>
         <tr>

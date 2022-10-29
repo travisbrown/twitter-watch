@@ -109,15 +109,15 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
     </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1317012311262089216">
-                <img src="https://pbs.twimg.com/profile_images/1549891382357131265/uh4CvOzx_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586028294046208000/tRl3O-gc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/thekangminlee">thekangminlee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1317012311262089216">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/kangminjlee">kangminjlee</a>
             </td>
-            <td align="center">🔒</td>
-            <td>36041</td>
+            <td align="center"></td>
+            <td>35895</td>
             <td>349</td>
         </tr>
         <tr>
@@ -169,7 +169,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/asIiceofhistory">asIiceofhistory</a>
             </td>
             <td align="center"></td>
-            <td>375347</td>
+            <td>375373</td>
             <td>57561</td>
         </tr>
         <tr>
@@ -182,7 +182,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/CValkyrie06">CValkyrie06</a>
             </td>
             <td align="center"></td>
-            <td>1178</td>
+            <td>1181</td>
             <td>89660</td>
         </tr></table>
 

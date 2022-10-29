@@ -106,7 +106,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Grumpenfella">Grumpenfella</a>
             </td>
             <td align="center"></td>
-            <td>909</td>
+            <td>908</td>
             <td>2623</td>
         </tr>
         <tr>
@@ -119,7 +119,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/RayPeatQuotes">RayPeatQuotes</a>
             </td>
             <td align="center"></td>
-            <td>6681</td>
+            <td>6760</td>
             <td>25511</td>
         </tr>
         <tr>
@@ -158,7 +158,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/DrinkerOfTears">DrinkerOfTears</a>
             </td>
             <td align="center"></td>
-            <td>141</td>
+            <td>147</td>
             <td>75743</td>
         </tr>
         <tr>

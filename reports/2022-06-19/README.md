@@ -108,7 +108,7 @@ Found 17 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/thisisnotarose">thisisnotarose</a>
             </td>
             <td align="center"></td>
-            <td>113</td>
+            <td>112</td>
             <td>4002</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 17 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SporadicPosting">SporadicPosting</a>
             </td>
             <td align="center"></td>
-            <td>1079</td>
+            <td>1080</td>
             <td>4831</td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@ Found 17 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Charcoai_Chalk">Charcoai_Chalk</a>
             </td>
             <td align="center"></td>
-            <td>242</td>
+            <td>240</td>
             <td>35707</td>
         </tr>
         <tr>
@@ -212,7 +212,7 @@ Found 17 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/VirialExpansion">VirialExpansion</a>
             </td>
             <td align="center"></td>
-            <td>256</td>
+            <td>258</td>
             <td>58060</td>
         </tr>
         <tr>
@@ -264,7 +264,7 @@ Found 17 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/__billydakid">__billydakid</a>
             </td>
             <td align="center"></td>
-            <td>126</td>
+            <td>132</td>
             <td>86214</td>
         </tr>
         <tr>
@@ -277,7 +277,7 @@ Found 17 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/aguysayinhi">aguysayinhi</a>
             </td>
             <td align="center"></td>
-            <td>384</td>
+            <td>391</td>
             <td>91371</td>
         </tr></table>
 

@@ -69,7 +69,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NRxCat">NRxCat</a>
             </td>
             <td align="center"></td>
-            <td>121</td>
+            <td>123</td>
             <td>2082</td>
         </tr>
         <tr>
@@ -160,7 +160,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/historacle_125">historacle_125</a>
             </td>
             <td align="center"></td>
-            <td>177</td>
+            <td>180</td>
             <td>86023</td>
         </tr>
         <tr>

@@ -129,7 +129,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bronzeagehitler">bronzeagehitler</a>
             </td>
             <td align="center"></td>
-            <td>196</td>
+            <td>195</td>
             <td>2231</td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/man_of_prayer">man_of_prayer</a>
             </td>
             <td align="center"></td>
-            <td>252</td>
+            <td>260</td>
             <td>39221</td>
         </tr>
         <tr>
@@ -298,7 +298,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/J1anon">J1anon</a>
             </td>
             <td align="center"></td>
-            <td>261</td>
+            <td>263</td>
             <td>60998</td>
         </tr>
         <tr>

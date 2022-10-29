@@ -144,7 +144,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/MyCupcake1111">MyCupcake1111</a>
             </td>
             <td align="center"></td>
-            <td>982</td>
+            <td>996</td>
             <td>75071</td>
         </tr></table>
 

@@ -167,7 +167,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/VuikoBerkut">VuikoBerkut</a>
             </td>
             <td align="center"></td>
-            <td>128</td>
+            <td>129</td>
             <td>17851</td>
         </tr></table>
 

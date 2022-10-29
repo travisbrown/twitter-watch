@@ -123,7 +123,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427260858032431104">
-                <img src="https://pbs.twimg.com/profile_images/1585276600295333890/rm0ekKjd_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586033286534643715/0j2BXNcy_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/ComradeGrug">ComradeGrug</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1427260858032431104">3 others</a>)&nbsp;</td>
@@ -131,7 +131,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/HerrMogus27">HerrMogus27</a>
             </td>
             <td align="center"></td>
-            <td>299</td>
+            <td>301</td>
             <td>44722</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SunTsar">SunTsar</a>
             </td>
             <td align="center"></td>
-            <td>18</td>
+            <td>24</td>
             <td>68510</td>
         </tr></table>
 

@@ -94,7 +94,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/classicalcath">classicalcath</a>
             </td>
             <td align="center"></td>
-            <td>103</td>
+            <td>104</td>
             <td>58257</td>
         </tr>
         <tr>
@@ -133,7 +133,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Eccola_qui">Eccola_qui</a>
             </td>
             <td align="center"></td>
-            <td>144</td>
+            <td>145</td>
             <td>98488</td>
         </tr></table>
 

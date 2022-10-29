@@ -69,7 +69,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/wafflepirate">wafflepirate</a>
             </td>
             <td align="center"></td>
-            <td>5396</td>
+            <td>5386</td>
             <td>749</td>
         </tr>
         <tr>
@@ -82,7 +82,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SSkanderbeu">SSkanderbeu</a>
             </td>
             <td align="center"></td>
-            <td>896</td>
+            <td>897</td>
             <td>2819</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Octagon1975">Octagon1975</a>
             </td>
             <td align="center"></td>
-            <td>588</td>
+            <td>599</td>
             <td>40395</td>
         </tr>
         <tr>
@@ -147,7 +147,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ToiletMarv">ToiletMarv</a>
             </td>
             <td align="center"></td>
-            <td>250</td>
+            <td>251</td>
             <td>40565</td>
         </tr></table>
 

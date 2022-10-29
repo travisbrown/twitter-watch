@@ -166,7 +166,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/BettrCallSowell">BettrCallSowell</a>
             </td>
             <td align="center"></td>
-            <td>2257</td>
+            <td>2275</td>
             <td>17013</td>
         </tr>
         <tr>
@@ -179,7 +179,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/H2OB0Y">H2OB0Y</a>
             </td>
             <td align="center"></td>
-            <td>799</td>
+            <td>803</td>
             <td>17456</td>
         </tr>
         <tr>
@@ -192,7 +192,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/BigSuaveDog">BigSuaveDog</a>
             </td>
             <td align="center"></td>
-            <td>274</td>
+            <td>275</td>
             <td>27807</td>
         </tr>
         <tr>
@@ -218,7 +218,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/22GoDawgs">22GoDawgs</a>
             </td>
             <td align="center"></td>
-            <td>403</td>
+            <td>405</td>
             <td>61598</td>
         </tr></table>
 

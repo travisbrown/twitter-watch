@@ -158,7 +158,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DarwinAwards_">DarwinAwards_</a>
             </td>
             <td align="center"></td>
-            <td>67595</td>
+            <td>68039</td>
             <td>31306</td>
         </tr>
         <tr>
@@ -197,7 +197,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AMarti1968">AMarti1968</a>
             </td>
             <td align="center"></td>
-            <td>2064</td>
+            <td>2074</td>
             <td>65524</td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/punishedJughead">punishedJughead</a>
             </td>
             <td align="center"></td>
-            <td>18</td>
+            <td>19</td>
             <td>84445</td>
         </tr></table>
 

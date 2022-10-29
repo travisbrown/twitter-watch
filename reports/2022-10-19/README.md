@@ -201,7 +201,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/HiPics90">HiPics90</a>
             </td>
             <td align="center"></td>
-            <td>359212</td>
+            <td>359376</td>
             <td>43</td>
         </tr>
         <tr>
@@ -227,7 +227,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Hxphaistvs">Hxphaistvs</a>
             </td>
             <td align="center"></td>
-            <td>14765</td>
+            <td>14758</td>
             <td>9306</td>
         </tr>
         <tr>
@@ -266,7 +266,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Real_Maya_Ibuki">Real_Maya_Ibuki</a>
             </td>
             <td align="center"></td>
-            <td>1121</td>
+            <td>1123</td>
             <td>19831</td>
         </tr>
         <tr>
@@ -292,7 +292,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_mtnman45_">_mtnman45_</a>
             </td>
             <td align="center"></td>
-            <td>2935</td>
+            <td>2944</td>
             <td>25326</td>
         </tr>
         <tr>
@@ -318,7 +318,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/asf1ks1ja13_wav">asf1ks1ja13_wav</a>
             </td>
             <td align="center"></td>
-            <td>349</td>
+            <td>350</td>
             <td>30921</td>
         </tr>
         <tr>
@@ -344,7 +344,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Bitch_Please_76">Bitch_Please_76</a>
             </td>
             <td align="center"></td>
-            <td>494</td>
+            <td>497</td>
             <td>33019</td>
         </tr>
         <tr>
@@ -422,7 +422,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JaneDoe_Ireland">JaneDoe_Ireland</a>
             </td>
             <td align="center"></td>
-            <td>2613</td>
+            <td>2615</td>
             <td>47983</td>
         </tr>
         <tr>
@@ -474,7 +474,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RebeccaAVelo">RebeccaAVelo</a>
             </td>
             <td align="center"></td>
-            <td>1358</td>
+            <td>1361</td>
             <td>63655</td>
         </tr>
         <tr>
@@ -578,7 +578,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/blackwindtosu">blackwindtosu</a>
             </td>
             <td align="center"></td>
-            <td>997</td>
+            <td>994</td>
             <td>77476</td>
         </tr>
         <tr>
@@ -603,8 +603,8 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
             <td>
                 <a href="https://twitter.com/NorthAristocrat">NorthAristocrat</a>
             </td>
-            <td align="center">🔒</td>
-            <td>383</td>
+            <td align="center"></td>
+            <td>385</td>
             <td>88762</td>
         </tr>
         <tr>
@@ -617,7 +617,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/heretohelp_18">heretohelp_18</a>
             </td>
             <td align="center"></td>
-            <td>2210</td>
+            <td>2216</td>
             <td>89380</td>
         </tr>
         <tr>
@@ -630,7 +630,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/dedonaate">dedonaate</a>
             </td>
             <td align="center"></td>
-            <td>1481</td>
+            <td>1487</td>
             <td>90051</td>
         </tr>
         <tr>

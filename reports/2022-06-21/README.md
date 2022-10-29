@@ -131,7 +131,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/White_Pills">White_Pills</a>
             </td>
             <td align="center"></td>
-            <td>231</td>
+            <td>235</td>
             <td>3840</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/elagabalus__">elagabalus__</a>
             </td>
             <td align="center"></td>
-            <td>123</td>
+            <td>122</td>
             <td>6530</td>
         </tr>
         <tr>
@@ -157,7 +157,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/_Karron">_Karron</a>
             </td>
             <td align="center"></td>
-            <td>1913</td>
+            <td>1917</td>
             <td>25471</td>
         </tr></table>
 

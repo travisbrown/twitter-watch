@@ -159,7 +159,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/fkliftcertified">fkliftcertified</a>
             </td>
             <td align="center"></td>
-            <td>30</td>
+            <td>29</td>
             <td>80367</td>
         </tr>
         <tr>

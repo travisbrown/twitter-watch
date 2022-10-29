@@ -95,7 +95,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BayouCulture">BayouCulture</a>
             </td>
             <td align="center"></td>
-            <td>194</td>
+            <td>195</td>
             <td>7238</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/boi_zincoboy44">boi_zincoboy44</a>
             </td>
             <td align="center"></td>
-            <td>88</td>
+            <td>87</td>
             <td>13567</td>
         </tr>
         <tr>
@@ -199,7 +199,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ther3p1st">ther3p1st</a>
             </td>
             <td align="center"></td>
-            <td>13</td>
+            <td>14</td>
             <td>38311</td>
         </tr>
         <tr>
@@ -212,7 +212,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/doshski">doshski</a>
             </td>
             <td align="center"></td>
-            <td>91</td>
+            <td>92</td>
             <td>38642</td>
         </tr>
         <tr>

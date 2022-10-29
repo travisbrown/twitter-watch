@@ -168,7 +168,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/kaangjiacheng">kaangjiacheng</a>
             </td>
             <td align="center"></td>
-            <td>408</td>
+            <td>410</td>
             <td>38014</td>
         </tr>
         <tr>
@@ -194,7 +194,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/wef_intern">wef_intern</a>
             </td>
             <td align="center"></td>
-            <td>144</td>
+            <td>143</td>
             <td>89447</td>
         </tr>
         <tr>
@@ -207,7 +207,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/N4R0G8">N4R0G8</a>
             </td>
             <td align="center"></td>
-            <td>2436</td>
+            <td>2440</td>
             <td>96376</td>
         </tr>
         <tr>
@@ -220,7 +220,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SuperShocked10">SuperShocked10</a>
             </td>
             <td align="center"></td>
-            <td>2630</td>
+            <td>2632</td>
             <td>97655</td>
         </tr></table>
 

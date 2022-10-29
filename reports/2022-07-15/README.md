@@ -374,7 +374,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/colonodosecxxi">colonodosecxxi</a>
             </td>
             <td align="center"></td>
-            <td>620</td>
+            <td>622</td>
             <td>47838</td>
         </tr>
         <tr>
@@ -426,7 +426,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bananayockey">bananayockey</a>
             </td>
             <td align="center"></td>
-            <td>309</td>
+            <td>313</td>
             <td>84821</td>
         </tr>
         <tr>
@@ -439,7 +439,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/qwer4t6mmnvxf">qwer4t6mmnvxf</a>
             </td>
             <td align="center"></td>
-            <td>6</td>
+            <td>7</td>
             <td>91217</td>
         </tr>
         <tr>
@@ -452,7 +452,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/HorsesVSCenk">HorsesVSCenk</a>
             </td>
             <td align="center"></td>
-            <td>182</td>
+            <td>184</td>
             <td>94573</td>
         </tr></table>
 

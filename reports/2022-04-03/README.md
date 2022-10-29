@@ -120,7 +120,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/StinkyOnMePinky">StinkyOnMePinky</a>
             </td>
             <td align="center"></td>
-            <td>223</td>
+            <td>222</td>
             <td>24623</td>
         </tr>
         <tr>
@@ -159,7 +159,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KariLakeWarRoom">KariLakeWarRoom</a>
             </td>
             <td align="center"></td>
-            <td>45292</td>
+            <td>51583</td>
             <td>72037</td>
         </tr>
         <tr>

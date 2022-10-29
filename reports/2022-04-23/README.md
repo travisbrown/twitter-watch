@@ -405,7 +405,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/kabobmitch">kabobmitch</a>
             </td>
             <td align="center"></td>
-            <td>452</td>
+            <td>456</td>
             <td>3619</td>
         </tr>
         <tr>
