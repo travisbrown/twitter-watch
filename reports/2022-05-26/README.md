@@ -90,7 +90,7 @@ Found 9 suspensions for tracked accounts.
             <td>2021-06-19</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>8060</td>
+            <td>8084</td>
             <td>11071</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 9 suspensions for tracked accounts.
             <td>2012-12-19</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>16478</td>
+            <td>16484</td>
             <td>11805</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 9 suspensions for tracked accounts.
             <td>2022-04-07</td>
             <td></td>
             <td align="center"></td>
-            <td>545</td>
+            <td>549</td>
             <td>76431</td>
         </tr></table>
 
@@ -867,7 +867,7 @@ Found 882 suspensions for untracked accounts.
             <td>2010-07-06</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>11128</td>
+            <td>11130</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=842183941373198336">
@@ -1541,6 +1541,17 @@ Found 882 suspensions for untracked accounts.
             <td>1235</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=14746663">
+                <img src="https://pbs.twimg.com/profile_images/948616681080856576/oEy46nh5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/billyverde">billyverde</a></td>
+            <td>2008-05-12</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>1227</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3233777639">
                 <img src="https://pbs.twimg.com/profile_images/1473082413031079938/v8h4K9c2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1550,17 +1561,6 @@ Found 882 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1227</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=14746663">
-                <img src="https://pbs.twimg.com/profile_images/948616681080856576/oEy46nh5_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/billyverde">billyverde</a></td>
-            <td>2008-05-12</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>1225</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1374654923984494593">

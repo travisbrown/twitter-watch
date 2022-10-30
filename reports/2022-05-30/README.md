@@ -162,7 +162,7 @@ Found 669 suspensions for untracked accounts.
             <td>2011-05-13</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>264805</td>
+            <td>264872</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1213315076066689029">
@@ -261,7 +261,7 @@ Found 669 suspensions for untracked accounts.
             <td>2013-05-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>30496</td>
+            <td>30490</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=572122341">
@@ -272,7 +272,7 @@ Found 669 suspensions for untracked accounts.
             <td>2012-05-05</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>28942</td>
+            <td>28972</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1163303124">
@@ -404,7 +404,7 @@ Found 669 suspensions for untracked accounts.
             <td>2009-06-23</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>4988</td>
+            <td>4990</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2340677814">
@@ -459,7 +459,7 @@ Found 669 suspensions for untracked accounts.
             <td>2020-06-01</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3941</td>
+            <td>3940</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1361405487049297927">
@@ -891,23 +891,23 @@ Found 669 suspensions for untracked accounts.
             <td>1380</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2207699887">
-                <img src="https://pbs.twimg.com/profile_images/1527300548118323203/IZaxXBfM_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/QuintanaAnson">QuintanaAnson</a></td>
-            <td>2013-11-21</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1309</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1513197034706243592">
                 <img src="https://pbs.twimg.com/profile_images/1524968396865019904/7wloeL0f_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/GrandmaHeLives">GrandmaHeLives</a></td>
             <td>2022-04-10</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1314</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2207699887">
+                <img src="https://pbs.twimg.com/profile_images/1527300548118323203/IZaxXBfM_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/QuintanaAnson">QuintanaAnson</a></td>
+            <td>2013-11-21</td>
             <td></td>
             <td align="center"></td>
             <td>1309</td>

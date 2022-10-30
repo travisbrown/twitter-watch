@@ -162,7 +162,7 @@ Found 13 suspensions for tracked accounts.
             <td>2019-02-07</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>96496</td>
+            <td>97117</td>
             <td>21471</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ Found 13 suspensions for tracked accounts.
             <td>2013-03-25</td>
             <td></td>
             <td align="center"></td>
-            <td>286</td>
+            <td>287</td>
             <td>72640</td>
         </tr></table>
 
@@ -815,7 +815,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2018-12-18</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>52685</td>
+            <td>52691</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1370704398960062469">
@@ -848,7 +848,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2009-02-26</td>
             <td></td>
             <td align="center"></td>
-            <td>43262</td>
+            <td>43118</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1442951281459568640">
@@ -936,7 +936,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2021-09-01</td>
             <td></td>
             <td align="center"></td>
-            <td>25760</td>
+            <td>25793</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=48954726">
@@ -1181,6 +1181,17 @@ Found 1128 suspensions for untracked accounts.
             <td>7670</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=54317529">
+                <img src="https://pbs.twimg.com/profile_images/1578273158649503744/oUhU7a62_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/petite_michelle">petite_michelle</a></td>
+            <td>2009-07-06</td>
+            <td>2022-08-25</td>
+            <td align="center"></td>
+            <td>7530</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1552188539026247681">
                 <img src="https://pbs.twimg.com/profile_images/1552190494180007936/gGIHYC2K_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1190,17 +1201,6 @@ Found 1128 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>7483</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=54317529">
-                <img src="https://pbs.twimg.com/profile_images/1578273158649503744/oUhU7a62_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/petite_michelle">petite_michelle</a></td>
-            <td>2009-07-06</td>
-            <td>2022-08-25</td>
-            <td align="center"></td>
-            <td>7380</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2941545849">
@@ -1398,7 +1398,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2021-10-18</td>
             <td></td>
             <td align="center"></td>
-            <td>4564</td>
+            <td>4575</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=277550076">

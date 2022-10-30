@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2011-11-18</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>122</td>
+            <td>123</td>
             <td>5928</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2013-01-16</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>3206</td>
+            <td>3205</td>
             <td>56855</td>
         </tr></table>
 
@@ -879,7 +879,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2021-08-09</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>14884</td>
+            <td>14875</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4650892735">
@@ -1473,7 +1473,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2021-07-14</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2124</td>
+            <td>2122</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1426096482122354689">
@@ -1627,7 +1627,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2017-09-16</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>1783</td>
+            <td>1787</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1353869177849786368">
@@ -1718,6 +1718,17 @@ Found 1187 suspensions for untracked accounts.
             <td>1626</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1362093540952731655">
+                <img src="https://pbs.twimg.com/profile_images/1542188968506277888/lGLg2oYI_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PhoebeisRight">PhoebeisRight</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1362093540952731655">1 other</a>)&nbsp;</td>
+            <td>2021-02-17</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>1620</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2886272859">
                 <img src="https://pbs.twimg.com/profile_images/1550959387300298752/I6IlVkwN_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1727,17 +1738,6 @@ Found 1187 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1606</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1362093540952731655">
-                <img src="https://pbs.twimg.com/profile_images/1542188968506277888/lGLg2oYI_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/PhoebeisRight">PhoebeisRight</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1362093540952731655">1 other</a>)&nbsp;</td>
-            <td>2021-02-17</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>1596</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=907920380">
@@ -1869,7 +1869,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2014-08-03</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>1349</td>
+            <td>1348</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=484630905">

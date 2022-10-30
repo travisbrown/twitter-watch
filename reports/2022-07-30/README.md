@@ -302,7 +302,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2010-07-16</td>
             <td></td>
             <td align="center"></td>
-            <td>42883</td>
+            <td>42888</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3023305950">
@@ -379,7 +379,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2021-11-09</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>13959</td>
+            <td>13975</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=591955944">
@@ -390,7 +390,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2012-05-27</td>
             <td></td>
             <td align="center"></td>
-            <td>12006</td>
+            <td>12000</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1451890581274255363">
@@ -690,6 +690,17 @@ Found 1093 suspensions for untracked accounts.
             <td>2967</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1359580862854144002">
+                <img src="https://pbs.twimg.com/profile_images/1573070306788491269/ey8YFqS4_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BBCbreakingNewt">BBCbreakingNewt</a></td>
+            <td>2021-02-10</td>
+            <td>2022-08-02</td>
+            <td align="center"></td>
+            <td>2833</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1337792805377355779">
                 <img src="https://pbs.twimg.com/profile_images/1550324475568173056/IQbU95Mq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -699,17 +710,6 @@ Found 1093 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2828</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1359580862854144002">
-                <img src="https://pbs.twimg.com/profile_images/1573070306788491269/ey8YFqS4_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/BBCbreakingNewt">BBCbreakingNewt</a></td>
-            <td>2021-02-10</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>2827</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1381709311521476610">
@@ -830,7 +830,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2009-03-13</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>2301</td>
+            <td>2298</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1332255760256929793">
@@ -1325,7 +1325,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2020-04-06</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>1212</td>
+            <td>1210</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1275117389969907712">
@@ -1347,7 +1347,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2010-03-30</td>
             <td></td>
             <td align="center"></td>
-            <td>1194</td>
+            <td>1200</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=893109901051936773">

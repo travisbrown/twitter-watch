@@ -78,7 +78,7 @@ Found 22 suspensions for tracked accounts.
             <td>2020-09-16</td>
             <td></td>
             <td align="center"></td>
-            <td>2868</td>
+            <td>2869</td>
             <td>726</td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ Found 22 suspensions for tracked accounts.
             <td>2022-04-28</td>
             <td></td>
             <td align="center"></td>
-            <td>1189</td>
+            <td>1204</td>
             <td>2575</td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ Found 22 suspensions for tracked accounts.
             <td>2022-01-21</td>
             <td></td>
             <td align="center"></td>
-            <td>554</td>
+            <td>564</td>
             <td>7015</td>
         </tr>
         <tr>
@@ -270,7 +270,7 @@ Found 22 suspensions for tracked accounts.
             <td>2019-01-26</td>
             <td></td>
             <td align="center"></td>
-            <td>2887</td>
+            <td>2930</td>
             <td>82529</td>
         </tr>
         <tr>
@@ -798,7 +798,7 @@ Found 2073 suspensions for untracked accounts.
             <td>2018-06-28</td>
             <td></td>
             <td align="center"></td>
-            <td>185974</td>
+            <td>188743</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1470302824076509184">
@@ -864,7 +864,7 @@ Found 2073 suspensions for untracked accounts.
             <td>2007-11-21</td>
             <td></td>
             <td align="center"></td>
-            <td>71042</td>
+            <td>71018</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1557615135761498113">
@@ -1370,7 +1370,7 @@ Found 2073 suspensions for untracked accounts.
             <td>2018-07-24</td>
             <td></td>
             <td align="center"></td>
-            <td>6244</td>
+            <td>6249</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1177367014178000897">
@@ -1414,7 +1414,7 @@ Found 2073 suspensions for untracked accounts.
             <td>2016-01-05</td>
             <td></td>
             <td align="center"></td>
-            <td>4458</td>
+            <td>4476</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=386184830">
@@ -1513,7 +1513,7 @@ Found 2073 suspensions for untracked accounts.
             <td>2021-04-16</td>
             <td></td>
             <td align="center"></td>
-            <td>3927</td>
+            <td>3930</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1203272125718519808">
@@ -1722,7 +1722,7 @@ Found 2073 suspensions for untracked accounts.
             <td>2018-10-08</td>
             <td></td>
             <td align="center"></td>
-            <td>2787</td>
+            <td>2785</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1175057043146891264">
@@ -1920,7 +1920,7 @@ Found 2073 suspensions for untracked accounts.
             <td>2014-01-15</td>
             <td></td>
             <td align="center"></td>
-            <td>2355</td>
+            <td>2357</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1462694120015683584">
@@ -2474,14 +2474,14 @@ Found 2073 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=410143507">
-                <img src="https://pbs.twimg.com/profile_images/1543903697515827200/_-38eUfd_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1582938550454075395/qTU64utl_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/IamRaphaelKings">IamRaphaelKings</a></td>
+                <a href="https://twitter.com/ItsRaphiki">ItsRaphiki</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/410143507">1 other</a>)&nbsp;</td>
             <td>2011-11-11</td>
             <td></td>
             <td align="center"></td>
-            <td>1231</td>
+            <td>1248</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1269458862077329409">
@@ -2561,17 +2561,6 @@ Found 2073 suspensions for untracked accounts.
             <td>1166</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1201607139074215938">
-                <img src="https://pbs.twimg.com/profile_images/1247186126118551553/8m85KoIi_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/DonewellYaw">DonewellYaw</a></td>
-            <td>2019-12-02</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1160</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1639856622">
                 <img src="https://pbs.twimg.com/profile_images/1336591041911197701/x3BsE1F4_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2611,6 +2600,17 @@ Found 2073 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OO1O110">OO1O110</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/465346193">4 others</a>)&nbsp;</td>
             <td>2012-01-16</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1142</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1201607139074215938">
+                <img src="https://pbs.twimg.com/profile_images/1247186126118551553/8m85KoIi_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/DonewellYaw">DonewellYaw</a></td>
+            <td>2019-12-02</td>
             <td></td>
             <td align="center"></td>
             <td>1142</td>

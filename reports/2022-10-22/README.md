@@ -54,7 +54,7 @@ Found 6 suspensions for tracked accounts.
             <td>2012-12-18</td>
             <td></td>
             <td align="center"></td>
-            <td>17312</td>
+            <td>17337</td>
             <td>14312</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 6 suspensions for tracked accounts.
             <td>2021-02-19</td>
             <td></td>
             <td align="center"></td>
-            <td>429</td>
+            <td>431</td>
             <td>51595</td>
         </tr>
         <tr>
@@ -698,7 +698,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2015-08-08</td>
             <td></td>
             <td align="center"></td>
-            <td>11528</td>
+            <td>11507</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=907553534">
@@ -790,14 +790,14 @@ Found 1499 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=329463466">
-                <img src="https://pbs.twimg.com/profile_images/1556884721887494144/-3H2yXej_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586234929679138816/XDzC_Nhy_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Banned_American">Banned_American</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/329463466">3 others</a>)&nbsp;</td>
             <td>2011-07-05</td>
             <td></td>
             <td align="center"></td>
-            <td>6047</td>
+            <td>6056</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1556659979091939332">
@@ -830,7 +830,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2013-03-17</td>
             <td></td>
             <td align="center"></td>
-            <td>5688</td>
+            <td>5702</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2467105098">
@@ -852,7 +852,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2010-06-09</td>
             <td></td>
             <td align="center"></td>
-            <td>5658</td>
+            <td>5652</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1576216309246959616">
@@ -995,7 +995,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2017-02-06</td>
             <td></td>
             <td align="center"></td>
-            <td>3873</td>
+            <td>3879</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1321495964776075266">
@@ -1028,7 +1028,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2022-08-25</td>
             <td></td>
             <td align="center"></td>
-            <td>3529</td>
+            <td>3528</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=979425047873048577">
@@ -1160,7 +1160,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2012-07-12</td>
             <td></td>
             <td align="center"></td>
-            <td>2623</td>
+            <td>2618</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=794333651332841473">
@@ -1270,7 +1270,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2012-11-08</td>
             <td></td>
             <td align="center"></td>
-            <td>2249</td>
+            <td>2248</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1155815537647202308">
@@ -1743,7 +1743,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2020-10-03</td>
             <td></td>
             <td align="center"></td>
-            <td>1281</td>
+            <td>1284</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1460358247567736838">

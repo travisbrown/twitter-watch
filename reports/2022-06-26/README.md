@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2009-03-03</td>
             <td></td>
             <td align="center"></td>
-            <td>705</td>
+            <td>708</td>
             <td>8908</td>
         </tr>
         <tr>
@@ -796,7 +796,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2007-07-04</td>
             <td></td>
             <td align="center"></td>
-            <td>5061</td>
+            <td>5056</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1533595566126649345">
@@ -1005,7 +1005,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2009-03-21</td>
             <td></td>
             <td align="center"></td>
-            <td>2275</td>
+            <td>2277</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=13132832">

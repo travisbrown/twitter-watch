@@ -102,7 +102,7 @@ Found 11 suspensions for tracked accounts.
             <td>2011-05-04</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>3488</td>
+            <td>3490</td>
             <td>9149</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 11 suspensions for tracked accounts.
             <td>2020-04-25</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1503</td>
+            <td>1509</td>
             <td>44804</td>
         </tr>
         <tr>
@@ -138,7 +138,7 @@ Found 11 suspensions for tracked accounts.
             <td>2022-05-20</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>262</td>
+            <td>261</td>
             <td>54481</td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ Found 11 suspensions for tracked accounts.
             <td>2022-01-19</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>640</td>
+            <td>641</td>
             <td>71942</td>
         </tr></table>
 
@@ -1071,17 +1071,6 @@ Found 1444 suspensions for untracked accounts.
             <td>4836</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=712334945050427393">
-                <img src="https://pbs.twimg.com/profile_images/722085756013969408/EGLNPRGz_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/itsIove_">itsIove_</a></td>
-            <td>2016-03-22</td>
-            <td>2022-08-15</td>
-            <td align="center"></td>
-            <td>4376</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2499518533">
                 <img src="https://pbs.twimg.com/profile_images/1547348578368110600/_haTGqv0_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1091,6 +1080,17 @@ Found 1444 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>4375</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=712334945050427393">
+                <img src="https://pbs.twimg.com/profile_images/722085756013969408/EGLNPRGz_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/itsIove_">itsIove_</a></td>
+            <td>2016-03-22</td>
+            <td>2022-08-15</td>
+            <td align="center"></td>
+            <td>4373</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1146614961441058816">
@@ -1134,7 +1134,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2019-11-13</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>3662</td>
+            <td>3676</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1191070103808487424">
@@ -1442,7 +1442,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2017-01-31</td>
             <td></td>
             <td align="center"></td>
-            <td>2527</td>
+            <td>2533</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1185502993363492864">
@@ -1662,7 +1662,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2013-05-28</td>
             <td>2022-07-23</td>
             <td align="center">🔒</td>
-            <td>2125</td>
+            <td>2126</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1479920736437428225">
@@ -1816,7 +1816,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2021-11-12</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1899</td>
+            <td>1902</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1293574779128221696">

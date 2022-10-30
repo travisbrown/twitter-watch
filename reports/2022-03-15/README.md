@@ -30,7 +30,7 @@ Found 7 suspensions for tracked accounts.
             <td>2019-10-13</td>
             <td>2022-03-16</td>
             <td align="center"></td>
-            <td>114987</td>
+            <td>114927</td>
             <td>92</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-12-22</td>
             <td></td>
             <td align="center"></td>
-            <td>1361</td>
+            <td>1368</td>
             <td>24936</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2018-11-24</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>46</td>
+            <td>47</td>
             <td>43149</td>
         </tr>
         <tr>
@@ -1112,7 +1112,7 @@ Found 742 suspensions for untracked accounts.
             <td>2020-01-06</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>2368</td>
+            <td>2367</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1479303874771050499">
@@ -1214,6 +1214,17 @@ Found 742 suspensions for untracked accounts.
             <td>1853</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=24507658">
+                <img src="https://pbs.twimg.com/profile_images/1281315677048123398/zNgwqOm9_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/kselick">kselick</a></td>
+            <td>2009-03-15</td>
+            <td>2022-07-10</td>
+            <td align="center"></td>
+            <td>1853</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1284891010078855170">
                 <img src="https://pbs.twimg.com/profile_images/1498835380761772034/k1ug1SmM_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1223,17 +1234,6 @@ Found 742 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1853</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=24507658">
-                <img src="https://pbs.twimg.com/profile_images/1281315677048123398/zNgwqOm9_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/kselick">kselick</a></td>
-            <td>2009-03-15</td>
-            <td>2022-07-10</td>
-            <td align="center"></td>
-            <td>1852</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=511901624">
@@ -1310,7 +1310,7 @@ Found 742 suspensions for untracked accounts.
             <td>2016-06-17</td>
             <td>2022-03-16</td>
             <td align="center"></td>
-            <td>1676</td>
+            <td>1678</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1415303041855676417">
