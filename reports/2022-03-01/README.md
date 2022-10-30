@@ -144,7 +144,7 @@ Found 27 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/chrisYeWest">chrisYeWest</a>
             </td>
             <td align="center"></td>
-            <td>864</td>
+            <td>865</td>
             <td>2753</td>
         </tr>
         <tr>
@@ -339,7 +339,7 @@ Found 27 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/GregGregnigga">GregGregnigga</a>
             </td>
             <td align="center"></td>
-            <td>102</td>
+            <td>101</td>
             <td>51477</td>
         </tr>
         <tr>
@@ -352,7 +352,7 @@ Found 27 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/saeterjenta">saeterjenta</a>
             </td>
             <td align="center"></td>
-            <td>12733</td>
+            <td>12752</td>
             <td>54374</td>
         </tr>
         <tr>
@@ -365,7 +365,7 @@ Found 27 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BadBitchCornPop">BadBitchCornPop</a>
             </td>
             <td align="center"></td>
-            <td>1398</td>
+            <td>1404</td>
             <td>59493</td>
         </tr>
         <tr>
@@ -391,7 +391,7 @@ Found 27 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SimpGlobalNews">SimpGlobalNews</a>
             </td>
             <td align="center"></td>
-            <td>272</td>
+            <td>271</td>
             <td>69331</td>
         </tr>
         <tr>
@@ -417,7 +417,7 @@ Found 27 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RWYDbuild">RWYDbuild</a>
             </td>
             <td align="center"></td>
-            <td>1</td>
+            <td>2</td>
             <td>87348</td>
         </tr>
         <tr>
@@ -443,7 +443,7 @@ Found 27 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/CandConvoy">CandConvoy</a>
             </td>
             <td align="center"></td>
-            <td>33810</td>
+            <td>33801</td>
             <td>97005</td>
         </tr></table>
 

@@ -131,7 +131,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/HerrMogus27">HerrMogus27</a>
             </td>
             <td align="center"></td>
-            <td>301</td>
+            <td>304</td>
             <td>44722</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SunTsar">SunTsar</a>
             </td>
             <td align="center"></td>
-            <td>24</td>
+            <td>27</td>
             <td>68510</td>
         </tr></table>
 

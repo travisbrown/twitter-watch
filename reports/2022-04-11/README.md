@@ -121,7 +121,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/oldschooltruth">oldschooltruth</a>
             </td>
             <td align="center"></td>
-            <td>174</td>
+            <td>176</td>
             <td>79529</td>
         </tr>
         <tr>

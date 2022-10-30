@@ -147,7 +147,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FiorellaIsabelM">FiorellaIsabelM</a>
             </td>
             <td align="center"></td>
-            <td>89679</td>
+            <td>89767</td>
             <td>14491</td>
         </tr>
         <tr>
@@ -225,7 +225,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PatriotMelissa">PatriotMelissa</a>
             </td>
             <td align="center"></td>
-            <td>48961</td>
+            <td>49563</td>
             <td>27368</td>
         </tr>
         <tr>
@@ -251,7 +251,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MuchoBitcoin">MuchoBitcoin</a>
             </td>
             <td align="center"></td>
-            <td>47865</td>
+            <td>47851</td>
             <td>34325</td>
         </tr>
         <tr>
@@ -303,12 +303,12 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Carter1usa">Carter1usa</a>
             </td>
             <td align="center"></td>
-            <td>3182</td>
+            <td>3193</td>
             <td>43989</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1470637374971555842">
-                <img src="https://pbs.twimg.com/profile_images/1528257042489741312/AztnBPxG_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586460603698348034/y1Gbh-Zc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/heofonfrith">heofonfrith</a></td>
@@ -342,7 +342,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NotHereNowLol">NotHereNowLol</a>
             </td>
             <td align="center"></td>
-            <td>24</td>
+            <td>23</td>
             <td>49747</td>
         </tr>
         <tr>
@@ -368,7 +368,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/esoygu">esoygu</a>
             </td>
             <td align="center"></td>
-            <td>772</td>
+            <td>774</td>
             <td>54456</td>
         </tr>
         <tr>
@@ -381,7 +381,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/carefulmeasure">carefulmeasure</a>
             </td>
             <td align="center"></td>
-            <td>772</td>
+            <td>774</td>
             <td>55308</td>
         </tr>
         <tr>
@@ -407,7 +407,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MidgetSpinnerM">MidgetSpinnerM</a>
             </td>
             <td align="center"></td>
-            <td>645</td>
+            <td>643</td>
             <td>60382</td>
         </tr>
         <tr>
@@ -472,7 +472,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/belladonna_bel">belladonna_bel</a>
             </td>
             <td align="center"></td>
-            <td>2206</td>
+            <td>2204</td>
             <td>74533</td>
         </tr>
         <tr>
@@ -485,7 +485,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Glanza1996">Glanza1996</a>
             </td>
             <td align="center"></td>
-            <td>151</td>
+            <td>153</td>
             <td>78477</td>
         </tr>
         <tr>
@@ -537,7 +537,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AllTheWayBoys">AllTheWayBoys</a>
             </td>
             <td align="center"></td>
-            <td>59</td>
+            <td>61</td>
             <td>94770</td>
         </tr>
         <tr>

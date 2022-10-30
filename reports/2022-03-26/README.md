@@ -171,7 +171,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/2Kings22_">2Kings22_</a>
             </td>
             <td align="center"></td>
-            <td>85</td>
+            <td>86</td>
             <td>8491</td>
         </tr>
         <tr>
@@ -197,7 +197,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BGC0231">BGC0231</a>
             </td>
             <td align="center"></td>
-            <td>112</td>
+            <td>115</td>
             <td>10783</td>
         </tr>
         <tr>
@@ -236,7 +236,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Panopticonomy">Panopticonomy</a>
             </td>
             <td align="center"></td>
-            <td>13179</td>
+            <td>13181</td>
             <td>18643</td>
         </tr>
         <tr>
@@ -301,7 +301,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/heismagadaddy">heismagadaddy</a>
             </td>
             <td align="center"></td>
-            <td>308</td>
+            <td>309</td>
             <td>33874</td>
         </tr>
         <tr>
@@ -327,7 +327,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/thefiestyblonde">thefiestyblonde</a>
             </td>
             <td align="center"></td>
-            <td>4779</td>
+            <td>4782</td>
             <td>37338</td>
         </tr>
         <tr>
@@ -340,7 +340,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Aidgethemad">Aidgethemad</a>
             </td>
             <td align="center"></td>
-            <td>1841</td>
+            <td>1852</td>
             <td>38449</td>
         </tr>
         <tr>
@@ -405,7 +405,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jedediahsays">jedediahsays</a>
             </td>
             <td align="center">🔒</td>
-            <td>219</td>
+            <td>218</td>
             <td>57862</td>
         </tr>
         <tr>
@@ -475,7 +475,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1435793258286825473">
-                <img src="https://pbs.twimg.com/profile_images/1586064693650751490/pxUDi4w0_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586156831524675584/wSRVleUc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/stellasmom561">stellasmom561</a></td>
@@ -483,7 +483,7 @@ Found 31 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NotListeningFJB">NotListeningFJB</a>
             </td>
             <td align="center"></td>
-            <td>1801</td>
+            <td>1831</td>
             <td>96847</td>
         </tr></table>
 

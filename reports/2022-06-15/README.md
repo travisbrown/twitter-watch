@@ -166,7 +166,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_eremit">_eremit</a>
             </td>
             <td align="center"></td>
-            <td>209</td>
+            <td>211</td>
             <td>4367</td>
         </tr>
         <tr>
@@ -205,7 +205,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/prrhsia">prrhsia</a>
             </td>
             <td align="center">🔒</td>
-            <td>1301</td>
+            <td>1298</td>
             <td>11854</td>
         </tr>
         <tr>

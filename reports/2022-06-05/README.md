@@ -96,7 +96,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/hamsterbrah">hamsterbrah</a>
             </td>
             <td align="center"></td>
-            <td>105</td>
+            <td>106</td>
             <td>24781</td>
         </tr>
         <tr>

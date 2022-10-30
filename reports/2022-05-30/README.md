@@ -81,7 +81,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Gay___Fieri">Gay___Fieri</a>
             </td>
             <td align="center"></td>
-            <td>462</td>
+            <td>463</td>
             <td>2191</td>
         </tr>
         <tr>
@@ -94,7 +94,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Ghostofk1ev">Ghostofk1ev</a>
             </td>
             <td align="center"></td>
-            <td>360</td>
+            <td>361</td>
             <td>3382</td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/TD13YouMadYet">TD13YouMadYet</a>
             </td>
             <td align="center"></td>
-            <td>153</td>
+            <td>156</td>
             <td>40205</td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/humbleconquest">humbleconquest</a>
             </td>
             <td align="center"></td>
-            <td>77</td>
+            <td>78</td>
             <td>58465</td>
         </tr>
         <tr>

@@ -142,7 +142,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/d1lupa">d1lupa</a>
             </td>
             <td align="center"></td>
-            <td>116</td>
+            <td>117</td>
             <td>3085</td>
         </tr>
         <tr>
@@ -194,7 +194,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/uCeLiNk">uCeLiNk</a>
             </td>
             <td align="center"></td>
-            <td>2403</td>
+            <td>2425</td>
             <td>16681</td>
         </tr>
         <tr>
@@ -207,7 +207,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/redpilled_exlib">redpilled_exlib</a>
             </td>
             <td align="center"></td>
-            <td>1250</td>
+            <td>1270</td>
             <td>19081</td>
         </tr>
         <tr>
@@ -259,7 +259,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/IshaqQaf">IshaqQaf</a>
             </td>
             <td align="center"></td>
-            <td>43</td>
+            <td>42</td>
             <td>41676</td>
         </tr>
         <tr>
@@ -272,7 +272,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/allienpixel">allienpixel</a>
             </td>
             <td align="center"></td>
-            <td>63</td>
+            <td>64</td>
             <td>48291</td>
         </tr>
         <tr>
@@ -285,7 +285,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/krautz89">krautz89</a>
             </td>
             <td align="center"></td>
-            <td>224</td>
+            <td>228</td>
             <td>71325</td>
         </tr>
         <tr>
@@ -298,7 +298,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/brixwe">brixwe</a>
             </td>
             <td align="center"></td>
-            <td>33084</td>
+            <td>33709</td>
             <td>82162</td>
         </tr></table>
 

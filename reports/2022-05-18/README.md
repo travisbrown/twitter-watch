@@ -105,7 +105,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/738x738">738x738</a>
             </td>
             <td align="center">🔒</td>
-            <td>1171</td>
+            <td>1169</td>
             <td>33847</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/MyCupcake1111">MyCupcake1111</a>
             </td>
             <td align="center"></td>
-            <td>996</td>
+            <td>1004</td>
             <td>75071</td>
         </tr></table>
 

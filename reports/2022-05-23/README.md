@@ -70,7 +70,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/PhilosopherFren">PhilosopherFren</a>
             </td>
             <td align="center"></td>
-            <td>1563</td>
+            <td>1567</td>
             <td>8190</td>
         </tr>
         <tr>
@@ -122,7 +122,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ChrisR79103371">ChrisR79103371</a>
             </td>
             <td align="center"></td>
-            <td>138</td>
+            <td>137</td>
             <td>65407</td>
         </tr>
         <tr>
@@ -148,7 +148,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/PatriotCowboyWY">PatriotCowboyWY</a>
             </td>
             <td align="center"></td>
-            <td>674</td>
+            <td>680</td>
             <td>87741</td>
         </tr></table>
 

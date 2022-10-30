@@ -133,7 +133,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/siatheman">siatheman</a>
             </td>
             <td align="center"></td>
-            <td>60</td>
+            <td>59</td>
             <td>4312</td>
         </tr>
         <tr>

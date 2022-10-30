@@ -118,7 +118,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/UnWokablePod">UnWokablePod</a>
             </td>
             <td align="center"></td>
-            <td>19809</td>
+            <td>19818</td>
             <td>454</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/kkkeklol">kkkeklol</a>
             </td>
             <td align="center"></td>
-            <td>228</td>
+            <td>225</td>
             <td>3998</td>
         </tr>
         <tr>
@@ -183,7 +183,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/competitionist">competitionist</a>
             </td>
             <td align="center"></td>
-            <td>109</td>
+            <td>108</td>
             <td>7788</td>
         </tr>
         <tr>
@@ -235,7 +235,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_armedbobbery_">_armedbobbery_</a>
             </td>
             <td align="center"></td>
-            <td>842</td>
+            <td>841</td>
             <td>22246</td>
         </tr>
         <tr>
@@ -261,7 +261,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/petemendonez">petemendonez</a>
             </td>
             <td align="center"></td>
-            <td>475</td>
+            <td>474</td>
             <td>23510</td>
         </tr>
         <tr>
@@ -274,7 +274,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/0xryanreef">0xryanreef</a>
             </td>
             <td align="center"></td>
-            <td>436</td>
+            <td>434</td>
             <td>26809</td>
         </tr>
         <tr>
@@ -287,7 +287,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/eden__space">eden__space</a>
             </td>
             <td align="center"></td>
-            <td>90</td>
+            <td>91</td>
             <td>27214</td>
         </tr>
         <tr>
@@ -300,7 +300,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/WOLF_Hertzz">WOLF_Hertzz</a>
             </td>
             <td align="center"></td>
-            <td>237</td>
+            <td>240</td>
             <td>32118</td>
         </tr>
         <tr>
@@ -430,7 +430,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Achin0711">Achin0711</a>
             </td>
             <td align="center"></td>
-            <td>49</td>
+            <td>52</td>
             <td>64741</td>
         </tr>
         <tr>
@@ -443,7 +443,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/eddie_badilla">eddie_badilla</a>
             </td>
             <td align="center"></td>
-            <td>923</td>
+            <td>921</td>
             <td>71076</td>
         </tr>
         <tr>
@@ -469,7 +469,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PepperBenji">PepperBenji</a>
             </td>
             <td align="center"></td>
-            <td>59</td>
+            <td>60</td>
             <td>82119</td>
         </tr>
         <tr>
@@ -482,7 +482,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/justdoit_111">justdoit_111</a>
             </td>
             <td align="center"></td>
-            <td>87</td>
+            <td>88</td>
             <td>85329</td>
         </tr>
         <tr>
@@ -508,7 +508,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TomBoggerz">TomBoggerz</a>
             </td>
             <td align="center"></td>
-            <td>301</td>
+            <td>306</td>
             <td>92706</td>
         </tr>
         <tr>

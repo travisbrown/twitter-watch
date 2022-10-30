@@ -168,7 +168,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Abandonnnned">Abandonnnned</a>
             </td>
             <td align="center"></td>
-            <td>64</td>
+            <td>65</td>
             <td>23352</td>
         </tr>
         <tr>
@@ -181,7 +181,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/HeadlessZealot">HeadlessZealot</a>
             </td>
             <td align="center">🔒</td>
-            <td>75</td>
+            <td>74</td>
             <td>64476</td>
         </tr>
         <tr>

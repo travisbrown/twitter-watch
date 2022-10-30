@@ -177,7 +177,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MacGyver1777">MacGyver1777</a>
             </td>
             <td align="center"></td>
-            <td>4078</td>
+            <td>4079</td>
             <td>1277</td>
         </tr>
         <tr>
@@ -190,7 +190,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/racistchungus">racistchungus</a>
             </td>
             <td align="center"></td>
-            <td>227</td>
+            <td>233</td>
             <td>5625</td>
         </tr>
         <tr>
@@ -203,12 +203,12 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/raven_brah">raven_brah</a>
             </td>
             <td align="center"></td>
-            <td>2049</td>
+            <td>2057</td>
             <td>5930</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1542758807750705153">
-                <img src="https://pbs.twimg.com/profile_images/1579119816367083522/_FdgS7MN_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586170465155940352/77Kpyqez_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/FrensRevenge">FrensRevenge</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1542758807750705153">1 other</a>)&nbsp;</td>
@@ -216,7 +216,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RevengeFren">RevengeFren</a>
             </td>
             <td align="center"></td>
-            <td>364</td>
+            <td>380</td>
             <td>8927</td>
         </tr>
         <tr>
@@ -268,7 +268,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/smash64enjoyer">smash64enjoyer</a>
             </td>
             <td align="center"></td>
-            <td>913</td>
+            <td>919</td>
             <td>32736</td>
         </tr>
         <tr>
@@ -281,7 +281,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/realFuhrerScott">realFuhrerScott</a>
             </td>
             <td align="center"></td>
-            <td>262</td>
+            <td>263</td>
             <td>71575</td>
         </tr>
         <tr>
@@ -294,7 +294,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/wisdomFromZion">wisdomFromZion</a>
             </td>
             <td align="center"></td>
-            <td>92</td>
+            <td>94</td>
             <td>76553</td>
         </tr></table>
 

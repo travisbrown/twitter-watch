@@ -96,7 +96,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Billschitts">Billschitts</a>
             </td>
             <td align="center"></td>
-            <td>62</td>
+            <td>63</td>
             <td>20558</td>
         </tr>
         <tr>
@@ -135,7 +135,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ALLisLovE888">ALLisLovE888</a>
             </td>
             <td align="center"></td>
-            <td>1164</td>
+            <td>1166</td>
             <td>24574</td>
         </tr>
         <tr>

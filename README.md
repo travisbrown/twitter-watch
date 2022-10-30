@@ -41,7 +41,7 @@ which in some cases may be up to several days after the change occurred.
 * Total number of verified accounts suspended: 116
 * Total number of protected accounts suspended: 15568
 * Total number of suspensions for accounts previously withheld in specific countries: 23
-* Total number of screen name changes detected: 750584
+* Total number of screen name changes detected: 756651
 
 
 
@@ -294,7 +294,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1927</td>
             <td>326</td>
-            <td>0</td>
+            <td>15</td>
         </tr>
         <tr>
             <td>
@@ -302,7 +302,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>12714</td>
             <td>45</td>
-            <td>22</td>
+            <td>53</td>
         </tr>
         <tr>
             <td>

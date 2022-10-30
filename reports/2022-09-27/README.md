@@ -69,7 +69,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NRxCat">NRxCat</a>
             </td>
             <td align="center"></td>
-            <td>123</td>
+            <td>125</td>
             <td>2082</td>
         </tr>
         <tr>
@@ -95,7 +95,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/xyty89267165">xyty89267165</a>
             </td>
             <td align="center">🔒</td>
-            <td>605</td>
+            <td>606</td>
             <td>19826</td>
         </tr>
         <tr>
@@ -160,7 +160,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/historacle_125">historacle_125</a>
             </td>
             <td align="center"></td>
-            <td>180</td>
+            <td>182</td>
             <td>86023</td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bronze_chungus">bronze_chungus</a>
             </td>
             <td align="center"></td>
-            <td>247</td>
+            <td>246</td>
             <td>98105</td>
         </tr></table>
 

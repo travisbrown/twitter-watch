@@ -95,7 +95,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BayouCulture">BayouCulture</a>
             </td>
             <td align="center"></td>
-            <td>195</td>
+            <td>194</td>
             <td>7238</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/boi_zincoboy44">boi_zincoboy44</a>
             </td>
             <td align="center"></td>
-            <td>87</td>
+            <td>86</td>
             <td>13567</td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PelosiGaIore">PelosiGaIore</a>
             </td>
             <td align="center"></td>
-            <td>121</td>
+            <td>123</td>
             <td>27236</td>
         </tr>
         <tr>
@@ -199,7 +199,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ther3p1st">ther3p1st</a>
             </td>
             <td align="center"></td>
-            <td>14</td>
+            <td>13</td>
             <td>38311</td>
         </tr>
         <tr>
@@ -303,7 +303,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Courtiah17">Courtiah17</a>
             </td>
             <td align="center"></td>
-            <td>56</td>
+            <td>57</td>
             <td>82514</td>
         </tr>
         <tr>
@@ -316,7 +316,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BrendonClint">BrendonClint</a>
             </td>
             <td align="center"></td>
-            <td>55</td>
+            <td>56</td>
             <td>89512</td>
         </tr>
         <tr>
@@ -329,7 +329,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/OdysseanAcademy">OdysseanAcademy</a>
             </td>
             <td align="center"></td>
-            <td>451</td>
+            <td>450</td>
             <td>94678</td>
         </tr></table>
 

@@ -81,7 +81,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/elniggmex">elniggmex</a>
             </td>
             <td align="center"></td>
-            <td>193</td>
+            <td>191</td>
             <td>4003</td>
         </tr>
         <tr>
@@ -94,7 +94,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/misinfocentral">misinfocentral</a>
             </td>
             <td align="center"></td>
-            <td>39</td>
+            <td>40</td>
             <td>38856</td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Caroline_c_57">Caroline_c_57</a>
             </td>
             <td align="center"></td>
-            <td>535</td>
+            <td>536</td>
             <td>47447</td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/strongtowns_">strongtowns_</a>
             </td>
             <td align="center"></td>
-            <td>112</td>
+            <td>111</td>
             <td>50530</td>
         </tr>
         <tr>
