@@ -1,7 +1,7 @@
 ##  4 May 2022
 
 * [Tracked suspensions (2)](#tracked-suspensions)
-* [Tracked screen name changes (32)](#tracked-screen-name-changes)
+* [Tracked screen name changes (33)](#tracked-screen-name-changes)
 * [Untracked suspensions (83)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
@@ -31,7 +31,7 @@ Found 2 suspensions for tracked accounts.
             <td>2022-06-20</td>
             <td align="center"></td>
             <td>621</td>
-            <td>12383</td>
+            <td>12226</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1494981386431778818">
@@ -43,12 +43,12 @@ Found 2 suspensions for tracked accounts.
             <td>2022-05-06</td>
             <td align="center"></td>
             <td>39</td>
-            <td>51672</td>
+            <td>56832</td>
         </tr></table>
 
 ### Tracked screen name changes
 
-Found 32 screen name changes for tracked accounts.✔️ indicates that the account is verified and 🔒 that it is locked.
+Found 33 screen name changes for tracked accounts.✔️ indicates that the account is verified and 🔒 that it is locked.
 
 <table>
     <tr>
@@ -70,7 +70,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>33071</td>
-            <td>367</td>
+            <td>368</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518855992712351744">
@@ -83,7 +83,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>16431</td>
-            <td>599</td>
+            <td>604</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1520028377457078275">
@@ -96,7 +96,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>15699</td>
-            <td>626</td>
+            <td>632</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1476055069967753218">
@@ -109,7 +109,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>2368</td>
-            <td>1790</td>
+            <td>1808</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1517847063215714306">
@@ -122,7 +122,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>236</td>
-            <td>2289</td>
+            <td>2319</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1451269385591660551">
@@ -135,7 +135,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>313</td>
-            <td>3145</td>
+            <td>3193</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519581710739988480">
@@ -148,7 +148,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>22</td>
-            <td>7662</td>
+            <td>7803</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1376388553131745281">
@@ -161,7 +161,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center">🔒</td>
             <td>0</td>
-            <td>8275</td>
+            <td>8262</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=17289855">
@@ -174,20 +174,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>2026</td>
-            <td>12956</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1405084510425862144">
-                <img src="https://pbs.twimg.com/profile_images/1521730735169851394/477Fp_y6_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/peter_limburgv2">peter_limburgv2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1405084510425862144">1 other</a>)&nbsp;</td>
-            <td>
-                <a href="https://twitter.com/peter_limbo">peter_limbo</a>
-            </td>
-            <td align="center"></td>
-            <td>271</td>
-            <td>17310</td>
+            <td>12597</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=822954792695762944">
@@ -200,7 +187,20 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>1148</td>
-            <td>18639</td>
+            <td>15418</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1405084510425862144">
+                <img src="https://pbs.twimg.com/profile_images/1521730735169851394/477Fp_y6_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/peter_limburgv2">peter_limburgv2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1405084510425862144">1 other</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/peter_limbo">peter_limbo</a>
+            </td>
+            <td align="center"></td>
+            <td>271</td>
+            <td>17745</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1433059311207559168">
@@ -213,7 +213,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>1702</td>
-            <td>26206</td>
+            <td>25556</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1408162966948753417">
@@ -226,7 +226,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>40</td>
-            <td>31764</td>
+            <td>31486</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1459416967685623808">
@@ -239,7 +239,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>20</td>
-            <td>34631</td>
+            <td>34304</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519293106201444355">
@@ -252,7 +252,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>499</td>
-            <td>35002</td>
+            <td>35072</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=283957671">
@@ -265,7 +265,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>87</td>
-            <td>35481</td>
+            <td>36049</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1429806190888894470">
@@ -278,20 +278,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>208</td>
-            <td>37066</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=528837552">
-                <img src="https://pbs.twimg.com/profile_images/1529592483071533062/nWIzztDL_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/basedharry_">basedharry_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/528837552">3 others</a>)&nbsp;</td>
-            <td>
-                <a href="https://twitter.com/harryxafc">harryxafc</a>
-            </td>
-            <td align="center"></td>
-            <td>1492</td>
-            <td>50705</td>
+            <td>37721</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518688709373214722">
@@ -304,7 +291,20 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>293</td>
-            <td>52742</td>
+            <td>45339</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=528837552">
+                <img src="https://pbs.twimg.com/profile_images/1529592483071533062/nWIzztDL_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/basedharry_">basedharry_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/528837552">3 others</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/harryxafc">harryxafc</a>
+            </td>
+            <td align="center"></td>
+            <td>1492</td>
+            <td>51427</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1382757083905368069">
@@ -317,7 +317,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>24</td>
-            <td>55011</td>
+            <td>55838</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3214236283">
@@ -330,7 +330,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center">🔒</td>
             <td>17</td>
-            <td>55321</td>
+            <td>56069</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2337221540">
@@ -343,7 +343,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>186</td>
-            <td>63233</td>
+            <td>64465</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1253699182373662722">
@@ -356,7 +356,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>239</td>
-            <td>66425</td>
+            <td>67600</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2878430856">
@@ -369,7 +369,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>246</td>
-            <td>74279</td>
+            <td>75284</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=450180167">
@@ -382,7 +382,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>173</td>
-            <td>75225</td>
+            <td>76358</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1520522933818384384">
@@ -395,7 +395,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>115</td>
-            <td>76591</td>
+            <td>77500</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3257287958">
@@ -408,20 +408,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>694</td>
-            <td>84468</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=785577247277092868">
-                <img src="https://pbs.twimg.com/profile_images/1521675994490359813/rZeYCw8L_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Winter_August_">Winter_August_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/785577247277092868">2 others</a>)&nbsp;</td>
-            <td>
-                <a href="https://twitter.com/ProudTlaxcaltec">ProudTlaxcaltec</a>
-            </td>
-            <td align="center"></td>
-            <td>56</td>
-            <td>89987</td>
+            <td>85555</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4517397263">
@@ -434,7 +421,20 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>859</td>
-            <td>90750</td>
+            <td>87128</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=785577247277092868">
+                <img src="https://pbs.twimg.com/profile_images/1521675994490359813/rZeYCw8L_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Winter_August_">Winter_August_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/785577247277092868">2 others</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/ProudTlaxcaltec">ProudTlaxcaltec</a>
+            </td>
+            <td align="center"></td>
+            <td>56</td>
+            <td>91385</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1489066737513504768">
@@ -447,20 +447,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>5578</td>
-            <td>95358</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1521014863975264256">
-                <img src="https://pbs.twimg.com/profile_images/1573812575560552448/YgGspD3w_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ThatATF_Canine">ThatATF_Canine</a></td>
-            <td>
-                <a href="https://twitter.com/TBBleck">TBBleck</a>
-            </td>
-            <td align="center"></td>
-            <td>36</td>
-            <td>98754</td>
+            <td>94204</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1179333329922875392">
@@ -473,7 +460,33 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
             </td>
             <td align="center"></td>
             <td>201</td>
-            <td>99442</td>
+            <td>97754</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1093201093578887168">
+                <img src="https://pbs.twimg.com/profile_images/1501350191965736964/5jl8wBIx_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TreyClarkPowell">TreyClarkPowell</a></td>
+            <td>
+                <a href="https://twitter.com/BearPoliticsUSA">BearPoliticsUSA</a>
+            </td>
+            <td align="center"></td>
+            <td>103</td>
+            <td>98385</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1521014863975264256">
+                <img src="https://pbs.twimg.com/profile_images/1573812575560552448/YgGspD3w_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ThatATF_Canine">ThatATF_Canine</a></td>
+            <td>
+                <a href="https://twitter.com/TBBleck">TBBleck</a>
+            </td>
+            <td align="center"></td>
+            <td>36</td>
+            <td>99727</td>
         </tr></table>
 
 

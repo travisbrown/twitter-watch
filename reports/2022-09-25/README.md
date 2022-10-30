@@ -1,7 +1,7 @@
 ## 25 September 2022
 
 * [Tracked suspensions (3)](#tracked-suspensions)
-* [Tracked screen name changes (5)](#tracked-screen-name-changes)
+* [Tracked screen name changes (6)](#tracked-screen-name-changes)
 * [Untracked suspensions (101)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
@@ -31,7 +31,7 @@ Found 3 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>388</td>
-            <td>3036</td>
+            <td>3076</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1484016435273760769">
@@ -43,7 +43,7 @@ Found 3 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>46</td>
-            <td>4671</td>
+            <td>4815</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1389636365034393612">
@@ -55,12 +55,12 @@ Found 3 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1627</td>
-            <td>52567</td>
+            <td>52100</td>
         </tr></table>
 
 ### Tracked screen name changes
 
-Found 5 screen name changes for tracked accounts.✔️ indicates that the account is verified and 🔒 that it is locked.
+Found 6 screen name changes for tracked accounts.✔️ indicates that the account is verified and 🔒 that it is locked.
 
 <table>
     <tr>
@@ -72,6 +72,19 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
         <th align="left">Ranking</th></tr>
     </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1561413620684275716">
+                <img src="https://pbs.twimg.com/profile_images/1561414400719917057/QbhtRtkf_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/lol135754221">lol135754221</a></td>
+            <td>
+                <a href="https://twitter.com/glubby21">glubby21</a>
+            </td>
+            <td align="center"></td>
+            <td>35</td>
+            <td>32652</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1535727862611079168">
                 <img src="https://pbs.twimg.com/profile_images/1573213060952645636/L9hIMoKA_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -82,7 +95,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>286</td>
-            <td>52230</td>
+            <td>53213</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1324105237322371072">
@@ -95,7 +108,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>104</td>
-            <td>58257</td>
+            <td>58498</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1389141777018363907">
@@ -108,7 +121,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>169</td>
-            <td>86023</td>
+            <td>84100</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1556325372794490883">
@@ -121,7 +134,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>10</td>
-            <td>88429</td>
+            <td>89793</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=322150887">
@@ -134,7 +147,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>145</td>
-            <td>98488</td>
+            <td>99705</td>
         </tr></table>
 
 

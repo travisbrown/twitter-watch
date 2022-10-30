@@ -31,7 +31,7 @@ Found 1 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1000</td>
-            <td>2412</td>
+            <td>2438</td>
         </tr></table>
 
 ### Tracked screen name changes
@@ -58,7 +58,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>482</td>
-            <td>2494</td>
+            <td>2521</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1246075135741710337">
@@ -71,7 +71,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>271</td>
-            <td>3859</td>
+            <td>3938</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=967482287075004417">
@@ -84,7 +84,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>941</td>
-            <td>88281</td>
+            <td>89587</td>
         </tr></table>
 
 

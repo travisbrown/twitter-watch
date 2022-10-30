@@ -31,7 +31,7 @@ Found 6 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>534</td>
-            <td>1556</td>
+            <td>1571</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1498714565806366725">
@@ -43,7 +43,7 @@ Found 6 suspensions for tracked accounts.
             <td>2022-07-04</td>
             <td align="center"></td>
             <td>487</td>
-            <td>1596</td>
+            <td>1609</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1507458663417536515">
@@ -55,7 +55,7 @@ Found 6 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1718</td>
-            <td>2025</td>
+            <td>2052</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519704799670906880">
@@ -67,7 +67,7 @@ Found 6 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>635</td>
-            <td>3124</td>
+            <td>3175</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1529713493489745920">
@@ -79,7 +79,7 @@ Found 6 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>612</td>
-            <td>3442</td>
+            <td>3511</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1432040443349544966">
@@ -91,7 +91,7 @@ Found 6 suspensions for tracked accounts.
             <td>2022-06-20</td>
             <td align="center"></td>
             <td>181</td>
-            <td>57430</td>
+            <td>58317</td>
         </tr></table>
 
 ### Tracked screen name changes
@@ -118,7 +118,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>1928</td>
-            <td>1537</td>
+            <td>1548</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=811662404769685504">
@@ -131,7 +131,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center">🔒</td>
             <td>2181</td>
-            <td>9191</td>
+            <td>9304</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491406461016150022">
@@ -144,7 +144,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>850</td>
-            <td>20799</td>
+            <td>21052</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1520010264556580866">
@@ -157,7 +157,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>75</td>
-            <td>36540</td>
+            <td>37150</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1461778278214160392">
@@ -170,7 +170,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>67</td>
-            <td>37234</td>
+            <td>37924</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1509539555766149121">
@@ -183,7 +183,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>22</td>
-            <td>74519</td>
+            <td>85261</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1354582871223185408">
@@ -196,7 +196,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>7895</td>
-            <td>86534</td>
+            <td>87689</td>
         </tr></table>
 
 
