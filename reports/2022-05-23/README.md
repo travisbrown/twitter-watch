@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (1)](#tracked-suspensions)
 * [Tracked screen name changes (8)](#tracked-screen-name-changes)
-* [Untracked suspensions (68)](#untracked-suspensions)
+* [Untracked suspensions (69)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -70,7 +70,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/PhilosopherFren">PhilosopherFren</a>
             </td>
             <td align="center"></td>
-            <td>1567</td>
+            <td>1506</td>
             <td>8254</td>
         </tr>
         <tr>
@@ -96,7 +96,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ChrisSpeedwagon">ChrisSpeedwagon</a>
             </td>
             <td align="center"></td>
-            <td>52</td>
+            <td>51</td>
             <td>31117</td>
         </tr>
         <tr>
@@ -122,7 +122,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ChrisR79103371">ChrisR79103371</a>
             </td>
             <td align="center"></td>
-            <td>137</td>
+            <td>136</td>
             <td>66231</td>
         </tr>
         <tr>
@@ -148,7 +148,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/PatriotCowboyWY">PatriotCowboyWY</a>
             </td>
             <td align="center"></td>
-            <td>680</td>
+            <td>678</td>
             <td>89015</td>
         </tr></table>
 
@@ -156,7 +156,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
 ### Untracked suspensions
 
 Found 977 suspensions for untracked accounts.
-68 accounts have more than 1000 followers and are included here.
+69 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -496,7 +496,7 @@ Found 977 suspensions for untracked accounts.
             <td>2011-02-27</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2556</td>
+            <td>2550</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1397774717952708609">
@@ -628,7 +628,7 @@ Found 977 suspensions for untracked accounts.
             <td>2021-08-31</td>
             <td></td>
             <td align="center"></td>
-            <td>1705</td>
+            <td>1707</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1248419306473390080">
@@ -728,6 +728,17 @@ Found 977 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1403</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1475588604952985600">
+                <img src="https://pbs.twimg.com/profile_images/1475589308987887616/ClJ6lR-Y_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PoliticalMurica">PoliticalMurica</a></td>
+            <td>2021-12-27</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1400</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=188361293">

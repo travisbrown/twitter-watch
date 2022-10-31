@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2020-06-09</td>
             <td>2022-05-06</td>
             <td align="center">🔒</td>
-            <td>3554</td>
+            <td>3548</td>
             <td>84503</td>
         </tr></table>
 
@@ -235,7 +235,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AryanNiggam">AryanNiggam</a>
             </td>
             <td align="center"></td>
-            <td>54</td>
+            <td>51</td>
             <td>7879</td>
         </tr>
         <tr>
@@ -261,7 +261,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/trashyComanche9">trashyComanche9</a>
             </td>
             <td align="center"></td>
-            <td>275</td>
+            <td>265</td>
             <td>16194</td>
         </tr>
         <tr>
@@ -352,7 +352,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/lostinorbitz">lostinorbitz</a>
             </td>
             <td align="center"></td>
-            <td>5</td>
+            <td>6</td>
             <td>50204</td>
         </tr>
         <tr>
@@ -417,7 +417,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/trvcvltanon">trvcvltanon</a>
             </td>
             <td align="center"></td>
-            <td>4</td>
+            <td>3</td>
             <td>61057</td>
         </tr>
         <tr>
@@ -482,7 +482,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Kubrick_fan14">Kubrick_fan14</a>
             </td>
             <td align="center"></td>
-            <td>427</td>
+            <td>425</td>
             <td>75774</td>
         </tr>
         <tr>
@@ -508,7 +508,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/starchild2045">starchild2045</a>
             </td>
             <td align="center"></td>
-            <td>225</td>
+            <td>224</td>
             <td>78917</td>
         </tr>
         <tr>
@@ -1113,6 +1113,17 @@ Found 843 suspensions for untracked accounts.
             <td>2328</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1361207334396071936">
+                <img src="https://pbs.twimg.com/profile_images/1584296154829062144/MQ8p8Uxu_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/GenevoMundi">GenevoMundi</a></td>
+            <td>2021-02-15</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>2320</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1237800907053686787">
                 <img src="https://pbs.twimg.com/profile_images/1363740701779922946/OKahvzJK_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1122,17 +1133,6 @@ Found 843 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2319</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1361207334396071936">
-                <img src="https://pbs.twimg.com/profile_images/1584296154829062144/MQ8p8Uxu_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/GenevoMundi">GenevoMundi</a></td>
-            <td>2021-02-15</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>2318</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=237006936">

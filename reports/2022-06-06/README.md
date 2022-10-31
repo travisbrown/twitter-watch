@@ -443,7 +443,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bitcoin_citizen">bitcoin_citizen</a>
             </td>
             <td align="center"></td>
-            <td>276</td>
+            <td>280</td>
             <td>61259</td>
         </tr>
         <tr>
@@ -650,7 +650,7 @@ Found 812 suspensions for untracked accounts.
             <td>2011-02-05</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>10355</td>
+            <td>10354</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=42606577">
@@ -782,7 +782,7 @@ Found 812 suspensions for untracked accounts.
             <td>2020-06-05</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>4272</td>
+            <td>4275</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=591572161">
@@ -972,6 +972,17 @@ Found 812 suspensions for untracked accounts.
             <td>2499</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=797484849246314497">
+                <img src="https://pbs.twimg.com/profile_images/1365496317812875266/UvhKqy5M_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FurFrog">FurFrog</a></td>
+            <td>2016-11-12</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2461</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1450269054569123840">
                 <img src="https://pbs.twimg.com/profile_images/1459906169519349761/-l_Qj0RJ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -981,17 +992,6 @@ Found 812 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2433</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=797484849246314497">
-                <img src="https://pbs.twimg.com/profile_images/1365496317812875266/UvhKqy5M_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FurFrog">FurFrog</a></td>
-            <td>2016-11-12</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2420</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=877963268542910464">

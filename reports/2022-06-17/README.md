@@ -42,7 +42,7 @@ Found 6 suspensions for tracked accounts.
             <td>2022-03-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>487</td>
+            <td>486</td>
             <td>1609</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 6 suspensions for tracked accounts.
             <td>2021-08-29</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>181</td>
+            <td>180</td>
             <td>58317</td>
         </tr></table>
 
@@ -117,7 +117,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/FunScalaConf">FunScalaConf</a>
             </td>
             <td align="center"></td>
-            <td>1928</td>
+            <td>1932</td>
             <td>1548</td>
         </tr>
         <tr>
@@ -169,7 +169,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ilykmashpotat">ilykmashpotat</a>
             </td>
             <td align="center"></td>
-            <td>67</td>
+            <td>66</td>
             <td>37924</td>
         </tr>
         <tr>
@@ -195,7 +195,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/s00nd">s00nd</a>
             </td>
             <td align="center"></td>
-            <td>7895</td>
+            <td>7889</td>
             <td>87689</td>
         </tr></table>
 
@@ -312,7 +312,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2015-06-27</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>75965</td>
+            <td>75921</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1287244090208288769">
@@ -326,6 +326,17 @@ Found 1561 suspensions for untracked accounts.
             <td>46807</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1516094705829883915">
+                <img src="https://pbs.twimg.com/profile_images/1541796099417165824/zyfMVo_F_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Hentainewsdaily">Hentainewsdaily</a></td>
+            <td>2022-04-18</td>
+            <td>2022-07-04</td>
+            <td align="center"></td>
+            <td>41395</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1505526485095919621">
                 <img src="https://pbs.twimg.com/profile_images/1526571760690540547/blDu_kPV_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -335,17 +346,6 @@ Found 1561 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>41338</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1516094705829883915">
-                <img src="https://pbs.twimg.com/profile_images/1541796099417165824/zyfMVo_F_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Hentainewsdaily">Hentainewsdaily</a></td>
-            <td>2022-04-18</td>
-            <td>2022-07-04</td>
-            <td align="center"></td>
-            <td>40919</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1257872916282249216">
@@ -422,7 +422,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2010-01-12</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>19514</td>
+            <td>19507</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=182446919">
@@ -488,7 +488,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2010-09-06</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>13275</td>
+            <td>13274</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4631268494">
@@ -576,7 +576,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2016-03-29</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>8672</td>
+            <td>8679</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=884365488">
@@ -664,7 +664,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2020-10-06</td>
             <td></td>
             <td align="center"></td>
-            <td>6252</td>
+            <td>6246</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1168284814589530112">
@@ -862,7 +862,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2016-03-14</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>4014</td>
+            <td>4013</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1398688816374947845">
@@ -884,7 +884,18 @@ Found 1561 suspensions for untracked accounts.
             <td>2018-10-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>3664</td>
+            <td>3663</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1383784729590190081">
+                <img src="https://pbs.twimg.com/profile_images/1524543331921022979/83XiIDzT_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MvrderCvlt">MvrderCvlt</a></td>
+            <td>2021-04-18</td>
+            <td>2022-06-27</td>
+            <td align="center"></td>
+            <td>3663</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1297453271494385664">
@@ -896,17 +907,6 @@ Found 1561 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3632</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1383784729590190081">
-                <img src="https://pbs.twimg.com/profile_images/1524543331921022979/83XiIDzT_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MvrderCvlt">MvrderCvlt</a></td>
-            <td>2021-04-18</td>
-            <td>2022-06-27</td>
-            <td align="center"></td>
-            <td>3619</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1619075748">
@@ -1698,7 +1698,7 @@ Found 1561 suspensions for untracked accounts.
             <td>2015-05-13</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>1260</td>
+            <td>1258</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1516135477040013319">
