@@ -1,14 +1,14 @@
 ##  1 November 2022
 
-* [Tracked suspensions (8)](#tracked-suspensions)
+* [Tracked suspensions (9)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (15)](#untracked-suspensions)
+* [Untracked suspensions (17)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
 ### Tracked suspensions
 
-Found 8 suspensions for tracked accounts.
+Found 9 suspensions for tracked accounts.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -106,6 +106,18 @@ Found 8 suspensions for tracked accounts.
             <td>56909</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1562873560351133701">
+                <img src="https://pbs.twimg.com/profile_images/1582986889258184704/-cjknLkr_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ArtCali818">ArtCali818</a></td>
+            <td>2022-08-25</td>
+            <td></td>
+            <td align="center"></td>
+            <td>45914</td>
+            <td>87948</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1547224700245401601">
                 <img src="https://pbs.twimg.com/profile_images/1547587513308438528/3lmrHY02_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -124,8 +136,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 291 suspensions for untracked accounts.
-15 accounts have more than 1000 followers and are included here.
+Found 298 suspensions for untracked accounts.
+17 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -259,6 +271,17 @@ Found 291 suspensions for untracked accounts.
             <td>1791</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=253396539">
+                <img src="https://pbs.twimg.com/profile_images/1521354063480180736/aF1TXJZE_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/kroltanz">kroltanz</a></td>
+            <td>2011-02-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1784</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1012441">
                 <img src="https://pbs.twimg.com/profile_images/1362423813493899265/Uwf9yGuN_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -279,6 +302,17 @@ Found 291 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1337</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1586001068865060864">
+                <img src="https://pbs.twimg.com/profile_images/1586002449386569729/7wVLHdKa_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/fr3nbilt">fr3nbilt</a></td>
+            <td>2022-10-28</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1288</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1248266447551258625">
