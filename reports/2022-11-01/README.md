@@ -1,14 +1,14 @@
 ##  1 November 2022
 
-* [Tracked suspensions (61)](#tracked-suspensions)
+* [Tracked suspensions (66)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (71)](#untracked-suspensions)
+* [Untracked suspensions (73)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
 ### Tracked suspensions
 
-Found 61 suspensions for tracked accounts.
+Found 66 suspensions for tracked accounts.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -140,6 +140,18 @@ Found 61 suspensions for tracked accounts.
             <td align="center"></td>
             <td>127</td>
             <td>2623</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1585939396192358402">
+                <img src="https://pbs.twimg.com/profile_images/1585948195548545028/nzoQmK7M_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Bolso_Fren">Bolso_Fren</a></td>
+            <td>2022-10-28</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1783</td>
+            <td>2664</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1564376369206788099">
@@ -370,6 +382,18 @@ Found 61 suspensions for tracked accounts.
             <td>6713</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1559840701227192320">
+                <img src="https://pbs.twimg.com/profile_images/1559840891526909952/VGEONjd3_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Bigjuicedaddy2">Bigjuicedaddy2</a></td>
+            <td>2022-08-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>242</td>
+            <td>6747</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1583258599178076160">
                 <img src="https://pbs.twimg.com/profile_images/1583970693632466944/EaQoSb2-_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -380,6 +404,18 @@ Found 61 suspensions for tracked accounts.
             <td align="center"></td>
             <td>163</td>
             <td>8460</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1585728159697207297">
+                <img src="https://pbs.twimg.com/profile_images/1585729184516767745/QyjCZRee_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/autist__bro">autist__bro</a></td>
+            <td>2022-10-27</td>
+            <td></td>
+            <td align="center"></td>
+            <td>192</td>
+            <td>9155</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1585278724030750720">
@@ -440,6 +476,18 @@ Found 61 suspensions for tracked accounts.
             <td align="center"></td>
             <td>10</td>
             <td>12536</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2271754505">
+                <img src="https://pbs.twimg.com/profile_images/1578916243276537858/UWGmOsC2_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/xYourExcellency">xYourExcellency</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2271754505">4 others</a>)&nbsp;</td>
+            <td>2014-01-09</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1032</td>
+            <td>14522</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1581341785497927680">
@@ -706,6 +754,18 @@ Found 61 suspensions for tracked accounts.
             <td>62042</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1566124324452536320">
+                <img src="https://pbs.twimg.com/profile_images/1566124766557360129/W1h0a3fe_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MariePacella">MariePacella</a></td>
+            <td>2022-09-03</td>
+            <td></td>
+            <td align="center"></td>
+            <td>715</td>
+            <td>67334</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1521809615037554688">
                 <img src="https://pbs.twimg.com/profile_images/1586990630437281792/JeoaTIr6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -760,8 +820,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 1646 suspensions for untracked accounts.
-71 accounts have more than 1000 followers and are included here.
+Found 1688 suspensions for untracked accounts.
+73 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1069,6 +1129,17 @@ Found 1646 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3476</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=825764715913682944">
+                <img src="https://pbs.twimg.com/profile_images/1380266012617101319/HRRIu5wH_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/HopeInTheUSA">HopeInTheUSA</a></td>
+            <td>2017-01-29</td>
+            <td></td>
+            <td align="center"></td>
+            <td>3192</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1350292135698948100">
@@ -1421,6 +1492,17 @@ Found 1646 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1334</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1475617190607048706">
+                <img src="https://pbs.twimg.com/profile_images/1496562309535346691/HvDRj-rk_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Matheus25873599">Matheus25873599</a></td>
+            <td>2021-12-27</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1328</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2181113628">
