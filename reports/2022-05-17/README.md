@@ -30,7 +30,7 @@ Found 3 suspensions for tracked accounts.
             <td>2022-02-26</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>192</td>
+            <td>191</td>
             <td>7542</td>
         </tr>
         <tr>
@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2019-09-12</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>129</td>
+            <td>131</td>
             <td>39041</td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2015-05-02</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>75232</td>
+            <td>75223</td>
             <td>88912</td>
         </tr></table>
 
@@ -1148,17 +1148,6 @@ Found 605 suspensions for untracked accounts.
             <td>1297</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=40011174">
-                <img src="https://pbs.twimg.com/profile_images/1580953756279119873/Yyrz8h1M_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/vinniediego">vinniediego</a></td>
-            <td>2009-05-14</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>1296</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1509269404722376705">
                 <img src="https://pbs.twimg.com/profile_images/1533837693217554433/mXw2P_eg_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1168,6 +1157,17 @@ Found 605 suspensions for untracked accounts.
             <td>2022-05-28</td>
             <td align="center"></td>
             <td>1296</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=40011174">
+                <img src="https://pbs.twimg.com/profile_images/1580953756279119873/Yyrz8h1M_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/vinniediego">vinniediego</a></td>
+            <td>2009-05-14</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>1291</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2283629876">

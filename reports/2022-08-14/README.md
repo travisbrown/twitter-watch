@@ -662,7 +662,7 @@ Found 813 suspensions for untracked accounts.
             <td>2008-10-23</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>116127</td>
+            <td>116124</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=709599527326470146">
@@ -684,7 +684,7 @@ Found 813 suspensions for untracked accounts.
             <td>2021-02-17</td>
             <td></td>
             <td align="center"></td>
-            <td>88264</td>
+            <td>88485</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495767995033038850">
@@ -981,7 +981,7 @@ Found 813 suspensions for untracked accounts.
             <td>2020-08-24</td>
             <td></td>
             <td align="center"></td>
-            <td>6877</td>
+            <td>6875</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1225171870141624323">
@@ -1685,7 +1685,7 @@ Found 813 suspensions for untracked accounts.
             <td>2015-08-29</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>1358</td>
+            <td>1359</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1451588987060199424">
@@ -1743,6 +1743,17 @@ Found 813 suspensions for untracked accounts.
             <td>1301</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=901324398006853633">
+                <img src="https://pbs.twimg.com/profile_images/1574621521418543105/FHnfTC_U_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ruinwanderer">ruinwanderer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/901324398006853633">1 other</a>)&nbsp;</td>
+            <td>2017-08-26</td>
+            <td>2022-08-18</td>
+            <td align="center"></td>
+            <td>1284</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1457737070089224193">
                 <img src="https://pbs.twimg.com/profile_images/1457737278638501895/33uGvKhB_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1752,17 +1763,6 @@ Found 813 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1284</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=901324398006853633">
-                <img src="https://pbs.twimg.com/profile_images/1574621521418543105/FHnfTC_U_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ruinwanderer">ruinwanderer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/901324398006853633">1 other</a>)&nbsp;</td>
-            <td>2017-08-26</td>
-            <td>2022-08-18</td>
-            <td align="center"></td>
-            <td>1282</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=954767191043342337">

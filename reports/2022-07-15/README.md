@@ -1152,7 +1152,7 @@ Found 2215 suspensions for untracked accounts.
             <td>2013-01-15</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>2780</td>
+            <td>2781</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=548745357">
@@ -1328,7 +1328,7 @@ Found 2215 suspensions for untracked accounts.
             <td>2018-05-10</td>
             <td></td>
             <td align="center"></td>
-            <td>2341</td>
+            <td>2337</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1290063124415078400">
@@ -1683,6 +1683,17 @@ Found 2215 suspensions for untracked accounts.
             <td>1858</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1141498933765648386">
+                <img src="https://pbs.twimg.com/profile_images/1563218137243193344/3fcgW2fo_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SocialDuck101">SocialDuck101</a></td>
+            <td>2019-06-20</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>1824</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2927160084">
                 <img src="https://pbs.twimg.com/profile_images/1429607674279120897/1-MhMoxx_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1692,17 +1703,6 @@ Found 2215 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1822</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1141498933765648386">
-                <img src="https://pbs.twimg.com/profile_images/1563218137243193344/3fcgW2fo_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SocialDuck101">SocialDuck101</a></td>
-            <td>2019-06-20</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>1819</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2406341711">
@@ -2101,23 +2101,23 @@ Found 2215 suspensions for untracked accounts.
             <td>1346</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1466773212">
-                <img src="https://pbs.twimg.com/profile_images/1543943200066387968/0MHkOTkw_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/lionheartIAM">lionheartIAM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1466773212">5 others</a>)&nbsp;</td>
-            <td>2013-05-29</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1344</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=834781575212580865">
                 <img src="https://pbs.twimg.com/profile_images/1506551807002439689/aKb6dVyN_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/ShivOm051555">ShivOm051555</a></td>
             <td>2017-02-23</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1345</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1466773212">
+                <img src="https://pbs.twimg.com/profile_images/1543943200066387968/0MHkOTkw_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/lionheartIAM">lionheartIAM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1466773212">5 others</a>)&nbsp;</td>
+            <td>2013-05-29</td>
             <td></td>
             <td align="center"></td>
             <td>1344</td>

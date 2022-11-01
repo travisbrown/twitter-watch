@@ -150,7 +150,7 @@ Found 13 suspensions for tracked accounts.
             <td>2019-02-07</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>97634</td>
+            <td>98376</td>
             <td>20779</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ Found 13 suspensions for tracked accounts.
             <td>2013-03-25</td>
             <td></td>
             <td align="center"></td>
-            <td>289</td>
+            <td>292</td>
             <td>73626</td>
         </tr></table>
 
@@ -815,7 +815,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2018-12-18</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>52735</td>
+            <td>52770</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1370704398960062469">
@@ -848,7 +848,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2009-02-26</td>
             <td></td>
             <td align="center"></td>
-            <td>42946</td>
+            <td>42849</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1442951281459568640">
@@ -906,6 +906,17 @@ Found 1128 suspensions for untracked accounts.
             <td>27553</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1433048743687905280">
+                <img src="https://pbs.twimg.com/profile_images/1533907970966290434/H3Q3QPj2_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Bruno_Attal_">Bruno_Attal_</a></td>
+            <td>2021-09-01</td>
+            <td></td>
+            <td align="center"></td>
+            <td>25971</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1452037376604360710">
                 <img src="https://pbs.twimg.com/profile_images/1550186796964888576/oGb9Jph5_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -915,17 +926,6 @@ Found 1128 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>25939</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1433048743687905280">
-                <img src="https://pbs.twimg.com/profile_images/1533907970966290434/H3Q3QPj2_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Bruno_Attal_">Bruno_Attal_</a></td>
-            <td>2021-09-01</td>
-            <td></td>
-            <td align="center"></td>
-            <td>25905</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1429280364774625280">
@@ -1178,7 +1178,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2009-07-06</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>7712</td>
+            <td>7888</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1341695168655855616">
@@ -1398,7 +1398,7 @@ Found 1128 suspensions for untracked accounts.
             <td>2021-10-18</td>
             <td></td>
             <td align="center"></td>
-            <td>4567</td>
+            <td>4564</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=277550076">

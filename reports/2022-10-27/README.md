@@ -2034,7 +2034,7 @@ Found 1418 suspensions for untracked accounts.
             <td>2021-02-02</td>
             <td></td>
             <td align="center"></td>
-            <td>3498</td>
+            <td>3492</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1533874242021797888">
@@ -3390,17 +3390,6 @@ Found 1418 suspensions for untracked accounts.
             <td>1058</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1425761126017556480">
-                <img src="https://pbs.twimg.com/profile_images/1582810729014595586/O6LO9EeE_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/shadiradia">shadiradia</a></td>
-            <td>2021-08-12</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1055</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1085617237938094080">
                 <img src="https://pbs.twimg.com/profile_images/1563539175910977537/LrENDVu3_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3454,6 +3443,17 @@ Found 1418 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1014</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1425761126017556480">
+                <img src="https://pbs.twimg.com/profile_images/1582810729014595586/O6LO9EeE_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/shadiradia">shadiradia</a></td>
+            <td>2021-08-12</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1011</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1574487435639242773">

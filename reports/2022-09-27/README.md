@@ -42,7 +42,7 @@ Found 2 suspensions for tracked accounts.
             <td>2010-12-16</td>
             <td></td>
             <td align="center"></td>
-            <td>1010</td>
+            <td>1013</td>
             <td>61636</td>
         </tr></table>
 
@@ -340,7 +340,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2019-06-18</td>
             <td></td>
             <td align="center"></td>
-            <td>21732</td>
+            <td>21727</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=786469245999800320">
@@ -505,7 +505,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2022-05-04</td>
             <td></td>
             <td align="center"></td>
-            <td>4514</td>
+            <td>4504</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1069942655910592512">
@@ -593,7 +593,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2010-09-15</td>
             <td></td>
             <td align="center"></td>
-            <td>3551</td>
+            <td>3553</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1401105569516343296">
@@ -681,18 +681,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2021-07-16</td>
             <td></td>
             <td align="center"></td>
-            <td>3057</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1016614640">
-                <img src="https://pbs.twimg.com/profile_images/2985276806/3d463420a1b0a15d6ad1e6640754cbb5_normal.jpeg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/hectofavala">hectofavala</a></td>
-            <td>2012-12-17</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2979</td>
+            <td>3043</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1511388342532853772">
@@ -701,6 +690,17 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BruceNeely5">BruceNeely5</a></td>
             <td>2022-04-05</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2988</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1016614640">
+                <img src="https://pbs.twimg.com/profile_images/2985276806/3d463420a1b0a15d6ad1e6640754cbb5_normal.jpeg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/hectofavala">hectofavala</a></td>
+            <td>2012-12-17</td>
             <td></td>
             <td align="center"></td>
             <td>2979</td>
@@ -890,7 +890,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2021-10-29</td>
             <td></td>
             <td align="center"></td>
-            <td>2076</td>
+            <td>2075</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1306349920434237442">
@@ -923,7 +923,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2022-02-16</td>
             <td></td>
             <td align="center"></td>
-            <td>2010</td>
+            <td>2012</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1556703756548542466">
@@ -1022,7 +1022,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2009-04-23</td>
             <td></td>
             <td align="center"></td>
-            <td>1776</td>
+            <td>1778</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=30878887">
@@ -1319,7 +1319,7 @@ Found 1047 suspensions for untracked accounts.
             <td>2011-08-02</td>
             <td></td>
             <td align="center">🔒</td>
-            <td>1064</td>
+            <td>1063</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1033686910231867392">

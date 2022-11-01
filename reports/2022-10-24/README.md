@@ -754,7 +754,7 @@ Found 1114 suspensions for untracked accounts.
             <td>2017-05-28</td>
             <td></td>
             <td align="center"></td>
-            <td>75372</td>
+            <td>75202</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1393429885989777412">
@@ -886,7 +886,7 @@ Found 1114 suspensions for untracked accounts.
             <td>2012-05-04</td>
             <td></td>
             <td align="center"></td>
-            <td>17240</td>
+            <td>17267</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1498379159797645312">
@@ -908,7 +908,7 @@ Found 1114 suspensions for untracked accounts.
             <td>2017-11-08</td>
             <td></td>
             <td align="center"></td>
-            <td>12063</td>
+            <td>12060</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2996097096">
@@ -1029,7 +1029,7 @@ Found 1114 suspensions for untracked accounts.
             <td>2010-02-04</td>
             <td></td>
             <td align="center"></td>
-            <td>8472</td>
+            <td>8476</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1499879157672648708">
@@ -1590,7 +1590,7 @@ Found 1114 suspensions for untracked accounts.
             <td>2014-08-03</td>
             <td></td>
             <td align="center"></td>
-            <td>1988</td>
+            <td>1985</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1533045611687288832">
@@ -1986,7 +1986,7 @@ Found 1114 suspensions for untracked accounts.
             <td>2021-06-20</td>
             <td></td>
             <td align="center"></td>
-            <td>1299</td>
+            <td>1297</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=156409282">
@@ -2052,7 +2052,7 @@ Found 1114 suspensions for untracked accounts.
             <td>2022-02-27</td>
             <td></td>
             <td align="center"></td>
-            <td>1225</td>
+            <td>1228</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=982353408349765632">

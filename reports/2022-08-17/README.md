@@ -30,7 +30,7 @@ Found 16 suspensions for tracked accounts.
             <td>2022-06-06</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>116958</td>
+            <td>117576</td>
             <td>153</td>
         </tr>
         <tr>
@@ -972,7 +972,7 @@ Found 1550 suspensions for untracked accounts.
             <td>2021-08-21</td>
             <td></td>
             <td align="center"></td>
-            <td>10331</td>
+            <td>10340</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1537636063463841794">
@@ -1093,7 +1093,7 @@ Found 1550 suspensions for untracked accounts.
             <td>2009-07-30</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>6796</td>
+            <td>6795</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1078840189773062144">
@@ -1434,7 +1434,7 @@ Found 1550 suspensions for untracked accounts.
             <td>2019-12-02</td>
             <td>2022-08-21</td>
             <td align="center"></td>
-            <td>3527</td>
+            <td>3529</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=381179368">
@@ -1522,7 +1522,7 @@ Found 1550 suspensions for untracked accounts.
             <td>2021-03-16</td>
             <td></td>
             <td align="center"></td>
-            <td>3034</td>
+            <td>3047</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519412701901910017">
@@ -1676,7 +1676,7 @@ Found 1550 suspensions for untracked accounts.
             <td>2013-08-28</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2671</td>
+            <td>2673</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1477248621389271040">
@@ -2493,17 +2493,6 @@ Found 1550 suspensions for untracked accounts.
             <td>1308</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=69167001">
-                <img src="https://pbs.twimg.com/profile_images/1444094238568980481/b1a2XjAH_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MisterFabulist">MisterFabulist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/69167001">2 others</a>)&nbsp;</td>
-            <td>2009-08-27</td>
-            <td>2022-08-21</td>
-            <td align="center"></td>
-            <td>1289</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=93553968">
                 <img src="https://pbs.twimg.com/profile_images/1396915105309372422/9RcHBAVd_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2513,6 +2502,17 @@ Found 1550 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1288</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=69167001">
+                <img src="https://pbs.twimg.com/profile_images/1444094238568980481/b1a2XjAH_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MisterFabulist">MisterFabulist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/69167001">2 others</a>)&nbsp;</td>
+            <td>2009-08-27</td>
+            <td>2022-08-21</td>
+            <td align="center"></td>
+            <td>1287</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3843842963">
@@ -2600,7 +2600,7 @@ Found 1550 suspensions for untracked accounts.
             <td>2021-09-20</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>1238</td>
+            <td>1237</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518913948732559362">

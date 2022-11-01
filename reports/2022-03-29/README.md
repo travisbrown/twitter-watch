@@ -482,7 +482,7 @@ Found 831 suspensions for untracked accounts.
             <td>2008-11-21</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>28863</td>
+            <td>28860</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1448784688005500929">
@@ -493,7 +493,7 @@ Found 831 suspensions for untracked accounts.
             <td>2021-10-14</td>
             <td>2022-03-30</td>
             <td align="center"></td>
-            <td>18979</td>
+            <td>18984</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4092182478">
@@ -815,17 +815,6 @@ Found 831 suspensions for untracked accounts.
             <td>2119</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1110731636918939656">
-                <img src="https://pbs.twimg.com/profile_images/1559858403354193926/xoIK9km0_normal.png" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AntonioMedici6">AntonioMedici6</a></td>
-            <td>2019-03-27</td>
-            <td>2022-04-02</td>
-            <td align="center"></td>
-            <td>2117</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1208829197696847873">
                 <img src="https://pbs.twimg.com/profile_images/1491788397781794825/fuK6SEsE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -835,6 +824,17 @@ Found 831 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2114</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1110731636918939656">
+                <img src="https://pbs.twimg.com/profile_images/1559858403354193926/xoIK9km0_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AntonioMedici6">AntonioMedici6</a></td>
+            <td>2019-03-27</td>
+            <td>2022-04-02</td>
+            <td align="center"></td>
+            <td>2101</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=19543692">
@@ -1164,7 +1164,7 @@ Found 831 suspensions for untracked accounts.
             <td>2021-09-21</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>1009</td>
+            <td>1008</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=493212582">

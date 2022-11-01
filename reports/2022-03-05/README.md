@@ -738,7 +738,7 @@ Found 507 suspensions for untracked accounts.
             <td>2008-12-27</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>5295</td>
+            <td>5298</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=217201548">
@@ -936,7 +936,7 @@ Found 507 suspensions for untracked accounts.
             <td>2017-06-29</td>
             <td>2022-03-11</td>
             <td align="center"></td>
-            <td>3169</td>
+            <td>3171</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=515281693">
@@ -1027,6 +1027,17 @@ Found 507 suspensions for untracked accounts.
             <td>2576</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=797484849246314497">
+                <img src="https://pbs.twimg.com/profile_images/1365496317812875266/UvhKqy5M_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FurFrog">FurFrog</a></td>
+            <td>2016-11-12</td>
+            <td>2022-05-06</td>
+            <td align="center"></td>
+            <td>2512</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1263524769531641857">
                 <img src="https://pbs.twimg.com/profile_images/1263525209002389510/9rVd8BFl_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1036,17 +1047,6 @@ Found 507 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2506</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=797484849246314497">
-                <img src="https://pbs.twimg.com/profile_images/1365496317812875266/UvhKqy5M_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FurFrog">FurFrog</a></td>
-            <td>2016-11-12</td>
-            <td>2022-05-06</td>
-            <td align="center"></td>
-            <td>2461</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1110732529">

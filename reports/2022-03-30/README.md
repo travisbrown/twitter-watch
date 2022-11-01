@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2007-01-27</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>145</td>
+            <td>146</td>
             <td>25755</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-05-03</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>505</td>
+            <td>506</td>
             <td>28732</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2018-09-16</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>11141</td>
+            <td>11132</td>
             <td>96507</td>
         </tr></table>
 
@@ -1184,7 +1184,7 @@ Found 866 suspensions for untracked accounts.
             <td>2013-12-06</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>4622</td>
+            <td>4614</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1110583716">
@@ -1360,7 +1360,7 @@ Found 866 suspensions for untracked accounts.
             <td>2019-06-04</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>2406</td>
+            <td>2410</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=938417072366850048">
@@ -1602,7 +1602,7 @@ Found 866 suspensions for untracked accounts.
             <td>2019-01-10</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1426</td>
+            <td>1427</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1345442404141293570">
@@ -1899,5 +1899,5 @@ Found 866 suspensions for untracked accounts.
             <td>2008-08-07</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>1013</td>
+            <td>1012</td>
         </tr></table>

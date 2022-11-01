@@ -125,7 +125,7 @@ Found 11 suspensions for tracked accounts.
                 <a href="https://twitter.com/QuodNostra">QuodNostra</a></td>
             <td>2020-11-17</td>
             <td>2022-06-05</td>
-            <td align="center"></td>
+            <td align="center">🔒</td>
             <td>485</td>
             <td>31774</td>
         </tr>
@@ -150,7 +150,7 @@ Found 11 suspensions for tracked accounts.
             <td>2021-12-10</td>
             <td>2022-09-05</td>
             <td align="center">🔒</td>
-            <td>56</td>
+            <td>57</td>
             <td>58441</td>
         </tr></table>
 
@@ -627,7 +627,7 @@ Found 775 suspensions for untracked accounts.
             <td>2016-10-19</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>82670</td>
+            <td>82654</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1260730001747521537">
@@ -660,7 +660,7 @@ Found 775 suspensions for untracked accounts.
             <td>2013-10-21</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>65545</td>
+            <td>65587</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2350724678">
@@ -869,7 +869,7 @@ Found 775 suspensions for untracked accounts.
             <td>2021-03-14</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>6679</td>
+            <td>6670</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=19107009">
@@ -880,7 +880,7 @@ Found 775 suspensions for untracked accounts.
             <td>2009-01-17</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>6081</td>
+            <td>6079</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=740015696">
@@ -990,7 +990,7 @@ Found 775 suspensions for untracked accounts.
             <td>2017-07-25</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3343</td>
+            <td>3342</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1446006239272574976">
@@ -1001,7 +1001,7 @@ Found 775 suspensions for untracked accounts.
             <td>2021-10-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3299</td>
+            <td>3304</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=45560547">
@@ -1045,7 +1045,7 @@ Found 775 suspensions for untracked accounts.
             <td>2016-11-01</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>3088</td>
+            <td>3087</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1470020337672900611">
@@ -1444,6 +1444,17 @@ Found 775 suspensions for untracked accounts.
             <td>1205</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1327600952329715712">
+                <img src="https://pbs.twimg.com/profile_images/1564371400718172160/xHCzl5CF_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Noah59951079">Noah59951079</a></td>
+            <td>2020-11-14</td>
+            <td>2022-06-20</td>
+            <td align="center"></td>
+            <td>1197</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=425409433">
                 <img src="https://pbs.twimg.com/profile_images/1506690771684102148/-5b4dhEl_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1464,17 +1475,6 @@ Found 775 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1193</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1327600952329715712">
-                <img src="https://pbs.twimg.com/profile_images/1564371400718172160/xHCzl5CF_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Noah59951079">Noah59951079</a></td>
-            <td>2020-11-14</td>
-            <td>2022-06-20</td>
-            <td align="center"></td>
-            <td>1183</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1173690653643091969">

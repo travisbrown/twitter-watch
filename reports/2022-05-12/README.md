@@ -194,7 +194,7 @@ Found 895 suspensions for untracked accounts.
             <td>2011-06-15</td>
             <td></td>
             <td align="center"></td>
-            <td>41136</td>
+            <td>41120</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=343186105">
@@ -403,7 +403,7 @@ Found 895 suspensions for untracked accounts.
             <td>2015-02-24</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>5240</td>
+            <td>5245</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1366432018481963017">
@@ -524,7 +524,7 @@ Found 895 suspensions for untracked accounts.
             <td>2022-02-18</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>3676</td>
+            <td>3672</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=245350306">
@@ -535,7 +535,7 @@ Found 895 suspensions for untracked accounts.
             <td>2011-01-31</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>3668</td>
+            <td>3662</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=852882438841872384">
@@ -560,6 +560,17 @@ Found 895 suspensions for untracked accounts.
             <td>3462</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1343541349090516995">
+                <img src="https://pbs.twimg.com/profile_images/1575279349045100545/Q0E0azgy_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AdeForex01">AdeForex01</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1343541349090516995">1 other</a>)&nbsp;</td>
+            <td>2020-12-28</td>
+            <td>2022-06-05</td>
+            <td align="center"></td>
+            <td>3430</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1482843273408524291">
                 <img src="https://pbs.twimg.com/profile_images/1490300866288619520/hlLXZ8PS_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -569,17 +580,6 @@ Found 895 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3424</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1343541349090516995">
-                <img src="https://pbs.twimg.com/profile_images/1575279349045100545/Q0E0azgy_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AdeForex01">AdeForex01</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1343541349090516995">1 other</a>)&nbsp;</td>
-            <td>2020-12-28</td>
-            <td>2022-06-05</td>
-            <td align="center"></td>
-            <td>3422</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=204223574">
@@ -670,17 +670,6 @@ Found 895 suspensions for untracked accounts.
             <td>2524</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=909504841516433408">
-                <img src="https://pbs.twimg.com/profile_images/1472237514719051783/6Vub-Hb3_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Justin_jol">Justin_jol</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/909504841516433408">2 others</a>)&nbsp;</td>
-            <td>2017-09-17</td>
-            <td>2022-06-20</td>
-            <td align="center"></td>
-            <td>2436</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=902275526294773760">
                 <img src="https://pbs.twimg.com/profile_images/928475258419527680/Uy8IVZYE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -689,7 +678,18 @@ Found 895 suspensions for untracked accounts.
             <td>2017-08-28</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>2426</td>
+            <td>2429</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=909504841516433408">
+                <img src="https://pbs.twimg.com/profile_images/1472237514719051783/6Vub-Hb3_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Justin_jol">Justin_jol</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/909504841516433408">2 others</a>)&nbsp;</td>
+            <td>2017-09-17</td>
+            <td>2022-06-20</td>
+            <td align="center"></td>
+            <td>2419</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1450871076813164545">
@@ -766,7 +766,7 @@ Found 895 suspensions for untracked accounts.
             <td>2019-12-27</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>2179</td>
+            <td>2178</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1501980637565227008">

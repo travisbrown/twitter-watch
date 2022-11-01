@@ -1212,7 +1212,7 @@ Found 1384 suspensions for untracked accounts.
             <td>2009-03-14</td>
             <td></td>
             <td align="center"></td>
-            <td>12967</td>
+            <td>12979</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1531990562273906690">
@@ -2623,6 +2623,17 @@ Found 1384 suspensions for untracked accounts.
             <td>1217</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=269981439">
+                <img src="https://pbs.twimg.com/profile_images/1546223796155084800/3QvgkKDy_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/dannystring">dannystring</a></td>
+            <td>2011-03-21</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1208</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1511131332470001665">
                 <img src="https://pbs.twimg.com/profile_images/1511131473427976192/5GpaGMWt_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2643,17 +2654,6 @@ Found 1384 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1183</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=269981439">
-                <img src="https://pbs.twimg.com/profile_images/1546223796155084800/3QvgkKDy_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/dannystring">dannystring</a></td>
-            <td>2011-03-21</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1160</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1469354092707393543">

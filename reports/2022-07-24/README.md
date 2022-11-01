@@ -78,7 +78,7 @@ Found 6 suspensions for tracked accounts.
             <td>2019-09-02</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>313</td>
+            <td>314</td>
             <td>34152</td>
         </tr>
         <tr>
@@ -685,7 +685,7 @@ Found 1007 suspensions for untracked accounts.
             <td>2012-02-16</td>
             <td>2022-08-21</td>
             <td align="center"></td>
-            <td>14816</td>
+            <td>14815</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1294046211901739008">
@@ -1268,7 +1268,7 @@ Found 1007 suspensions for untracked accounts.
             <td>2021-01-15</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1725</td>
+            <td>1727</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427379461939474433">
@@ -1436,6 +1436,17 @@ Found 1007 suspensions for untracked accounts.
             <td>1408</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1184868710374412293">
+                <img src="https://pbs.twimg.com/profile_images/1537518391027695617/-r0OclN0_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AdamLin65325792">AdamLin65325792</a></td>
+            <td>2019-10-17</td>
+            <td>2022-07-28</td>
+            <td align="center"></td>
+            <td>1392</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1204351324084723713">
                 <img src="https://pbs.twimg.com/profile_images/1311331454845177862/oWYG9xxj_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1445,17 +1456,6 @@ Found 1007 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1386</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1184868710374412293">
-                <img src="https://pbs.twimg.com/profile_images/1537518391027695617/-r0OclN0_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AdamLin65325792">AdamLin65325792</a></td>
-            <td>2019-10-17</td>
-            <td>2022-07-28</td>
-            <td align="center"></td>
-            <td>1377</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=86943511">
@@ -1664,7 +1664,7 @@ Found 1007 suspensions for untracked accounts.
             <td>2021-02-06</td>
             <td>2022-08-21</td>
             <td align="center"></td>
-            <td>1087</td>
+            <td>1085</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1251666539000082432">

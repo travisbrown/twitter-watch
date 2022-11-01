@@ -126,7 +126,7 @@ Found 11 suspensions for tracked accounts.
             <td>2021-08-31</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>1172425</td>
+            <td>1173856</td>
             <td>15726</td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ Found 11 suspensions for tracked accounts.
             <td>2011-09-28</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>13795</td>
+            <td>13797</td>
             <td>84532</td>
         </tr></table>
 
@@ -345,7 +345,7 @@ Found 981 suspensions for untracked accounts.
             <td>2020-03-08</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>97396</td>
+            <td>97516</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1340890807">
@@ -367,7 +367,7 @@ Found 981 suspensions for untracked accounts.
             <td>2021-09-08</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>30473</td>
+            <td>30520</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1505440027199041542">
@@ -422,7 +422,7 @@ Found 981 suspensions for untracked accounts.
             <td>2019-04-14</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>13513</td>
+            <td>13535</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1215363411351146497">
@@ -510,7 +510,7 @@ Found 981 suspensions for untracked accounts.
             <td>2021-02-15</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>7362</td>
+            <td>7361</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=270142250">
@@ -1026,8 +1026,8 @@ Found 981 suspensions for untracked accounts.
                 <a href="https://twitter.com/ly_salmh">ly_salmh</a></td>
             <td>2022-01-28</td>
             <td></td>
-            <td align="center">🔒</td>
-            <td>1890</td>
+            <td align="center"></td>
+            <td>1888</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1382814928965410817">

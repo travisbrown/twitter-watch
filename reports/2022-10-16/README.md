@@ -529,7 +529,7 @@ Found 980 suspensions for untracked accounts.
             <td>2013-12-12</td>
             <td></td>
             <td align="center"></td>
-            <td>86245</td>
+            <td>86241</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1320078859488927747">
@@ -562,7 +562,7 @@ Found 980 suspensions for untracked accounts.
             <td>2021-11-26</td>
             <td></td>
             <td align="center"></td>
-            <td>33596</td>
+            <td>35290</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1029600578584891392">
@@ -749,7 +749,7 @@ Found 980 suspensions for untracked accounts.
             <td>2022-08-20</td>
             <td></td>
             <td align="center"></td>
-            <td>6749</td>
+            <td>6794</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1564389721">
@@ -991,7 +991,7 @@ Found 980 suspensions for untracked accounts.
             <td>2021-01-04</td>
             <td></td>
             <td align="center"></td>
-            <td>2524</td>
+            <td>2519</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=15527838">
@@ -1024,7 +1024,7 @@ Found 980 suspensions for untracked accounts.
             <td>2020-05-13</td>
             <td></td>
             <td align="center"></td>
-            <td>2445</td>
+            <td>2442</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1010531662831157248">
@@ -1079,7 +1079,7 @@ Found 980 suspensions for untracked accounts.
             <td>2011-02-08</td>
             <td></td>
             <td align="center"></td>
-            <td>2233</td>
+            <td>2236</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1521677188797509633">
@@ -1376,7 +1376,7 @@ Found 980 suspensions for untracked accounts.
             <td>2010-06-17</td>
             <td></td>
             <td align="center"></td>
-            <td>1483</td>
+            <td>1485</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1444047575842279429">
@@ -1508,7 +1508,7 @@ Found 980 suspensions for untracked accounts.
             <td>2009-06-13</td>
             <td></td>
             <td align="center"></td>
-            <td>1276</td>
+            <td>1275</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1438552805992800259">
@@ -1753,17 +1753,6 @@ Found 980 suspensions for untracked accounts.
             <td>1021</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2826843810">
-                <img src="https://pbs.twimg.com/profile_images/1582907605688750083/CUMQvAK5_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/VsauceMax">VsauceMax</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2826843810">1 other</a>)&nbsp;</td>
-            <td>2014-09-22</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1018</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1574332725896646656">
                 <img src="https://pbs.twimg.com/profile_images/1574333530095632384/UiXI3qOl_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1773,4 +1762,15 @@ Found 980 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1018</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2826843810">
+                <img src="https://pbs.twimg.com/profile_images/1582907605688750083/CUMQvAK5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/VsauceMax">VsauceMax</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2826843810">1 other</a>)&nbsp;</td>
+            <td>2014-09-22</td>
+            <td></td>
+            <td align="center">🔒</td>
+            <td>1012</td>
         </tr></table>

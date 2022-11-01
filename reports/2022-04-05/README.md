@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2014-08-10</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>84752</td>
+            <td>85215</td>
             <td>11586</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-05-06</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>19829</td>
+            <td>19853</td>
             <td>44108</td>
         </tr></table>
 
@@ -548,7 +548,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2010-10-31</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>400497</td>
+            <td>400484</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2685919298">
@@ -1043,7 +1043,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2012-12-30</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>3561</td>
+            <td>3562</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1268895970542133250">
@@ -1409,6 +1409,17 @@ Found 1605 suspensions for untracked accounts.
             <td>2168</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=413594088">
+                <img src="https://pbs.twimg.com/profile_images/1544762002958159872/njr1nOHw_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/girlssmellweird">girlssmellweird</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/413594088">1 other</a>)&nbsp;</td>
+            <td>2011-11-16</td>
+            <td>2022-05-06</td>
+            <td align="center"></td>
+            <td>2133</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1461710782731796480">
                 <img src="https://pbs.twimg.com/profile_images/1461711205542899718/LFjWAz9N_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1418,17 +1429,6 @@ Found 1605 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2122</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=413594088">
-                <img src="https://pbs.twimg.com/profile_images/1544762002958159872/njr1nOHw_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/girlssmellweird">girlssmellweird</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/413594088">1 other</a>)&nbsp;</td>
-            <td>2011-11-16</td>
-            <td>2022-05-06</td>
-            <td align="center"></td>
-            <td>2119</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1493719558938664964">
@@ -1505,7 +1505,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2021-07-10</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>1958</td>
+            <td>1957</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1501648690309738509">
@@ -1692,7 +1692,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2021-03-15</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>1631</td>
+            <td>1632</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1502782063707099136">

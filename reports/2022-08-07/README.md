@@ -65,8 +65,8 @@ Found 5 suspensions for tracked accounts.
                 <a href="https://twitter.com/BrandonWinborn">BrandonWinborn</a></td>
             <td>2011-09-09</td>
             <td>2022-08-25</td>
-            <td align="center"></td>
-            <td>398</td>
+            <td align="center">🔒</td>
+            <td>397</td>
             <td>87488</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2022-04-06</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>93</td>
+            <td>95</td>
             <td>89135</td>
         </tr></table>
 
@@ -625,7 +625,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2020-01-27</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>120468</td>
+            <td>120522</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1070337762128220163">
@@ -838,14 +838,14 @@ Found 1063 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1361633971">
-                <img src="https://pbs.twimg.com/profile_images/1538676161533956096/SlkNLnu8_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1587113663856508929/2rm7Phri_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/claremibueloni">claremibueloni</a></td>
             <td>2013-04-18</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>47999</td>
+            <td>48121</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1526364548059795457">
@@ -1970,6 +1970,17 @@ Found 1063 suspensions for untracked accounts.
             <td>2017</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1026074730196025345">
+                <img src="https://pbs.twimg.com/profile_images/1578118725340987413/Cszti7xp_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TheAliArda">TheAliArda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1026074730196025345">1 other</a>)&nbsp;</td>
+            <td>2018-08-05</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>2014</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=892589908811972612">
                 <img src="https://pbs.twimg.com/profile_images/892937794452021252/xhjzLsR6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1979,17 +1990,6 @@ Found 1063 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2013</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1026074730196025345">
-                <img src="https://pbs.twimg.com/profile_images/1578118725340987413/Cszti7xp_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/TheAliArda">TheAliArda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1026074730196025345">1 other</a>)&nbsp;</td>
-            <td>2018-08-05</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>2009</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=50551348">

@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2011-11-18</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>123</td>
+            <td>124</td>
             <td>6118</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2008-09-17</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>113</td>
+            <td>114</td>
             <td>27085</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2013-01-16</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>3206</td>
+            <td>3209</td>
             <td>57727</td>
         </tr></table>
 
@@ -866,7 +866,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2021-08-09</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>14867</td>
+            <td>14864</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4650892735">
@@ -1614,7 +1614,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2017-09-16</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>1798</td>
+            <td>1791</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1353869177849786368">
@@ -1691,7 +1691,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2021-02-17</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1643</td>
+            <td>1649</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1162407429155512326">
@@ -1849,7 +1849,7 @@ Found 1187 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2704627940">
-                <img src="https://pbs.twimg.com/profile_images/1586023136100745226/UywDJdix_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1587150638906998784/Hmg7th6Q_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/PessileonIer">PessileonIer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2704627940">1 other</a>)&nbsp;</td>

@@ -42,7 +42,7 @@ Found 4 suspensions for tracked accounts.
             <td>2018-11-26</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>1795</td>
+            <td>1796</td>
             <td>28379</td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@ Found 4 suspensions for tracked accounts.
             <td>2021-03-23</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>410</td>
+            <td>411</td>
             <td>38653</td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2012-11-29</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>508</td>
+            <td>510</td>
             <td>85917</td>
         </tr></table>
 
@@ -543,7 +543,7 @@ Found 892 suspensions for untracked accounts.
             <td>2015-11-25</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>68862</td>
+            <td>68770</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1278340594998431746">
@@ -920,17 +920,6 @@ Found 892 suspensions for untracked accounts.
             <td>4078</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=250759490">
-                <img src="https://pbs.twimg.com/profile_images/1560213096240758785/6Sla2A0U_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/nagbarros">nagbarros</a></td>
-            <td>2011-02-11</td>
-            <td>2022-05-06</td>
-            <td align="center"></td>
-            <td>3983</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1424364008371523584">
                 <img src="https://pbs.twimg.com/profile_images/1510451063069057028/Z6---O0t_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -940,6 +929,17 @@ Found 892 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3966</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=250759490">
+                <img src="https://pbs.twimg.com/profile_images/1560213096240758785/6Sla2A0U_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/nagbarros">nagbarros</a></td>
+            <td>2011-02-11</td>
+            <td>2022-05-06</td>
+            <td align="center"></td>
+            <td>3947</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=763684463675056128">

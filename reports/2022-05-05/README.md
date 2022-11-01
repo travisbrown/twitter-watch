@@ -174,7 +174,7 @@ Found 16 suspensions for tracked accounts.
             <td>2017-06-08</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>154</td>
+            <td>155</td>
             <td>18546</td>
         </tr>
         <tr>
@@ -198,7 +198,7 @@ Found 16 suspensions for tracked accounts.
             <td>2010-01-27</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>467</td>
+            <td>468</td>
             <td>54515</td>
         </tr>
         <tr>
@@ -1519,7 +1519,7 @@ Found 1175 suspensions for untracked accounts.
             <td>2012-06-02</td>
             <td></td>
             <td align="center"></td>
-            <td>36498</td>
+            <td>36500</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1330687838636048385">
@@ -1596,7 +1596,7 @@ Found 1175 suspensions for untracked accounts.
             <td>2012-04-13</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>15494</td>
+            <td>15569</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1251835633590349829">
@@ -2025,7 +2025,7 @@ Found 1175 suspensions for untracked accounts.
             <td>2021-03-25</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>3236</td>
+            <td>3231</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1150867071691042817">
@@ -2101,8 +2101,8 @@ Found 1175 suspensions for untracked accounts.
                 <a href="https://twitter.com/soldeverao">soldeverao</a></td>
             <td>2009-12-05</td>
             <td>2022-05-10</td>
-            <td align="center"></td>
-            <td>2690</td>
+            <td align="center">🔒</td>
+            <td>2670</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1425545074008547334">
