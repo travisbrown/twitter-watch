@@ -31,7 +31,7 @@ Found 2 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>30</td>
-            <td>31041</td>
+            <td>31392</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=120232850">
@@ -43,7 +43,7 @@ Found 2 suspensions for tracked accounts.
             <td>2022-04-15</td>
             <td align="center"></td>
             <td>683</td>
-            <td>34644</td>
+            <td>35072</td>
         </tr></table>
 
 ### Tracked screen name changes
@@ -70,7 +70,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>60670</td>
-            <td>176</td>
+            <td>175</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1502340680026312708">
@@ -83,7 +83,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>198</td>
-            <td>3440</td>
+            <td>3481</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1311719960847224834">
@@ -96,7 +96,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center">🔒</td>
             <td>34</td>
-            <td>6850</td>
+            <td>6792</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=711832326972448768">
@@ -109,7 +109,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>22</td>
-            <td>41701</td>
+            <td>36046</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1482486795388342272">
@@ -122,7 +122,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>174</td>
-            <td>80589</td>
+            <td>78674</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1482814228507631621">
@@ -135,7 +135,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>78</td>
-            <td>97179</td>
+            <td>98105</td>
         </tr></table>
 
 

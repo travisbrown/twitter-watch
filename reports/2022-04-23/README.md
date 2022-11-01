@@ -43,7 +43,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>46370</td>
-            <td>239</td>
+            <td>241</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=830715926278524928">
@@ -55,7 +55,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>22789</td>
-            <td>476</td>
+            <td>481</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1480926325091323913">
@@ -67,7 +67,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>17700</td>
-            <td>610</td>
+            <td>619</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1424522590811529218">
@@ -79,7 +79,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>8084</td>
-            <td>870</td>
+            <td>878</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1468257753441333250">
@@ -91,7 +91,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>9532</td>
-            <td>910</td>
+            <td>921</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1249548641372721153">
@@ -103,7 +103,7 @@ Found 30 suspensions for tracked accounts.
             <td>2022-05-10</td>
             <td align="center"></td>
             <td>7581</td>
-            <td>917</td>
+            <td>929</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1340469676225286144">
@@ -115,7 +115,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>5295</td>
-            <td>1218</td>
+            <td>1228</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1436370700273549313">
@@ -127,7 +127,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>4414</td>
-            <td>1366</td>
+            <td>1381</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1415384647316512770">
@@ -139,7 +139,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2904</td>
-            <td>1658</td>
+            <td>1669</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1399810317719281666">
@@ -151,7 +151,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3065</td>
-            <td>1704</td>
+            <td>1719</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1424206277459202054">
@@ -163,7 +163,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1387</td>
-            <td>2364</td>
+            <td>2386</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1507405889451479052">
@@ -175,7 +175,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1347</td>
-            <td>2554</td>
+            <td>2577</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=984133478395637763">
@@ -187,7 +187,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>291</td>
-            <td>2571</td>
+            <td>2589</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1470372845121323009">
@@ -199,7 +199,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>170</td>
-            <td>2902</td>
+            <td>2936</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=999783965954371584">
@@ -211,7 +211,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>728</td>
-            <td>2920</td>
+            <td>2951</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1484130617755381762">
@@ -223,7 +223,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>656</td>
-            <td>3038</td>
+            <td>3068</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1481321318171697158">
@@ -235,7 +235,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>605</td>
-            <td>3169</td>
+            <td>3201</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1227456923827625984">
@@ -247,7 +247,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center">🔒</td>
             <td>615</td>
-            <td>3215</td>
+            <td>3258</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1476368445893664775">
@@ -259,7 +259,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>386</td>
-            <td>3832</td>
+            <td>3879</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1496603127281160193">
@@ -271,7 +271,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>237</td>
-            <td>4061</td>
+            <td>4115</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1449980523669966850">
@@ -283,7 +283,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>112</td>
-            <td>4421</td>
+            <td>4479</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491934029234700291">
@@ -295,7 +295,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>224</td>
-            <td>8452</td>
+            <td>8531</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1193890268770193408">
@@ -307,7 +307,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>125</td>
-            <td>10233</td>
+            <td>10323</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1044988066803388417">
@@ -319,7 +319,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>88</td>
-            <td>19695</td>
+            <td>19976</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1366631005709213700">
@@ -331,7 +331,7 @@ Found 30 suspensions for tracked accounts.
             <td>2022-04-26</td>
             <td align="center"></td>
             <td>123</td>
-            <td>56219</td>
+            <td>54428</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1478446573684236289">
@@ -343,7 +343,7 @@ Found 30 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>392</td>
-            <td>61883</td>
+            <td>59750</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1471208460125540352">
@@ -355,7 +355,7 @@ Found 30 suspensions for tracked accounts.
             <td>2022-05-02</td>
             <td align="center"></td>
             <td>8368</td>
-            <td>62419</td>
+            <td>60676</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=466144416">
@@ -367,7 +367,7 @@ Found 30 suspensions for tracked accounts.
             <td>2022-04-26</td>
             <td align="center"></td>
             <td>47255</td>
-            <td>62815</td>
+            <td>63630</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=23080633">
@@ -379,7 +379,7 @@ Found 30 suspensions for tracked accounts.
             <td>2022-04-26</td>
             <td align="center"></td>
             <td>2965</td>
-            <td>69366</td>
+            <td>70425</td>
         </tr></table>
 
 ### Tracked screen name changes
@@ -406,7 +406,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>444</td>
-            <td>3682</td>
+            <td>3726</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1476196417647620102">
@@ -419,7 +419,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>37</td>
-            <td>4433</td>
+            <td>4491</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1407062530325991426">
@@ -432,7 +432,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>1746</td>
-            <td>15243</td>
+            <td>15379</td>
         </tr></table>
 
 

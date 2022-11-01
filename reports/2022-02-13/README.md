@@ -1,7 +1,7 @@
 ## 13 February 2022
 
 * [Tracked suspensions (8)](#tracked-suspensions)
-* [Tracked screen name changes (1)](#tracked-screen-name-changes)
+* [Tracked screen name changes (2)](#tracked-screen-name-changes)
 * [Untracked suspensions (810)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
@@ -31,7 +31,7 @@ Found 8 suspensions for tracked accounts.
             <td>2022-02-15</td>
             <td align="center"></td>
             <td>44416</td>
-            <td>305</td>
+            <td>308</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=26563525">
@@ -43,7 +43,7 @@ Found 8 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>13418</td>
-            <td>550</td>
+            <td>554</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1321515559591288832">
@@ -55,7 +55,7 @@ Found 8 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>4463</td>
-            <td>1291</td>
+            <td>1303</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1418606504811372546">
@@ -67,7 +67,7 @@ Found 8 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3245</td>
-            <td>1476</td>
+            <td>1494</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=46040683">
@@ -79,7 +79,7 @@ Found 8 suspensions for tracked accounts.
             <td></td>
             <td align="center"></td>
             <td>958</td>
-            <td>2247</td>
+            <td>2270</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491235704206102528">
@@ -91,7 +91,7 @@ Found 8 suspensions for tracked accounts.
             <td>2022-02-15</td>
             <td align="center"></td>
             <td>113</td>
-            <td>3335</td>
+            <td>3381</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2237744795">
@@ -103,7 +103,7 @@ Found 8 suspensions for tracked accounts.
             <td>2022-05-14</td>
             <td align="center"></td>
             <td>1695</td>
-            <td>28050</td>
+            <td>28410</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=762320">
@@ -115,12 +115,12 @@ Found 8 suspensions for tracked accounts.
             <td>2022-05-21</td>
             <td align="center">🔒</td>
             <td>90</td>
-            <td>60075</td>
+            <td>60824</td>
         </tr></table>
 
 ### Tracked screen name changes
 
-Found 1 screen name changes for tracked accounts.✔️ indicates that the account is verified and 🔒 that it is locked.
+Found 2 screen name changes for tracked accounts.✔️ indicates that the account is verified and 🔒 that it is locked.
 
 <table>
     <tr>
@@ -142,7 +142,20 @@ Found 1 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>318</td>
-            <td>727</td>
+            <td>736</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1345944629602992128">
+                <img src="https://pbs.twimg.com/profile_images/1532251635249860609/Rng027WC_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/themoderntal">themoderntal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1345944629602992128">3 others</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/ModernMikhail">ModernMikhail</a>
+            </td>
+            <td align="center"></td>
+            <td>11472</td>
+            <td>65287</td>
         </tr></table>
 
 

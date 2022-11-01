@@ -31,7 +31,7 @@ Found 3 suspensions for tracked accounts.
             <td>2022-07-18</td>
             <td align="center"></td>
             <td>109</td>
-            <td>18736</td>
+            <td>18680</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1188992897397481472">
@@ -43,7 +43,7 @@ Found 3 suspensions for tracked accounts.
             <td>2022-07-23</td>
             <td align="center"></td>
             <td>700</td>
-            <td>65129</td>
+            <td>64497</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=930326983699042304">
@@ -55,7 +55,7 @@ Found 3 suspensions for tracked accounts.
             <td>2022-07-18</td>
             <td align="center"></td>
             <td>634</td>
-            <td>78689</td>
+            <td>79704</td>
         </tr></table>
 
 ### Tracked screen name changes
@@ -82,7 +82,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>223</td>
-            <td>3164</td>
+            <td>3211</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1282736818031599617">
@@ -95,7 +95,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>141</td>
-            <td>3337</td>
+            <td>3379</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1537188807946162177">
@@ -108,7 +108,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>552</td>
-            <td>3615</td>
+            <td>3658</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1523246504374267904">
@@ -121,7 +121,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>81</td>
-            <td>4217</td>
+            <td>4279</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1460411789561286658">
@@ -134,7 +134,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>59</td>
-            <td>4429</td>
+            <td>4555</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1475627365556531200">
@@ -147,20 +147,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>83</td>
-            <td>11282</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1468372771444908033">
-                <img src="https://pbs.twimg.com/profile_images/1499712551835348999/iNBWiwLN_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ThomasM23805388">ThomasM23805388</a></td>
-            <td>
-                <a href="https://twitter.com/fkliftcertified">fkliftcertified</a>
-            </td>
-            <td align="center"></td>
-            <td>29</td>
-            <td>84995</td>
+            <td>11419</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1540042272221315072">
@@ -173,7 +160,20 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
             </td>
             <td align="center"></td>
             <td>33</td>
-            <td>86052</td>
+            <td>84762</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1468372771444908033">
+                <img src="https://pbs.twimg.com/profile_images/1499712551835348999/iNBWiwLN_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ThomasM23805388">ThomasM23805388</a></td>
+            <td>
+                <a href="https://twitter.com/fkliftcertified">fkliftcertified</a>
+            </td>
+            <td align="center"></td>
+            <td>29</td>
+            <td>86016</td>
         </tr></table>
 
 
