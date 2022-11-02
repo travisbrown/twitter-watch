@@ -107,7 +107,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SolarSunGod">SolarSunGod</a>
             </td>
             <td align="center"></td>
-            <td>275</td>
+            <td>274</td>
             <td>53896</td>
         </tr>
         <tr>

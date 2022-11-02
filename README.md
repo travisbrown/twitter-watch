@@ -32,16 +32,16 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 322105
+* Total number of suspensions detected: 322121
 * Total number of suspension reversals detected: 6904
-* Mean number of followers for suspended accounts: 1824.14
+* Mean number of followers for suspended accounts: 1824.75
 * Median number of followers for suspended accounts: 61.0
-* Mean age of suspended accounts (days): 1047.43
+* Mean age of suspended accounts (days): 1047.42
 * Median age of suspended accounts (days): 314.0
 * Total number of verified accounts suspended: 116
 * Total number of protected accounts suspended: 15983
 * Total number of suspensions for accounts previously withheld in specific countries: 23
-* Total number of screen name changes detected: 761377
+* Total number of screen name changes detected: 766972
 
 
 
@@ -292,7 +292,7 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>
                 <a href="reports/2022-11-02/"> 2 November 2022</a>
             </td>
-            <td>472</td>
+            <td>490</td>
             <td>19</td>
             <td>0</td>
         </tr>
@@ -302,7 +302,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1941</td>
             <td>77</td>
-            <td>0</td>
+            <td>10</td>
         </tr>
         <tr>
             <td>
@@ -310,7 +310,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1790</td>
             <td>54</td>
-            <td>9</td>
+            <td>51</td>
         </tr>
         <tr>
             <td>
@@ -1038,7 +1038,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>930</td>
             <td>3</td>
-            <td>30</td>
+            <td>29</td>
         </tr>
         <tr>
             <td>
@@ -2286,7 +2286,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>505</td>
             <td>1</td>
-            <td>50</td>
+            <td>51</td>
         </tr>
         <tr>
             <td>

@@ -1,7 +1,7 @@
 ##  1 November 2022
 
 * [Tracked suspensions (77)](#tracked-suspensions)
-* [Tracked screen name changes (0)](#tracked-screen-name-changes)
+* [Tracked screen name changes (10)](#tracked-screen-name-changes)
 * [Untracked suspensions (76)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
@@ -948,7 +948,148 @@ Found 77 suspensions for tracked accounts.
 
 ### Tracked screen name changes
 
-Found 0 screen name changes for tracked accounts.
+Found 10 screen name changes for tracked accounts.✔️ indicates that the account is verified and 🔒 that it is locked.
+
+<table>
+    <tr>
+        <th></th>
+        <th align="left">Previous screen name</th>
+        <th align="left">New screen name</th>
+        <th align="left">Status</th>
+        <th align="left">Followers</th>
+        <th align="left">Ranking</th></tr>
+    </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1582493052752519169">
+                <img src="https://pbs.twimg.com/profile_images/1587125996116926465/7lA9clUC_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JudenWaffenSS">JudenWaffenSS</a></td>
+            <td>
+                <a href="https://twitter.com/Pervitin1488NS">Pervitin1488NS</a>
+            </td>
+            <td align="center"></td>
+            <td>252</td>
+            <td>4466</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1291205006788526080">
+                <img src="https://pbs.twimg.com/profile_images/1585996189475954697/ZEGnO5kH_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SirFentanylFloy">SirFentanylFloy</a></td>
+            <td>
+                <a href="https://twitter.com/pissoff_johnny">pissoff_johnny</a>
+            </td>
+            <td align="center"></td>
+            <td>298</td>
+            <td>5768</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1503380946388717572">
+                <img src="https://pbs.twimg.com/profile_images/1577368056841519147/4OILpkFq_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/imgtw_">imgtw_</a></td>
+            <td>
+                <a href="https://twitter.com/imgtr_">imgtr_</a>
+            </td>
+            <td align="center"></td>
+            <td>500</td>
+            <td>10393</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1546490888368533504">
+                <img src="https://pbs.twimg.com/profile_images/1587067328801689611/YqYYLtGP_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Raiderirregular">Raiderirregular</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1546490888368533504">1 other</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/marooned756">marooned756</a>
+            </td>
+            <td align="center"></td>
+            <td>380</td>
+            <td>19792</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1176127286615126017">
+                <img src="https://pbs.twimg.com/profile_images/1586863905057406977/Y1UNDpCv_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Jscarv_">Jscarv_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1176127286615126017">1 other</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/jeffcarvalho_">jeffcarvalho_</a>
+            </td>
+            <td align="center"></td>
+            <td>204</td>
+            <td>27173</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=229986117">
+                <img src="https://pbs.twimg.com/profile_images/1587258312898355201/1Zgc9_hw_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Bryan_275">Bryan_275</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/229986117">1 other</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/Bryzz27">Bryzz27</a>
+            </td>
+            <td align="center"></td>
+            <td>502</td>
+            <td>48617</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=703545996035416064">
+                <img src="https://pbs.twimg.com/profile_images/1587204460077633539/V45YlhQt_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/NihiIe_">NihiIe_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/703545996035416064">1 other</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/BronzeAgeJohan">BronzeAgeJohan</a>
+            </td>
+            <td align="center"></td>
+            <td>1</td>
+            <td>63968</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=257353574">
+                <img src="https://pbs.twimg.com/profile_images/1587271252753907712/g9tkF2PF_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/palmettomoons22">palmettomoons22</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/257353574">8 others</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/kingdomcaller">kingdomcaller</a>
+            </td>
+            <td align="center"></td>
+            <td>1540</td>
+            <td>64406</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=746206309511368708">
+                <img src="https://pbs.twimg.com/profile_images/1587194728952438787/fK6KYsNa_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BLACKPINKx2001">BLACKPINKx2001</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/746206309511368708">2 others</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/kanyexdonda">kanyexdonda</a>
+            </td>
+            <td align="center"></td>
+            <td>131</td>
+            <td>65908</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=901584973907427329">
+                <img src="https://pbs.twimg.com/profile_images/1580951653385371650/eNpbO9kd_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/YikesItsLauren">YikesItsLauren</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/901584973907427329">1 other</a>)&nbsp;</td>
+            <td>
+                <a href="https://twitter.com/NewGrooveLauren">NewGrooveLauren</a>
+            </td>
+            <td align="center"></td>
+            <td>982</td>
+            <td>78081</td>
+        </tr></table>
+
 
 ### Untracked suspensions
 

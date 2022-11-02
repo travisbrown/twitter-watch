@@ -267,7 +267,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/davidtogoliath3">davidtogoliath3</a>
             </td>
             <td align="center"></td>
-            <td>10178</td>
+            <td>10206</td>
             <td>24626</td>
         </tr>
         <tr>

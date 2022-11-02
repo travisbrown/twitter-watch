@@ -216,7 +216,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/honkjob">honkjob</a>
             </td>
             <td align="center"></td>
-            <td>103</td>
+            <td>102</td>
             <td>2743</td>
         </tr>
         <tr>
@@ -294,7 +294,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ALonelyVessel">ALonelyVessel</a>
             </td>
             <td align="center"></td>
-            <td>331</td>
+            <td>330</td>
             <td>22917</td>
         </tr>
         <tr>
@@ -333,7 +333,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JR59149053">JR59149053</a>
             </td>
             <td align="center"></td>
-            <td>88</td>
+            <td>89</td>
             <td>49812</td>
         </tr>
         <tr>
@@ -346,7 +346,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/paleonormie">paleonormie</a>
             </td>
             <td align="center"></td>
-            <td>317</td>
+            <td>319</td>
             <td>51360</td>
         </tr>
         <tr>
@@ -359,7 +359,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Tarnfeatherem">Tarnfeatherem</a>
             </td>
             <td align="center"></td>
-            <td>378</td>
+            <td>377</td>
             <td>54345</td>
         </tr>
         <tr>
@@ -385,7 +385,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Zac2TF">Zac2TF</a>
             </td>
             <td align="center"></td>
-            <td>156</td>
+            <td>157</td>
             <td>60983</td>
         </tr>
         <tr>
@@ -450,7 +450,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PaleoAngloism">PaleoAngloism</a>
             </td>
             <td align="center"></td>
-            <td>1398</td>
+            <td>1400</td>
             <td>78499</td>
         </tr>
         <tr>

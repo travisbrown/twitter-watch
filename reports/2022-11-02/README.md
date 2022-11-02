@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (19)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (33)](#untracked-suspensions)
+* [Untracked suspensions (35)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -256,8 +256,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 440 suspensions for untracked accounts.
-33 accounts have more than 1000 followers and are included here.
+Found 456 suspensions for untracked accounts.
+35 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -269,6 +269,17 @@ Found 440 suspensions for untracked accounts.
         <th align="left">Status</th>
         <th align="left">Followers</th>
     </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=968743457681440768">
+                <img src="https://pbs.twimg.com/profile_images/1581019539134992385/N972BS3b_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/latinbeauty_1">latinbeauty_1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/968743457681440768">1 other</a>)&nbsp;</td>
+            <td>2018-02-28</td>
+            <td></td>
+            <td align="center"></td>
+            <td>216298</td>
+        </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1335629707770015746">
                 <img src="https://pbs.twimg.com/profile_images/1544084740877258752/KrMslGaq_normal.jpg" width="40px" height="40px" align="center"/></a>
@@ -323,6 +334,17 @@ Found 440 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3371</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1344424632103956482">
+                <img src="https://pbs.twimg.com/profile_images/1344424738622472192/H2eQhFjC_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AlanZak6">AlanZak6</a></td>
+            <td>2020-12-30</td>
+            <td></td>
+            <td align="center"></td>
+            <td>3273</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1259282616555048963">

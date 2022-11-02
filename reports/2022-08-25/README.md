@@ -95,7 +95,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BayouCulture">BayouCulture</a>
             </td>
             <td align="center"></td>
-            <td>189</td>
+            <td>190</td>
             <td>7050</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/boi_zincoboy44">boi_zincoboy44</a>
             </td>
             <td align="center"></td>
-            <td>84</td>
+            <td>85</td>
             <td>13825</td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PelosiGaIore">PelosiGaIore</a>
             </td>
             <td align="center"></td>
-            <td>123</td>
+            <td>125</td>
             <td>25933</td>
         </tr>
         <tr>
@@ -212,7 +212,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/doshski">doshski</a>
             </td>
             <td align="center"></td>
-            <td>93</td>
+            <td>92</td>
             <td>39809</td>
         </tr>
         <tr>
@@ -238,7 +238,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PeakyLoomis">PeakyLoomis</a>
             </td>
             <td align="center"></td>
-            <td>24</td>
+            <td>23</td>
             <td>59271</td>
         </tr>
         <tr>
@@ -303,7 +303,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Courtiah17">Courtiah17</a>
             </td>
             <td align="center"></td>
-            <td>58</td>
+            <td>57</td>
             <td>82352</td>
         </tr>
         <tr>
@@ -342,7 +342,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RedditSlag">RedditSlag</a>
             </td>
             <td align="center"></td>
-            <td>15794</td>
+            <td>15851</td>
             <td>90545</td>
         </tr>
         <tr>

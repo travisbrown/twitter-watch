@@ -443,7 +443,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bitcoin_citizen">bitcoin_citizen</a>
             </td>
             <td align="center"></td>
-            <td>280</td>
+            <td>279</td>
             <td>60215</td>
         </tr>
         <tr>

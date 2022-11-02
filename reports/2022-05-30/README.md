@@ -94,7 +94,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Ghostofk1ev">Ghostofk1ev</a>
             </td>
             <td align="center"></td>
-            <td>371</td>
+            <td>379</td>
             <td>3394</td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/TD13YouMadYet">TD13YouMadYet</a>
             </td>
             <td align="center"></td>
-            <td>156</td>
+            <td>157</td>
             <td>38679</td>
         </tr>
         <tr>

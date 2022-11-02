@@ -117,7 +117,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/FunScalaConf">FunScalaConf</a>
             </td>
             <td align="center"></td>
-            <td>1932</td>
+            <td>1933</td>
             <td>1561</td>
         </tr>
         <tr>
@@ -169,7 +169,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ilykmashpotat">ilykmashpotat</a>
             </td>
             <td align="center"></td>
-            <td>66</td>
+            <td>67</td>
             <td>38404</td>
         </tr>
         <tr>
@@ -182,7 +182,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/s00nd">s00nd</a>
             </td>
             <td align="center"></td>
-            <td>7889</td>
+            <td>7887</td>
             <td>88471</td>
         </tr>
         <tr>

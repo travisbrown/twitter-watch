@@ -143,7 +143,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Everyday_Powers">Everyday_Powers</a>
             </td>
             <td align="center"></td>
-            <td>691</td>
+            <td>717</td>
             <td>38570</td>
         </tr>
         <tr>
@@ -156,7 +156,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/CFWBers">CFWBers</a>
             </td>
             <td align="center"></td>
-            <td>2452</td>
+            <td>2470</td>
             <td>40925</td>
         </tr>
         <tr>
@@ -182,7 +182,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/therarestgoose">therarestgoose</a>
             </td>
             <td align="center"></td>
-            <td>18</td>
+            <td>19</td>
             <td>70077</td>
         </tr>
         <tr>
@@ -195,7 +195,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/whalecomeback">whalecomeback</a>
             </td>
             <td align="center"></td>
-            <td>2325</td>
+            <td>2353</td>
             <td>84445</td>
         </tr>
         <tr>
@@ -208,7 +208,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/RIPDaveHill">RIPDaveHill</a>
             </td>
             <td align="center"></td>
-            <td>445</td>
+            <td>458</td>
             <td>91337</td>
         </tr>
         <tr>
@@ -221,7 +221,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ValerieUSA27">ValerieUSA27</a>
             </td>
             <td align="center"></td>
-            <td>3622</td>
+            <td>3648</td>
             <td>96511</td>
         </tr></table>
 

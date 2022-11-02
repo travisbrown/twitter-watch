@@ -195,12 +195,12 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/sniffmybiden">sniffmybiden</a>
             </td>
             <td align="center"></td>
-            <td>1550</td>
+            <td>1555</td>
             <td>37209</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1486725402634506267">
-                <img src="https://pbs.twimg.com/profile_images/1586530906466140160/gKC2F61P_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1586949406921728001/43-hentx_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/jcore35">jcore35</a></td>
@@ -208,7 +208,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jcordist">jcordist</a>
             </td>
             <td align="center">🔒</td>
-            <td>161</td>
+            <td>160</td>
             <td>38033</td>
         </tr>
         <tr>
@@ -234,7 +234,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Nikolakimu">Nikolakimu</a>
             </td>
             <td align="center"></td>
-            <td>1941</td>
+            <td>1940</td>
             <td>57927</td>
         </tr>
         <tr>
@@ -260,7 +260,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Drredpill25">Drredpill25</a>
             </td>
             <td align="center"></td>
-            <td>311</td>
+            <td>310</td>
             <td>67814</td>
         </tr>
         <tr>
@@ -273,7 +273,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/uwucommie">uwucommie</a>
             </td>
             <td align="center">🔒</td>
-            <td>792</td>
+            <td>791</td>
             <td>70525</td>
         </tr>
         <tr>

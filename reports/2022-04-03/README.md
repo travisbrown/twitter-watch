@@ -146,7 +146,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KariLakeWarRoom">KariLakeWarRoom</a>
             </td>
             <td align="center"></td>
-            <td>56875</td>
+            <td>58835</td>
             <td>62735</td>
         </tr>
         <tr>

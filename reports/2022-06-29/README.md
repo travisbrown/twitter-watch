@@ -177,7 +177,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/TinFoil1701">TinFoil1701</a>
             </td>
             <td align="center"></td>
-            <td>4514</td>
+            <td>4507</td>
             <td>1208</td>
         </tr>
         <tr>
@@ -190,7 +190,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/jdfrenster">jdfrenster</a>
             </td>
             <td align="center"></td>
-            <td>251</td>
+            <td>252</td>
             <td>3777</td>
         </tr>
         <tr>
@@ -255,7 +255,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/OnsVlag">OnsVlag</a>
             </td>
             <td align="center"></td>
-            <td>1415</td>
+            <td>1416</td>
             <td>90733</td>
         </tr></table>
 

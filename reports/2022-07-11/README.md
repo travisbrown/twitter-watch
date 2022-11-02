@@ -133,7 +133,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/siatheman">siatheman</a>
             </td>
             <td align="center"></td>
-            <td>59</td>
+            <td>60</td>
             <td>4555</td>
         </tr>
         <tr>
@@ -172,7 +172,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/fkliftcertified">fkliftcertified</a>
             </td>
             <td align="center"></td>
-            <td>29</td>
+            <td>30</td>
             <td>86016</td>
         </tr></table>
 

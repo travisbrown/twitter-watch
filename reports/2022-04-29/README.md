@@ -142,7 +142,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/killbacksmaby">killbacksmaby</a>
             </td>
             <td align="center"></td>
-            <td>23</td>
+            <td>22</td>
             <td>8759</td>
         </tr>
         <tr>
@@ -167,7 +167,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
             <td>
                 <a href="https://twitter.com/Abandonnnned">Abandonnnned</a>
             </td>
-            <td align="center"></td>
+            <td align="center">🔒</td>
             <td>62</td>
             <td>24286</td>
         </tr>

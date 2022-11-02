@@ -203,7 +203,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/henrygeorge420">henrygeorge420</a>
             </td>
             <td align="center">🔒</td>
-            <td>594</td>
+            <td>593</td>
             <td>68189</td>
         </tr>
         <tr>

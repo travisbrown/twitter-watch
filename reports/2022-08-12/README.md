@@ -153,7 +153,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PerpetualUse">PerpetualUse</a>
             </td>
             <td align="center"></td>
-            <td>6853</td>
+            <td>6844</td>
             <td>5034</td>
         </tr>
         <tr>
@@ -231,7 +231,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BadDadDrip">BadDadDrip</a>
             </td>
             <td align="center"></td>
-            <td>130</td>
+            <td>131</td>
             <td>23906</td>
         </tr>
         <tr>
@@ -361,7 +361,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/rex_hodl">rex_hodl</a>
             </td>
             <td align="center"></td>
-            <td>668</td>
+            <td>669</td>
             <td>93026</td>
         </tr>
         <tr>

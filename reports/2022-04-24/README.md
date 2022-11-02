@@ -133,7 +133,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheSoleWitness">TheSoleWitness</a>
             </td>
             <td align="center"></td>
-            <td>779</td>
+            <td>780</td>
             <td>2843</td>
         </tr>
         <tr>
@@ -146,7 +146,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DEEP__SANCTUARY">DEEP__SANCTUARY</a>
             </td>
             <td align="center"></td>
-            <td>287</td>
+            <td>288</td>
             <td>3697</td>
         </tr>
         <tr>
@@ -177,7 +177,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1408794498990280707">
-                <img src="https://pbs.twimg.com/profile_images/1577476757455880192/GBp_DdXf_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1587248451737231360/FUEpRoWa_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/AlleyBrazilian">AlleyBrazilian</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1408794498990280707">1 other</a>)&nbsp;</td>
@@ -185,7 +185,7 @@ Found 12 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SoakUpThe_Sun">SoakUpThe_Sun</a>
             </td>
             <td align="center"></td>
-            <td>154</td>
+            <td>153</td>
             <td>24882</td>
         </tr>
         <tr>

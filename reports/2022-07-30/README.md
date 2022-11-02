@@ -157,7 +157,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/strangepacks_">strangepacks_</a>
             </td>
             <td align="center"></td>
-            <td>295500</td>
+            <td>297116</td>
             <td>31636</td>
         </tr>
         <tr>

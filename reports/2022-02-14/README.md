@@ -57,7 +57,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Pissed_Penguin2">Pissed_Penguin2</a>
             </td>
             <td align="center"></td>
-            <td>480</td>
+            <td>483</td>
             <td>2538</td>
         </tr>
         <tr>
