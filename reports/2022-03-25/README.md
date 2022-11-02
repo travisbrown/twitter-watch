@@ -109,7 +109,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Caliban_Flan">Caliban_Flan</a>
             </td>
             <td align="center"></td>
-            <td>35</td>
+            <td>36</td>
             <td>5223</td>
         </tr>
         <tr>
@@ -122,7 +122,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/K_on_Cultist">K_on_Cultist</a>
             </td>
             <td align="center">🔒</td>
-            <td>614</td>
+            <td>606</td>
             <td>13710</td>
         </tr>
         <tr>
@@ -239,7 +239,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/KristiannNZ">KristiannNZ</a>
             </td>
             <td align="center"></td>
-            <td>721</td>
+            <td>722</td>
             <td>60598</td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Helen30732">Helen30732</a>
             </td>
             <td align="center"></td>
-            <td>1092</td>
+            <td>1090</td>
             <td>63685</td>
         </tr>
         <tr>
@@ -291,7 +291,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/roseyshade">roseyshade</a>
             </td>
             <td align="center"></td>
-            <td>453</td>
+            <td>456</td>
             <td>98509</td>
         </tr></table>
 
@@ -320,7 +320,7 @@ Found 803 suspensions for untracked accounts.
             <td>2011-04-20</td>
             <td>2022-03-27</td>
             <td align="center"></td>
-            <td>316695</td>
+            <td>316798</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1348845430788874242">
@@ -353,7 +353,7 @@ Found 803 suspensions for untracked accounts.
             <td>2014-04-15</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>89371</td>
+            <td>89389</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2884038435">
@@ -573,7 +573,7 @@ Found 803 suspensions for untracked accounts.
             <td>2014-05-25</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>3320</td>
+            <td>3321</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1460039936279814151">
@@ -939,17 +939,6 @@ Found 803 suspensions for untracked accounts.
             <td>1317</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1304461181608845314">
-                <img src="https://pbs.twimg.com/profile_images/1499054815439167501/wDx9n7Xv_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SHOTAPUNK">SHOTAPUNK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1304461181608845314">1 other</a>)&nbsp;</td>
-            <td>2020-09-11</td>
-            <td></td>
-            <td align="center">🔒</td>
-            <td>1295</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1493683150056214528">
                 <img src="https://pbs.twimg.com/profile_images/1583510124211175425/OgozRlNI_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -958,6 +947,17 @@ Found 803 suspensions for untracked accounts.
             <td>2022-02-15</td>
             <td>2022-03-26</td>
             <td align="center"></td>
+            <td>1306</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1304461181608845314">
+                <img src="https://pbs.twimg.com/profile_images/1499054815439167501/wDx9n7Xv_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SHOTAPUNK">SHOTAPUNK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1304461181608845314">1 other</a>)&nbsp;</td>
+            <td>2020-09-11</td>
+            <td></td>
+            <td align="center">🔒</td>
             <td>1295</td>
         </tr>
         <tr>

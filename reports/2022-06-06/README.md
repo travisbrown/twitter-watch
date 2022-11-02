@@ -443,7 +443,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bitcoin_citizen">bitcoin_citizen</a>
             </td>
             <td align="center"></td>
-            <td>279</td>
+            <td>284</td>
             <td>60215</td>
         </tr>
         <tr>
@@ -507,7 +507,7 @@ Found 812 suspensions for untracked accounts.
             <td>2016-12-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>66872</td>
+            <td>66879</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1513320454815109130">
@@ -650,7 +650,7 @@ Found 812 suspensions for untracked accounts.
             <td>2011-02-05</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>10353</td>
+            <td>10359</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=42606577">
@@ -782,7 +782,7 @@ Found 812 suspensions for untracked accounts.
             <td>2020-06-05</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>4275</td>
+            <td>4273</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=591572161">
@@ -969,7 +969,7 @@ Found 812 suspensions for untracked accounts.
             <td>2016-11-12</td>
             <td></td>
             <td align="center"></td>
-            <td>2512</td>
+            <td>2527</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=737802725635719169">

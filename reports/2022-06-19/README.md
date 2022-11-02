@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (2)](#tracked-suspensions)
 * [Tracked screen name changes (18)](#tracked-screen-name-changes)
-* [Untracked suspensions (95)](#untracked-suspensions)
+* [Untracked suspensions (96)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -108,7 +108,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/thisisnotarose">thisisnotarose</a>
             </td>
             <td align="center"></td>
-            <td>109</td>
+            <td>108</td>
             <td>4128</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SporadicPosting">SporadicPosting</a>
             </td>
             <td align="center"></td>
-            <td>1073</td>
+            <td>1075</td>
             <td>4902</td>
         </tr>
         <tr>
@@ -147,7 +147,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AwokenSentience">AwokenSentience</a>
             </td>
             <td align="center"></td>
-            <td>103</td>
+            <td>102</td>
             <td>12600</td>
         </tr>
         <tr>
@@ -238,7 +238,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/__billydakid">__billydakid</a>
             </td>
             <td align="center"></td>
-            <td>145</td>
+            <td>146</td>
             <td>71687</td>
         </tr>
         <tr>
@@ -251,7 +251,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AquilaeDeNum">AquilaeDeNum</a>
             </td>
             <td align="center"></td>
-            <td>128</td>
+            <td>125</td>
             <td>74986</td>
         </tr>
         <tr>
@@ -264,7 +264,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/aguysayinhi">aguysayinhi</a>
             </td>
             <td align="center"></td>
-            <td>400</td>
+            <td>402</td>
             <td>86499</td>
         </tr>
         <tr>
@@ -298,7 +298,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
 ### Untracked suspensions
 
 Found 1287 suspensions for untracked accounts.
-95 accounts have more than 1000 followers and are included here.
+96 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -429,7 +429,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2015-12-21</td>
             <td></td>
             <td align="center"></td>
-            <td>14925</td>
+            <td>14923</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4631267695">
@@ -704,7 +704,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2018-06-18</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>3290</td>
+            <td>3292</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2586811298">
@@ -847,7 +847,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2018-12-20</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>2212</td>
+            <td>2210</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=69570066">
@@ -997,7 +997,7 @@ Found 1287 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1578269877483216896/idsHTBHV_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/barturox">barturox</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488375669683892224">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/LouisSukimoto">LouisSukimoto</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488375669683892224">6 others</a>)&nbsp;</td>
             <td>2022-02-01</td>
             <td></td>
             <td align="center"></td>
@@ -1144,7 +1144,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2019-09-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>1347</td>
+            <td>1348</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3678370932">
@@ -1268,6 +1268,17 @@ Found 1287 suspensions for untracked accounts.
             <td>1109</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=914797748716785666">
+                <img src="https://pbs.twimg.com/profile_images/1585227538967699457/OmNJ0Ov5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Forextraderpau5">Forextraderpau5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/914797748716785666">1 other</a>)&nbsp;</td>
+            <td>2017-10-02</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>1097</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3138855244">
                 <img src="https://pbs.twimg.com/profile_images/1462938749206212608/9H-tNV-0_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1287,7 +1298,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2022-02-19</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>1077</td>
+            <td>1080</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=182522683">

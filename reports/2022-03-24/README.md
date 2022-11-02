@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2020-06-09</td>
             <td>2022-05-06</td>
             <td align="center">🔒</td>
-            <td>3549</td>
+            <td>3545</td>
             <td>85614</td>
         </tr></table>
 
@@ -144,7 +144,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/FloridaThales">FloridaThales</a>
             </td>
             <td align="center"></td>
-            <td>2172</td>
+            <td>2170</td>
             <td>1815</td>
         </tr>
         <tr>
@@ -209,7 +209,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Christo_Fresh">Christo_Fresh</a>
             </td>
             <td align="center"></td>
-            <td>124</td>
+            <td>123</td>
             <td>5978</td>
         </tr>
         <tr>
@@ -261,7 +261,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/trashyComanche9">trashyComanche9</a>
             </td>
             <td align="center"></td>
-            <td>265</td>
+            <td>266</td>
             <td>16316</td>
         </tr>
         <tr>
@@ -287,7 +287,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/repealthe19th_">repealthe19th_</a>
             </td>
             <td align="center"></td>
-            <td>140</td>
+            <td>139</td>
             <td>31508</td>
         </tr>
         <tr>
@@ -430,7 +430,7 @@ Found 38 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Kubrick_fan14">Kubrick_fan14</a>
             </td>
             <td align="center"></td>
-            <td>428</td>
+            <td>427</td>
             <td>65440</td>
         </tr>
         <tr>
@@ -1121,7 +1121,7 @@ Found 843 suspensions for untracked accounts.
             <td>2021-02-15</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>2320</td>
+            <td>2324</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1237800907053686787">

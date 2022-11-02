@@ -309,7 +309,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Serenityin24">Serenityin24</a>
             </td>
             <td align="center"></td>
-            <td>17097</td>
+            <td>17875</td>
             <td>607</td>
         </tr>
         <tr>
@@ -361,7 +361,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/paul_anthony99">paul_anthony99</a>
             </td>
             <td align="center"></td>
-            <td>205</td>
+            <td>206</td>
             <td>19985</td>
         </tr>
         <tr>
@@ -387,7 +387,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/tacticalzion">tacticalzion</a>
             </td>
             <td align="center"></td>
-            <td>80</td>
+            <td>81</td>
             <td>44057</td>
         </tr>
         <tr>
@@ -400,7 +400,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/colonodosecxxi">colonodosecxxi</a>
             </td>
             <td align="center"></td>
-            <td>622</td>
+            <td>620</td>
             <td>46993</td>
         </tr>
         <tr>
@@ -439,7 +439,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Rchains68">Rchains68</a>
             </td>
             <td align="center"></td>
-            <td>982</td>
+            <td>985</td>
             <td>78515</td>
         </tr>
         <tr>
@@ -452,7 +452,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bananayockey">bananayockey</a>
             </td>
             <td align="center"></td>
-            <td>323</td>
+            <td>326</td>
             <td>81109</td>
         </tr>
         <tr>
@@ -1178,7 +1178,7 @@ Found 2215 suspensions for untracked accounts.
             <td>2013-01-15</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>2781</td>
+            <td>2780</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=548745357">
@@ -1354,7 +1354,7 @@ Found 2215 suspensions for untracked accounts.
             <td>2018-05-10</td>
             <td></td>
             <td align="center"></td>
-            <td>2337</td>
+            <td>2334</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1290063124415078400">
@@ -2127,23 +2127,23 @@ Found 2215 suspensions for untracked accounts.
             <td>1346</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=834781575212580865">
-                <img src="https://pbs.twimg.com/profile_images/1506551807002439689/aKb6dVyN_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ShivOm051555">ShivOm051555</a></td>
-            <td>2017-02-23</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1345</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1466773212">
                 <img src="https://pbs.twimg.com/profile_images/1543943200066387968/0MHkOTkw_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/lionheartIAM">lionheartIAM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1466773212">5 others</a>)&nbsp;</td>
             <td>2013-05-29</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1344</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=834781575212580865">
+                <img src="https://pbs.twimg.com/profile_images/1506551807002439689/aKb6dVyN_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ShivOm051555">ShivOm051555</a></td>
+            <td>2017-02-23</td>
             <td></td>
             <td align="center"></td>
             <td>1344</td>

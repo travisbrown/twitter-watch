@@ -70,7 +70,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/boorishthug">boorishthug</a>
             </td>
             <td align="center"></td>
-            <td>685</td>
+            <td>689</td>
             <td>2152</td>
         </tr>
         <tr>
@@ -135,7 +135,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/NoWokeFuckery">NoWokeFuckery</a>
             </td>
             <td align="center"></td>
-            <td>157</td>
+            <td>159</td>
             <td>7626</td>
         </tr>
         <tr>
@@ -161,7 +161,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/MonkeysBaba">MonkeysBaba</a>
             </td>
             <td align="center">🔒</td>
-            <td>2673</td>
+            <td>2674</td>
             <td>10916</td>
         </tr>
         <tr>
@@ -213,7 +213,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_s3mp">_s3mp</a>
             </td>
             <td align="center"></td>
-            <td>1573</td>
+            <td>1579</td>
             <td>21299</td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/meeracle777">meeracle777</a>
             </td>
             <td align="center"></td>
-            <td>326</td>
+            <td>325</td>
             <td>32694</td>
         </tr>
         <tr>
@@ -278,7 +278,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/oldstockprtisan">oldstockprtisan</a>
             </td>
             <td align="center"></td>
-            <td>46</td>
+            <td>45</td>
             <td>32819</td>
         </tr>
         <tr>
@@ -317,7 +317,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/pyviv2022">pyviv2022</a>
             </td>
             <td align="center"></td>
-            <td>1432</td>
+            <td>1435</td>
             <td>37139</td>
         </tr>
         <tr>
@@ -356,7 +356,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/VickiewWest">VickiewWest</a>
             </td>
             <td align="center"></td>
-            <td>2706</td>
+            <td>2711</td>
             <td>45901</td>
         </tr>
         <tr>
@@ -434,7 +434,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Anti_Libturd">Anti_Libturd</a>
             </td>
             <td align="center"></td>
-            <td>2384</td>
+            <td>2381</td>
             <td>84993</td>
         </tr>
         <tr>
@@ -473,7 +473,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheeUnwelcomed">TheeUnwelcomed</a>
             </td>
             <td align="center"></td>
-            <td>1562</td>
+            <td>1563</td>
             <td>98772</td>
         </tr></table>
 
@@ -513,7 +513,7 @@ Found 527 suspensions for untracked accounts.
             <td>2018-12-02</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>26384</td>
+            <td>26388</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3484689389">
@@ -557,7 +557,7 @@ Found 527 suspensions for untracked accounts.
             <td>2013-11-11</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>10929</td>
+            <td>10927</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495722950728859649">
@@ -733,7 +733,7 @@ Found 527 suspensions for untracked accounts.
             <td>2020-04-12</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>2522</td>
+            <td>2528</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2261106392">

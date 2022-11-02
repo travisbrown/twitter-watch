@@ -168,7 +168,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/missouriaugur">missouriaugur</a>
             </td>
             <td align="center"></td>
-            <td>322</td>
+            <td>323</td>
             <td>11252</td>
         </tr>
         <tr>
@@ -207,7 +207,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Dust_Rathard">Dust_Rathard</a>
             </td>
             <td align="center"></td>
-            <td>39</td>
+            <td>41</td>
             <td>28469</td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DesertTrader85">DesertTrader85</a>
             </td>
             <td align="center"></td>
-            <td>196</td>
+            <td>198</td>
             <td>36510</td>
         </tr>
         <tr>
@@ -298,7 +298,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Biden_fell2022">Biden_fell2022</a>
             </td>
             <td align="center"></td>
-            <td>3126</td>
+            <td>3134</td>
             <td>46540</td>
         </tr>
         <tr>
@@ -324,7 +324,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/KurmaNakamoto">KurmaNakamoto</a>
             </td>
             <td align="center">🔒</td>
-            <td>256</td>
+            <td>255</td>
             <td>53330</td>
         </tr>
         <tr>
@@ -363,7 +363,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AFALO85">AFALO85</a>
             </td>
             <td align="center"></td>
-            <td>2093</td>
+            <td>2094</td>
             <td>76490</td>
         </tr>
         <tr>
@@ -402,7 +402,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/KlausSlobb">KlausSlobb</a>
             </td>
             <td align="center"></td>
-            <td>72</td>
+            <td>75</td>
             <td>98641</td>
         </tr></table>
 
@@ -651,7 +651,7 @@ Found 1335 suspensions for untracked accounts.
             <td>2016-06-25</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>16425</td>
+            <td>16459</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1488585899537584128">
@@ -1311,7 +1311,7 @@ Found 1335 suspensions for untracked accounts.
             <td>2018-08-23</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>2326</td>
+            <td>2321</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=419809528">
@@ -1930,6 +1930,17 @@ Found 1335 suspensions for untracked accounts.
             <td>1287</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=191888355">
+                <img src="https://pbs.twimg.com/profile_images/1378081509119295493/voY7cInZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Garnet478">Garnet478</a></td>
+            <td>2010-09-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1263</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=951907478761066496">
                 <img src="https://pbs.twimg.com/profile_images/951912053857488896/dWBPMLUR_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1950,17 +1961,6 @@ Found 1335 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1236</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=191888355">
-                <img src="https://pbs.twimg.com/profile_images/1378081509119295493/voY7cInZ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Garnet478">Garnet478</a></td>
-            <td>2010-09-17</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1235</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1313421457830096897">
