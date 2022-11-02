@@ -1,14 +1,14 @@
 ##  1 November 2022
 
-* [Tracked suspensions (75)](#tracked-suspensions)
+* [Tracked suspensions (77)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (74)](#untracked-suspensions)
+* [Untracked suspensions (76)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
 ### Tracked suspensions
 
-Found 75 suspensions for tracked accounts.
+Found 77 suspensions for tracked accounts.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -116,6 +116,18 @@ Found 75 suspensions for tracked accounts.
             <td align="center">🔒</td>
             <td>1534</td>
             <td>1665</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1523009745556283393">
+                <img src="https://pbs.twimg.com/profile_images/1571877358881193990/ycDs4chb_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Hugo_DeManzana">Hugo_DeManzana</a></td>
+            <td>2022-05-07</td>
+            <td></td>
+            <td align="center"></td>
+            <td>3494</td>
+            <td>1695</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1547394230514905088">
@@ -862,6 +874,18 @@ Found 75 suspensions for tracked accounts.
             <td>62042</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1455735071936159744">
+                <img src="https://pbs.twimg.com/profile_images/1484088100192022532/d-FlMSjN_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/abitofacalamity">abitofacalamity</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1455735071936159744">1 other</a>)&nbsp;</td>
+            <td>2021-11-03</td>
+            <td></td>
+            <td align="center"></td>
+            <td>250</td>
+            <td>62505</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1566124324452536320">
                 <img src="https://pbs.twimg.com/profile_images/1566124766557360129/W1h0a3fe_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -928,8 +952,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 1727 suspensions for untracked accounts.
-74 accounts have more than 1000 followers and are included here.
+Found 1800 suspensions for untracked accounts.
+76 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -941,6 +965,17 @@ Found 1727 suspensions for untracked accounts.
         <th align="left">Status</th>
         <th align="left">Followers</th>
     </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1008372314">
+                <img src="https://pbs.twimg.com/profile_images/1572771903462576129/04WhR83k_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Gann540">Gann540</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1008372314">4 others</a>)&nbsp;</td>
+            <td>2012-12-13</td>
+            <td></td>
+            <td align="center"></td>
+            <td>83569</td>
+        </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=705002314092974081">
                 <img src="https://pbs.twimg.com/profile_images/1579924827690917910/S_l_r1TJ_normal.jpg" width="40px" height="40px" align="center"/></a>
@@ -1578,6 +1613,17 @@ Found 1727 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1411</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1572156610566410241">
+                <img src="https://pbs.twimg.com/profile_images/1581382048752738305/8ZsYHn3i_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Abigail50062485">Abigail50062485</a></td>
+            <td>2022-09-20</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1370</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1433574539569598466">
