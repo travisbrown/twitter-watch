@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (8)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (21)](#untracked-suspensions)
+* [Untracked suspensions (24)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -124,8 +124,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 428 suspensions for untracked accounts.
-21 accounts have more than 1000 followers and are included here.
+Found 454 suspensions for untracked accounts.
+24 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -158,6 +158,17 @@ Found 428 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>20987</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=783244457353310208">
+                <img src="https://pbs.twimg.com/profile_images/1078027694636519425/UbuGaj0X_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/LennieMerrick1">LennieMerrick1</a></td>
+            <td>2016-10-04</td>
+            <td></td>
+            <td align="center"></td>
+            <td>12326</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1554071302490710016">
@@ -292,6 +303,17 @@ Found 428 suspensions for untracked accounts.
             <td>1395</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1255778495646650374">
+                <img src="https://pbs.twimg.com/profile_images/1587771553776893953/R22zhAnC_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ReservaSarinha">ReservaSarinha</a></td>
+            <td>2020-04-30</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1254</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=740194402929418240">
                 <img src="https://pbs.twimg.com/profile_images/1366311733174927360/yVfHLYUX_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -312,6 +334,17 @@ Found 428 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1191</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1367762227332268032">
+                <img src="https://pbs.twimg.com/profile_images/1367762561047924736/YKCYLns1_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/solidstroke1">solidstroke1</a></td>
+            <td>2021-03-05</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1140</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=309800248">
