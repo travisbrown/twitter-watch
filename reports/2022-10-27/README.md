@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (12)](#tracked-suspensions)
 * [Tracked screen name changes (44)](#tracked-screen-name-changes)
-* [Untracked suspensions (237)](#untracked-suspensions)
+* [Untracked suspensions (236)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -756,7 +756,7 @@ Found 44 screen name changes for tracked accounts.✔️ indicates that the acco
 ### Untracked suspensions
 
 Found 1431 suspensions for untracked accounts.
-237 accounts have more than 1000 followers and are included here.
+236 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1888,7 +1888,7 @@ Found 1431 suspensions for untracked accounts.
             <td>2021-02-02</td>
             <td></td>
             <td align="center"></td>
-            <td>3490</td>
+            <td>3513</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1533874242021797888">
@@ -3352,17 +3352,6 @@ Found 1431 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1008</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1425761126017556480">
-                <img src="https://pbs.twimg.com/profile_images/1582810729014595586/O6LO9EeE_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/shadiradia">shadiradia</a></td>
-            <td>2021-08-12</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1006</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1492085194383187969">

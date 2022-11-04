@@ -102,7 +102,7 @@ Found 9 suspensions for tracked accounts.
             <td>2021-07-21</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>104</td>
+            <td>106</td>
             <td>6612</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 9 suspensions for tracked accounts.
             <td>2018-06-01</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>869</td>
+            <td>871</td>
             <td>82760</td>
         </tr></table>
 

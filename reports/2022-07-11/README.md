@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2019-10-29</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>700</td>
+            <td>701</td>
             <td>64497</td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2017-11-14</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>634</td>
+            <td>632</td>
             <td>79704</td>
         </tr></table>
 
@@ -366,7 +366,7 @@ Found 2859 suspensions for untracked accounts.
             <td>2019-08-18</td>
             <td></td>
             <td align="center"></td>
-            <td>11299</td>
+            <td>11297</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=341265743">
@@ -388,7 +388,7 @@ Found 2859 suspensions for untracked accounts.
             <td>2019-01-25</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>10136</td>
+            <td>10139</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427242474351710209">
@@ -597,7 +597,7 @@ Found 2859 suspensions for untracked accounts.
             <td>2014-11-11</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>4789</td>
+            <td>4788</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495897411377586180">
@@ -1447,6 +1447,17 @@ Found 2859 suspensions for untracked accounts.
             <td>1343</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=883854221669527554">
+                <img src="https://pbs.twimg.com/profile_images/1587978596181839874/34Ic3jKg_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/stephcourse">stephcourse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/883854221669527554">2 others</a>)&nbsp;</td>
+            <td>2017-07-09</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1339</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1272681964634615808">
                 <img src="https://pbs.twimg.com/profile_images/1479577975033053184/x7QKryVm_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1489,17 +1500,6 @@ Found 2859 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1312</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=883854221669527554">
-                <img src="https://pbs.twimg.com/profile_images/1585365312404393992/wu-bsoLu_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/stephcourse">stephcourse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/883854221669527554">2 others</a>)&nbsp;</td>
-            <td>2017-07-09</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1310</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=947683015634731009">

@@ -302,7 +302,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2010-07-16</td>
             <td></td>
             <td align="center"></td>
-            <td>42925</td>
+            <td>42921</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3023305950">
@@ -379,7 +379,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2021-11-09</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>13964</td>
+            <td>13956</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=591955944">
@@ -698,7 +698,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2021-02-10</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>2854</td>
+            <td>2861</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1337792805377355779">
@@ -841,7 +841,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2009-03-13</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>2294</td>
+            <td>2292</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2759631447">
@@ -995,7 +995,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2012-11-16</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>1868</td>
+            <td>1870</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=24986797">
@@ -1314,7 +1314,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2020-04-06</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>1215</td>
+            <td>1217</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1485341635231858688">
@@ -1347,7 +1347,7 @@ Found 1093 suspensions for untracked accounts.
             <td>2010-03-30</td>
             <td></td>
             <td align="center"></td>
-            <td>1198</td>
+            <td>1201</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=893109901051936773">

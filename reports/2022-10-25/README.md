@@ -1174,7 +1174,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2009-03-14</td>
             <td></td>
             <td align="center"></td>
-            <td>13009</td>
+            <td>13048</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1531990562273906690">
@@ -1603,7 +1603,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2010-10-24</td>
             <td></td>
             <td align="center"></td>
-            <td>3869</td>
+            <td>3873</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1334304386860916737">
@@ -2530,6 +2530,17 @@ Found 1385 suspensions for untracked accounts.
             <td>1270</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=269981439">
+                <img src="https://pbs.twimg.com/profile_images/1546223796155084800/3QvgkKDy_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/dannystring">dannystring</a></td>
+            <td>2011-03-21</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1268</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1520337186457010177">
                 <img src="https://pbs.twimg.com/profile_images/1558779565538942978/TYb2jEE6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2550,17 +2561,6 @@ Found 1385 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1240</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=269981439">
-                <img src="https://pbs.twimg.com/profile_images/1546223796155084800/3QvgkKDy_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/dannystring">dannystring</a></td>
-            <td>2011-03-21</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1234</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3245578423">

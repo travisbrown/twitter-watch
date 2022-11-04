@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2014-08-10</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>85712</td>
+            <td>86014</td>
             <td>11073</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-05-06</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>19874</td>
+            <td>19893</td>
             <td>43991</td>
         </tr></table>
 
@@ -574,7 +574,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2010-10-31</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>400462</td>
+            <td>400426</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2685919298">
@@ -1443,7 +1443,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2011-11-16</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>2139</td>
+            <td>2153</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1461710782731796480">
@@ -1534,17 +1534,6 @@ Found 1605 suspensions for untracked accounts.
             <td>1957</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1413741700715925506">
-                <img src="https://pbs.twimg.com/profile_images/1502376951549693953/2RjEfHLD_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/WeAreWomenJapan">WeAreWomenJapan</a></td>
-            <td>2021-07-10</td>
-            <td>2022-05-19</td>
-            <td align="center"></td>
-            <td>1954</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2282671808">
                 <img src="https://pbs.twimg.com/profile_images/662031555829760000/g9NQa52i_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1552,6 +1541,17 @@ Found 1605 suspensions for untracked accounts.
                 <a href="https://twitter.com/REIMERholics">REIMERholics</a></td>
             <td>2014-01-08</td>
             <td></td>
+            <td align="center"></td>
+            <td>1951</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1413741700715925506">
+                <img src="https://pbs.twimg.com/profile_images/1502376951549693953/2RjEfHLD_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/WeAreWomenJapan">WeAreWomenJapan</a></td>
+            <td>2021-07-10</td>
+            <td>2022-05-19</td>
             <td align="center"></td>
             <td>1951</td>
         </tr>

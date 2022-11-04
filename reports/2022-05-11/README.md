@@ -26,11 +26,11 @@ Found 1 suspensions for tracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1586846743135756289/BM-e17Cn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/2femcel2furious">2femcel2furious</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1178514284650913798">12 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/PlSSCHRIST">PlSSCHRIST</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1178514284650913798">12 others</a>)&nbsp;</td>
             <td>2019-09-30</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>36288</td>
+            <td>36328</td>
             <td>78257</td>
         </tr></table>
 
@@ -1129,7 +1129,7 @@ Found 540 suspensions for untracked accounts.
             <td>2013-08-09</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>9093</td>
+            <td>9091</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1236394794324234240">
@@ -1184,7 +1184,7 @@ Found 540 suspensions for untracked accounts.
             <td>2018-11-06</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>5867</td>
+            <td>5864</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=51728924">
@@ -1657,7 +1657,7 @@ Found 540 suspensions for untracked accounts.
             <td>2020-12-09</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>1771</td>
+            <td>1770</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=215958366">

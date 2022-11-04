@@ -186,7 +186,7 @@ Found 17 suspensions for tracked accounts.
             <td>2014-01-28</td>
             <td></td>
             <td align="center"></td>
-            <td>681</td>
+            <td>687</td>
             <td>34892</td>
         </tr>
         <tr>
@@ -605,7 +605,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2021-08-11</td>
             <td></td>
             <td align="center"></td>
-            <td>8412</td>
+            <td>8436</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1189293164827435009">
@@ -935,7 +935,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2020-09-16</td>
             <td></td>
             <td align="center"></td>
-            <td>2834</td>
+            <td>2832</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1499100819710484483">
@@ -1188,7 +1188,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2013-07-17</td>
             <td></td>
             <td align="center"></td>
-            <td>2069</td>
+            <td>2073</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=11725392">
@@ -1378,6 +1378,17 @@ Found 1564 suspensions for untracked accounts.
             <td>1564</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=426299930">
+                <img src="https://pbs.twimg.com/profile_images/2244846057/BOB_boy1_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/bobtheknobslob">bobtheknobslob</a></td>
+            <td>2011-12-02</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1551</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2372760702">
                 <img src="https://pbs.twimg.com/profile_images/440986975336534016/K3X6lc39_normal.jpeg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1387,17 +1398,6 @@ Found 1564 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1545</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=426299930">
-                <img src="https://pbs.twimg.com/profile_images/2244846057/BOB_boy1_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/bobtheknobslob">bobtheknobslob</a></td>
-            <td>2011-12-02</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1536</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1229974649309736960">
@@ -1565,6 +1565,17 @@ Found 1564 suspensions for untracked accounts.
             <td>1373</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1548229008810135553">
+                <img src="https://pbs.twimg.com/profile_images/1548229236975996928/RL73h1dB_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/3Annoyed">3Annoyed</a></td>
+            <td>2022-07-16</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1336</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=200376161">
                 <img src="https://pbs.twimg.com/profile_images/1304907959881928711/X9UWpTYm_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1585,17 +1596,6 @@ Found 1564 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1325</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1548229008810135553">
-                <img src="https://pbs.twimg.com/profile_images/1548229236975996928/RL73h1dB_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/3Annoyed">3Annoyed</a></td>
-            <td>2022-07-16</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1317</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1352785355620175872">
@@ -1694,7 +1694,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2021-04-25</td>
             <td></td>
             <td align="center"></td>
-            <td>1181</td>
+            <td>1179</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1017871861621952512">
@@ -1785,17 +1785,6 @@ Found 1564 suspensions for untracked accounts.
             <td>1100</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=582937716">
-                <img src="https://pbs.twimg.com/profile_images/1482109160217063426/iCA3DPHE_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/loobstery">loobstery</a></td>
-            <td>2012-05-17</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1085</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1382807110505861120">
                 <img src="https://pbs.twimg.com/profile_images/1575397317120770054/Y5ZTjBB1_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1805,6 +1794,17 @@ Found 1564 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1085</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=582937716">
+                <img src="https://pbs.twimg.com/profile_images/1482109160217063426/iCA3DPHE_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/loobstery">loobstery</a></td>
+            <td>2012-05-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1082</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1558399236705816576">

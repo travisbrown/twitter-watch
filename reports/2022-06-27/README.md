@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (5)](#tracked-suspensions)
 * [Tracked screen name changes (54)](#tracked-screen-name-changes)
-* [Untracked suspensions (78)](#untracked-suspensions)
+* [Untracked suspensions (79)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-04-02</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>37047</td>
+            <td>37195</td>
             <td>18040</td>
         </tr>
         <tr>
@@ -802,7 +802,7 @@ Found 54 screen name changes for tracked accounts.✔️ indicates that the acco
 ### Untracked suspensions
 
 Found 749 suspensions for untracked accounts.
-78 accounts have more than 1000 followers and are included here.
+79 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1032,7 +1032,7 @@ Found 749 suspensions for untracked accounts.
             <td>2010-07-08</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>3662</td>
+            <td>3664</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1439363770883657728">
@@ -1582,7 +1582,7 @@ Found 749 suspensions for untracked accounts.
             <td>2013-04-20</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1068</td>
+            <td>1067</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1364624174971559937">
@@ -1671,4 +1671,15 @@ Found 749 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1003</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1352948690944626689">
+                <img src="https://pbs.twimg.com/profile_images/1573668592075276289/NpxpbqSK_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Jigsaw_Jules">Jigsaw_Jules</a></td>
+            <td>2021-01-23</td>
+            <td>2022-07-04</td>
+            <td align="center"></td>
+            <td>1002</td>
         </tr></table>

@@ -113,8 +113,8 @@ Found 11 suspensions for tracked accounts.
                 <a href="https://twitter.com/reincarn83d">reincarn83d</a></td>
             <td>2020-11-10</td>
             <td></td>
-            <td align="center">🔒</td>
-            <td>296</td>
+            <td align="center"></td>
+            <td>295</td>
             <td>10479</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 11 suspensions for tracked accounts.
             <td>2020-04-25</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1515</td>
+            <td>1517</td>
             <td>43418</td>
         </tr>
         <tr>
@@ -138,7 +138,7 @@ Found 11 suspensions for tracked accounts.
             <td>2022-05-20</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>230</td>
+            <td>233</td>
             <td>51529</td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ Found 11 suspensions for tracked accounts.
             <td>2022-01-19</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>641</td>
+            <td>643</td>
             <td>70123</td>
         </tr></table>
 
@@ -1455,7 +1455,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2017-01-31</td>
             <td></td>
             <td align="center"></td>
-            <td>2556</td>
+            <td>2566</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1185502993363492864">
@@ -1774,7 +1774,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2021-11-12</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>2005</td>
+            <td>2039</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1536665766317244418">

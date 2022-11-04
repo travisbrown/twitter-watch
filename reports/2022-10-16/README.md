@@ -542,7 +542,7 @@ Found 980 suspensions for untracked accounts.
             <td>2013-12-12</td>
             <td></td>
             <td align="center"></td>
-            <td>86241</td>
+            <td>86234</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1320078859488927747">
@@ -556,6 +556,17 @@ Found 980 suspensions for untracked accounts.
             <td>82583</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1464358978373181444">
+                <img src="https://pbs.twimg.com/profile_images/1587410148162781184/Gs6UII5r_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/StuffyAi">StuffyAi</a></td>
+            <td>2021-11-26</td>
+            <td></td>
+            <td align="center"></td>
+            <td>37657</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1292538672">
                 <img src="https://pbs.twimg.com/profile_images/1556634265257127936/3WPkqH36_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -565,17 +576,6 @@ Found 980 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>36507</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1464358978373181444">
-                <img src="https://pbs.twimg.com/profile_images/1587410148162781184/Gs6UII5r_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/StuffyAi">StuffyAi</a></td>
-            <td>2021-11-26</td>
-            <td></td>
-            <td align="center"></td>
-            <td>36205</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1029600578584891392">
@@ -762,7 +762,7 @@ Found 980 suspensions for untracked accounts.
             <td>2022-08-20</td>
             <td></td>
             <td align="center"></td>
-            <td>6844</td>
+            <td>6978</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1564389721">
@@ -1092,7 +1092,7 @@ Found 980 suspensions for untracked accounts.
             <td>2011-02-08</td>
             <td></td>
             <td align="center"></td>
-            <td>2237</td>
+            <td>2245</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1521677188797509633">
@@ -1282,6 +1282,17 @@ Found 980 suspensions for untracked accounts.
             <td>1589</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2826843810">
+                <img src="https://pbs.twimg.com/profile_images/1582907605688750083/CUMQvAK5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/VsauceMax">VsauceMax</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2826843810">1 other</a>)&nbsp;</td>
+            <td>2014-09-22</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1586</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1364951202698571778">
                 <img src="https://pbs.twimg.com/profile_images/1385573957739417600/Dla8dIVb_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1389,7 +1400,7 @@ Found 980 suspensions for untracked accounts.
             <td>2010-06-17</td>
             <td></td>
             <td align="center"></td>
-            <td>1485</td>
+            <td>1486</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1444047575842279429">
@@ -1469,17 +1480,6 @@ Found 980 suspensions for untracked accounts.
             <td>1363</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2826843810">
-                <img src="https://pbs.twimg.com/profile_images/1582907605688750083/CUMQvAK5_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/VsauceMax">VsauceMax</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2826843810">1 other</a>)&nbsp;</td>
-            <td>2014-09-22</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1342</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1592109284">
                 <img src="https://pbs.twimg.com/profile_images/1339168469561053185/ruwMpdQ3_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1532,7 +1532,7 @@ Found 980 suspensions for untracked accounts.
             <td>2009-06-13</td>
             <td></td>
             <td align="center"></td>
-            <td>1276</td>
+            <td>1277</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1438552805992800259">
@@ -1679,14 +1679,14 @@ Found 980 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=748209679222857728">
-                <img src="https://pbs.twimg.com/profile_images/1582114215925522433/v87_w4SP_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1587694536612003844/U9R-W0qP_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Abualabadillah3">Abualabadillah3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/748209679222857728">1 other</a>)&nbsp;</td>
             <td>2016-06-29</td>
             <td></td>
             <td align="center"></td>
-            <td>1137</td>
+            <td>1138</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1522032461483442176">

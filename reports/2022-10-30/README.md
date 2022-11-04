@@ -2526,7 +2526,7 @@ Found 377 suspensions for tracked accounts.
             <td>2021-11-05</td>
             <td></td>
             <td align="center"></td>
-            <td>980</td>
+            <td>960</td>
             <td>35460</td>
         </tr>
         <tr>
@@ -4307,14 +4307,14 @@ Found 377 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1456729420702617601">
-                <img src="https://pbs.twimg.com/profile_images/1586482738919604225/3UJ-WmOU_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1587898805957136384/L4CiV-1M_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/RealPMagid">RealPMagid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1456729420702617601">1 other</a>)&nbsp;</td>
             <td>2021-11-05</td>
             <td></td>
             <td align="center"></td>
-            <td>416</td>
+            <td>386</td>
             <td>91665</td>
         </tr>
         <tr>

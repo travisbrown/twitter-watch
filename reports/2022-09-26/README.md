@@ -162,7 +162,7 @@ Found 13 suspensions for tracked accounts.
             <td>2021-11-07</td>
             <td></td>
             <td align="center"></td>
-            <td>147</td>
+            <td>148</td>
             <td>75641</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ Found 13 suspensions for tracked accounts.
             <td>2015-04-30</td>
             <td></td>
             <td align="center"></td>
-            <td>235</td>
+            <td>233</td>
             <td>95478</td>
         </tr></table>
 
@@ -928,7 +928,7 @@ Found 1465 suspensions for untracked accounts.
             <td>2016-09-25</td>
             <td></td>
             <td align="center"></td>
-            <td>81080</td>
+            <td>81085</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1543415550617030662">
@@ -1240,14 +1240,14 @@ Found 1465 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=415704933">
-                <img src="https://pbs.twimg.com/profile_images/1587207822177177603/_YKu_3qy_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1587502537753579527/IZDf2pBD_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/MaggieBrown13">MaggieBrown13</a></td>
             <td>2011-11-18</td>
             <td></td>
             <td align="center"></td>
-            <td>6745</td>
+            <td>6760</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3148462455">
@@ -1313,7 +1313,7 @@ Found 1465 suspensions for untracked accounts.
             <td>2017-10-22</td>
             <td></td>
             <td align="center"></td>
-            <td>4665</td>
+            <td>4683</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2876558705">
@@ -1379,7 +1379,7 @@ Found 1465 suspensions for untracked accounts.
             <td>2022-05-24</td>
             <td></td>
             <td align="center"></td>
-            <td>3709</td>
+            <td>3708</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=890146958928740352">
@@ -1412,7 +1412,7 @@ Found 1465 suspensions for untracked accounts.
             <td>2018-09-16</td>
             <td></td>
             <td align="center"></td>
-            <td>3459</td>
+            <td>3460</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1450546040277508100">
@@ -1456,7 +1456,7 @@ Found 1465 suspensions for untracked accounts.
             <td>2012-12-12</td>
             <td></td>
             <td align="center"></td>
-            <td>2955</td>
+            <td>2953</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1582469563">
@@ -1907,7 +1907,7 @@ Found 1465 suspensions for untracked accounts.
             <td>2021-08-03</td>
             <td></td>
             <td align="center"></td>
-            <td>1801</td>
+            <td>1798</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1208549199844958209">
@@ -2446,7 +2446,7 @@ Found 1465 suspensions for untracked accounts.
             <td>2012-11-04</td>
             <td></td>
             <td align="center"></td>
-            <td>1011</td>
+            <td>1012</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=436109394">

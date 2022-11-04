@@ -210,7 +210,7 @@ Found 16 suspensions for tracked accounts.
             <td>2017-05-03</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>462</td>
+            <td>461</td>
             <td>57197</td>
         </tr></table>
 
@@ -1532,7 +1532,7 @@ Found 1175 suspensions for untracked accounts.
             <td>2012-06-02</td>
             <td></td>
             <td align="center"></td>
-            <td>36499</td>
+            <td>36498</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1330687838636048385">
@@ -1609,7 +1609,7 @@ Found 1175 suspensions for untracked accounts.
             <td>2012-04-13</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>15597</td>
+            <td>15603</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1251835633590349829">
@@ -1788,6 +1788,17 @@ Found 1175 suspensions for untracked accounts.
             <td>6278</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=624264512">
+                <img src="https://pbs.twimg.com/profile_images/1570058204314312707/kR-nf4-N_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/carobunga">carobunga</a></td>
+            <td>2012-07-02</td>
+            <td>2022-06-20</td>
+            <td align="center"></td>
+            <td>6228</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1497705921392304132">
                 <img src="https://pbs.twimg.com/profile_images/1512807254147411971/Fv6UqfYK_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1797,17 +1808,6 @@ Found 1175 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>6201</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=624264512">
-                <img src="https://pbs.twimg.com/profile_images/1570058204314312707/kR-nf4-N_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/carobunga">carobunga</a></td>
-            <td>2012-07-02</td>
-            <td>2022-06-20</td>
-            <td align="center"></td>
-            <td>6186</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1511874195768156160">
@@ -2038,7 +2038,7 @@ Found 1175 suspensions for untracked accounts.
             <td>2021-03-25</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>3227</td>
+            <td>3221</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1150867071691042817">

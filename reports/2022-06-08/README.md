@@ -30,7 +30,7 @@ Found 37 suspensions for tracked accounts.
             <td>2020-01-29</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>33719</td>
+            <td>33786</td>
             <td>382</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ Found 37 suspensions for tracked accounts.
             <td>2021-10-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1060</td>
+            <td>1059</td>
             <td>2672</td>
         </tr>
         <tr>
@@ -672,7 +672,7 @@ Found 738 suspensions for untracked accounts.
             <td>2013-07-05</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>104581</td>
+            <td>104613</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4482795202">
@@ -936,7 +936,7 @@ Found 738 suspensions for untracked accounts.
             <td>2020-03-04</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>9755</td>
+            <td>9744</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1222051880253231104">
@@ -1255,7 +1255,7 @@ Found 738 suspensions for untracked accounts.
             <td>2010-07-14</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>2514</td>
+            <td>2512</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1212927623380160515">
@@ -1269,23 +1269,23 @@ Found 738 suspensions for untracked accounts.
             <td>2465</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1368014725464866817">
-                <img src="https://pbs.twimg.com/profile_images/1505708562055675905/sADncvlc_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/RetvrnOfTheMatt">RetvrnOfTheMatt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1368014725464866817">2 others</a>)&nbsp;</td>
-            <td>2021-03-06</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2454</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1376174417533800448">
                 <img src="https://pbs.twimg.com/profile_images/1376174728633741315/OT4HFdWI_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/SeanLNelson1">SeanLNelson1</a></td>
             <td>2021-03-28</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2460</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1368014725464866817">
+                <img src="https://pbs.twimg.com/profile_images/1505708562055675905/sADncvlc_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/RetvrnOfTheMatt">RetvrnOfTheMatt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1368014725464866817">2 others</a>)&nbsp;</td>
+            <td>2021-03-06</td>
             <td></td>
             <td align="center"></td>
             <td>2454</td>
@@ -1343,7 +1343,7 @@ Found 738 suspensions for untracked accounts.
             <td>2018-10-18</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>2132</td>
+            <td>2134</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1075462686">
@@ -1354,7 +1354,7 @@ Found 738 suspensions for untracked accounts.
             <td>2013-01-10</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>2127</td>
+            <td>2126</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1521595927391137792">
