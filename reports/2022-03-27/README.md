@@ -158,7 +158,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RedactedThane">RedactedThane</a>
             </td>
             <td align="center"></td>
-            <td>96</td>
+            <td>95</td>
             <td>3463</td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/HBerg1960">HBerg1960</a>
             </td>
             <td align="center"></td>
-            <td>133</td>
+            <td>140</td>
             <td>6524</td>
         </tr>
         <tr>
@@ -236,7 +236,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/clownwor1d">clownwor1d</a>
             </td>
             <td align="center">🔒</td>
-            <td>16</td>
+            <td>15</td>
             <td>7521</td>
         </tr>
         <tr>
@@ -249,7 +249,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TBird8675309">TBird8675309</a>
             </td>
             <td align="center"></td>
-            <td>774</td>
+            <td>779</td>
             <td>7775</td>
         </tr>
         <tr>
@@ -262,7 +262,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/manv3lez">manv3lez</a>
             </td>
             <td align="center"></td>
-            <td>137</td>
+            <td>136</td>
             <td>7966</td>
         </tr>
         <tr>
@@ -275,7 +275,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/InFlatOfAngles">InFlatOfAngles</a>
             </td>
             <td align="center"></td>
-            <td>383</td>
+            <td>379</td>
             <td>14436</td>
         </tr>
         <tr>
@@ -288,7 +288,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/joltcola97">joltcola97</a>
             </td>
             <td align="center"></td>
-            <td>116</td>
+            <td>118</td>
             <td>15768</td>
         </tr>
         <tr>
@@ -327,7 +327,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Tex_2A">Tex_2A</a>
             </td>
             <td align="center"></td>
-            <td>75339</td>
+            <td>77213</td>
             <td>28558</td>
         </tr>
         <tr>
@@ -340,7 +340,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/iuzarneim">iuzarneim</a>
             </td>
             <td align="center"></td>
-            <td>19</td>
+            <td>20</td>
             <td>33264</td>
         </tr>
         <tr>
@@ -353,7 +353,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Fico071">Fico071</a>
             </td>
             <td align="center"></td>
-            <td>373</td>
+            <td>379</td>
             <td>37102</td>
         </tr>
         <tr>
@@ -418,7 +418,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/midwitmagnet">midwitmagnet</a>
             </td>
             <td align="center"></td>
-            <td>210</td>
+            <td>211</td>
             <td>56004</td>
         </tr>
         <tr>
@@ -444,7 +444,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/IanMcMath92">IanMcMath92</a>
             </td>
             <td align="center"></td>
-            <td>326</td>
+            <td>332</td>
             <td>64163</td>
         </tr>
         <tr>
@@ -457,7 +457,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_vermilius">_vermilius</a>
             </td>
             <td align="center">🔒</td>
-            <td>91</td>
+            <td>90</td>
             <td>64325</td>
         </tr>
         <tr>
@@ -470,7 +470,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/goldyinsoul">goldyinsoul</a>
             </td>
             <td align="center"></td>
-            <td>331</td>
+            <td>334</td>
             <td>69211</td>
         </tr>
         <tr>
@@ -496,7 +496,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/EasierYeah">EasierYeah</a>
             </td>
             <td align="center"></td>
-            <td>292</td>
+            <td>291</td>
             <td>70841</td>
         </tr>
         <tr>
@@ -522,7 +522,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DraxtheLegend">DraxtheLegend</a>
             </td>
             <td align="center"></td>
-            <td>890</td>
+            <td>885</td>
             <td>71950</td>
         </tr>
         <tr>
@@ -548,7 +548,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/iseekthetroof">iseekthetroof</a>
             </td>
             <td align="center"></td>
-            <td>1756</td>
+            <td>1792</td>
             <td>79315</td>
         </tr>
         <tr>
@@ -561,7 +561,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/HeathrJane">HeathrJane</a>
             </td>
             <td align="center"></td>
-            <td>1366</td>
+            <td>1464</td>
             <td>79439</td>
         </tr>
         <tr>
@@ -811,7 +811,7 @@ Found 526 suspensions for untracked accounts.
             <td>2011-08-29</td>
             <td>2022-03-30</td>
             <td align="center"></td>
-            <td>27354</td>
+            <td>27569</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1299311839541563392">
@@ -1174,7 +1174,7 @@ Found 526 suspensions for untracked accounts.
             <td>2022-03-04</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>1500</td>
+            <td>1505</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2181058804">

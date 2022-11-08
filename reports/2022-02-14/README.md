@@ -57,7 +57,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Pissed_Penguin2">Pissed_Penguin2</a>
             </td>
             <td align="center"></td>
-            <td>484</td>
+            <td>489</td>
             <td>2538</td>
         </tr>
         <tr>
@@ -75,7 +75,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1453563885437530115">
-                <img src="https://pbs.twimg.com/profile_images/1571082795279175680/aVDuLsQr_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1589363280660799489/SLkXB30e_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/EnglishManSamYT">EnglishManSamYT</a></td>
@@ -83,7 +83,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/DyingSocietyYT">DyingSocietyYT</a>
             </td>
             <td align="center"></td>
-            <td>58</td>
+            <td>67</td>
             <td>88018</td>
         </tr>
         <tr>
@@ -950,7 +950,7 @@ Found 706 suspensions for untracked accounts.
             <td>2017-01-29</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>4403</td>
+            <td>4402</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1405335394519076866">
@@ -1368,7 +1368,7 @@ Found 706 suspensions for untracked accounts.
             <td>2009-12-29</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2457</td>
+            <td>2464</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=970039617448792066">
@@ -2031,6 +2031,17 @@ Found 706 suspensions for untracked accounts.
             <td>1416</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1357530631073394688">
+                <img src="https://pbs.twimg.com/profile_images/1357530745233883136/PuH0ZExY_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mikefar61911385">mikefar61911385</a></td>
+            <td>2021-02-05</td>
+            <td>2022-05-19</td>
+            <td align="center"></td>
+            <td>1412</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1490853086566490122">
                 <img src="https://pbs.twimg.com/profile_images/1492203348220592133/4L4WdmR6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2073,17 +2084,6 @@ Found 706 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1396</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1357530631073394688">
-                <img src="https://pbs.twimg.com/profile_images/1357530745233883136/PuH0ZExY_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mikefar61911385">mikefar61911385</a></td>
-            <td>2021-02-05</td>
-            <td>2022-05-19</td>
-            <td align="center"></td>
-            <td>1393</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1480357718691131396">
@@ -2424,7 +2424,7 @@ Found 706 suspensions for untracked accounts.
             <td>2019-06-20</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1054</td>
+            <td>1051</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1449910455636402176">
@@ -2501,5 +2501,5 @@ Found 706 suspensions for untracked accounts.
             <td>2010-01-04</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>1018</td>
+            <td>1021</td>
         </tr></table>
