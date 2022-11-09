@@ -114,7 +114,7 @@ Found 11 suspensions for tracked accounts.
             <td>2020-11-10</td>
             <td></td>
             <td align="center"></td>
-            <td>302</td>
+            <td>308</td>
             <td>10479</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 11 suspensions for tracked accounts.
             <td>2020-04-25</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1534</td>
+            <td>1536</td>
             <td>43418</td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ Found 11 suspensions for tracked accounts.
             <td>2022-01-19</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>669</td>
+            <td>671</td>
             <td>70123</td>
         </tr></table>
 
@@ -1455,7 +1455,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2017-01-31</td>
             <td></td>
             <td align="center"></td>
-            <td>2575</td>
+            <td>2577</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1185502993363492864">
@@ -1689,17 +1689,6 @@ Found 1444 suspensions for untracked accounts.
             <td>2121</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1465058042">
-                <img src="https://pbs.twimg.com/profile_images/1518880175227875329/lgc81U5M_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/carnalcrow">carnalcrow</a></td>
-            <td>2013-05-28</td>
-            <td>2022-07-23</td>
-            <td align="center">🔒</td>
-            <td>2113</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1392850405093220353">
                 <img src="https://pbs.twimg.com/profile_images/1498170090377728000/wV9wpQvL_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1709,6 +1698,17 @@ Found 1444 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2113</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1465058042">
+                <img src="https://pbs.twimg.com/profile_images/1518880175227875329/lgc81U5M_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/carnalcrow">carnalcrow</a></td>
+            <td>2013-05-28</td>
+            <td>2022-07-23</td>
+            <td align="center">🔒</td>
+            <td>2108</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2327744827">
@@ -1752,7 +1752,7 @@ Found 1444 suspensions for untracked accounts.
             <td>2021-11-12</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>2083</td>
+            <td>2085</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491150976656494594">
