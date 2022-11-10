@@ -32,16 +32,16 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 346603
+* Total number of suspensions detected: 348619
 * Total number of suspension reversals detected: 6904
-* Mean number of followers for suspended accounts: 1779.38
+* Mean number of followers for suspended accounts: 1775.93
 * Median number of followers for suspended accounts: 59.0
-* Mean age of suspended accounts (days): 1045.96
-* Median age of suspended accounts (days): 317.0
-* Total number of verified accounts suspended: 135
-* Total number of protected accounts suspended: 17485
+* Mean age of suspended accounts (days): 1045.16
+* Median age of suspended accounts (days): 316.0
+* Total number of verified accounts suspended: 138
+* Total number of protected accounts suspended: 17561
 * Total number of suspensions for accounts previously withheld in specific countries: 24
-* Total number of screen name changes detected: 826292
+* Total number of screen name changes detected: 832644
 
 
 
@@ -209,7 +209,7 @@ Current list of suspensions of accounts most central to far-right networks since
                 <a href="https://twitter.com/DrKarlynB">DrKarlynB</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/6811832">2 others</a>)&nbsp;</td>
             <td>2007-06-14</td>
             <td>2022-08-19</td>
-            <td>68986</td>
+            <td>68589</td>
             <td>206</td>
         </tr>
         <tr>
@@ -292,9 +292,9 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>
                 <a href="reports/2022-11-10/">10 November 2022</a>
             </td>
-            <td>423</td>
-            <td>5</td>
-            <td>0</td>
+            <td>2451</td>
+            <td>21</td>
+            <td>14</td>
         </tr>
         <tr>
             <td>
@@ -302,7 +302,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>4541</td>
             <td>35</td>
-            <td>8</td>
+            <td>30</td>
         </tr>
         <tr>
             <td>

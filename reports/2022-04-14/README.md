@@ -107,7 +107,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Caroline_c_57">Caroline_c_57</a>
             </td>
             <td align="center"></td>
-            <td>542</td>
+            <td>540</td>
             <td>48599</td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/strongtowns_">strongtowns_</a>
             </td>
             <td align="center"></td>
-            <td>111</td>
+            <td>110</td>
             <td>50328</td>
         </tr>
         <tr>
@@ -459,7 +459,7 @@ Found 499 suspensions for untracked accounts.
             <td>2022-02-13</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>2657</td>
+            <td>2654</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1415390902789496839">
