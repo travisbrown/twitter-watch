@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2016-08-08</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>2966885</td>
+            <td>2966742</td>
             <td>15751</td>
         </tr>
         <tr>
@@ -479,7 +479,7 @@ Found 1045 suspensions for untracked accounts.
             <td>2016-10-19</td>
             <td>2022-08-21</td>
             <td align="center"></td>
-            <td>82577</td>
+            <td>82570</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=956168391601131520">
@@ -512,7 +512,7 @@ Found 1045 suspensions for untracked accounts.
             <td>2019-01-04</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>28026</td>
+            <td>27975</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=902301301">
@@ -820,7 +820,7 @@ Found 1045 suspensions for untracked accounts.
             <td>2021-02-04</td>
             <td>2022-08-18</td>
             <td align="center"></td>
-            <td>3402</td>
+            <td>3394</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1260238322">
@@ -1241,6 +1241,17 @@ Found 1045 suspensions for untracked accounts.
             <td>1618</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1256430571762434048">
+                <img src="https://pbs.twimg.com/profile_images/1503178423149211655/Yjy3FGp6_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/brule_t">brule_t</a></td>
+            <td>2020-05-02</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1617</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=59650204">
                 <img src="https://pbs.twimg.com/profile_images/428331334159704064/NaGRjOLZ_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1261,17 +1272,6 @@ Found 1045 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1614</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1256430571762434048">
-                <img src="https://pbs.twimg.com/profile_images/1503178423149211655/Yjy3FGp6_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/brule_t">brule_t</a></td>
-            <td>2020-05-02</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1611</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1552929624111431681">

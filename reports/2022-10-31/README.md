@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (54)](#tracked-suspensions)
 * [Tracked screen name changes (51)](#tracked-screen-name-changes)
-* [Untracked suspensions (120)](#untracked-suspensions)
+* [Untracked suspensions (121)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -1350,8 +1350,8 @@ Found 51 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1674 suspensions for untracked accounts.
-120 accounts have more than 1000 followers and are included here.
+Found 1678 suspensions for untracked accounts.
+121 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -2503,6 +2503,17 @@ Found 1674 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DesertRainReads">DesertRainReads</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/112955888">1 other</a>)&nbsp;</td>
             <td>2010-02-10</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1190</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2206335746">
+                <img src="https://pbs.twimg.com/profile_images/378800000768822438/56b05fc7633cb02f189e53af26f5bf56_normal.jpeg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/3spoiledpuppies">3spoiledpuppies</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2206335746">1 other</a>)&nbsp;</td>
+            <td>2013-11-21</td>
             <td></td>
             <td align="center"></td>
             <td>1190</td>

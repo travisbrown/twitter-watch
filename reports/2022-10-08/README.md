@@ -453,7 +453,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2011-01-22</td>
             <td></td>
             <td align="center"></td>
-            <td>48037</td>
+            <td>48022</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2861409881">
@@ -508,7 +508,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2009-02-10</td>
             <td></td>
             <td align="center"></td>
-            <td>33413</td>
+            <td>33396</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1565510894175625217">
@@ -574,7 +574,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2018-07-08</td>
             <td></td>
             <td align="center"></td>
-            <td>25964</td>
+            <td>25972</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1569375006353756170">
@@ -695,7 +695,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2020-08-22</td>
             <td></td>
             <td align="center"></td>
-            <td>14807</td>
+            <td>14826</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1566142160466055168">
@@ -750,7 +750,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-09-14</td>
             <td></td>
             <td align="center"></td>
-            <td>10560</td>
+            <td>10557</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4468164014">
@@ -761,7 +761,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-12-05</td>
             <td></td>
             <td align="center"></td>
-            <td>10539</td>
+            <td>10537</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3273603468">
@@ -772,7 +772,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-07-10</td>
             <td></td>
             <td align="center"></td>
-            <td>10107</td>
+            <td>10106</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1566534407267274752">
@@ -882,7 +882,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-09-16</td>
             <td></td>
             <td align="center"></td>
-            <td>6450</td>
+            <td>6451</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1558601956414967808">
@@ -1300,7 +1300,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2020-03-07</td>
             <td></td>
             <td align="center"></td>
-            <td>2111</td>
+            <td>2115</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1464998232472252417">
@@ -1336,6 +1336,17 @@ Found 1533 suspensions for untracked accounts.
             <td>1984</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=758102744288878592">
+                <img src="https://pbs.twimg.com/profile_images/1549134843065294850/svbz3phz_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mac__steele">mac__steele</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/758102744288878592">1 other</a>)&nbsp;</td>
+            <td>2016-07-27</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1976</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=558924580">
                 <img src="https://pbs.twimg.com/profile_images/1575628226243821571/-JlXcFef_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1345,17 +1356,6 @@ Found 1533 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1971</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=758102744288878592">
-                <img src="https://pbs.twimg.com/profile_images/1549134843065294850/svbz3phz_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mac__steele">mac__steele</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/758102744288878592">1 other</a>)&nbsp;</td>
-            <td>2016-07-27</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1963</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1693941884">

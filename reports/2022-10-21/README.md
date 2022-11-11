@@ -920,7 +920,7 @@ Found 1390 suspensions for untracked accounts.
             <td>2013-11-17</td>
             <td></td>
             <td align="center"></td>
-            <td>23148</td>
+            <td>23165</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=20435808">
@@ -1877,7 +1877,7 @@ Found 1390 suspensions for untracked accounts.
             <td>2020-10-02</td>
             <td></td>
             <td align="center"></td>
-            <td>1650</td>
+            <td>1652</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1309538480528162819">
@@ -2361,7 +2361,7 @@ Found 1390 suspensions for untracked accounts.
             <td>2022-04-28</td>
             <td></td>
             <td align="center"></td>
-            <td>1121</td>
+            <td>1119</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=64047904">
@@ -2397,23 +2397,23 @@ Found 1390 suspensions for untracked accounts.
             <td>1099</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=3958513936">
-                <img src="https://pbs.twimg.com/profile_images/827824689443651584/RbrKyBN__normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/inktvisje5">inktvisje5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3958513936">2 others</a>)&nbsp;</td>
-            <td>2015-10-14</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1089</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518944560914739200">
                 <img src="https://pbs.twimg.com/profile_images/1586749600773246978/9e0-IB_c_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Ken4087">Ken4087</a></td>
             <td>2022-04-26</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1093</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=3958513936">
+                <img src="https://pbs.twimg.com/profile_images/827824689443651584/RbrKyBN__normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/inktvisje5">inktvisje5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3958513936">2 others</a>)&nbsp;</td>
+            <td>2015-10-14</td>
             <td></td>
             <td align="center"></td>
             <td>1089</td>

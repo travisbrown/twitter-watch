@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2022-04-26</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>2029</td>
+            <td>2033</td>
             <td>60887</td>
         </tr></table>
 
@@ -467,7 +467,7 @@ Found 486 suspensions for untracked accounts.
             <td>2017-09-17</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4150</td>
+            <td>4165</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=386727814">
@@ -478,7 +478,7 @@ Found 486 suspensions for untracked accounts.
             <td>2011-10-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4109</td>
+            <td>4107</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=711496274692935680">
@@ -492,6 +492,17 @@ Found 486 suspensions for untracked accounts.
             <td>3848</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1426371743149707264">
+                <img src="https://pbs.twimg.com/profile_images/1580021053535014913/v0Qa5OGG_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/StielHugh">StielHugh</a></td>
+            <td>2021-08-14</td>
+            <td>2022-06-05</td>
+            <td align="center"></td>
+            <td>3695</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2290031143">
                 <img src="https://pbs.twimg.com/profile_images/431289989935423489/xnn3YfBI_normal.jpeg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -501,17 +512,6 @@ Found 486 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3673</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1426371743149707264">
-                <img src="https://pbs.twimg.com/profile_images/1580021053535014913/v0Qa5OGG_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/StielHugh">StielHugh</a></td>
-            <td>2021-08-14</td>
-            <td>2022-06-05</td>
-            <td align="center"></td>
-            <td>3667</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1447438735222603779">
@@ -566,7 +566,7 @@ Found 486 suspensions for untracked accounts.
             <td>2013-09-25</td>
             <td></td>
             <td align="center"></td>
-            <td>2839</td>
+            <td>2849</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1008930049">
@@ -822,6 +822,17 @@ Found 486 suspensions for untracked accounts.
             <td>1378</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1419830426873614338">
+                <img src="https://pbs.twimg.com/profile_images/1571885141873623040/_J6B8YzZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/heritages_India">heritages_India</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419830426873614338">3 others</a>)&nbsp;</td>
+            <td>2021-07-27</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1359</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1637927682">
                 <img src="https://pbs.twimg.com/profile_images/1433884284922826765/50vriAyi_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -831,17 +842,6 @@ Found 486 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1358</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1419830426873614338">
-                <img src="https://pbs.twimg.com/profile_images/1571885141873623040/_J6B8YzZ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/heritages_India">heritages_India</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419830426873614338">3 others</a>)&nbsp;</td>
-            <td>2021-07-27</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1357</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1475529071492837382">

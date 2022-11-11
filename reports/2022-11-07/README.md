@@ -6504,7 +6504,7 @@ Found 3283 suspensions for untracked accounts.
             <td>2015-08-26</td>
             <td></td>
             <td align="center"></td>
-            <td>4466</td>
+            <td>4463</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1174342228099178496">
@@ -7101,23 +7101,23 @@ Found 3283 suspensions for untracked accounts.
             <td>1837</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=822943031485730817">
-                <img src="https://pbs.twimg.com/profile_images/996248393742565376/Q6eL3FbF_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/JohnMcD70934143">JohnMcD70934143</a></td>
-            <td>2017-01-21</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1824</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1079142471223922688">
                 <img src="https://pbs.twimg.com/profile_images/1306054124614684674/BMZoiUSK_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/dukeofGK">dukeofGK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1079142471223922688">2 others</a>)&nbsp;</td>
             <td>2018-12-29</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1825</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=822943031485730817">
+                <img src="https://pbs.twimg.com/profile_images/996248393742565376/Q6eL3FbF_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JohnMcD70934143">JohnMcD70934143</a></td>
+            <td>2017-01-21</td>
             <td></td>
             <td align="center"></td>
             <td>1824</td>

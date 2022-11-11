@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2009-07-14</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>20313</td>
+            <td>20315</td>
             <td>77647</td>
         </tr></table>
 
@@ -373,7 +373,7 @@ Found 824 suspensions for untracked accounts.
             <td>2015-02-25</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>6171</td>
+            <td>6172</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1453253019622072322">
@@ -692,7 +692,7 @@ Found 824 suspensions for untracked accounts.
             <td>2016-04-17</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1951</td>
+            <td>1950</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1480614672">
@@ -1003,17 +1003,6 @@ Found 824 suspensions for untracked accounts.
             <td>1126</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=885685639">
-                <img src="https://pbs.twimg.com/profile_images/2731503002/51b0a6ce13670c481d9ca094b340a6cf_normal.jpeg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/DonaldDennis6">DonaldDennis6</a></td>
-            <td>2012-10-17</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1125</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427813226180448257">
                 <img src="https://pbs.twimg.com/profile_images/1499588841296048128/R-wNU0Jz_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1045,6 +1034,17 @@ Found 824 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1094</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=885685639">
+                <img src="https://pbs.twimg.com/profile_images/2731503002/51b0a6ce13670c481d9ca094b340a6cf_normal.jpeg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/DonaldDennis6">DonaldDennis6</a></td>
+            <td>2012-10-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1091</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1413395442629595145">
@@ -1121,7 +1121,7 @@ Found 824 suspensions for untracked accounts.
             <td>2021-09-04</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1036</td>
+            <td>1040</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1536181926293282817">

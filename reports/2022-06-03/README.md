@@ -1286,7 +1286,7 @@ Found 415 suspensions for untracked accounts.
             <td>2015-08-08</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>59943</td>
+            <td>59931</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=182345452">
@@ -1363,7 +1363,7 @@ Found 415 suspensions for untracked accounts.
             <td>2015-03-07</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>13951</td>
+            <td>13962</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1411285863049445377">
@@ -1498,6 +1498,17 @@ Found 415 suspensions for untracked accounts.
             <td>3043</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=18610633">
+                <img src="https://pbs.twimg.com/profile_images/1510211226890117120/uEivSLTC_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Alisdisgrace">Alisdisgrace</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18610633">1 other</a>)&nbsp;</td>
+            <td>2009-01-04</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2829</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3273772536">
                 <img src="https://pbs.twimg.com/profile_images/1530829922612428800/cFt2ZcAC_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1518,17 +1529,6 @@ Found 415 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2733</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=18610633">
-                <img src="https://pbs.twimg.com/profile_images/1510211226890117120/uEivSLTC_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Alisdisgrace">Alisdisgrace</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18610633">1 other</a>)&nbsp;</td>
-            <td>2009-01-04</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2684</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1283918980957143041">

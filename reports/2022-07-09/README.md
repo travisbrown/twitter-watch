@@ -542,7 +542,7 @@ Found 663 suspensions for untracked accounts.
             <td>2011-03-30</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>15854</td>
+            <td>15856</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1531315509836275713">
@@ -688,17 +688,6 @@ Found 663 suspensions for untracked accounts.
             <td>3896</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=26301417">
-                <img src="https://pbs.twimg.com/profile_images/1055206141083275264/SpR7INbO_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/axiomatic13">axiomatic13</a></td>
-            <td>2009-03-24</td>
-            <td></td>
-            <td align="center"></td>
-            <td>3848</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1379363059">
                 <img src="https://pbs.twimg.com/profile_images/1151546663426830342/_mGG7kKT_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -708,6 +697,17 @@ Found 663 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3842</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=26301417">
+                <img src="https://pbs.twimg.com/profile_images/1055206141083275264/SpR7INbO_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/axiomatic13">axiomatic13</a></td>
+            <td>2009-03-24</td>
+            <td></td>
+            <td align="center"></td>
+            <td>3838</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1499025404249714706">
@@ -894,7 +894,7 @@ Found 663 suspensions for untracked accounts.
             <td>2011-12-10</td>
             <td></td>
             <td align="center"></td>
-            <td>2602</td>
+            <td>2599</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1542214468825931778">

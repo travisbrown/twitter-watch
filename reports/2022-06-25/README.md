@@ -114,7 +114,7 @@ Found 10 suspensions for tracked accounts.
             <td>2018-01-24</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>9607</td>
+            <td>9612</td>
             <td>18706</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 10 suspensions for tracked accounts.
             <td>2011-02-04</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1521</td>
+            <td>1525</td>
             <td>86880</td>
         </tr>
         <tr>
@@ -138,7 +138,7 @@ Found 10 suspensions for tracked accounts.
             <td>2009-03-26</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>157</td>
+            <td>160</td>
             <td>92750</td>
         </tr></table>
 
@@ -996,7 +996,7 @@ Found 1302 suspensions for untracked accounts.
             <td>2010-03-09</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>14092</td>
+            <td>14095</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1497017105945870336">
@@ -1810,7 +1810,7 @@ Found 1302 suspensions for untracked accounts.
             <td>2022-04-19</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1298</td>
+            <td>1294</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1081508853735411712">
@@ -1846,17 +1846,6 @@ Found 1302 suspensions for untracked accounts.
             <td>1227</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=637325121">
-                <img src="https://pbs.twimg.com/profile_images/498279466976542720/1l-S8ViI_normal.jpeg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FriendsOfSAFA">FriendsOfSAFA</a></td>
-            <td>2012-07-16</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1226</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1312741713992200195">
                 <img src="https://pbs.twimg.com/profile_images/1540680036096692224/QM67O21R_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1877,6 +1866,17 @@ Found 1302 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1212</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=637325121">
+                <img src="https://pbs.twimg.com/profile_images/498279466976542720/1l-S8ViI_normal.jpeg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FriendsOfSAFA">FriendsOfSAFA</a></td>
+            <td>2012-07-16</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1202</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1508542086706081805">

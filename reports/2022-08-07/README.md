@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2011-09-09</td>
             <td>2022-08-25</td>
             <td align="center">🔒</td>
-            <td>387</td>
+            <td>386</td>
             <td>88597</td>
         </tr>
         <tr>
@@ -638,7 +638,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2020-01-27</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>120851</td>
+            <td>120875</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1070337762128220163">
@@ -858,7 +858,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2013-04-18</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>49730</td>
+            <td>49978</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1526364548059795457">
@@ -1950,6 +1950,17 @@ Found 1063 suspensions for untracked accounts.
             <td>2077</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1026074730196025345">
+                <img src="https://pbs.twimg.com/profile_images/1578118725340987413/Cszti7xp_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TheAliArda">TheAliArda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1026074730196025345">1 other</a>)&nbsp;</td>
+            <td>2018-08-05</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>2040</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=910573492185321472">
                 <img src="https://pbs.twimg.com/profile_images/1507097296332333075/DbJO1lnC_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1970,17 +1981,6 @@ Found 1063 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2039</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1026074730196025345">
-                <img src="https://pbs.twimg.com/profile_images/1578118725340987413/Cszti7xp_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/TheAliArda">TheAliArda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1026074730196025345">1 other</a>)&nbsp;</td>
-            <td>2018-08-05</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>2032</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1380469783666249729">

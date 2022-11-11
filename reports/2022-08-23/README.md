@@ -30,7 +30,7 @@ Found 5 suspensions for tracked accounts.
             <td>2022-06-06</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>119801</td>
+            <td>120351</td>
             <td>154</td>
         </tr>
         <tr>
@@ -632,7 +632,7 @@ Found 41 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1258 suspensions for untracked accounts.
+Found 1259 suspensions for untracked accounts.
 172 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -742,7 +742,7 @@ Found 1258 suspensions for untracked accounts.
             <td>2018-01-29</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>17876</td>
+            <td>17897</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1445562875519455235">
@@ -863,7 +863,7 @@ Found 1258 suspensions for untracked accounts.
             <td>2013-09-21</td>
             <td></td>
             <td align="center"></td>
-            <td>8516</td>
+            <td>8512</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1295421518906892290">
@@ -1457,7 +1457,7 @@ Found 1258 suspensions for untracked accounts.
             <td>2011-10-17</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2744</td>
+            <td>2751</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=969040753">
@@ -1636,6 +1636,17 @@ Found 1258 suspensions for untracked accounts.
             <td>2388</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1519438244">
+                <img src="https://pbs.twimg.com/profile_images/1110688492433129472/TOtj3jkl_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/carriedog88">carriedog88</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1519438244">1 other</a>)&nbsp;</td>
+            <td>2013-06-15</td>
+            <td>2022-09-05</td>
+            <td align="center"></td>
+            <td>2377</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=468958379">
                 <img src="https://pbs.twimg.com/profile_images/1550580279902961666/jo0gom7__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1645,17 +1656,6 @@ Found 1258 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2374</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1519438244">
-                <img src="https://pbs.twimg.com/profile_images/1110688492433129472/TOtj3jkl_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/carriedog88">carriedog88</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1519438244">1 other</a>)&nbsp;</td>
-            <td>2013-06-15</td>
-            <td>2022-09-05</td>
-            <td align="center"></td>
-            <td>2373</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=230159782">
@@ -1996,7 +1996,7 @@ Found 1258 suspensions for untracked accounts.
             <td>2009-04-29</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>1613</td>
+            <td>1612</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1498676142559137797">
@@ -2117,7 +2117,7 @@ Found 1258 suspensions for untracked accounts.
             <td>2017-10-31</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>1467</td>
+            <td>1468</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1235802793216061442">

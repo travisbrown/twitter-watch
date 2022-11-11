@@ -2526,7 +2526,7 @@ Found 377 suspensions for tracked accounts.
             <td>2021-11-05</td>
             <td></td>
             <td align="center"></td>
-            <td>1110</td>
+            <td>1172</td>
             <td>35460</td>
         </tr>
         <tr>
@@ -4314,7 +4314,7 @@ Found 377 suspensions for tracked accounts.
             <td>2021-11-05</td>
             <td></td>
             <td align="center"></td>
-            <td>392</td>
+            <td>396</td>
             <td>91665</td>
         </tr>
         <tr>
@@ -5304,7 +5304,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 3192 suspensions for untracked accounts.
+Found 3193 suspensions for untracked accounts.
 240 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -5923,17 +5923,6 @@ Found 3192 suspensions for untracked accounts.
             <td>7086</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=4064335367">
-                <img src="https://pbs.twimg.com/profile_images/1329786133119725571/JkGXDzm3_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Professing_Prof">Professing_Prof</a></td>
-            <td>2015-10-29</td>
-            <td></td>
-            <td align="center"></td>
-            <td>7029</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1401158953598214144">
                 <img src="https://pbs.twimg.com/profile_images/1401159977746591745/HzIvXH2l_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -5943,6 +5932,17 @@ Found 3192 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>7002</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=4064335367">
+                <img src="https://pbs.twimg.com/profile_images/1329786133119725571/JkGXDzm3_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Professing_Prof">Professing_Prof</a></td>
+            <td>2015-10-29</td>
+            <td></td>
+            <td align="center"></td>
+            <td>6883</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=951840491972149248">

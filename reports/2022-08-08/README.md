@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2011-11-18</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>125</td>
+            <td>126</td>
             <td>5978</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2008-09-17</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>116</td>
+            <td>118</td>
             <td>27433</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2013-01-16</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>3210</td>
+            <td>3216</td>
             <td>55970</td>
         </tr></table>
 
@@ -648,7 +648,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2009-02-22</td>
             <td></td>
             <td align="center"></td>
-            <td>171245</td>
+            <td>173809</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1088746878227935232">
@@ -879,7 +879,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2021-08-09</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>14764</td>
+            <td>14769</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4650892735">
@@ -1440,7 +1440,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2021-07-14</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2171</td>
+            <td>2179</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=189451639">
@@ -1627,7 +1627,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2017-09-16</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>1796</td>
+            <td>1795</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1353869177849786368">
@@ -1674,6 +1674,17 @@ Found 1187 suspensions for untracked accounts.
             <td>1741</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1362093540952731655">
+                <img src="https://pbs.twimg.com/profile_images/1542188968506277888/lGLg2oYI_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PhoebeisRight">PhoebeisRight</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1362093540952731655">1 other</a>)&nbsp;</td>
+            <td>2021-02-17</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>1685</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1529450467843006464">
                 <img src="https://pbs.twimg.com/profile_images/1533541807136641025/gHpNxBz__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1683,17 +1694,6 @@ Found 1187 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1675</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1362093540952731655">
-                <img src="https://pbs.twimg.com/profile_images/1542188968506277888/lGLg2oYI_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/PhoebeisRight">PhoebeisRight</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1362093540952731655">1 other</a>)&nbsp;</td>
-            <td>2021-02-17</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>1673</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=35121351">
@@ -1869,7 +1869,7 @@ Found 1187 suspensions for untracked accounts.
             <td>2014-08-03</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>1352</td>
+            <td>1350</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=484630905">
