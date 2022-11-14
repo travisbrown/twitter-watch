@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (12)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (126)](#untracked-suspensions)
+* [Untracked suspensions (128)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -172,8 +172,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 2049 suspensions for untracked accounts.
-126 accounts have more than 1000 followers and are included here.
+Found 2060 suspensions for untracked accounts.
+128 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -560,6 +560,17 @@ Found 2049 suspensions for untracked accounts.
             <td>5197</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1220726630466887680">
+                <img src="https://pbs.twimg.com/profile_images/1589451870166286336/Ls2pn654_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/crackgaIore">crackgaIore</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1220726630466887680">2 others</a>)&nbsp;</td>
+            <td>2020-01-24</td>
+            <td></td>
+            <td align="center"></td>
+            <td>4798</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1535904384">
                 <img src="https://pbs.twimg.com/profile_images/1574298118455189506/6JoG3wgI_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -602,6 +613,17 @@ Found 2049 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>4448</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=770992065421410304">
+                <img src="https://pbs.twimg.com/profile_images/1588956547194970113/EFWBieax_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JamesDigiJ">JamesDigiJ</a></td>
+            <td>2016-08-31</td>
+            <td></td>
+            <td align="center"></td>
+            <td>4384</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=156340828">
