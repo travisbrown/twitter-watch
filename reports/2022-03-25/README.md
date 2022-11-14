@@ -122,7 +122,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/K_on_Cultist">K_on_Cultist</a>
             </td>
             <td align="center">🔒</td>
-            <td>595</td>
+            <td>593</td>
             <td>13710</td>
         </tr>
         <tr>
@@ -239,7 +239,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/KristiannNZ">KristiannNZ</a>
             </td>
             <td align="center"></td>
-            <td>731</td>
+            <td>742</td>
             <td>60598</td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Helen30732">Helen30732</a>
             </td>
             <td align="center"></td>
-            <td>1082</td>
+            <td>1081</td>
             <td>63685</td>
         </tr>
         <tr>
@@ -290,8 +290,8 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
             <td>
                 <a href="https://twitter.com/roseyshade">roseyshade</a>
             </td>
-            <td align="center"></td>
-            <td>461</td>
+            <td align="center">🔒</td>
+            <td>460</td>
             <td>98509</td>
         </tr></table>
 
@@ -320,7 +320,7 @@ Found 803 suspensions for untracked accounts.
             <td>2011-04-20</td>
             <td>2022-03-27</td>
             <td align="center"></td>
-            <td>317827</td>
+            <td>317649</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1348845430788874242">
@@ -353,7 +353,7 @@ Found 803 suspensions for untracked accounts.
             <td>2014-04-15</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>89935</td>
+            <td>89930</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2884038435">

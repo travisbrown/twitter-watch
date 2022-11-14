@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2009-07-14</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>20315</td>
+            <td>20276</td>
             <td>77647</td>
         </tr></table>
 
@@ -97,7 +97,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
     </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1161814114538270721">
-                <img src="https://pbs.twimg.com/profile_images/1588753925469077504/KNC8LtD9_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1590828441959632897/ui5ZQW2J_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/GoldAgeSociopth">GoldAgeSociopth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1161814114538270721">3 others</a>)&nbsp;</td>
@@ -105,7 +105,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/GoldAgeSchizo">GoldAgeSchizo</a>
             </td>
             <td align="center"></td>
-            <td>126</td>
+            <td>128</td>
             <td>3206</td>
         </tr>
         <tr>
@@ -131,7 +131,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/White_Pills">White_Pills</a>
             </td>
             <td align="center"></td>
-            <td>231</td>
+            <td>232</td>
             <td>3935</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/elagabalus__">elagabalus__</a>
             </td>
             <td align="center"></td>
-            <td>159</td>
+            <td>160</td>
             <td>6483</td>
         </tr>
         <tr>
@@ -157,7 +157,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/_Karron">_Karron</a>
             </td>
             <td align="center"></td>
-            <td>1924</td>
+            <td>1930</td>
             <td>23152</td>
         </tr></table>
 
@@ -373,7 +373,7 @@ Found 824 suspensions for untracked accounts.
             <td>2015-02-25</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>6172</td>
+            <td>6180</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1453253019622072322">
@@ -1044,7 +1044,7 @@ Found 824 suspensions for untracked accounts.
             <td>2012-10-17</td>
             <td></td>
             <td align="center"></td>
-            <td>1091</td>
+            <td>1092</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1413395442629595145">
@@ -1121,7 +1121,7 @@ Found 824 suspensions for untracked accounts.
             <td>2021-09-04</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1040</td>
+            <td>1041</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1536181926293282817">

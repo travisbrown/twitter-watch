@@ -57,7 +57,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Pissed_Penguin2">Pissed_Penguin2</a>
             </td>
             <td align="center"></td>
-            <td>486</td>
+            <td>494</td>
             <td>2538</td>
         </tr>
         <tr>
@@ -950,7 +950,7 @@ Found 706 suspensions for untracked accounts.
             <td>2017-01-29</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>4404</td>
+            <td>4420</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1405335394519076866">
@@ -1361,14 +1361,14 @@ Found 706 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=100150564">
-                <img src="https://pbs.twimg.com/profile_images/1587683818546266113/OptAyjXX_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1591278151040114693/EMgaS1os_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Flpwrldupsdwn">Flpwrldupsdwn</a></td>
             <td>2009-12-29</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2464</td>
+            <td>2472</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=970039617448792066">
@@ -2039,7 +2039,7 @@ Found 706 suspensions for untracked accounts.
             <td>2021-02-05</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>1413</td>
+            <td>1412</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1490853086566490122">
