@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (58)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (161)](#untracked-suspensions)
+* [Untracked suspensions (162)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -724,8 +724,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 2424 suspensions for untracked accounts.
-161 accounts have more than 1000 followers and are included here.
+Found 2429 suspensions for untracked accounts.
+162 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1451,6 +1451,17 @@ Found 2424 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3530</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1346458058248097793">
+                <img src="https://pbs.twimg.com/profile_images/1590250986236518401/dIgPl8I2_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SCreusois">SCreusois</a></td>
+            <td>2021-01-05</td>
+            <td></td>
+            <td align="center"></td>
+            <td>3443</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2348826486">
