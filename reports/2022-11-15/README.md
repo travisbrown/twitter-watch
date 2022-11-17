@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (32)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (172)](#untracked-suspensions)
+* [Untracked suspensions (174)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -412,8 +412,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 2170 suspensions for untracked accounts.
-172 accounts have more than 1000 followers and are included here.
+Found 2174 suspensions for untracked accounts.
+174 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -787,6 +787,17 @@ Found 2170 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>10107</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1292402466705879040">
+                <img src="https://pbs.twimg.com/profile_images/1298023737527275520/gV0ZRJg6_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AbbasPresidant">AbbasPresidant</a></td>
+            <td>2020-08-09</td>
+            <td></td>
+            <td align="center"></td>
+            <td>8872</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=901496919834464256">
@@ -2162,6 +2173,17 @@ Found 2170 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1103</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1515402907750912001">
+                <img src="https://pbs.twimg.com/profile_images/1559560359584972800/D-7H8eLr_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/breezybetter07">breezybetter07</a></td>
+            <td>2022-04-16</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1102</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=492953908">
