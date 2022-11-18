@@ -30,7 +30,7 @@ Found 4 suspensions for tracked accounts.
             <td>2018-10-08</td>
             <td></td>
             <td align="center"></td>
-            <td>903</td>
+            <td>900</td>
             <td>2809</td>
         </tr>
         <tr>
@@ -536,7 +536,7 @@ Found 1373 suspensions for untracked accounts.
             <td>2015-11-09</td>
             <td></td>
             <td align="center"></td>
-            <td>103839</td>
+            <td>103778</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1147761972978393088">
@@ -547,7 +547,7 @@ Found 1373 suspensions for untracked accounts.
             <td>2019-07-07</td>
             <td></td>
             <td align="center"></td>
-            <td>94821</td>
+            <td>95920</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2803662636">
@@ -569,7 +569,7 @@ Found 1373 suspensions for untracked accounts.
             <td>2009-10-15</td>
             <td></td>
             <td align="center"></td>
-            <td>50963</td>
+            <td>50939</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1223520061920440321">
@@ -1097,7 +1097,7 @@ Found 1373 suspensions for untracked accounts.
             <td>2021-10-25</td>
             <td></td>
             <td align="center"></td>
-            <td>3681</td>
+            <td>3695</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2233506385">
@@ -1152,7 +1152,7 @@ Found 1373 suspensions for untracked accounts.
             <td>2021-10-02</td>
             <td></td>
             <td align="center"></td>
-            <td>3247</td>
+            <td>3238</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1268927472931934214">
@@ -1317,7 +1317,7 @@ Found 1373 suspensions for untracked accounts.
             <td>2021-03-08</td>
             <td></td>
             <td align="center"></td>
-            <td>2410</td>
+            <td>2413</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1282404570778476555">
@@ -1881,17 +1881,6 @@ Found 1373 suspensions for untracked accounts.
             <td>1334</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=876436089694674945">
-                <img src="https://pbs.twimg.com/profile_images/1512311755292254211/g4zOUqhc_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/GeneralYaheem">GeneralYaheem</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/876436089694674945">2 others</a>)&nbsp;</td>
-            <td>2017-06-18</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1328</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1509209425818624010">
                 <img src="https://pbs.twimg.com/profile_images/1575070263443685376/h1jNQ9Ib_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1901,6 +1890,17 @@ Found 1373 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1328</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=876436089694674945">
+                <img src="https://pbs.twimg.com/profile_images/1512311755292254211/g4zOUqhc_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/GeneralYaheem">GeneralYaheem</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/876436089694674945">2 others</a>)&nbsp;</td>
+            <td>2017-06-18</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1320</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1268352029832994816">

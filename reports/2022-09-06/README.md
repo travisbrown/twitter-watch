@@ -71,14 +71,14 @@ Found 5 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1424325918068199428">
-                <img src="https://pbs.twimg.com/profile_images/1582443951377813504/p513eDzd_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1591422900900450305/NaJv9qK9_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Burch12Tommy">Burch12Tommy</a></td>
             <td>2021-08-08</td>
             <td></td>
             <td align="center"></td>
-            <td>1710</td>
+            <td>1722</td>
             <td>90364</td>
         </tr></table>
 
@@ -510,7 +510,7 @@ Found 374 suspensions for untracked accounts.
             <td>2011-02-21</td>
             <td></td>
             <td align="center"></td>
-            <td>8443</td>
+            <td>8442</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1380293058982420481">
@@ -576,7 +576,7 @@ Found 374 suspensions for untracked accounts.
             <td>2009-04-05</td>
             <td></td>
             <td align="center"></td>
-            <td>3327</td>
+            <td>3322</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=119390045">
@@ -598,7 +598,7 @@ Found 374 suspensions for untracked accounts.
             <td>2013-03-19</td>
             <td></td>
             <td align="center"></td>
-            <td>2729</td>
+            <td>2738</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1351219096881405954">
@@ -906,7 +906,7 @@ Found 374 suspensions for untracked accounts.
             <td>2020-07-07</td>
             <td></td>
             <td align="center"></td>
-            <td>1158</td>
+            <td>1167</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3630869598">

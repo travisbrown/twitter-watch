@@ -299,14 +299,14 @@ Found 31 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518027433336737792">
-                <img src="https://pbs.twimg.com/profile_images/1591540585227161600/WsFViJ6H_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1592408966889230336/CDaA9j_6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/RealDante12">RealDante12</a></td>
             <td>2022-04-24</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>42657</td>
+            <td>43125</td>
             <td>13526</td>
         </tr>
         <tr>
@@ -354,7 +354,7 @@ Found 31 suspensions for tracked accounts.
             <td>2011-10-19</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>7837</td>
+            <td>7868</td>
             <td>45172</td>
         </tr>
         <tr>
@@ -378,7 +378,7 @@ Found 31 suspensions for tracked accounts.
             <td>2021-06-05</td>
             <td></td>
             <td align="center"></td>
-            <td>442</td>
+            <td>446</td>
             <td>79590</td>
         </tr>
         <tr>
@@ -1323,7 +1323,7 @@ Found 1456 suspensions for untracked accounts.
             <td>2019-06-26</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>11843</td>
+            <td>11821</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=955961020983345152">
@@ -1950,7 +1950,7 @@ Found 1456 suspensions for untracked accounts.
             <td>2021-02-14</td>
             <td>2022-08-10</td>
             <td align="center">🔒</td>
-            <td>1409</td>
+            <td>1411</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=941331735404478465">

@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2020-06-09</td>
             <td>2022-05-06</td>
             <td align="center">🔒</td>
-            <td>3536</td>
+            <td>3537</td>
             <td>85614</td>
         </tr></table>
 
@@ -802,7 +802,7 @@ Found 843 suspensions for untracked accounts.
             <td>2010-04-20</td>
             <td></td>
             <td align="center"></td>
-            <td>11006</td>
+            <td>11065</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=567349056">
@@ -1110,7 +1110,7 @@ Found 843 suspensions for untracked accounts.
             <td>2021-02-15</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>2332</td>
+            <td>2337</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1334914523493519360">
@@ -1177,17 +1177,6 @@ Found 843 suspensions for untracked accounts.
             <td></td>
             <td align="center">🔒</td>
             <td>2061</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1070142538642669569">
-                <img src="https://pbs.twimg.com/profile_images/1323043593389445120/Sbk2dLb5_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MarthaG55793508">MarthaG55793508</a></td>
-            <td>2018-12-05</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2048</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1422310812551634948">
@@ -1353,6 +1342,17 @@ Found 843 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1652</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1070142538642669569">
+                <img src="https://pbs.twimg.com/profile_images/1323043593389445120/Sbk2dLb5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MarthaG55793508">MarthaG55793508</a></td>
+            <td>2018-12-05</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1626</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1235574921604055040">

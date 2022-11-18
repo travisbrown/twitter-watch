@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2022-02-14</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>141</td>
+            <td>146</td>
             <td>44635</td>
         </tr></table>
 
@@ -1076,6 +1076,17 @@ Found 601 suspensions for untracked accounts.
             <td>4445</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1518693122166898688">
+                <img src="https://pbs.twimg.com/profile_images/1518914758572920832/MSDqbHvy_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/prpcountry">prpcountry</a></td>
+            <td>2022-04-25</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>4154</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=412840212">
                 <img src="https://pbs.twimg.com/profile_images/1154576409718861824/3CVlGLiE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1087,17 +1098,6 @@ Found 601 suspensions for untracked accounts.
             <td>4146</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1518693122166898688">
-                <img src="https://pbs.twimg.com/profile_images/1518914758572920832/MSDqbHvy_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/prpcountry">prpcountry</a></td>
-            <td>2022-04-25</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>4083</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=111927159">
                 <img src="https://pbs.twimg.com/profile_images/1506961882917257220/VzNV0eWz_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1106,7 +1106,7 @@ Found 601 suspensions for untracked accounts.
             <td>2010-02-06</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>3067</td>
+            <td>3074</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1227505008138166272">

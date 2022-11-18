@@ -174,7 +174,7 @@ Found 16 suspensions for tracked accounts.
             <td>2017-06-08</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>154</td>
+            <td>153</td>
             <td>18703</td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ Found 16 suspensions for tracked accounts.
             <td>2017-05-03</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>462</td>
+            <td>465</td>
             <td>57197</td>
         </tr></table>
 
@@ -1532,7 +1532,7 @@ Found 1176 suspensions for untracked accounts.
             <td>2012-06-02</td>
             <td></td>
             <td align="center"></td>
-            <td>36493</td>
+            <td>36492</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1330687838636048385">
@@ -1602,14 +1602,14 @@ Found 1176 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=552739663">
-                <img src="https://pbs.twimg.com/profile_images/1431478311444643844/WJtZNzf4_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1592024529312047104/-DLb6Ge9_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/WokePandemic">WokePandemic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/552739663">9 others</a>)&nbsp;</td>
             <td>2012-04-13</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>16189</td>
+            <td>16196</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1251835633590349829">
@@ -1767,14 +1767,14 @@ Found 1176 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=624264512">
-                <img src="https://pbs.twimg.com/profile_images/1588362179702579202/AM3XQVk-_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1591856202933309447/suEkBDUs_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/carobunga">carobunga</a></td>
             <td>2012-07-02</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>6879</td>
+            <td>6860</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=880257497554067456">
@@ -1840,7 +1840,7 @@ Found 1176 suspensions for untracked accounts.
             <td>2015-11-23</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>5721</td>
+            <td>5700</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1102754644214853636">
@@ -2038,7 +2038,7 @@ Found 1176 suspensions for untracked accounts.
             <td>2021-03-25</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>3259</td>
+            <td>3242</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=337347722">
@@ -2115,7 +2115,7 @@ Found 1176 suspensions for untracked accounts.
             <td>2009-12-05</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>2679</td>
+            <td>2676</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1425545074008547334">

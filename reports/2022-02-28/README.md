@@ -59,7 +59,7 @@ Found 5 suspensions for tracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1088435896335110146">
-                <img src="https://pbs.twimg.com/profile_images/1534630268283363332/1TcBS_iV_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1592114661998166022/Lh_4zAJL_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/BreezesCool">BreezesCool</a></td>
@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2010-02-26</td>
             <td>2022-02-28</td>
             <td align="center"></td>
-            <td>74006</td>
+            <td>73941</td>
             <td>80905</td>
         </tr></table>
 
@@ -916,17 +916,6 @@ Found 417 suspensions for untracked accounts.
             <td>2799</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=719012202636677120">
-                <img src="https://pbs.twimg.com/profile_images/1472658501214216194/jBtjGFi7_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ceplenski4">ceplenski4</a></td>
-            <td>2016-04-10</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2516</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1208358681131266048">
                 <img src="https://pbs.twimg.com/profile_images/1208363220798455808/Dbf1XHiC_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -947,6 +936,17 @@ Found 417 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2255</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=719012202636677120">
+                <img src="https://pbs.twimg.com/profile_images/1472658501214216194/jBtjGFi7_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ceplenski4">ceplenski4</a></td>
+            <td>2016-04-10</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2087</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1414689571099533316">
@@ -1023,7 +1023,7 @@ Found 417 suspensions for untracked accounts.
             <td>2012-02-23</td>
             <td></td>
             <td align="center"></td>
-            <td>1529</td>
+            <td>1526</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=353100574">

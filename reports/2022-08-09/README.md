@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-07-20</td>
             <td></td>
             <td align="center"></td>
-            <td>1391</td>
+            <td>1398</td>
             <td>25691</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2014-05-31</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>181</td>
+            <td>180</td>
             <td>84427</td>
         </tr></table>
 
@@ -718,7 +718,7 @@ Found 391 suspensions for untracked accounts.
             <td>2012-12-30</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>22839</td>
+            <td>22834</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=268052347">
@@ -1106,6 +1106,17 @@ Found 391 suspensions for untracked accounts.
             <td>2174</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1315316319093481472">
+                <img src="https://pbs.twimg.com/profile_images/1315316627949395968/9u2Iz1cx_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AngloAlliance">AngloAlliance</a></td>
+            <td>2020-10-11</td>
+            <td>2022-09-05</td>
+            <td align="center"></td>
+            <td>2098</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1552694490267369473">
                 <img src="https://pbs.twimg.com/profile_images/1553160475784974340/SQQroA6N_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1115,17 +1126,6 @@ Found 391 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2097</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1315316319093481472">
-                <img src="https://pbs.twimg.com/profile_images/1315316627949395968/9u2Iz1cx_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AngloAlliance">AngloAlliance</a></td>
-            <td>2020-10-11</td>
-            <td>2022-09-05</td>
-            <td align="center"></td>
-            <td>2089</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3121769263">

@@ -114,7 +114,7 @@ Found 10 suspensions for tracked accounts.
             <td>2018-01-24</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>9611</td>
+            <td>9614</td>
             <td>18706</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 10 suspensions for tracked accounts.
             <td>2011-02-04</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1534</td>
+            <td>1542</td>
             <td>86880</td>
         </tr>
         <tr>
@@ -996,7 +996,7 @@ Found 1302 suspensions for untracked accounts.
             <td>2010-03-09</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>14102</td>
+            <td>14127</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1497017105945870336">
@@ -1810,7 +1810,7 @@ Found 1302 suspensions for untracked accounts.
             <td>2022-04-19</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1285</td>
+            <td>1284</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1081508853735411712">
@@ -1879,6 +1879,17 @@ Found 1302 suspensions for untracked accounts.
             <td>1201</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1507895623751991298">
+                <img src="https://pbs.twimg.com/profile_images/1529409268705009664/RCpJD1LS_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MissJacque_line">MissJacque_line</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1507895623751991298">1 other</a>)&nbsp;</td>
+            <td>2022-03-27</td>
+            <td>2022-06-27</td>
+            <td align="center"></td>
+            <td>1155</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1508542086706081805">
                 <img src="https://pbs.twimg.com/profile_images/1508545750397038608/wpR9FVcL_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1943,17 +1954,6 @@ Found 1302 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1096</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1507895623751991298">
-                <img src="https://pbs.twimg.com/profile_images/1529409268705009664/RCpJD1LS_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MissJacque_line">MissJacque_line</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1507895623751991298">1 other</a>)&nbsp;</td>
-            <td>2022-03-27</td>
-            <td>2022-06-27</td>
-            <td align="center"></td>
-            <td>1085</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1266007549716856832">

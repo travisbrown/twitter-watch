@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2009-03-03</td>
             <td></td>
             <td align="center"></td>
-            <td>669</td>
+            <td>675</td>
             <td>8971</td>
         </tr>
         <tr>
@@ -807,7 +807,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2007-07-04</td>
             <td></td>
             <td align="center"></td>
-            <td>5011</td>
+            <td>5007</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1424234692782399489">
@@ -994,7 +994,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2009-03-21</td>
             <td></td>
             <td align="center"></td>
-            <td>2274</td>
+            <td>2275</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=538720257">
@@ -1005,7 +1005,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2012-03-28</td>
             <td></td>
             <td align="center"></td>
-            <td>2248</td>
+            <td>2251</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=13132832">
@@ -1379,7 +1379,18 @@ Found 1359 suspensions for untracked accounts.
             <td>2021-09-04</td>
             <td></td>
             <td align="center"></td>
-            <td>1225</td>
+            <td>1226</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1003529193454436352">
+                <img src="https://pbs.twimg.com/profile_images/1476546782188519429/VANr-wB4_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mzabalazobatho2">mzabalazobatho2</a></td>
+            <td>2018-06-04</td>
+            <td>2022-07-07</td>
+            <td align="center"></td>
+            <td>1220</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1410006218144374788">
@@ -1391,17 +1402,6 @@ Found 1359 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1215</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1003529193454436352">
-                <img src="https://pbs.twimg.com/profile_images/1476546782188519429/VANr-wB4_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mzabalazobatho2">mzabalazobatho2</a></td>
-            <td>2018-06-04</td>
-            <td>2022-07-07</td>
-            <td align="center"></td>
-            <td>1213</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1289550500547960832">

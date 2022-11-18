@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-04-02</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>38349</td>
+            <td>39271</td>
             <td>18040</td>
         </tr>
         <tr>
@@ -1032,7 +1032,7 @@ Found 749 suspensions for untracked accounts.
             <td>2010-07-08</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>3664</td>
+            <td>3669</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1439363770883657728">
@@ -1219,7 +1219,7 @@ Found 749 suspensions for untracked accounts.
             <td>2015-04-26</td>
             <td></td>
             <td align="center"></td>
-            <td>2280</td>
+            <td>2286</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1305959665176645633">
@@ -1252,7 +1252,7 @@ Found 749 suspensions for untracked accounts.
             <td>2009-04-16</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1932</td>
+            <td>1934</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1437694170508955650">
@@ -1409,6 +1409,17 @@ Found 749 suspensions for untracked accounts.
             <td>1332</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1216765410785353731">
+                <img src="https://pbs.twimg.com/profile_images/1216765655191560194/1u8KDOky_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/RandyJoeWalter1">RandyJoeWalter1</a></td>
+            <td>2020-01-13</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1316</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=271481422">
                 <img src="https://pbs.twimg.com/profile_images/1507805942108282887/f8HHt5E2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1418,17 +1429,6 @@ Found 749 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1310</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1216765410785353731">
-                <img src="https://pbs.twimg.com/profile_images/1216765655191560194/1u8KDOky_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/RandyJoeWalter1">RandyJoeWalter1</a></td>
-            <td>2020-01-13</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1308</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1405391733517656064">
@@ -1560,7 +1560,7 @@ Found 749 suspensions for untracked accounts.
             <td>2021-01-23</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1089</td>
+            <td>1093</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1327188433022963714">
@@ -1593,7 +1593,7 @@ Found 749 suspensions for untracked accounts.
             <td>2013-04-20</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1072</td>
+            <td>1074</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1364624174971559937">

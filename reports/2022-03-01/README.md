@@ -437,7 +437,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 632 suspensions for untracked accounts.
+Found 633 suspensions for untracked accounts.
 71 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -525,7 +525,7 @@ Found 632 suspensions for untracked accounts.
             <td>2018-10-26</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>8612</td>
+            <td>8618</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=88303644">
@@ -602,7 +602,7 @@ Found 632 suspensions for untracked accounts.
             <td>2021-10-15</td>
             <td>2022-03-19</td>
             <td align="center"></td>
-            <td>4046</td>
+            <td>4056</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1174578015411560450">
@@ -881,14 +881,14 @@ Found 632 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1460278096808984577">
-                <img src="https://pbs.twimg.com/profile_images/1591423242203381760/o_gv8wnJ_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1592263075062636545/nLr4YOaq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/jusalilADHD">jusalilADHD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1460278096808984577">1 other</a>)&nbsp;</td>
             <td>2021-11-15</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>1822</td>
+            <td>1825</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1696981920">
@@ -1218,7 +1218,7 @@ Found 632 suspensions for untracked accounts.
             <td>2008-09-15</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>1043</td>
+            <td>1046</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=174125678">

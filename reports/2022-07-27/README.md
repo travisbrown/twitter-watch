@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2019-02-24</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>302</td>
+            <td>305</td>
             <td>75184</td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2021-02-18</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>2111</td>
+            <td>2123</td>
             <td>88206</td>
         </tr></table>
 
@@ -652,7 +652,7 @@ Found 2116 suspensions for untracked accounts.
             <td>2017-09-05</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>532284</td>
+            <td>535189</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518834592563695616">
@@ -751,7 +751,7 @@ Found 2116 suspensions for untracked accounts.
             <td>2014-03-14</td>
             <td></td>
             <td align="center"></td>
-            <td>194782</td>
+            <td>194731</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1464519468470648833">
@@ -1092,7 +1092,7 @@ Found 2116 suspensions for untracked accounts.
             <td>2010-02-20</td>
             <td>2022-08-21</td>
             <td align="center"></td>
-            <td>50389</td>
+            <td>50384</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=730381663">
@@ -1224,7 +1224,7 @@ Found 2116 suspensions for untracked accounts.
             <td>2021-02-12</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>35653</td>
+            <td>35903</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1528578338998321152">
@@ -1598,7 +1598,7 @@ Found 2116 suspensions for untracked accounts.
             <td>2014-01-31</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>13553</td>
+            <td>13546</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=834085310418006016">
@@ -1961,7 +1961,7 @@ Found 2116 suspensions for untracked accounts.
             <td>2019-09-12</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>7433</td>
+            <td>7429</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1510504126089629697">
@@ -2533,7 +2533,7 @@ Found 2116 suspensions for untracked accounts.
             <td>2011-05-16</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>3267</td>
+            <td>3275</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1260573224842256386">
@@ -3075,17 +3075,6 @@ Found 2116 suspensions for untracked accounts.
             <td>1912</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1254863431389163520">
-                <img src="https://pbs.twimg.com/profile_images/1516807493124759556/KU2QYC7N_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/coinmeric">coinmeric</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1254863431389163520">2 others</a>)&nbsp;</td>
-            <td>2020-04-27</td>
-            <td>2022-07-28</td>
-            <td align="center"></td>
-            <td>1896</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1459076760650367050">
                 <img src="https://pbs.twimg.com/profile_images/1459083316410425347/qpTB3GU6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3104,6 +3093,17 @@ Found 2116 suspensions for untracked accounts.
                 <a href="https://twitter.com/budgetpetcare">budgetpetcare</a></td>
             <td>2010-04-26</td>
             <td></td>
+            <td align="center"></td>
+            <td>1888</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1254863431389163520">
+                <img src="https://pbs.twimg.com/profile_images/1516807493124759556/KU2QYC7N_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/coinmeric">coinmeric</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1254863431389163520">2 others</a>)&nbsp;</td>
+            <td>2020-04-27</td>
+            <td>2022-07-28</td>
             <td align="center"></td>
             <td>1888</td>
         </tr>
@@ -3405,6 +3405,17 @@ Found 2116 suspensions for untracked accounts.
             <td>1574</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1271585747469033473">
+                <img src="https://pbs.twimg.com/profile_images/1516673262876606465/qzYQ-YE7_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Allsportztv">Allsportztv</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1271585747469033473">2 others</a>)&nbsp;</td>
+            <td>2020-06-12</td>
+            <td>2022-08-02</td>
+            <td align="center"></td>
+            <td>1568</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=271827867">
                 <img src="https://pbs.twimg.com/profile_images/1075480263248003072/o1Y87bi7_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3469,17 +3480,6 @@ Found 2116 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1521</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1271585747469033473">
-                <img src="https://pbs.twimg.com/profile_images/1516673262876606465/qzYQ-YE7_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Allsportztv">Allsportztv</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1271585747469033473">2 others</a>)&nbsp;</td>
-            <td>2020-06-12</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>1518</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1499192858">
@@ -3812,17 +3812,6 @@ Found 2116 suspensions for untracked accounts.
             <td>1201</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1405701220648603649">
-                <img src="https://pbs.twimg.com/profile_images/1405985730011226114/p131AoJU_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SmashAndGet">SmashAndGet</a></td>
-            <td>2021-06-18</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1191</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1252703496467623938">
                 <img src="https://pbs.twimg.com/profile_images/1531017292028465152/BKlDu-yY_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3986,6 +3975,17 @@ Found 2116 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1097</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1405701220648603649">
+                <img src="https://pbs.twimg.com/profile_images/1405985730011226114/p131AoJU_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SmashAndGet">SmashAndGet</a></td>
+            <td>2021-06-18</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1092</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1510152956204650497">

@@ -1389,7 +1389,7 @@ Found 3435 suspensions for untracked accounts.
             <td>2019-11-02</td>
             <td></td>
             <td align="center"></td>
-            <td>16386</td>
+            <td>16388</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1302551253139025921">
@@ -1456,6 +1456,17 @@ Found 3435 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>13754</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1578928538358493184">
+                <img src="https://pbs.twimg.com/profile_images/1591153375919411212/-jMAneYx_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Rampage95_SGTG">Rampage95_SGTG</a></td>
+            <td>2022-10-09</td>
+            <td></td>
+            <td align="center"></td>
+            <td>13499</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1463392782991519744">
@@ -1533,17 +1544,6 @@ Found 3435 suspensions for untracked accounts.
             <td></td>
             <td align="center">✔️</td>
             <td>11707</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1578928538358493184">
-                <img src="https://pbs.twimg.com/profile_images/1591153375919411212/-jMAneYx_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Rampage95_SGTG">Rampage95_SGTG</a></td>
-            <td>2022-10-09</td>
-            <td></td>
-            <td align="center"></td>
-            <td>11689</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=321962348">

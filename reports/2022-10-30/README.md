@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (377)](#tracked-suspensions)
 * [Tracked screen name changes (57)](#tracked-screen-name-changes)
-* [Untracked suspensions (240)](#untracked-suspensions)
+* [Untracked suspensions (241)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -2526,7 +2526,7 @@ Found 377 suspensions for tracked accounts.
             <td>2021-11-05</td>
             <td></td>
             <td align="center"></td>
-            <td>1200</td>
+            <td>1601</td>
             <td>35460</td>
         </tr>
         <tr>
@@ -4314,7 +4314,7 @@ Found 377 suspensions for tracked accounts.
             <td>2021-11-05</td>
             <td></td>
             <td align="center"></td>
-            <td>395</td>
+            <td>392</td>
             <td>91665</td>
         </tr>
         <tr>
@@ -5304,8 +5304,8 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 3196 suspensions for untracked accounts.
-240 accounts have more than 1000 followers and are included here.
+Found 3197 suspensions for untracked accounts.
+241 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -5942,7 +5942,7 @@ Found 3196 suspensions for untracked accounts.
             <td>2015-10-29</td>
             <td></td>
             <td align="center"></td>
-            <td>6865</td>
+            <td>6861</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=951840491972149248">
@@ -7417,6 +7417,17 @@ Found 3196 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1268</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=14839975">
+                <img src="https://pbs.twimg.com/profile_images/642538055254061057/JMYqQ8C__normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/jproberts58">jproberts58</a></td>
+            <td>2008-05-20</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1260</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1432587094384418816">

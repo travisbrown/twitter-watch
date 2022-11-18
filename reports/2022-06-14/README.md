@@ -827,7 +827,7 @@ Found 1150 suspensions for untracked accounts.
             <td>2021-08-16</td>
             <td></td>
             <td align="center"></td>
-            <td>2802</td>
+            <td>2795</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1419320615211778050">
@@ -915,7 +915,7 @@ Found 1150 suspensions for untracked accounts.
             <td>2008-12-04</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1806</td>
+            <td>1804</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1244270490409197569">
@@ -962,6 +962,17 @@ Found 1150 suspensions for untracked accounts.
             <td>1601</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1514427048210673667">
+                <img src="https://pbs.twimg.com/profile_images/1523320646431879169/P9sww70v_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JonezMordecai">JonezMordecai</a></td>
+            <td>2022-04-14</td>
+            <td>2022-06-20</td>
+            <td align="center"></td>
+            <td>1531</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=20639333">
                 <img src="https://pbs.twimg.com/profile_images/1524533914076782592/aq0jecVS_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -971,17 +982,6 @@ Found 1150 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1517</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1514427048210673667">
-                <img src="https://pbs.twimg.com/profile_images/1523320646431879169/P9sww70v_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/JonezMordecai">JonezMordecai</a></td>
-            <td>2022-04-14</td>
-            <td>2022-06-20</td>
-            <td align="center"></td>
-            <td>1511</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1501200455967330305">

@@ -90,7 +90,7 @@ Found 6 suspensions for tracked accounts.
             <td>2012-11-02</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>207</td>
+            <td>209</td>
             <td>79778</td>
         </tr></table>
 
@@ -1067,7 +1067,7 @@ Found 997 suspensions for untracked accounts.
             <td>2019-03-01</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>4346</td>
+            <td>4340</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=531957372">
@@ -1408,7 +1408,7 @@ Found 997 suspensions for untracked accounts.
             <td>2021-08-20</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>2417</td>
+            <td>2413</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518690813710114824">
@@ -1782,7 +1782,7 @@ Found 997 suspensions for untracked accounts.
             <td>2017-10-20</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1468</td>
+            <td>1475</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1492233721667272705">
@@ -1939,17 +1939,6 @@ Found 997 suspensions for untracked accounts.
             <td>1259</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1513704559">
-                <img src="https://pbs.twimg.com/profile_images/757121811888820224/0arZ-y2f_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/badordeen">badordeen</a></td>
-            <td>2013-06-13</td>
-            <td>2022-08-15</td>
-            <td align="center"></td>
-            <td>1259</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1852990742">
                 <img src="https://pbs.twimg.com/profile_images/378800000441073473/7530dd7ae53a7e4a696590e4ed0ec301_normal.jpeg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1959,6 +1948,17 @@ Found 997 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1259</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1513704559">
+                <img src="https://pbs.twimg.com/profile_images/757121811888820224/0arZ-y2f_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/badordeen">badordeen</a></td>
+            <td>2013-06-13</td>
+            <td>2022-08-15</td>
+            <td align="center"></td>
+            <td>1257</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1471005448589307904">

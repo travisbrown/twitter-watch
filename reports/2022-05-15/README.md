@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2022-04-26</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>2048</td>
+            <td>2104</td>
             <td>60887</td>
         </tr></table>
 
@@ -467,7 +467,7 @@ Found 486 suspensions for untracked accounts.
             <td>2017-09-17</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4155</td>
+            <td>4154</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=386727814">
@@ -478,7 +478,7 @@ Found 486 suspensions for untracked accounts.
             <td>2011-10-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4108</td>
+            <td>4107</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=711496274692935680">
@@ -500,7 +500,7 @@ Found 486 suspensions for untracked accounts.
             <td>2021-08-14</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3706</td>
+            <td>3748</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2290031143">
@@ -566,7 +566,7 @@ Found 486 suspensions for untracked accounts.
             <td>2013-09-25</td>
             <td></td>
             <td align="center"></td>
-            <td>2854</td>
+            <td>2871</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1008930049">
@@ -822,23 +822,23 @@ Found 486 suspensions for untracked accounts.
             <td>1378</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1637927682">
-                <img src="https://pbs.twimg.com/profile_images/1433884284922826765/50vriAyi_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/every1wearamask">every1wearamask</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1637927682">2 others</a>)&nbsp;</td>
-            <td>2013-08-01</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1358</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1419830426873614338">
                 <img src="https://pbs.twimg.com/profile_images/1571885141873623040/_J6B8YzZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/heritages_India">heritages_India</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419830426873614338">3 others</a>)&nbsp;</td>
             <td>2021-07-27</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1370</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1637927682">
+                <img src="https://pbs.twimg.com/profile_images/1433884284922826765/50vriAyi_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/every1wearamask">every1wearamask</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1637927682">2 others</a>)&nbsp;</td>
+            <td>2013-08-01</td>
             <td></td>
             <td align="center"></td>
             <td>1358</td>

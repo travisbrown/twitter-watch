@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2013-06-05</td>
             <td>2022-03-26</td>
             <td align="center"></td>
-            <td>72181</td>
+            <td>72145</td>
             <td>24753</td>
         </tr></table>
 
@@ -752,7 +752,7 @@ Found 853 suspensions for untracked accounts.
             <td>2011-04-29</td>
             <td>2022-03-29</td>
             <td align="center"></td>
-            <td>32769</td>
+            <td>32752</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=109311649">
@@ -884,7 +884,7 @@ Found 853 suspensions for untracked accounts.
             <td>2017-03-29</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>19103</td>
+            <td>19094</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=210562612">
@@ -1646,6 +1646,17 @@ Found 853 suspensions for untracked accounts.
             <td>1278</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=417567303">
+                <img src="https://pbs.twimg.com/profile_images/628306646305878016/dx226R7b_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TonyReed_">TonyReed_</a></td>
+            <td>2011-11-21</td>
+            <td>2022-05-02</td>
+            <td align="center"></td>
+            <td>1275</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4889244833">
                 <img src="https://pbs.twimg.com/profile_images/1131039366510501889/bNlqfaEM_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1655,17 +1666,6 @@ Found 853 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1264</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=417567303">
-                <img src="https://pbs.twimg.com/profile_images/628306646305878016/dx226R7b_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/TonyReed_">TonyReed_</a></td>
-            <td>2011-11-21</td>
-            <td>2022-05-02</td>
-            <td align="center"></td>
-            <td>1260</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1410701618975236103">
@@ -1786,7 +1786,7 @@ Found 853 suspensions for untracked accounts.
             <td>2016-12-10</td>
             <td>2022-03-26</td>
             <td align="center"></td>
-            <td>1052</td>
+            <td>1048</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1457875075009589248">

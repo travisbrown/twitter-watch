@@ -196,7 +196,7 @@ Found 708 suspensions for untracked accounts.
             <td>2014-03-19</td>
             <td></td>
             <td align="center"></td>
-            <td>26899</td>
+            <td>27323</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1460315796681510914">
@@ -207,7 +207,7 @@ Found 708 suspensions for untracked accounts.
             <td>2021-11-15</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>14374</td>
+            <td>14391</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3975091879">
@@ -342,6 +342,17 @@ Found 708 suspensions for untracked accounts.
             <td>4035</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=92643660">
+                <img src="https://pbs.twimg.com/profile_images/1327951243818520578/e2T_R2Ul_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FranMFarber">FranMFarber</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/92643660">1 other</a>)&nbsp;</td>
+            <td>2009-11-26</td>
+            <td>2022-04-15</td>
+            <td align="center"></td>
+            <td>3803</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=305948381">
                 <img src="https://pbs.twimg.com/profile_images/1484330317200900100/qnARoTqU_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -351,17 +362,6 @@ Found 708 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3795</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=92643660">
-                <img src="https://pbs.twimg.com/profile_images/1327951243818520578/e2T_R2Ul_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FranMFarber">FranMFarber</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/92643660">1 other</a>)&nbsp;</td>
-            <td>2009-11-26</td>
-            <td>2022-04-15</td>
-            <td align="center"></td>
-            <td>3790</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1088725733789323264">

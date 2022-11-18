@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (31)](#tracked-suspensions)
 * [Tracked screen name changes (4)](#tracked-screen-name-changes)
-* [Untracked suspensions (79)](#untracked-suspensions)
+* [Untracked suspensions (78)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -464,7 +464,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
 ### Untracked suspensions
 
 Found 812 suspensions for untracked accounts.
-79 accounts have more than 1000 followers and are included here.
+78 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -507,7 +507,7 @@ Found 812 suspensions for untracked accounts.
             <td>2016-12-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>66994</td>
+            <td>66990</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1513320454815109130">
@@ -774,17 +774,6 @@ Found 812 suspensions for untracked accounts.
             <td>4325</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1268917019929382916">
-                <img src="https://pbs.twimg.com/profile_images/1538612515092971521/YtjZNYiW_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/QueTeFollowen">QueTeFollowen</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1268917019929382916">1 other</a>)&nbsp;</td>
-            <td>2020-06-05</td>
-            <td>2022-06-20</td>
-            <td align="center"></td>
-            <td>4261</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=591572161">
                 <img src="https://pbs.twimg.com/profile_images/1527018398483464193/Q6rhJUHp_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -794,6 +783,17 @@ Found 812 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>4256</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1268917019929382916">
+                <img src="https://pbs.twimg.com/profile_images/1538612515092971521/YtjZNYiW_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/QueTeFollowen">QueTeFollowen</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1268917019929382916">1 other</a>)&nbsp;</td>
+            <td>2020-06-05</td>
+            <td>2022-06-20</td>
+            <td align="center"></td>
+            <td>4255</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=617171715">
@@ -881,7 +881,7 @@ Found 812 suspensions for untracked accounts.
             <td>2015-01-03</td>
             <td></td>
             <td align="center"></td>
-            <td>3314</td>
+            <td>3320</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1517259455418671104">
@@ -958,7 +958,7 @@ Found 812 suspensions for untracked accounts.
             <td>2016-11-12</td>
             <td></td>
             <td align="center"></td>
-            <td>2880</td>
+            <td>2933</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=903637207">
@@ -1300,17 +1300,6 @@ Found 812 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1226</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1447308321585868800">
-                <img src="https://pbs.twimg.com/profile_images/1447706215056822274/8nNRvrSh_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/NoHumZone">NoHumZone</a></td>
-            <td>2021-10-10</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1101</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1478278537169809409">

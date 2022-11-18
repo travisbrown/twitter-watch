@@ -30,7 +30,7 @@ Found 6 suspensions for tracked accounts.
             <td>2022-01-22</td>
             <td></td>
             <td align="center"></td>
-            <td>2303</td>
+            <td>2307</td>
             <td>1212</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 6 suspensions for tracked accounts.
             <td>2022-09-02</td>
             <td></td>
             <td align="center"></td>
-            <td>486</td>
+            <td>536</td>
             <td>3832</td>
         </tr></table>
 
@@ -745,7 +745,7 @@ Found 1543 suspensions for untracked accounts.
             <td>2021-03-29</td>
             <td></td>
             <td align="center"></td>
-            <td>14049</td>
+            <td>14073</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1377138561745444870">
@@ -1078,6 +1078,17 @@ Found 1543 suspensions for untracked accounts.
             <td>5733</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=714883555860426752">
+                <img src="https://pbs.twimg.com/profile_images/1589757322947092487/oGCoYlau_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/cryptocoinrun">cryptocoinrun</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/714883555860426752">2 others</a>)&nbsp;</td>
+            <td>2016-03-29</td>
+            <td></td>
+            <td align="center"></td>
+            <td>5712</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2996955246">
                 <img src="https://pbs.twimg.com/profile_images/1578412787851722753/5bi0kEFR_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1098,17 +1109,6 @@ Found 1543 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>5511</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=714883555860426752">
-                <img src="https://pbs.twimg.com/profile_images/1589757322947092487/oGCoYlau_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/cryptocoinrun">cryptocoinrun</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/714883555860426752">2 others</a>)&nbsp;</td>
-            <td>2016-03-29</td>
-            <td></td>
-            <td align="center"></td>
-            <td>5498</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1023956593912762369">
@@ -1207,7 +1207,7 @@ Found 1543 suspensions for untracked accounts.
             <td>2020-06-11</td>
             <td></td>
             <td align="center"></td>
-            <td>3965</td>
+            <td>3988</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1553832893046300679">
@@ -1804,6 +1804,17 @@ Found 1543 suspensions for untracked accounts.
             <td>1483</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1438783687764725763">
+                <img src="https://pbs.twimg.com/profile_images/1482458957755125762/KN87LxPu_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/VonSieghelm">VonSieghelm</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1438783687764725763">1 other</a>)&nbsp;</td>
+            <td>2021-09-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1473</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1351503480595247107">
                 <img src="https://pbs.twimg.com/profile_images/1578841787061264386/5fqCvupD_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1813,17 +1824,6 @@ Found 1543 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1468</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1438783687764725763">
-                <img src="https://pbs.twimg.com/profile_images/1482458957755125762/KN87LxPu_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/VonSieghelm">VonSieghelm</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1438783687764725763">1 other</a>)&nbsp;</td>
-            <td>2021-09-17</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1453</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1479258740171886595">

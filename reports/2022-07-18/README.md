@@ -138,7 +138,7 @@ Found 10 suspensions for tracked accounts.
             <td>2014-08-14</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>2970</td>
+            <td>2971</td>
             <td>58395</td>
         </tr></table>
 
@@ -1154,7 +1154,7 @@ Found 1406 suspensions for untracked accounts.
             <td>2018-09-09</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>247210</td>
+            <td>248294</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1326327227764649984">
@@ -1220,7 +1220,7 @@ Found 1406 suspensions for untracked accounts.
             <td>2022-02-05</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>64209</td>
+            <td>64172</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1470940589004787718">
@@ -1297,7 +1297,7 @@ Found 1406 suspensions for untracked accounts.
             <td>2012-01-18</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>25782</td>
+            <td>25776</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1246154609220939776">
@@ -1586,6 +1586,17 @@ Found 1406 suspensions for untracked accounts.
             <td>8480</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=95153908">
+                <img src="https://pbs.twimg.com/profile_images/1592245475570339841/JRK_7ITM_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/RAGINxCAJUN">RAGINxCAJUN</a></td>
+            <td>2009-12-07</td>
+            <td>2022-07-23</td>
+            <td align="center"></td>
+            <td>8064</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1252156552817061888">
                 <img src="https://pbs.twimg.com/profile_images/1484080515602952198/xldD9HLP_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1595,17 +1606,6 @@ Found 1406 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>8001</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=95153908">
-                <img src="https://pbs.twimg.com/profile_images/1588585204511293440/ZzBCA2To_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/RAGINxCAJUN">RAGINxCAJUN</a></td>
-            <td>2009-12-07</td>
-            <td>2022-07-23</td>
-            <td align="center"></td>
-            <td>7749</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1330418488675020800">
@@ -2320,7 +2320,7 @@ Found 1406 suspensions for untracked accounts.
             <td>2016-12-20</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>2451</td>
+            <td>2467</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=76868379">
@@ -2375,7 +2375,7 @@ Found 1406 suspensions for untracked accounts.
             <td>2021-09-12</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>2118</td>
+            <td>2119</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=730216910743293953">
@@ -2397,7 +2397,7 @@ Found 1406 suspensions for untracked accounts.
             <td>2019-12-22</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>2076</td>
+            <td>2080</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1248276456427282432">
@@ -2763,6 +2763,17 @@ Found 1406 suspensions for untracked accounts.
             <td>1538</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2300602831">
+                <img src="https://pbs.twimg.com/profile_images/426212983824334849/J9CqoEUu_normal.jpeg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BlackCatModel">BlackCatModel</a></td>
+            <td>2014-01-20</td>
+            <td>2022-07-23</td>
+            <td align="center"></td>
+            <td>1537</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1405827694051352577">
                 <img src="https://pbs.twimg.com/profile_images/1493938063814320133/gcBDLnXa_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2772,17 +2783,6 @@ Found 1406 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1536</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2300602831">
-                <img src="https://pbs.twimg.com/profile_images/426212983824334849/J9CqoEUu_normal.jpeg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/BlackCatModel">BlackCatModel</a></td>
-            <td>2014-01-20</td>
-            <td>2022-07-23</td>
-            <td align="center"></td>
-            <td>1535</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1494395688393875458">

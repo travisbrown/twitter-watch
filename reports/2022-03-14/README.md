@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-06-03</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>757</td>
+            <td>811</td>
             <td>32535</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2013-11-22</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>129</td>
+            <td>134</td>
             <td>88656</td>
         </tr></table>
 
@@ -777,7 +777,7 @@ Found 1205 suspensions for untracked accounts.
             <td>2020-06-16</td>
             <td>2022-03-29</td>
             <td align="center"></td>
-            <td>15833</td>
+            <td>16079</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1429791162769068033">
@@ -964,7 +964,7 @@ Found 1205 suspensions for untracked accounts.
             <td>2018-11-13</td>
             <td>2022-04-17</td>
             <td align="center"></td>
-            <td>4289</td>
+            <td>4293</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=57804068">
@@ -1231,17 +1231,6 @@ Found 1205 suspensions for untracked accounts.
             <td>1973</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=47394472">
-                <img src="https://pbs.twimg.com/profile_images/1567961071884828674/nJbf7Inq_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/NotKirbyMack">NotKirbyMack</a></td>
-            <td>2009-06-15</td>
-            <td>2022-05-21</td>
-            <td align="center"></td>
-            <td>1959</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1237089533948309504">
                 <img src="https://pbs.twimg.com/profile_images/1475867140620267522/bWKaZMq__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1251,6 +1240,17 @@ Found 1205 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1959</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=47394472">
+                <img src="https://pbs.twimg.com/profile_images/1567961071884828674/nJbf7Inq_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/NotKirbyMack">NotKirbyMack</a></td>
+            <td>2009-06-15</td>
+            <td>2022-05-21</td>
+            <td align="center"></td>
+            <td>1957</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1401315826758832129">
@@ -1635,7 +1635,7 @@ Found 1205 suspensions for untracked accounts.
             <td>2013-08-09</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>1095</td>
+            <td>1094</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1060532894966390784">

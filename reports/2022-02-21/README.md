@@ -66,7 +66,7 @@ Found 6 suspensions for tracked accounts.
             <td>2018-08-29</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>246</td>
+            <td>244</td>
             <td>24245</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 6 suspensions for tracked accounts.
             <td>2020-09-19</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>610</td>
+            <td>614</td>
             <td>24347</td>
         </tr>
         <tr>
@@ -722,14 +722,14 @@ Found 258 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=28391425">
-                <img src="https://pbs.twimg.com/profile_images/1590970790442246144/mPfyoQ10_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1591842140362919936/8pyZx_Mn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/TheAnaBraga">TheAnaBraga</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/28391425">1 other</a>)&nbsp;</td>
             <td>2009-04-02</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>52035</td>
+            <td>52347</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2324837918">
@@ -817,7 +817,7 @@ Found 258 suspensions for untracked accounts.
             <td>2016-01-04</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>3234</td>
+            <td>3235</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2953813941">

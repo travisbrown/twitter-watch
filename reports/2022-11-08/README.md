@@ -234,7 +234,7 @@ Found 52 suspensions for tracked accounts.
             <td>2009-11-16</td>
             <td></td>
             <td align="center"></td>
-            <td>544</td>
+            <td>540</td>
             <td>36634</td>
         </tr>
         <tr>
@@ -1261,7 +1261,7 @@ Found 46 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 6998 suspensions for untracked accounts.
+Found 6999 suspensions for untracked accounts.
 502 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -1547,7 +1547,7 @@ Found 6998 suspensions for untracked accounts.
             <td>2012-07-16</td>
             <td></td>
             <td align="center"></td>
-            <td>52782</td>
+            <td>52165</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3304239502">
@@ -5444,6 +5444,17 @@ Found 6998 suspensions for untracked accounts.
             <td>1344</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1400155747909083136">
+                <img src="https://pbs.twimg.com/profile_images/1564084285400911873/6yZgbBaz_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Espy_O">Espy_O</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1400155747909083136">1 other</a>)&nbsp;</td>
+            <td>2021-06-02</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1337</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1588981804551360512">
                 <img src="https://pbs.twimg.com/profile_images/1588987839626313728/4PPonJt0_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -5472,17 +5483,6 @@ Found 6998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wilson84amanda">wilson84amanda</a></td>
             <td>2021-04-13</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1335</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1400155747909083136">
-                <img src="https://pbs.twimg.com/profile_images/1564084285400911873/6yZgbBaz_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Espy_O">Espy_O</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1400155747909083136">1 other</a>)&nbsp;</td>
-            <td>2021-06-02</td>
             <td></td>
             <td align="center"></td>
             <td>1335</td>
@@ -5716,7 +5716,7 @@ Found 6998 suspensions for untracked accounts.
             <td>2011-07-08</td>
             <td></td>
             <td align="center"></td>
-            <td>1249</td>
+            <td>1248</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1421067130326372363">

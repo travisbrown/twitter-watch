@@ -102,7 +102,7 @@ Found 8 suspensions for tracked accounts.
             <td>2021-04-22</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>196</td>
+            <td>198</td>
             <td>18549</td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@ Found 8 suspensions for tracked accounts.
             <td>2022-01-04</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>110</td>
+            <td>108</td>
             <td>62559</td>
         </tr></table>
 
@@ -813,17 +813,6 @@ Found 843 suspensions for untracked accounts.
             <td>88125</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=921961194">
-                <img src="https://pbs.twimg.com/profile_images/1590477771771363334/Q3tpT99n_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/zidan_yezidi">zidan_yezidi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/921961194">3 others</a>)&nbsp;</td>
-            <td>2012-11-02</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>75658</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1284890693907951618">
                 <img src="https://pbs.twimg.com/profile_images/1558859769338798081/rDL35ZmO_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -832,7 +821,18 @@ Found 843 suspensions for untracked accounts.
             <td>2020-07-19</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>73218</td>
+            <td>73212</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=921961194">
+                <img src="https://pbs.twimg.com/profile_images/1590477771771363334/Q3tpT99n_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/zidan_yezidi">zidan_yezidi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/921961194">3 others</a>)&nbsp;</td>
+            <td>2012-11-02</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>66918</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=788544557394890753">
@@ -1242,6 +1242,17 @@ Found 843 suspensions for untracked accounts.
             <td>4278</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=58787728">
+                <img src="https://pbs.twimg.com/profile_images/1592520487938179072/Kj0y5FS-_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Shibbying">Shibbying</a></td>
+            <td>2009-07-21</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>4162</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1188314745201405952">
                 <img src="https://pbs.twimg.com/profile_images/1188315051637329920/yfKg2LGr_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1251,17 +1262,6 @@ Found 843 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>4119</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=58787728">
-                <img src="https://pbs.twimg.com/profile_images/1591424662017347589/aFRxr6E1_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Shibbying">Shibbying</a></td>
-            <td>2009-07-21</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>4116</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1264026318401912832">
@@ -1430,14 +1430,14 @@ Found 843 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1114252035694702593">
-                <img src="https://pbs.twimg.com/profile_images/1590403170475380736/nalZQ82O_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1591948571145895936/7dthyvfR_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/leoexpl">leoexpl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1114252035694702593">6 others</a>)&nbsp;</td>
             <td>2019-04-05</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>2786</td>
+            <td>2779</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1419603920096317440">
@@ -1778,7 +1778,7 @@ Found 843 suspensions for untracked accounts.
             <td>2016-08-12</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>1781</td>
+            <td>1779</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1398280959263490048">
@@ -2306,7 +2306,7 @@ Found 843 suspensions for untracked accounts.
             <td>2015-07-13</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>1092</td>
+            <td>1095</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1452581715420004356">
@@ -2404,7 +2404,7 @@ Found 843 suspensions for untracked accounts.
                 <a href="https://twitter.com/chotastrum">chotastrum</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2286441313">8 others</a>)&nbsp;</td>
             <td>2014-01-11</td>
             <td></td>
-            <td align="center">🔒</td>
+            <td align="center"></td>
             <td>1041</td>
         </tr>
         <tr>
