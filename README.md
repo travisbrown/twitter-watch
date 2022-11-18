@@ -32,16 +32,16 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 366104
+* Total number of suspensions detected: 366979
 * Total number of suspension reversals detected: 6904
-* Mean number of followers for suspended accounts: 1749.89
+* Mean number of followers for suspended accounts: 1750.94
 * Median number of followers for suspended accounts: 58.0
-* Mean age of suspended accounts (days): 1040.32
+* Mean age of suspended accounts (days): 1040.49
 * Median age of suspended accounts (days): 312.0
 * Total number of verified accounts suspended: 139
-* Total number of protected accounts suspended: 18481
+* Total number of protected accounts suspended: 18526
 * Total number of suspensions for accounts previously withheld in specific countries: 25
-* Total number of screen name changes detected: 850515
+* Total number of screen name changes detected: 873879
 
 
 
@@ -209,7 +209,7 @@ Current list of suspensions of accounts most central to far-right networks since
                 <a href="https://twitter.com/DrKarlynB">DrKarlynB</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/6811832">2 others</a>)&nbsp;</td>
             <td>2007-06-14</td>
             <td>2022-08-19</td>
-            <td>67723</td>
+            <td>67665</td>
             <td>206</td>
         </tr>
         <tr>
@@ -292,17 +292,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>
                 <a href="reports/2022-11-18/">18 November 2022</a>
             </td>
-            <td>412</td>
-            <td>6</td>
-            <td>0</td>
+            <td>1122</td>
+            <td>22</td>
+            <td>12</td>
         </tr>
         <tr>
             <td>
                 <a href="reports/2022-11-17/">17 November 2022</a>
             </td>
-            <td>2330</td>
+            <td>2403</td>
             <td>24</td>
-            <td>0</td>
+            <td>25</td>
         </tr>
         <tr>
             <td>
@@ -310,7 +310,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1934</td>
             <td>24</td>
-            <td>0</td>
+            <td>41</td>
         </tr>
         <tr>
             <td>
@@ -318,7 +318,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>2326</td>
             <td>32</td>
-            <td>0</td>
+            <td>36</td>
         </tr>
         <tr>
             <td>
@@ -326,7 +326,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>2708</td>
             <td>58</td>
-            <td>0</td>
+            <td>48</td>
         </tr>
         <tr>
             <td>
@@ -598,7 +598,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1711</td>
             <td>6</td>
-            <td>35</td>
+            <td>34</td>
         </tr>
         <tr>
             <td>
@@ -702,7 +702,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1617</td>
             <td>8</td>
-            <td>56</td>
+            <td>55</td>
         </tr>
         <tr>
             <td>
@@ -798,7 +798,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>2195</td>
             <td>22</td>
-            <td>35</td>
+            <td>34</td>
         </tr>
         <tr>
             <td>
@@ -1014,7 +1014,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1572</td>
             <td>9</td>
-            <td>33</td>
+            <td>34</td>
         </tr>
         <tr>
             <td>

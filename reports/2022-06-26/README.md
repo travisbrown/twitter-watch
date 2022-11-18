@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2009-03-03</td>
             <td></td>
             <td align="center"></td>
-            <td>675</td>
+            <td>677</td>
             <td>8971</td>
         </tr>
         <tr>
@@ -129,7 +129,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bronzeagehitler">bronzeagehitler</a>
             </td>
             <td align="center"></td>
-            <td>195</td>
+            <td>199</td>
             <td>2274</td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/man_of_prayer">man_of_prayer</a>
             </td>
             <td align="center"></td>
-            <td>286</td>
+            <td>300</td>
             <td>37516</td>
         </tr>
         <tr>
@@ -259,7 +259,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Morso34">Morso34</a>
             </td>
             <td align="center"></td>
-            <td>124</td>
+            <td>122</td>
             <td>46056</td>
         </tr>
         <tr>
@@ -272,7 +272,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Oussingre">Oussingre</a>
             </td>
             <td align="center"></td>
-            <td>32</td>
+            <td>33</td>
             <td>46091</td>
         </tr>
         <tr>
@@ -298,7 +298,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/J1anon">J1anon</a>
             </td>
             <td align="center"></td>
-            <td>270</td>
+            <td>281</td>
             <td>55532</td>
         </tr>
         <tr>
@@ -311,7 +311,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Norfolski">Norfolski</a>
             </td>
             <td align="center">🔒</td>
-            <td>172</td>
+            <td>173</td>
             <td>59420</td>
         </tr>
         <tr>
@@ -368,7 +368,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1326326350307799040">
-                <img src="https://pbs.twimg.com/profile_images/1579217308488187905/if8rB6AZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1592680795264671744/YO-hhUNo_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/amapyceii">amapyceii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1326326350307799040">3 others</a>)&nbsp;</td>
@@ -376,7 +376,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/amapyceI">amapyceI</a>
             </td>
             <td align="center">🔒</td>
-            <td>249</td>
+            <td>248</td>
             <td>70976</td>
         </tr>
         <tr>
@@ -389,7 +389,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/terfbabynothing">terfbabynothing</a>
             </td>
             <td align="center"></td>
-            <td>1990</td>
+            <td>1983</td>
             <td>83317</td>
         </tr>
         <tr>
@@ -402,7 +402,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Kraft712Jamie">Kraft712Jamie</a>
             </td>
             <td align="center"></td>
-            <td>116</td>
+            <td>117</td>
             <td>85259</td>
         </tr>
         <tr>
@@ -415,7 +415,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/_DomDaBomb_">_DomDaBomb_</a>
             </td>
             <td align="center"></td>
-            <td>58</td>
+            <td>65</td>
             <td>90727</td>
         </tr></table>
 
@@ -807,7 +807,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2007-07-04</td>
             <td></td>
             <td align="center"></td>
-            <td>5007</td>
+            <td>5006</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1424234692782399489">
@@ -972,7 +972,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2011-04-11</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>2387</td>
+            <td>2386</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1331579243415867392">
@@ -994,7 +994,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2009-03-21</td>
             <td></td>
             <td align="center"></td>
-            <td>2275</td>
+            <td>2273</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=538720257">
@@ -1005,7 +1005,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2012-03-28</td>
             <td></td>
             <td align="center"></td>
-            <td>2251</td>
+            <td>2253</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=13132832">
@@ -1360,6 +1360,17 @@ Found 1359 suspensions for untracked accounts.
             <td>1231</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1003529193454436352">
+                <img src="https://pbs.twimg.com/profile_images/1476546782188519429/VANr-wB4_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mzabalazobatho2">mzabalazobatho2</a></td>
+            <td>2018-06-04</td>
+            <td>2022-07-07</td>
+            <td align="center"></td>
+            <td>1228</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1360960591955779595">
                 <img src="https://pbs.twimg.com/profile_images/1472812224020238338/kkG9cVb0_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1379,18 +1390,7 @@ Found 1359 suspensions for untracked accounts.
             <td>2021-09-04</td>
             <td></td>
             <td align="center"></td>
-            <td>1226</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1003529193454436352">
-                <img src="https://pbs.twimg.com/profile_images/1476546782188519429/VANr-wB4_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mzabalazobatho2">mzabalazobatho2</a></td>
-            <td>2018-06-04</td>
-            <td>2022-07-07</td>
-            <td align="center"></td>
-            <td>1220</td>
+            <td>1223</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1410006218144374788">

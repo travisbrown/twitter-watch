@@ -443,7 +443,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bitcoin_citizen">bitcoin_citizen</a>
             </td>
             <td align="center"></td>
-            <td>307</td>
+            <td>315</td>
             <td>60215</td>
         </tr>
         <tr>
@@ -507,7 +507,7 @@ Found 812 suspensions for untracked accounts.
             <td>2016-12-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>66990</td>
+            <td>66967</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1513320454815109130">
@@ -650,7 +650,7 @@ Found 812 suspensions for untracked accounts.
             <td>2011-02-05</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>10361</td>
+            <td>10359</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=42606577">
@@ -793,7 +793,7 @@ Found 812 suspensions for untracked accounts.
             <td>2020-06-05</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>4255</td>
+            <td>4249</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=617171715">
@@ -881,7 +881,7 @@ Found 812 suspensions for untracked accounts.
             <td>2015-01-03</td>
             <td></td>
             <td align="center"></td>
-            <td>3320</td>
+            <td>3319</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1517259455418671104">
@@ -939,6 +939,17 @@ Found 812 suspensions for untracked accounts.
             <td>2993</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=797484849246314497">
+                <img src="https://pbs.twimg.com/profile_images/1365496317812875266/UvhKqy5M_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FurFrog">FurFrog</a></td>
+            <td>2016-11-12</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2940</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491727424299491328">
                 <img src="https://pbs.twimg.com/profile_images/1491730229659779072/N48KRTNC_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -948,17 +959,6 @@ Found 812 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2936</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=797484849246314497">
-                <img src="https://pbs.twimg.com/profile_images/1365496317812875266/UvhKqy5M_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FurFrog">FurFrog</a></td>
-            <td>2016-11-12</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2933</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=903637207">
