@@ -555,7 +555,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2021-04-01</td>
             <td></td>
             <td align="center"></td>
-            <td>41231</td>
+            <td>41347</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3388642480">
@@ -635,17 +635,6 @@ Found 1071 suspensions for untracked accounts.
             <td>20432</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=896683068408332288">
-                <img src="https://pbs.twimg.com/profile_images/1587206318674288641/l8BWVzzQ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Jules1602xx">Jules1602xx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/896683068408332288">6 others</a>)&nbsp;</td>
-            <td>2017-08-13</td>
-            <td></td>
-            <td align="center"></td>
-            <td>14139</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1489187463176372227">
                 <img src="https://pbs.twimg.com/profile_images/1590549968279977985/_3puF2m1_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -654,7 +643,18 @@ Found 1071 suspensions for untracked accounts.
             <td>2022-02-03</td>
             <td></td>
             <td align="center"></td>
-            <td>13653</td>
+            <td>14175</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=896683068408332288">
+                <img src="https://pbs.twimg.com/profile_images/1587206318674288641/l8BWVzzQ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Jules1602xx">Jules1602xx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/896683068408332288">6 others</a>)&nbsp;</td>
+            <td>2017-08-13</td>
+            <td></td>
+            <td align="center"></td>
+            <td>14146</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1270172980040159232">
@@ -808,7 +808,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2018-03-12</td>
             <td></td>
             <td align="center"></td>
-            <td>5780</td>
+            <td>5778</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1316231487163977729">
@@ -874,7 +874,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2017-12-26</td>
             <td></td>
             <td align="center"></td>
-            <td>4207</td>
+            <td>4211</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=13944132">
@@ -907,7 +907,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2017-11-02</td>
             <td></td>
             <td align="center"></td>
-            <td>3595</td>
+            <td>3596</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1251348137471627267">
@@ -1083,7 +1083,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2021-10-08</td>
             <td></td>
             <td align="center"></td>
-            <td>2675</td>
+            <td>2670</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1549564572893294592">
@@ -1295,17 +1295,6 @@ Found 1071 suspensions for untracked accounts.
             <td>2130</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1228240920027508736">
-                <img src="https://pbs.twimg.com/profile_images/1497205304089616390/L08goy6T_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/BreezerGalway">BreezerGalway</a></td>
-            <td>2020-02-14</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2117</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1226015851712638976">
                 <img src="https://pbs.twimg.com/profile_images/1563149474327035909/fz38BHTD_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1315,6 +1304,17 @@ Found 1071 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2114</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1228240920027508736">
+                <img src="https://pbs.twimg.com/profile_images/1497205304089616390/L08goy6T_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BreezerGalway">BreezerGalway</a></td>
+            <td>2020-02-14</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2112</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1448583553734881280">
@@ -1380,7 +1380,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2010-10-09</td>
             <td></td>
             <td align="center"></td>
-            <td>1860</td>
+            <td>1862</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1505600545775566848">
@@ -1413,7 +1413,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2011-06-15</td>
             <td></td>
             <td align="center"></td>
-            <td>1830</td>
+            <td>1829</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1541349264147767297">
@@ -1457,7 +1457,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2021-01-04</td>
             <td></td>
             <td align="center"></td>
-            <td>1678</td>
+            <td>1680</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2265747559">
@@ -1732,7 +1732,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2007-03-30</td>
             <td></td>
             <td align="center"></td>
-            <td>1285</td>
+            <td>1284</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=992165610040815616">
@@ -1743,7 +1743,7 @@ Found 1071 suspensions for untracked accounts.
             <td>2018-05-03</td>
             <td></td>
             <td align="center"></td>
-            <td>1275</td>
+            <td>1281</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1523430829740941312">
@@ -1900,6 +1900,17 @@ Found 1071 suspensions for untracked accounts.
             <td>1073</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=951090373094502407">
+                <img src="https://pbs.twimg.com/profile_images/1169074581258276864/ZygDYmFb_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JohnOma38767147">JohnOma38767147</a></td>
+            <td>2018-01-10</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1073</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1500841290027646977">
                 <img src="https://pbs.twimg.com/profile_images/1527660942061862912/VMcoTN1R_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1909,17 +1920,6 @@ Found 1071 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1071</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=951090373094502407">
-                <img src="https://pbs.twimg.com/profile_images/1169074581258276864/ZygDYmFb_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/JohnOma38767147">JohnOma38767147</a></td>
-            <td>2018-01-10</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1070</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1178828389140094976">
@@ -2007,5 +2007,5 @@ Found 1071 suspensions for untracked accounts.
             <td>2010-06-24</td>
             <td></td>
             <td align="center"></td>
-            <td>1016</td>
+            <td>1017</td>
         </tr></table>

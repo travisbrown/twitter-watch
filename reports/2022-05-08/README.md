@@ -42,7 +42,7 @@ Found 2 suspensions for tracked accounts.
             <td>2017-01-10</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>279</td>
+            <td>280</td>
             <td>56089</td>
         </tr></table>
 
@@ -999,7 +999,7 @@ Found 493 suspensions for untracked accounts.
             <td>2018-03-19</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>2268</td>
+            <td>2269</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=115312059">
@@ -1255,6 +1255,17 @@ Found 493 suspensions for untracked accounts.
             <td>1192</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1213975347818926080">
+                <img src="https://pbs.twimg.com/profile_images/1557095172349067272/uUtLJIu1_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/CLINTWILSON27">CLINTWILSON27</a></td>
+            <td>2020-01-06</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>1154</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1500928462126727168">
                 <img src="https://pbs.twimg.com/profile_images/1502030909213609986/VDPz16Xs_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1264,15 +1275,4 @@ Found 493 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1091</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1213975347818926080">
-                <img src="https://pbs.twimg.com/profile_images/1557095172349067272/uUtLJIu1_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/CLINTWILSON27">CLINTWILSON27</a></td>
-            <td>2020-01-06</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>1088</td>
         </tr></table>

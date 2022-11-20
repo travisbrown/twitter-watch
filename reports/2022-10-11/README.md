@@ -66,7 +66,7 @@ Found 6 suspensions for tracked accounts.
             <td>2022-05-04</td>
             <td></td>
             <td align="center"></td>
-            <td>1865</td>
+            <td>1864</td>
             <td>59447</td>
         </tr>
         <tr>
@@ -905,7 +905,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2010-09-15</td>
             <td></td>
             <td align="center"></td>
-            <td>4668</td>
+            <td>4662</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=381289928">
@@ -1136,7 +1136,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2014-06-06</td>
             <td></td>
             <td align="center"></td>
-            <td>3240</td>
+            <td>3237</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1448117527712763905">
@@ -1205,6 +1205,17 @@ Found 1692 suspensions for untracked accounts.
             <td>2950</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1524022327670935552">
+                <img src="https://pbs.twimg.com/profile_images/1565829909536284673/-QmjgBlu_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/kaen1317">kaen1317</a></td>
+            <td>2022-05-10</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2949</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1343601717062086660">
                 <img src="https://pbs.twimg.com/profile_images/1537556811921952768/4NQ1XffG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1236,17 +1247,6 @@ Found 1692 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2891</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1524022327670935552">
-                <img src="https://pbs.twimg.com/profile_images/1565829909536284673/-QmjgBlu_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/kaen1317">kaen1317</a></td>
-            <td>2022-05-10</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2890</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=714909338091933696">
@@ -1642,7 +1642,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2020-09-22</td>
             <td></td>
             <td align="center"></td>
-            <td>1741</td>
+            <td>1737</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1312404667100467202">
@@ -1697,7 +1697,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2020-09-27</td>
             <td></td>
             <td align="center"></td>
-            <td>1638</td>
+            <td>1639</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1184438546230325249">
@@ -1796,7 +1796,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2017-01-23</td>
             <td></td>
             <td align="center"></td>
-            <td>1518</td>
+            <td>1517</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=343314031">
@@ -1829,7 +1829,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2016-02-22</td>
             <td></td>
             <td align="center"></td>
-            <td>1464</td>
+            <td>1466</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1353276129516220416">
@@ -2107,17 +2107,6 @@ Found 1692 suspensions for untracked accounts.
             <td>1288</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1180285741764620289">
-                <img src="https://pbs.twimg.com/profile_images/1435031374684200961/8jUv0YcI_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/omarvenez2">omarvenez2</a></td>
-            <td>2019-10-05</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1275</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2503232918">
                 <img src="https://pbs.twimg.com/profile_images/1578738611847061504/qezu52-W_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2135,6 +2124,17 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/QCt2dewleNGZvQp">QCt2dewleNGZvQp</a></td>
             <td>2019-04-28</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1272</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1180285741764620289">
+                <img src="https://pbs.twimg.com/profile_images/1435031374684200961/8jUv0YcI_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/omarvenez2">omarvenez2</a></td>
+            <td>2019-10-05</td>
             <td></td>
             <td align="center"></td>
             <td>1272</td>
@@ -2302,7 +2302,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2022-02-19</td>
             <td></td>
             <td align="center"></td>
-            <td>1165</td>
+            <td>1168</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=72073551">
@@ -2313,7 +2313,7 @@ Found 1692 suspensions for untracked accounts.
             <td>2009-09-06</td>
             <td></td>
             <td align="center"></td>
-            <td>1164</td>
+            <td>1165</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1313510452429811718">

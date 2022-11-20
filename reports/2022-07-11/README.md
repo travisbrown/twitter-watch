@@ -388,7 +388,7 @@ Found 2859 suspensions for untracked accounts.
             <td>2019-01-25</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>10180</td>
+            <td>10176</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427242474351710209">
@@ -597,7 +597,7 @@ Found 2859 suspensions for untracked accounts.
             <td>2014-11-11</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>4827</td>
+            <td>4826</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495897411377586180">
@@ -1337,17 +1337,6 @@ Found 2859 suspensions for untracked accounts.
             <td>1471</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=947079713402511361">
-                <img src="https://pbs.twimg.com/profile_images/1582155860742135808/jU06Jv0O_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Annkeneeth">Annkeneeth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/947079713402511361">1 other</a>)&nbsp;</td>
-            <td>2017-12-30</td>
-            <td>2022-08-15</td>
-            <td align="center">🔒</td>
-            <td>1442</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1368917406383538184">
                 <img src="https://pbs.twimg.com/profile_images/1369232341047140352/2fcUAz0z_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1357,6 +1346,17 @@ Found 2859 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1441</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=947079713402511361">
+                <img src="https://pbs.twimg.com/profile_images/1582155860742135808/jU06Jv0O_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Annkeneeth">Annkeneeth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/947079713402511361">1 other</a>)&nbsp;</td>
+            <td>2017-12-30</td>
+            <td>2022-08-15</td>
+            <td align="center">🔒</td>
+            <td>1440</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1437270821656043522">

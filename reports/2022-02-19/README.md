@@ -54,7 +54,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-12-22</td>
             <td>2022-02-21</td>
             <td align="center"></td>
-            <td>1400</td>
+            <td>1399</td>
             <td>23700</td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2011-05-02</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1284</td>
+            <td>1286</td>
             <td>32190</td>
         </tr>
         <tr>
@@ -515,8 +515,8 @@ Found 492 suspensions for untracked accounts.
                 <a href="https://twitter.com/WORGODICP">WORGODICP</a></td>
             <td>2015-12-08</td>
             <td>2022-03-04</td>
-            <td align="center">🔒</td>
-            <td>24135</td>
+            <td align="center"></td>
+            <td>24131</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2464135300">
@@ -626,7 +626,7 @@ Found 492 suspensions for untracked accounts.
             <td>2009-08-21</td>
             <td></td>
             <td align="center"></td>
-            <td>8188</td>
+            <td>8187</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427033684763365387">
@@ -725,7 +725,7 @@ Found 492 suspensions for untracked accounts.
             <td>2007-12-29</td>
             <td>2022-02-19</td>
             <td align="center"></td>
-            <td>3784</td>
+            <td>3785</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1302239711214346241">
@@ -736,7 +736,7 @@ Found 492 suspensions for untracked accounts.
             <td>2020-09-05</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>3754</td>
+            <td>3755</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2368459319">
@@ -780,7 +780,7 @@ Found 492 suspensions for untracked accounts.
             <td>2012-10-02</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>3449</td>
+            <td>3446</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1430523842989023233">
@@ -945,7 +945,7 @@ Found 492 suspensions for untracked accounts.
             <td>2009-08-01</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>1897</td>
+            <td>1899</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1081292954822598656">
@@ -970,6 +970,17 @@ Found 492 suspensions for untracked accounts.
             <td>1814</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1245133883689050114">
+                <img src="https://pbs.twimg.com/profile_images/1534422485873090562/Ack3phzV_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/different_1010">different_1010</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1245133883689050114">1 other</a>)&nbsp;</td>
+            <td>2020-03-31</td>
+            <td>2022-02-28</td>
+            <td align="center"></td>
+            <td>1733</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=501303360">
                 <img src="https://pbs.twimg.com/profile_images/1486498420395184128/gO_epSH8_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -979,17 +990,6 @@ Found 492 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1725</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1245133883689050114">
-                <img src="https://pbs.twimg.com/profile_images/1534422485873090562/Ack3phzV_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/different_1010">different_1010</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1245133883689050114">1 other</a>)&nbsp;</td>
-            <td>2020-03-31</td>
-            <td>2022-02-28</td>
-            <td align="center"></td>
-            <td>1721</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=778275702730846208">

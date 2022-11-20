@@ -1635,7 +1635,7 @@ Found 1806 suspensions for untracked accounts.
             <td>2014-03-05</td>
             <td></td>
             <td align="center"></td>
-            <td>6790</td>
+            <td>6788</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=809185852547072003">
@@ -1690,7 +1690,7 @@ Found 1806 suspensions for untracked accounts.
             <td>2021-11-01</td>
             <td></td>
             <td align="center"></td>
-            <td>5131</td>
+            <td>4804</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1396490944753582083">

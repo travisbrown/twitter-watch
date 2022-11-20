@@ -42,7 +42,7 @@ Found 5 suspensions for tracked accounts.
             <td>2019-12-31</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>10127</td>
+            <td>10126</td>
             <td>775</td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2009-08-08</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>41076</td>
+            <td>41078</td>
             <td>12683</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-08-01</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>236</td>
+            <td>235</td>
             <td>94092</td>
         </tr></table>
 
@@ -930,7 +930,7 @@ Found 420 suspensions for untracked accounts.
             <td>2013-05-16</td>
             <td></td>
             <td align="center"></td>
-            <td>4531</td>
+            <td>4534</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1311476083577909249">
@@ -1296,6 +1296,17 @@ Found 420 suspensions for untracked accounts.
             <td>1083</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=397755789">
+                <img src="https://pbs.twimg.com/profile_images/1499349828232527878/qTVvCnx4_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/basedintel">basedintel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/397755789">3 others</a>)&nbsp;</td>
+            <td>2011-10-25</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>1080</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1474083446775377922">
                 <img src="https://pbs.twimg.com/profile_images/1520107442503180288/cMVaMYRi_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1305,17 +1316,6 @@ Found 420 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1080</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=397755789">
-                <img src="https://pbs.twimg.com/profile_images/1499349828232527878/qTVvCnx4_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/basedintel">basedintel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/397755789">3 others</a>)&nbsp;</td>
-            <td>2011-10-25</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>1079</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1429989917816496130">

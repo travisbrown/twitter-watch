@@ -510,7 +510,7 @@ Found 824 suspensions for untracked accounts.
             <td>2012-08-31</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>28498</td>
+            <td>28481</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2874595888">
@@ -620,7 +620,7 @@ Found 824 suspensions for untracked accounts.
             <td>2019-09-01</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>11692</td>
+            <td>11710</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1472640072004608010">
@@ -1272,17 +1272,6 @@ Found 824 suspensions for untracked accounts.
             <td>1182</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1359279321123344391">
-                <img src="https://pbs.twimg.com/profile_images/1578552958085697537/3wbk956J_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Edsonebj">Edsonebj</a></td>
-            <td>2021-02-09</td>
-            <td>2022-05-10</td>
-            <td align="center"></td>
-            <td>1181</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1497411980013060100">
                 <img src="https://pbs.twimg.com/profile_images/1497441710514782210/x8i40Y8k_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1292,6 +1281,17 @@ Found 824 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1180</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1359279321123344391">
+                <img src="https://pbs.twimg.com/profile_images/1578552958085697537/3wbk956J_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Edsonebj">Edsonebj</a></td>
+            <td>2021-02-09</td>
+            <td>2022-05-10</td>
+            <td align="center"></td>
+            <td>1179</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=437506719">

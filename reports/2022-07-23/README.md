@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (8)](#tracked-suspensions)
 * [Tracked screen name changes (33)](#tracked-screen-name-changes)
-* [Untracked suspensions (156)](#untracked-suspensions)
+* [Untracked suspensions (155)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -102,7 +102,7 @@ Found 8 suspensions for tracked accounts.
             <td>2020-11-25</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>2974</td>
+            <td>2997</td>
             <td>48462</td>
         </tr>
         <tr>
@@ -565,7 +565,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
 ### Untracked suspensions
 
 Found 1458 suspensions for untracked accounts.
-156 accounts have more than 1000 followers and are included here.
+155 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -674,7 +674,7 @@ Found 1458 suspensions for untracked accounts.
             <td>2008-06-15</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>25914</td>
+            <td>25897</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=911093941">
@@ -2281,15 +2281,4 @@ Found 1458 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1014</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1152536171559493637">
-                <img src="https://pbs.twimg.com/profile_images/1569188158683713536/7YNqux4T_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/eth_turco">eth_turco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1152536171559493637">5 others</a>)&nbsp;</td>
-            <td>2019-07-20</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>1002</td>
         </tr></table>

@@ -638,7 +638,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2020-01-27</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>121314</td>
+            <td>121723</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1070337762128220163">
@@ -858,7 +858,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2013-04-18</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>51672</td>
+            <td>51919</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1526364548059795457">
@@ -1496,7 +1496,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2012-02-01</td>
             <td></td>
             <td align="center"></td>
-            <td>3498</td>
+            <td>3497</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=51887885">
@@ -1939,17 +1939,6 @@ Found 1063 suspensions for untracked accounts.
             <td>2134</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1299089696">
-                <img src="https://pbs.twimg.com/profile_images/1546783413264613377/7txKPBHc_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/dwayndson">dwayndson</a></td>
-            <td>2013-03-25</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2077</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1026074730196025345">
                 <img src="https://pbs.twimg.com/profile_images/1578118725340987413/Cszti7xp_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1957,6 +1946,17 @@ Found 1063 suspensions for untracked accounts.
                 <a href="https://twitter.com/TheAliArda">TheAliArda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1026074730196025345">1 other</a>)&nbsp;</td>
             <td>2018-08-05</td>
             <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>2078</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1299089696">
+                <img src="https://pbs.twimg.com/profile_images/1546783413264613377/7txKPBHc_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/dwayndson">dwayndson</a></td>
+            <td>2013-03-25</td>
+            <td></td>
             <td align="center"></td>
             <td>2077</td>
         </tr>

@@ -924,7 +924,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2020-09-16</td>
             <td></td>
             <td align="center"></td>
-            <td>2941</td>
+            <td>2939</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1624121300">
@@ -1158,6 +1158,17 @@ Found 1564 suspensions for untracked accounts.
             <td>2194</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1601693970">
+                <img src="https://pbs.twimg.com/profile_images/1586879571256803328/PiyZR8De_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/cariocanogelo">cariocanogelo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1601693970">1 other</a>)&nbsp;</td>
+            <td>2013-07-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2129</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1367879963265949697">
                 <img src="https://pbs.twimg.com/profile_images/1561870367110701056/LwLiit83_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1167,17 +1178,6 @@ Found 1564 suspensions for untracked accounts.
             <td></td>
             <td align="center">🔒</td>
             <td>2113</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1601693970">
-                <img src="https://pbs.twimg.com/profile_images/1586879571256803328/PiyZR8De_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/cariocanogelo">cariocanogelo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1601693970">1 other</a>)&nbsp;</td>
-            <td>2013-07-17</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2107</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1481320364819234816">
@@ -1375,7 +1375,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2011-12-02</td>
             <td></td>
             <td align="center"></td>
-            <td>1607</td>
+            <td>1610</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1335341325655437315">
@@ -1804,7 +1804,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2012-05-17</td>
             <td></td>
             <td align="center"></td>
-            <td>1082</td>
+            <td>1083</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1558399236705816576">
@@ -1840,6 +1840,17 @@ Found 1564 suspensions for untracked accounts.
             <td>1072</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=25490919">
+                <img src="https://pbs.twimg.com/profile_images/1572385850335563778/Jr94nmqw_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Neida_RS">Neida_RS</a></td>
+            <td>2009-03-20</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1063</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=765391894637453312">
                 <img src="https://pbs.twimg.com/profile_images/1439142037127942146/_WYWXzH-_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1860,17 +1871,6 @@ Found 1564 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1051</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=25490919">
-                <img src="https://pbs.twimg.com/profile_images/1572385850335563778/Jr94nmqw_normal.png" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Neida_RS">Neida_RS</a></td>
-            <td>2009-03-20</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1047</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1386264177145262080">

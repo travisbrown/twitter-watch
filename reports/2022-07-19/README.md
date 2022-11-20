@@ -1377,7 +1377,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2018-03-11</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>3003</td>
+            <td>3012</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1539206821994500098">
@@ -1652,7 +1652,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2020-01-13</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>2114</td>
+            <td>2116</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=276159572">
@@ -1740,7 +1740,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2017-09-17</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>1998</td>
+            <td>2008</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1466001334310682627">
@@ -1762,7 +1762,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2013-12-31</td>
             <td></td>
             <td align="center"></td>
-            <td>1986</td>
+            <td>1987</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1966339147">
@@ -2029,6 +2029,17 @@ Found 1036 suspensions for untracked accounts.
             <td>1602</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1319816078">
+                <img src="https://pbs.twimg.com/profile_images/1552267968955854849/sPpVgsMO_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BanquoDyar">BanquoDyar</a></td>
+            <td>2013-04-01</td>
+            <td>2022-07-23</td>
+            <td align="center"></td>
+            <td>1581</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1462839543569211392">
                 <img src="https://pbs.twimg.com/profile_images/1496787558327541760/xfFxg-Nd_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2049,17 +2060,6 @@ Found 1036 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1578</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1319816078">
-                <img src="https://pbs.twimg.com/profile_images/1552267968955854849/sPpVgsMO_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/BanquoDyar">BanquoDyar</a></td>
-            <td>2013-04-01</td>
-            <td>2022-07-23</td>
-            <td align="center"></td>
-            <td>1573</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519006251149053952">
@@ -2191,7 +2191,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2012-06-09</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>1427</td>
+            <td>1428</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=385811349">
@@ -2378,7 +2378,7 @@ Found 1036 suspensions for untracked accounts.
             <td>2021-07-02</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1224</td>
+            <td>1225</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1255350597542465536">

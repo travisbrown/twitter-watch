@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 369370
+* Total number of suspensions detected: 369934
 * Total number of suspension reversals detected: 6904
-* Mean number of followers for suspended accounts: 1754.55
+* Mean number of followers for suspended accounts: 1752.53
 * Median number of followers for suspended accounts: 58.0
-* Mean age of suspended accounts (days): 1040.47
+* Mean age of suspended accounts (days): 1040.22
 * Median age of suspended accounts (days): 311.0
 * Total number of verified accounts suspended: 141
-* Total number of protected accounts suspended: 18614
+* Total number of protected accounts suspended: 18631
 * Total number of suspensions for accounts previously withheld in specific countries: 25
 * Total number of screen name changes detected: 873879
 
@@ -209,7 +209,7 @@ Current list of suspensions of accounts most central to far-right networks since
                 <a href="https://twitter.com/DrKarlynB">DrKarlynB</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/6811832">2 others</a>)&nbsp;</td>
             <td>2007-06-14</td>
             <td>2022-08-19</td>
-            <td>67665</td>
+            <td>67643</td>
             <td>206</td>
         </tr>
         <tr>
@@ -292,8 +292,8 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>
                 <a href="reports/2022-11-20/">20 November 2022</a>
             </td>
-            <td>255</td>
-            <td>5</td>
+            <td>817</td>
+            <td>11</td>
             <td>0</td>
         </tr>
         <tr>

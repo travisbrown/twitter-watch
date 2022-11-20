@@ -42,7 +42,7 @@ Found 2 suspensions for tracked accounts.
             <td>2022-04-10</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>749</td>
+            <td>748</td>
             <td>2155</td>
         </tr></table>
 

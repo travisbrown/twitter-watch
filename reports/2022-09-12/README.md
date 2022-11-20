@@ -859,7 +859,7 @@ Found 1517 suspensions for untracked accounts.
             <td>2019-06-19</td>
             <td></td>
             <td align="center"></td>
-            <td>5955</td>
+            <td>5974</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1072685883806101509">
@@ -1057,7 +1057,7 @@ Found 1517 suspensions for untracked accounts.
             <td>2011-09-15</td>
             <td></td>
             <td align="center"></td>
-            <td>3465</td>
+            <td>3472</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1454899192615276546">
@@ -1167,7 +1167,7 @@ Found 1517 suspensions for untracked accounts.
             <td>2021-04-16</td>
             <td></td>
             <td align="center"></td>
-            <td>2971</td>
+            <td>2968</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3230625147">
@@ -1335,23 +1335,23 @@ Found 1517 suspensions for untracked accounts.
             <td>2280</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=249656791">
-                <img src="https://pbs.twimg.com/profile_images/849745491797483521/vQRVjyUg_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/LindaCrissTehan">LindaCrissTehan</a></td>
-            <td>2011-02-09</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2275</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1490812295768907777">
                 <img src="https://pbs.twimg.com/profile_images/1495746979690958849/rADpZD0r_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/RaphaRST_BR">RaphaRST_BR</a></td>
             <td>2022-02-07</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2276</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=249656791">
+                <img src="https://pbs.twimg.com/profile_images/849745491797483521/vQRVjyUg_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/LindaCrissTehan">LindaCrissTehan</a></td>
+            <td>2011-02-09</td>
             <td></td>
             <td align="center"></td>
             <td>2275</td>
@@ -1596,7 +1596,7 @@ Found 1517 suspensions for untracked accounts.
             <td>2020-07-19</td>
             <td></td>
             <td align="center"></td>
-            <td>1697</td>
+            <td>1696</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1445224724884115460">

@@ -78,7 +78,7 @@ Found 6 suspensions for tracked accounts.
             <td>2012-03-07</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>1254</td>
+            <td>1253</td>
             <td>77215</td>
         </tr>
         <tr>
@@ -730,7 +730,7 @@ Found 840 suspensions for untracked accounts.
             <td>2009-10-09</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>9242</td>
+            <td>9243</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=992154278436405249">
@@ -895,7 +895,7 @@ Found 840 suspensions for untracked accounts.
             <td>2014-04-27</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>4021</td>
+            <td>4018</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=25805685">
@@ -1236,7 +1236,7 @@ Found 840 suspensions for untracked accounts.
             <td>2014-04-27</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1371</td>
+            <td>1370</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1459660207718649857">
@@ -1415,17 +1415,6 @@ Found 840 suspensions for untracked accounts.
             <td>1058</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=16579964">
-                <img src="https://pbs.twimg.com/profile_images/1510349188655104002/i53568r5_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/EmrahTokalak">EmrahTokalak</a></td>
-            <td>2008-10-03</td>
-            <td>2022-04-02</td>
-            <td align="center"></td>
-            <td>1047</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1427897508781506563">
                 <img src="https://pbs.twimg.com/profile_images/1477626583099789318/FRXAzLuh_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1435,4 +1424,15 @@ Found 840 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1047</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=16579964">
+                <img src="https://pbs.twimg.com/profile_images/1510349188655104002/i53568r5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/EmrahTokalak">EmrahTokalak</a></td>
+            <td>2008-10-03</td>
+            <td>2022-04-02</td>
+            <td align="center"></td>
+            <td>1046</td>
         </tr></table>

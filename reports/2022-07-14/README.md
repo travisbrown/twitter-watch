@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2022-04-06</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>324</td>
+            <td>322</td>
             <td>83451</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2019-01-24</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>4635</td>
+            <td>4640</td>
             <td>98943</td>
         </tr></table>
 
@@ -1379,7 +1379,7 @@ Found 1146 suspensions for untracked accounts.
             <td>2010-01-24</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>7738</td>
+            <td>7736</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1304764374465249280">
@@ -1456,7 +1456,7 @@ Found 1146 suspensions for untracked accounts.
             <td>2018-05-19</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>6367</td>
+            <td>6375</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1285928288934744065">
@@ -2834,23 +2834,23 @@ Found 1146 suspensions for untracked accounts.
             <td>1181</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=722492492944392192">
-                <img src="https://pbs.twimg.com/profile_images/1546216549308153857/66-3t0z-_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/TheMemeWalker">TheMemeWalker</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/722492492944392192">2 others</a>)&nbsp;</td>
-            <td>2016-04-19</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1146</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1411334845238743040">
                 <img src="https://pbs.twimg.com/profile_images/1537783581665382403/idClrCJ9_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/LinKush">LinKush</a></td>
             <td>2021-07-03</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1150</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=722492492944392192">
+                <img src="https://pbs.twimg.com/profile_images/1546216549308153857/66-3t0z-_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TheMemeWalker">TheMemeWalker</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/722492492944392192">2 others</a>)&nbsp;</td>
+            <td>2016-04-19</td>
             <td></td>
             <td align="center"></td>
             <td>1146</td>

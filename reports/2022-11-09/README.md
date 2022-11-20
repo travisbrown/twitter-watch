@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (35)](#tracked-suspensions)
 * [Tracked screen name changes (30)](#tracked-screen-name-changes)
-* [Untracked suspensions (315)](#untracked-suspensions)
+* [Untracked suspensions (316)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -849,8 +849,8 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 4490 suspensions for untracked accounts.
-315 accounts have more than 1000 followers and are included here.
+Found 4491 suspensions for untracked accounts.
+316 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1003,7 +1003,7 @@ Found 4490 suspensions for untracked accounts.
             <td>2018-03-10</td>
             <td></td>
             <td align="center"></td>
-            <td>73782</td>
+            <td>73795</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1249456677931208704">
@@ -1454,7 +1454,7 @@ Found 4490 suspensions for untracked accounts.
             <td>2019-04-26</td>
             <td></td>
             <td align="center"></td>
-            <td>9060</td>
+            <td>8972</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1489408268078252032">
@@ -2291,6 +2291,17 @@ Found 4490 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2802</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1449145519125766144">
+                <img src="https://pbs.twimg.com/profile_images/1583474403416817665/bRGPERHX_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MindGardn">MindGardn</a></td>
+            <td>2021-10-15</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2798</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=191525992">

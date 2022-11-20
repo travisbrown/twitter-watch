@@ -78,7 +78,7 @@ Found 9 suspensions for tracked accounts.
             <td>2022-02-04</td>
             <td></td>
             <td align="center"></td>
-            <td>513</td>
+            <td>514</td>
             <td>34957</td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@ Found 9 suspensions for tracked accounts.
             <td>2019-01-08</td>
             <td></td>
             <td align="center"></td>
-            <td>90</td>
+            <td>91</td>
             <td>51181</td>
         </tr>
         <tr>
@@ -855,7 +855,7 @@ Found 1458 suspensions for untracked accounts.
             <td>2008-10-29</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>23576</td>
+            <td>23617</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1381236284694409223">
@@ -954,7 +954,7 @@ Found 1458 suspensions for untracked accounts.
             <td>2011-02-06</td>
             <td></td>
             <td align="center">🔒</td>
-            <td>10637</td>
+            <td>10634</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=414625695">
@@ -1144,6 +1144,17 @@ Found 1458 suspensions for untracked accounts.
             <td>6853</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1900393544">
+                <img src="https://pbs.twimg.com/profile_images/1584791976020410368/R_GiNtrx_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/BatAtVideoGames">BatAtVideoGames</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1900393544">1 other</a>)&nbsp;</td>
+            <td>2013-09-24</td>
+            <td></td>
+            <td align="center"></td>
+            <td>6807</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1429563371171598338">
                 <img src="https://pbs.twimg.com/profile_images/1522025579519909888/wh3Egoro_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1153,17 +1164,6 @@ Found 1458 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>6790</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1900393544">
-                <img src="https://pbs.twimg.com/profile_images/1584791976020410368/R_GiNtrx_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/BatAtVideoGames">BatAtVideoGames</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1900393544">1 other</a>)&nbsp;</td>
-            <td>2013-09-24</td>
-            <td></td>
-            <td align="center"></td>
-            <td>6779</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=908700811290693634">
@@ -1240,7 +1240,7 @@ Found 1458 suspensions for untracked accounts.
             <td>2020-03-31</td>
             <td></td>
             <td align="center"></td>
-            <td>5654</td>
+            <td>5652</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1553180223180611584">
@@ -1680,7 +1680,7 @@ Found 1458 suspensions for untracked accounts.
             <td>2021-06-30</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2825</td>
+            <td>2835</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1092368094587166720">
@@ -1845,7 +1845,7 @@ Found 1458 suspensions for untracked accounts.
             <td>2013-09-30</td>
             <td></td>
             <td align="center"></td>
-            <td>2271</td>
+            <td>2268</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=301012654">
@@ -1878,7 +1878,7 @@ Found 1458 suspensions for untracked accounts.
             <td>2021-11-12</td>
             <td></td>
             <td align="center"></td>
-            <td>2197</td>
+            <td>2204</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1253438097758416901">

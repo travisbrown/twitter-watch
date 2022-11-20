@@ -1216,7 +1216,7 @@ Found 1813 suspensions for untracked accounts.
             <td>2014-10-13</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>17546</td>
+            <td>17545</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1163414322820898818">
@@ -1249,7 +1249,7 @@ Found 1813 suspensions for untracked accounts.
             <td>2008-11-18</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>12977</td>
+            <td>12975</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=789556300938117120">
@@ -1579,7 +1579,7 @@ Found 1813 suspensions for untracked accounts.
             <td>2008-06-02</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>2695</td>
+            <td>2694</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=903641881">
@@ -1593,17 +1593,6 @@ Found 1813 suspensions for untracked accounts.
             <td>2615</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=764128520834584577">
-                <img src="https://pbs.twimg.com/profile_images/1468431358376751105/EOZZDIgl_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SmallCapJT">SmallCapJT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764128520834584577">5 others</a>)&nbsp;</td>
-            <td>2016-08-12</td>
-            <td>2022-07-04</td>
-            <td align="center"></td>
-            <td>2577</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1099289106645954560">
                 <img src="https://pbs.twimg.com/profile_images/1438254268465786885/vlCCI6jd_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1613,6 +1602,17 @@ Found 1813 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2576</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=764128520834584577">
+                <img src="https://pbs.twimg.com/profile_images/1468431358376751105/EOZZDIgl_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SmallCapJT">SmallCapJT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764128520834584577">5 others</a>)&nbsp;</td>
+            <td>2016-08-12</td>
+            <td>2022-07-04</td>
+            <td align="center"></td>
+            <td>2575</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3501077414">
@@ -1744,7 +1744,7 @@ Found 1813 suspensions for untracked accounts.
             <td>2021-11-07</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>2201</td>
+            <td>2205</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1292913920089432065">

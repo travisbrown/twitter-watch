@@ -1687,6 +1687,17 @@ Found 2215 suspensions for untracked accounts.
             <td>1892</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1141498933765648386">
+                <img src="https://pbs.twimg.com/profile_images/1563218137243193344/3fcgW2fo_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SocialDuck101">SocialDuck101</a></td>
+            <td>2019-06-20</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>1881</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1420324108282236930">
                 <img src="https://pbs.twimg.com/profile_images/1420324418618810378/cAP6uMha_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1696,17 +1707,6 @@ Found 2215 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1879</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1141498933765648386">
-                <img src="https://pbs.twimg.com/profile_images/1563218137243193344/3fcgW2fo_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SocialDuck101">SocialDuck101</a></td>
-            <td>2019-06-20</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>1877</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1850742925">

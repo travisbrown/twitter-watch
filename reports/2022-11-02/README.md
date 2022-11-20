@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (51)](#tracked-suspensions)
 * [Tracked screen name changes (43)](#tracked-screen-name-changes)
-* [Untracked suspensions (148)](#untracked-suspensions)
+* [Untracked suspensions (147)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -90,7 +90,7 @@ Found 51 suspensions for tracked accounts.
             <td>2017-08-08</td>
             <td></td>
             <td align="center"></td>
-            <td>1082</td>
+            <td>1083</td>
             <td>2650</td>
         </tr>
         <tr>
@@ -1211,7 +1211,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
 ### Untracked suspensions
 
 Found 1779 suspensions for untracked accounts.
-148 accounts have more than 1000 followers and are included here.
+147 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -2478,17 +2478,6 @@ Found 1779 suspensions for untracked accounts.
             <td>1338</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2904489946">
-                <img src="https://pbs.twimg.com/profile_images/540290989873963008/7O65GfrT_normal.jpeg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Mirage_Intl">Mirage_Intl</a></td>
-            <td>2014-12-03</td>
-            <td></td>
-            <td align="center">🔒</td>
-            <td>1312</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1448340835964276739">
                 <img src="https://pbs.twimg.com/profile_images/1448343590485245954/qZOhZTe__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2622,14 +2611,14 @@ Found 1779 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=900108345859645440">
-                <img src="https://pbs.twimg.com/profile_images/1550723078497652737/_FvslmHN_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1593635441307136000/3W4kEXT7_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/mkdka601">mkdka601</a></td>
             <td>2017-08-22</td>
             <td></td>
-            <td align="center"></td>
-            <td>1199</td>
+            <td align="center">🔒</td>
+            <td>1201</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=823717926528090112">

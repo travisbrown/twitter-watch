@@ -1163,7 +1163,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2009-03-14</td>
             <td></td>
             <td align="center"></td>
-            <td>13488</td>
+            <td>13523</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1395094797191417857">
@@ -1449,7 +1449,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2021-10-30</td>
             <td></td>
             <td align="center"></td>
-            <td>5835</td>
+            <td>5836</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1453899290582130690">
@@ -1603,7 +1603,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2010-10-24</td>
             <td></td>
             <td align="center"></td>
-            <td>3902</td>
+            <td>3896</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1334304386860916737">
@@ -1691,7 +1691,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2021-06-06</td>
             <td></td>
             <td align="center"></td>
-            <td>3269</td>
+            <td>3276</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1503556121994444800">
@@ -2230,7 +2230,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2016-01-31</td>
             <td></td>
             <td align="center"></td>
-            <td>1662</td>
+            <td>1663</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1532984509020487681">
@@ -2340,7 +2340,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2011-03-21</td>
             <td></td>
             <td align="center"></td>
-            <td>1492</td>
+            <td>1520</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1537234888121847810">
@@ -2563,23 +2563,23 @@ Found 1385 suspensions for untracked accounts.
             <td>1240</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=3245578423">
-                <img src="https://pbs.twimg.com/profile_images/1582864929836638208/i6ULk9mn_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MenacingPatriot">MenacingPatriot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3245578423">2 others</a>)&nbsp;</td>
-            <td>2015-06-15</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1229</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1525414407949254658">
                 <img src="https://pbs.twimg.com/profile_images/1568701212253650945/VS_AB7Ye_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Bravo76417701">Bravo76417701</a></td>
             <td>2022-05-14</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1237</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=3245578423">
+                <img src="https://pbs.twimg.com/profile_images/1582864929836638208/i6ULk9mn_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MenacingPatriot">MenacingPatriot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3245578423">2 others</a>)&nbsp;</td>
+            <td>2015-06-15</td>
             <td></td>
             <td align="center"></td>
             <td>1229</td>
@@ -2758,7 +2758,7 @@ Found 1385 suspensions for untracked accounts.
             <td>2020-06-19</td>
             <td></td>
             <td align="center"></td>
-            <td>1030</td>
+            <td>1032</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=24550830">

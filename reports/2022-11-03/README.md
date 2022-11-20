@@ -1064,7 +1064,7 @@ Found 1739 suspensions for untracked accounts.
             <td>2016-02-19</td>
             <td></td>
             <td align="center"></td>
-            <td>64659</td>
+            <td>64632</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1103822725095833600">
@@ -1922,7 +1922,7 @@ Found 1739 suspensions for untracked accounts.
             <td>2022-08-22</td>
             <td></td>
             <td align="center"></td>
-            <td>2441</td>
+            <td>2434</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1310924880288808960">
@@ -2266,17 +2266,6 @@ Found 1739 suspensions for untracked accounts.
             <td>1531</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1553002352394862593">
-                <img src="https://pbs.twimg.com/profile_images/1553043632638279682/4ho-oLfb_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Marlene50720901">Marlene50720901</a></td>
-            <td>2022-07-29</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1518</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1074611793920778240">
                 <img src="https://pbs.twimg.com/profile_images/1396893407390441476/y4em7Qyn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2294,6 +2283,17 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/louiseshevik">louiseshevik</a></td>
             <td>2021-06-02</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1515</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1553002352394862593">
+                <img src="https://pbs.twimg.com/profile_images/1553043632638279682/4ho-oLfb_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Marlene50720901">Marlene50720901</a></td>
+            <td>2022-07-29</td>
             <td></td>
             <td align="center"></td>
             <td>1515</td>

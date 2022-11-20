@@ -5930,7 +5930,7 @@ Found 3284 suspensions for untracked accounts.
             <td>2020-07-10</td>
             <td></td>
             <td align="center"></td>
-            <td>163838</td>
+            <td>168668</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1554314659">
@@ -6172,7 +6172,7 @@ Found 3284 suspensions for untracked accounts.
             <td>2014-07-19</td>
             <td></td>
             <td align="center"></td>
-            <td>13993</td>
+            <td>13991</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1392537055545135106">
@@ -6810,7 +6810,7 @@ Found 3284 suspensions for untracked accounts.
             <td>2013-08-05</td>
             <td></td>
             <td align="center"></td>
-            <td>2684</td>
+            <td>2685</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1509573699447496711">
@@ -6986,7 +6986,7 @@ Found 3284 suspensions for untracked accounts.
             <td>2021-07-10</td>
             <td></td>
             <td align="center"></td>
-            <td>1962</td>
+            <td>1965</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=950584995805974528">
@@ -7726,6 +7726,17 @@ Found 3284 suspensions for untracked accounts.
             <td>1083</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1236698099139084295">
+                <img src="https://pbs.twimg.com/profile_images/1564632148946161664/szJ6H7AI_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/jorgesc__03">jorgesc__03</a></td>
+            <td>2020-03-08</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1082</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1366592265938870274">
                 <img src="https://pbs.twimg.com/profile_images/1537308188558495745/15-wNHC6_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -7735,17 +7746,6 @@ Found 3284 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1079</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1236698099139084295">
-                <img src="https://pbs.twimg.com/profile_images/1564632148946161664/szJ6H7AI_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/jorgesc__03">jorgesc__03</a></td>
-            <td>2020-03-08</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1078</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=345414571">

@@ -429,7 +429,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2015-12-21</td>
             <td></td>
             <td align="center"></td>
-            <td>14839</td>
+            <td>14835</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4631267695">
@@ -495,7 +495,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2021-12-30</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>9405</td>
+            <td>9396</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=567640198">
@@ -847,7 +847,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2018-12-20</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>2200</td>
+            <td>2197</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=69570066">
@@ -1243,7 +1243,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2017-10-02</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1159</td>
+            <td>1156</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1411418782225027074">
@@ -1268,6 +1268,17 @@ Found 1287 suspensions for untracked accounts.
             <td>1112</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1495144764466941959">
+                <img src="https://pbs.twimg.com/profile_images/1563713721108774918/-vxpsi3B_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/DiegoMavill">DiegoMavill</a></td>
+            <td>2022-02-19</td>
+            <td>2022-08-15</td>
+            <td align="center"></td>
+            <td>1110</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1528543700695101440">
                 <img src="https://pbs.twimg.com/profile_images/1528543849630601217/y3S6jKlL_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1277,17 +1288,6 @@ Found 1287 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1109</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1495144764466941959">
-                <img src="https://pbs.twimg.com/profile_images/1563713721108774918/-vxpsi3B_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/DiegoMavill">DiegoMavill</a></td>
-            <td>2022-02-19</td>
-            <td>2022-08-15</td>
-            <td align="center"></td>
-            <td>1106</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3138855244">

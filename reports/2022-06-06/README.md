@@ -489,14 +489,14 @@ Found 812 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1474921199339806721">
-                <img src="https://pbs.twimg.com/profile_images/1524862764652675086/9BYTR5PK_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1533575869066883076/EA76SRZo_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/GizzyNFT">GizzyNFT</a></td>
             <td>2021-12-26</td>
             <td></td>
             <td align="center"></td>
-            <td>113698</td>
+            <td>107797</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=806643290745475073">
@@ -507,7 +507,7 @@ Found 812 suspensions for untracked accounts.
             <td>2016-12-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>66967</td>
+            <td>66961</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1513320454815109130">
