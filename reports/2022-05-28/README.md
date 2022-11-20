@@ -337,7 +337,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DannyCrypt">DannyCrypt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1379490605043216384">1 other</a>)&nbsp;</td>
             <td>2021-04-06</td>
-            <td></td>
+            <td>2022-10-20</td>
             <td align="center"></td>
             <td>111967</td>
         </tr>

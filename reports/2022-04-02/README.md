@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Anarcho_Toad">Anarcho_Toad</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/51813682">2 others</a>)&nbsp;</td>
             <td>2009-06-28</td>
-            <td></td>
+            <td>2022-05-04</td>
             <td align="center"></td>
             <td>7041</td>
             <td>946</td>

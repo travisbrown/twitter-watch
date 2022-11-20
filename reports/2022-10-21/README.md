@@ -918,7 +918,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BTC_LN">BTC_LN</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2200360908">4 others</a>)&nbsp;</td>
             <td>2013-11-17</td>
-            <td></td>
+            <td>2022-10-24</td>
             <td align="center"></td>
             <td>23273</td>
         </tr>
@@ -1501,7 +1501,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FrequentTweets">FrequentTweets</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2473783645">8 others</a>)&nbsp;</td>
             <td>2014-05-02</td>
-            <td></td>
+            <td>2022-10-31</td>
             <td align="center"></td>
             <td>2639</td>
         </tr>
@@ -1600,7 +1600,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/auntislandshell">auntislandshell</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2833521271">1 other</a>)&nbsp;</td>
             <td>2014-09-27</td>
-            <td></td>
+            <td>2022-11-17</td>
             <td align="center"></td>
             <td>2243</td>
         </tr>
@@ -1831,7 +1831,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dayguccii">dayguccii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/877517794048438272">7 others</a>)&nbsp;</td>
             <td>2017-06-21</td>
-            <td></td>
+            <td>2022-10-27</td>
             <td align="center"></td>
             <td>1730</td>
         </tr>
@@ -1864,7 +1864,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Khojo_Hazard25">Khojo_Hazard25</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1311981647433265158">3 others</a>)&nbsp;</td>
             <td>2020-10-02</td>
-            <td></td>
+            <td>2022-10-24</td>
             <td align="center"></td>
             <td>1672</td>
         </tr>
@@ -1919,7 +1919,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/issarxz">issarxz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2699858533">8 others</a>)&nbsp;</td>
             <td>2014-08-02</td>
-            <td></td>
+            <td>2022-09-25</td>
             <td align="center"></td>
             <td>1560</td>
         </tr>
@@ -1996,7 +1996,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lowry81RW">Lowry81RW</a></td>
             <td>2019-08-13</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center"></td>
             <td>1374</td>
         </tr>
@@ -2073,7 +2073,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OBoneKanOB">OBoneKanOB</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/222430632">1 other</a>)&nbsp;</td>
             <td>2010-12-03</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>1294</td>
         </tr>
@@ -2205,7 +2205,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hedayatti">hedayatti</a></td>
             <td>2018-09-27</td>
-            <td></td>
+            <td>2022-11-17</td>
             <td align="center"></td>
             <td>1192</td>
         </tr>
@@ -2348,7 +2348,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ken4087">Ken4087</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-10-28</td>
             <td align="center"></td>
             <td>1135</td>
         </tr>
@@ -2381,7 +2381,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GPRosenblatt2">GPRosenblatt2</a></td>
             <td>2022-04-28</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>1112</td>
         </tr>

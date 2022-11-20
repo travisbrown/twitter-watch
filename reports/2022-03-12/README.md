@@ -40,7 +40,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/deadmauz">deadmauz</a></td>
             <td>2009-06-20</td>
-            <td></td>
+            <td>2022-09-06</td>
             <td align="center"></td>
             <td>1150</td>
             <td>52155</td>
@@ -785,7 +785,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DominateREALITY">DominateREALITY</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/42817864">1 other</a>)&nbsp;</td>
             <td>2009-05-27</td>
-            <td></td>
+            <td>2022-09-06</td>
             <td align="center"></td>
             <td>4447</td>
         </tr>
@@ -983,7 +983,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MeeksAZ">MeeksAZ</a></td>
             <td>2008-09-21</td>
-            <td></td>
+            <td>2022-09-06</td>
             <td align="center"></td>
             <td>1879</td>
         </tr>

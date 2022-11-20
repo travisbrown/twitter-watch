@@ -434,7 +434,7 @@ Found 1484 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KoraAngel1">KoraAngel1</a></td>
             <td>2018-05-29</td>
-            <td></td>
+            <td>2022-11-03</td>
             <td align="center"></td>
             <td>11022</td>
         </tr>
@@ -500,7 +500,7 @@ Found 1484 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Coronours2">Coronours2</a></td>
             <td>2022-02-25</td>
-            <td></td>
+            <td>2022-10-15</td>
             <td align="center"></td>
             <td>7242</td>
         </tr>

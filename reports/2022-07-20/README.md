@@ -627,7 +627,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JacquesMaree73">JacquesMaree73</a></td>
             <td>2013-02-06</td>
-            <td></td>
+            <td>2022-11-08</td>
             <td align="center"></td>
             <td>18214</td>
         </tr>
@@ -1496,7 +1496,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Navik20935889">Navik20935889</a></td>
             <td>2020-02-14</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>1916</td>
         </tr>
@@ -1936,7 +1936,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Garnet478">Garnet478</a></td>
             <td>2010-09-17</td>
-            <td></td>
+            <td>2022-09-07</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>

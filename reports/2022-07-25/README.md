@@ -1052,7 +1052,7 @@ Found 1693 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KaloManoukian">KaloManoukian</a></td>
             <td>2012-11-02</td>
-            <td></td>
+            <td>2022-10-13</td>
             <td align="center"></td>
             <td>10428</td>
         </tr>
@@ -1624,7 +1624,7 @@ Found 1693 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hocamona1">hocamona1</a></td>
             <td>2020-11-18</td>
-            <td></td>
+            <td>2022-10-18</td>
             <td align="center"></td>
             <td>4289</td>
         </tr>

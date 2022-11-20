@@ -1227,7 +1227,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DonaldS70743382">DonaldS70743382</a></td>
             <td>2021-12-04</td>
-            <td></td>
+            <td>2022-11-08</td>
             <td align="center"></td>
             <td>3122</td>
         </tr>
@@ -1568,7 +1568,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pangyre">pangyre</a></td>
             <td>2009-06-29</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>1197</td>
         </tr>

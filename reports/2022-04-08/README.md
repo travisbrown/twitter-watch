@@ -1274,7 +1274,7 @@ Found 620 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnaFuentesHomes">AnaFuentesHomes</a></td>
             <td>2011-10-31</td>
-            <td></td>
+            <td>2022-04-14</td>
             <td align="center"></td>
             <td>3035</td>
         </tr>

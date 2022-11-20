@@ -52,7 +52,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/falskaltruist">falskaltruist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389636365034393612">1 other</a>)&nbsp;</td>
             <td>2021-05-04</td>
-            <td></td>
+            <td>2022-10-12</td>
             <td align="center"></td>
             <td>1651</td>
             <td>51742</td>
@@ -279,7 +279,7 @@ Found 1436 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LunarOrbiter">LunarOrbiter</a></td>
             <td>2008-06-13</td>
-            <td></td>
+            <td>2022-09-28</td>
             <td align="center"></td>
             <td>21015</td>
         </tr>
@@ -312,7 +312,7 @@ Found 1436 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nqangamandla">Nqangamandla</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/497280251">6 others</a>)&nbsp;</td>
             <td>2012-02-19</td>
-            <td></td>
+            <td>2022-10-22</td>
             <td align="center"></td>
             <td>17489</td>
         </tr>
@@ -334,7 +334,7 @@ Found 1436 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/helloitsinspa">helloitsinspa</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2022-10-02</td>
             <td align="center"></td>
             <td>15953</td>
         </tr>
@@ -356,7 +356,7 @@ Found 1436 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/geminifreaak">geminifreaak</a></td>
             <td>2021-11-17</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center"></td>
             <td>13586</td>
         </tr>
@@ -532,7 +532,7 @@ Found 1436 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/spymilk_">spymilk_</a></td>
             <td>2021-11-29</td>
-            <td></td>
+            <td>2022-09-11</td>
             <td align="center"></td>
             <td>6455</td>
         </tr>
@@ -565,7 +565,7 @@ Found 1436 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/arodnyansky">arodnyansky</a></td>
             <td>2014-04-09</td>
-            <td></td>
+            <td>2022-10-02</td>
             <td align="center"></td>
             <td>5034</td>
         </tr>
@@ -708,7 +708,7 @@ Found 1436 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/armpitloli">armpitloli</a></td>
             <td>2022-05-05</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center"></td>
             <td>2598</td>
         </tr>

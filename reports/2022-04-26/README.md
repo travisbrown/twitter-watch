@@ -646,7 +646,7 @@ Found 409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_hookoffthejab_">_hookoffthejab_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1462692329119264769">1 other</a>)&nbsp;</td>
             <td>2021-11-22</td>
-            <td></td>
+            <td>2022-10-25</td>
             <td align="center"></td>
             <td>3780</td>
         </tr>

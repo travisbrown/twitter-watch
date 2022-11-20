@@ -1311,7 +1311,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/seoloud">seoloud</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1301288066">1 other</a>)&nbsp;</td>
             <td>2013-03-25</td>
-            <td></td>
+            <td>2022-10-28</td>
             <td align="center"></td>
             <td>4324</td>
         </tr>

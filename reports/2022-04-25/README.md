@@ -76,7 +76,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NightHawkRides">NightHawkRides</a></td>
             <td>2021-12-09</td>
-            <td></td>
+            <td>2022-10-18</td>
             <td align="center"></td>
             <td>224</td>
             <td>45272</td>
@@ -2745,7 +2745,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FabriLemus7">FabriLemus7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4804114077">1 other</a>)&nbsp;</td>
             <td>2016-01-14</td>
-            <td></td>
+            <td>2022-10-25</td>
             <td align="center"></td>
             <td>502512</td>
         </tr>
@@ -4087,7 +4087,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bigbenhenderson">bigbenhenderson</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/968221624326598656">4 others</a>)&nbsp;</td>
             <td>2018-02-26</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>1035</td>
         </tr>

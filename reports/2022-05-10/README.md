@@ -1232,7 +1232,7 @@ Found 1075 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/queenbeeofaz">queenbeeofaz</a></td>
             <td>2010-09-01</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>1426</td>
         </tr>
@@ -1309,7 +1309,7 @@ Found 1075 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ethan00001747">Ethan00001747</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1351721873445441544">1 other</a>)&nbsp;</td>
             <td>2021-01-20</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>1305</td>
         </tr>

@@ -40,7 +40,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AridiculousYo">AridiculousYo</a></td>
             <td>2022-05-05</td>
-            <td></td>
+            <td>2022-11-08</td>
             <td align="center"></td>
             <td>4174</td>
             <td>1176</td>
@@ -1014,7 +1014,7 @@ Found 981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ly_salmh">ly_salmh</a></td>
             <td>2022-01-28</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center">🔒</td>
             <td>1932</td>
         </tr>

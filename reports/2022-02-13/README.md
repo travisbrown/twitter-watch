@@ -5450,7 +5450,7 @@ Found 2760 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rob_easterby">rob_easterby</a></td>
             <td>2019-03-08</td>
-            <td></td>
+            <td>2022-10-27</td>
             <td align="center"></td>
             <td>2075</td>
         </tr>
@@ -6022,7 +6022,7 @@ Found 2760 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/writewaydesigns">writewaydesigns</a></td>
             <td>2008-05-26</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center">🔒</td>
             <td>1840</td>
         </tr>
@@ -8299,7 +8299,7 @@ Found 2760 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hardwired_TSD">Hardwired_TSD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/39780116">1 other</a>)&nbsp;</td>
             <td>2009-05-13</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>1134</td>
         </tr>

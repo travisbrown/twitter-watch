@@ -1613,7 +1613,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/catholicizm_">catholicizm_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230168415693942785">1 other</a>)&nbsp;</td>
             <td>2020-02-19</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>1879</td>
         </tr>

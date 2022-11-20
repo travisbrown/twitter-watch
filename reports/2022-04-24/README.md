@@ -482,7 +482,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ubuhleeee">Ubuhleeee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1193504254977290240">3 others</a>)&nbsp;</td>
             <td>2019-11-10</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>67727</td>
         </tr>
@@ -1527,7 +1527,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/simpleand4">simpleand4</a></td>
             <td>2019-04-04</td>
-            <td></td>
+            <td>2022-10-15</td>
             <td align="center"></td>
             <td>5528</td>
         </tr>
@@ -1956,7 +1956,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nripatunga">nripatunga</a></td>
             <td>2014-11-28</td>
-            <td></td>
+            <td>2022-11-01</td>
             <td align="center"></td>
             <td>3293</td>
         </tr>
@@ -3078,7 +3078,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/the_calvince">the_calvince</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/758363705352552449">1 other</a>)&nbsp;</td>
             <td>2016-07-27</td>
-            <td></td>
+            <td>2022-10-11</td>
             <td align="center"></td>
             <td>1528</td>
         </tr>
@@ -3210,7 +3210,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wabvudzijena">wabvudzijena</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/185946959">2 others</a>)&nbsp;</td>
             <td>2010-09-02</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>1410</td>
         </tr>
@@ -4101,7 +4101,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Matabane_Chuene">Matabane_Chuene</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/720900138">1 other</a>)&nbsp;</td>
             <td>2012-07-27</td>
-            <td></td>
+            <td>2022-10-18</td>
             <td align="center"></td>
             <td>1053</td>
         </tr>

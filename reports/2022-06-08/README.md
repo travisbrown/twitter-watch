@@ -1253,7 +1253,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SeanLNelson1">SeanLNelson1</a></td>
             <td>2021-03-28</td>
-            <td></td>
+            <td>2022-10-20</td>
             <td align="center"></td>
             <td>2485</td>
         </tr>
@@ -1319,7 +1319,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KyleTrowbridge5">KyleTrowbridge5</a></td>
             <td>2020-03-25</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>2269</td>
         </tr>

@@ -897,7 +897,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GrandmaHeLives">GrandmaHeLives</a></td>
             <td>2022-04-10</td>
-            <td></td>
+            <td>2022-10-17</td>
             <td align="center"></td>
             <td>1315</td>
         </tr>

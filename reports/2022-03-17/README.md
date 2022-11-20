@@ -776,7 +776,7 @@ Found 709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheHiddenJewell">TheHiddenJewell</a></td>
             <td>2019-05-18</td>
-            <td></td>
+            <td>2022-09-06</td>
             <td align="center"></td>
             <td>9271</td>
         </tr>
@@ -875,7 +875,7 @@ Found 709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PowerpointPpt">PowerpointPpt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/871257338">3 others</a>)&nbsp;</td>
             <td>2012-10-10</td>
-            <td></td>
+            <td>2022-10-14</td>
             <td align="center"></td>
             <td>4143</td>
         </tr>

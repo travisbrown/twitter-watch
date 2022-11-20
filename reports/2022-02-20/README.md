@@ -1179,7 +1179,7 @@ Found 425 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rezende_evaldo">rezende_evaldo</a></td>
             <td>2019-01-13</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>2444</td>
         </tr>

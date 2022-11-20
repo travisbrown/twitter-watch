@@ -196,7 +196,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FrenlyRaider">FrenlyRaider</a></td>
             <td>2022-06-01</td>
-            <td></td>
+            <td>2022-06-03</td>
             <td align="center"></td>
             <td>20</td>
             <td>21380</td>
@@ -1455,7 +1455,7 @@ Found 964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mack_tjan">mack_tjan</a></td>
             <td>2022-03-17</td>
-            <td></td>
+            <td>2022-11-12</td>
             <td align="center"></td>
             <td>1927</td>
         </tr>

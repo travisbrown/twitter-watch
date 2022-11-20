@@ -340,7 +340,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Verosmithsonian">Verosmithsonian</a></td>
             <td>2022-01-04</td>
-            <td></td>
+            <td>2022-10-11</td>
             <td align="center">🔒</td>
             <td>393</td>
             <td>59750</td>
@@ -645,7 +645,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HumanlikeBro">HumanlikeBro</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1475850121074016262">1 other</a>)&nbsp;</td>
             <td>2021-12-28</td>
-            <td></td>
+            <td>2022-10-26</td>
             <td align="center"></td>
             <td>117075</td>
         </tr>
@@ -1041,7 +1041,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vibrantdad">vibrantdad</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1423295444994592785">1 other</a>)&nbsp;</td>
             <td>2021-08-05</td>
-            <td></td>
+            <td>2022-10-13</td>
             <td align="center"></td>
             <td>9279</td>
         </tr>
@@ -1085,7 +1085,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SatiriaNews">SatiriaNews</a></td>
             <td>2016-06-02</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>7860</td>
         </tr>
@@ -1481,7 +1481,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Brother_K_BSM">Brother_K_BSM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/832363140">1 other</a>)&nbsp;</td>
             <td>2012-09-19</td>
-            <td></td>
+            <td>2022-10-21</td>
             <td align="center"></td>
             <td>2698</td>
         </tr>

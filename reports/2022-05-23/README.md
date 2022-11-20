@@ -626,7 +626,7 @@ Found 977 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CalvinRainsford">CalvinRainsford</a></td>
             <td>2021-08-31</td>
-            <td></td>
+            <td>2022-10-22</td>
             <td align="center"></td>
             <td>1708</td>
         </tr>
@@ -736,7 +736,7 @@ Found 977 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PoliticalMurica">PoliticalMurica</a></td>
             <td>2021-12-27</td>
-            <td></td>
+            <td>2022-10-31</td>
             <td align="center"></td>
             <td>1383</td>
         </tr>

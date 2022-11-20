@@ -292,7 +292,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/diarmuidlyng">diarmuidlyng</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/223867229">1 other</a>)&nbsp;</td>
             <td>2010-12-07</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>9413</td>
         </tr>

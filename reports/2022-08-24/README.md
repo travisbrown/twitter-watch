@@ -100,7 +100,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/animegroyp">animegroyp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1430359819110727681">3 others</a>)&nbsp;</td>
             <td>2021-08-25</td>
-            <td></td>
+            <td>2022-09-29</td>
             <td align="center"></td>
             <td>60</td>
             <td>39633</td>
@@ -659,7 +659,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lenaisapeach">lenaisapeach</a></td>
             <td>2015-12-28</td>
-            <td></td>
+            <td>2022-09-06</td>
             <td align="center">🔒</td>
             <td>1012020</td>
         </tr>
@@ -780,7 +780,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/daemonic3">daemonic3</a></td>
             <td>2009-03-04</td>
-            <td></td>
+            <td>2022-10-01</td>
             <td align="center"></td>
             <td>47546</td>
         </tr>
@@ -868,7 +868,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ekitititilailai">Ekitititilailai</a></td>
             <td>2014-07-10</td>
-            <td></td>
+            <td>2022-09-29</td>
             <td align="center"></td>
             <td>22121</td>
         </tr>
@@ -1088,7 +1088,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/non_hh1">non_hh1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/201264835">2 others</a>)&nbsp;</td>
             <td>2010-10-11</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>5893</td>
         </tr>
@@ -1297,7 +1297,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/King_Richie_V">King_Richie_V</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/902610016624152577">2 others</a>)&nbsp;</td>
             <td>2017-08-29</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>3446</td>
         </tr>
@@ -1616,7 +1616,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bwu">bwu</a></td>
             <td>2008-06-22</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>2043</td>
         </tr>
@@ -1770,7 +1770,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FAlRcriticism">FAlRcriticism</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1539775040">4 others</a>)&nbsp;</td>
             <td>2013-06-23</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>1773</td>
         </tr>
@@ -1792,7 +1792,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Luxus_ghetto">Luxus_ghetto</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/995353492071047169">2 others</a>)&nbsp;</td>
             <td>2018-05-12</td>
-            <td></td>
+            <td>2022-10-02</td>
             <td align="center"></td>
             <td>1727</td>
         </tr>
@@ -1935,7 +1935,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/denofthieves80">denofthieves80</a></td>
             <td>2015-12-19</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>1490</td>
         </tr>
@@ -2133,7 +2133,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CameronTheQuiet">CameronTheQuiet</a></td>
             <td>2021-06-27</td>
-            <td></td>
+            <td>2022-09-23</td>
             <td align="center"></td>
             <td>1254</td>
         </tr>

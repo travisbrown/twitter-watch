@@ -124,7 +124,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GIH_CG">GIH_CG</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2238881913">1 other</a>)&nbsp;</td>
             <td>2013-12-22</td>
-            <td></td>
+            <td>2022-09-29</td>
             <td align="center"></td>
             <td>255</td>
             <td>50886</td>
@@ -544,7 +544,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GodLessArea">GodLessArea</a></td>
             <td>2016-09-07</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>20221</td>
         </tr>
@@ -742,7 +742,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/crankyoldbag">crankyoldbag</a></td>
             <td>2010-08-28</td>
-            <td></td>
+            <td>2022-10-01</td>
             <td align="center"></td>
             <td>7674</td>
         </tr>
@@ -841,7 +841,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Magadad1">Magadad1</a></td>
             <td>2019-01-24</td>
-            <td></td>
+            <td>2022-10-24</td>
             <td align="center"></td>
             <td>5287</td>
         </tr>
@@ -896,7 +896,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sandy">sandy</a></td>
             <td>2006-11-28</td>
-            <td></td>
+            <td>2022-10-30</td>
             <td align="center"></td>
             <td>4951</td>
         </tr>
@@ -1039,7 +1039,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/as">as</a></td>
             <td>2007-03-12</td>
-            <td></td>
+            <td>2022-09-08</td>
             <td align="center"></td>
             <td>4323</td>
         </tr>
@@ -1391,7 +1391,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JordanPetersonX">JordanPetersonX</a></td>
             <td>2017-11-15</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>2411</td>
         </tr>
@@ -1589,7 +1589,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThotAndOpinion">ThotAndOpinion</a></td>
             <td>2021-07-25</td>
-            <td></td>
+            <td>2022-10-08</td>
             <td align="center"></td>
             <td>1830</td>
         </tr>

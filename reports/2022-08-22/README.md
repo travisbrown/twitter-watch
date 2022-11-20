@@ -926,7 +926,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HowtoDIYHD">HowtoDIYHD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3297735347">1 other</a>)&nbsp;</td>
             <td>2015-05-25</td>
-            <td></td>
+            <td>2022-10-08</td>
             <td align="center"></td>
             <td>8030</td>
         </tr>
@@ -1003,7 +1003,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/beta__i">beta__i</a></td>
             <td>2010-08-04</td>
-            <td></td>
+            <td>2022-09-08</td>
             <td align="center"></td>
             <td>6866</td>
         </tr>
@@ -2092,7 +2092,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LickPavement">LickPavement</a></td>
             <td>2021-04-21</td>
-            <td></td>
+            <td>2022-08-28</td>
             <td align="center"></td>
             <td>1804</td>
         </tr>
@@ -2345,7 +2345,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Haroonlarry">Haroonlarry</a></td>
             <td>2020-05-03</td>
-            <td></td>
+            <td>2022-09-08</td>
             <td align="center"></td>
             <td>1440</td>
         </tr>

@@ -52,7 +52,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TroophR">TroophR</a></td>
             <td>2020-03-06</td>
-            <td></td>
+            <td>2022-09-28</td>
             <td align="center"></td>
             <td>298</td>
             <td>29481</td>
@@ -1601,7 +1601,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Egaul15">Egaul15</a></td>
             <td>2017-02-06</td>
-            <td></td>
+            <td>2022-09-06</td>
             <td align="center"></td>
             <td>1628</td>
         </tr>
@@ -1832,7 +1832,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SupremeCrusader">SupremeCrusader</a></td>
             <td>2019-03-02</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>1392</td>
         </tr>

@@ -692,7 +692,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FriendCircleBot">FriendCircleBot</a></td>
             <td>2021-09-15</td>
-            <td></td>
+            <td>2022-11-13</td>
             <td align="center"></td>
             <td>34970</td>
         </tr>

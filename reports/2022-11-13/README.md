@@ -28,7 +28,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/prokofievenjoyr">prokofievenjoyr</a></td>
             <td>2021-12-09</td>
-            <td></td>
+            <td>2022-09-09</td>
             <td align="center"></td>
             <td>1000</td>
             <td>1550</td>
@@ -40,7 +40,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AlbertWatkins_">AlbertWatkins_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1521526232390774789">2 others</a>)&nbsp;</td>
             <td>2022-05-03</td>
-            <td></td>
+            <td>2022-09-07</td>
             <td align="center"></td>
             <td>890</td>
             <td>2616</td>
@@ -368,7 +368,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lsthart">lsthart</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1406841282">1 other</a>)&nbsp;</td>
             <td>2013-05-06</td>
-            <td></td>
+            <td>2022-11-15</td>
             <td align="center"></td>
             <td>11374</td>
         </tr>

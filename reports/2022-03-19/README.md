@@ -1426,7 +1426,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TeslAlpha2Beta">TeslAlpha2Beta</a></td>
             <td>2021-10-10</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>1619</td>
         </tr>

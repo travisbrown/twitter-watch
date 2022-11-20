@@ -64,7 +64,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FearTheFloof">FearTheFloof</a></td>
             <td>2020-07-09</td>
-            <td></td>
+            <td>2022-10-06</td>
             <td align="center"></td>
             <td>31078</td>
             <td>5950</td>
@@ -88,7 +88,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/mjconnly">mjconnly</a></td>
             <td>2016-04-20</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>2734</td>
             <td>24273</td>
@@ -588,7 +588,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PawgLife_">PawgLife_</a></td>
             <td>2017-11-14</td>
-            <td></td>
+            <td>2022-11-01</td>
             <td align="center"></td>
             <td>56515</td>
         </tr>
@@ -929,7 +929,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EstrogenVamps">EstrogenVamps</a></td>
             <td>2022-05-18</td>
-            <td></td>
+            <td>2022-09-13</td>
             <td align="center"></td>
             <td>7061</td>
         </tr>
@@ -1116,7 +1116,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OwnRules">OwnRules</a></td>
             <td>2009-07-02</td>
-            <td></td>
+            <td>2022-10-11</td>
             <td align="center"></td>
             <td>3645</td>
         </tr>
@@ -1479,7 +1479,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AKFLDH234">AKFLDH234</a></td>
             <td>2018-10-15</td>
-            <td></td>
+            <td>2022-10-22</td>
             <td align="center"></td>
             <td>1983</td>
         </tr>
@@ -1578,7 +1578,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TarradiddleMan">TarradiddleMan</a></td>
             <td>2019-12-17</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>1669</td>
         </tr>
@@ -1600,7 +1600,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/this_boy__">this_boy__</a></td>
             <td>2009-11-10</td>
-            <td></td>
+            <td>2022-10-14</td>
             <td align="center"></td>
             <td>1647</td>
         </tr>
@@ -1699,7 +1699,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FJBLamaKonan">FJBLamaKonan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1531365195632852995">1 other</a>)&nbsp;</td>
             <td>2022-05-30</td>
-            <td></td>
+            <td>2022-10-13</td>
             <td align="center"></td>
             <td>1458</td>
         </tr>
@@ -1754,7 +1754,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HerkysArmy">HerkysArmy</a></td>
             <td>2021-11-23</td>
-            <td></td>
+            <td>2022-10-14</td>
             <td align="center"></td>
             <td>1410</td>
         </tr>
@@ -1853,7 +1853,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChimayBlue">ChimayBlue</a></td>
             <td>2017-01-30</td>
-            <td></td>
+            <td>2022-10-11</td>
             <td align="center"></td>
             <td>1349</td>
         </tr>
@@ -1941,7 +1941,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CaptainApppy">CaptainApppy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1226671707680837643">2 others</a>)&nbsp;</td>
             <td>2020-02-10</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>1210</td>
         </tr>

@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/jakeusthegreat">jakeusthegreat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1050401552278671361">1 other</a>)&nbsp;</td>
             <td>2018-10-11</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center"></td>
             <td>756</td>
             <td>16801</td>
@@ -40,7 +40,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GRIDSagent">GRIDSagent</a></td>
             <td>2020-08-31</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>553</td>
             <td>17189</td>

@@ -646,7 +646,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LavieJanRoos">LavieJanRoos</a></td>
             <td>2009-02-22</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>174400</td>
         </tr>
@@ -800,7 +800,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ValCoins">ValCoins</a></td>
             <td>2017-09-13</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>37765</td>
         </tr>
@@ -2131,7 +2131,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hodlvolk">hodlvolk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/742595428261056514">1 other</a>)&nbsp;</td>
             <td>2016-06-14</td>
-            <td></td>
+            <td>2022-11-12</td>
             <td align="center"></td>
             <td>1070</td>
         </tr>

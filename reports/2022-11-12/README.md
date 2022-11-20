@@ -1837,7 +1837,7 @@ Found 2890 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/anthroqocene">anthroqocene</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1136356887618883585">4 others</a>)&nbsp;</td>
             <td>2019-06-05</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center"></td>
             <td>2680</td>
         </tr>
@@ -2046,7 +2046,7 @@ Found 2890 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uwantson">uwantson</a></td>
             <td>2015-05-29</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>1903</td>
         </tr>
@@ -2167,7 +2167,7 @@ Found 2890 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KINGLYMAN8">KINGLYMAN8</a></td>
             <td>2022-08-22</td>
-            <td></td>
+            <td>2022-10-30</td>
             <td align="center"></td>
             <td>1612</td>
         </tr>
@@ -2200,7 +2200,7 @@ Found 2890 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Omar9OSh">Omar9OSh</a></td>
             <td>2022-01-10</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>1509</td>
         </tr>
@@ -2321,7 +2321,7 @@ Found 2890 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YBsGayestFan">YBsGayestFan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1521878242235498497">1 other</a>)&nbsp;</td>
             <td>2022-05-04</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>1358</td>
         </tr>
@@ -2640,7 +2640,7 @@ Found 2890 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Poskok_Info">Poskok_Info</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/203759274">2 others</a>)&nbsp;</td>
             <td>2010-10-17</td>
-            <td></td>
+            <td>2022-11-15</td>
             <td align="center"></td>
             <td>1032</td>
         </tr>

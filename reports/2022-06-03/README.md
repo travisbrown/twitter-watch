@@ -1504,7 +1504,7 @@ Found 415 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alisdisgrace">Alisdisgrace</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18610633">1 other</a>)&nbsp;</td>
             <td>2009-01-04</td>
-            <td></td>
+            <td>2022-11-09</td>
             <td align="center"></td>
             <td>2840</td>
         </tr>

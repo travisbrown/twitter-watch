@@ -1022,7 +1022,7 @@ Found 803 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/3333SuzyQ">3333SuzyQ</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1347737260645625858">1 other</a>)&nbsp;</td>
             <td>2021-01-09</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>1146</td>
         </tr>

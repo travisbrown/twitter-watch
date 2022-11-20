@@ -872,7 +872,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YOS400">YOS400</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/747769413882028033">2 others</a>)&nbsp;</td>
             <td>2016-06-28</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>76574</td>
         </tr>
@@ -894,7 +894,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OfficialVizeh">OfficialVizeh</a></td>
             <td>2013-09-17</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>66059</td>
         </tr>
@@ -1323,7 +1323,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mrbill0691">mrbill0691</a></td>
             <td>2020-10-13</td>
-            <td></td>
+            <td>2022-10-08</td>
             <td align="center"></td>
             <td>5530</td>
         </tr>
@@ -1598,7 +1598,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/berthacute_47">berthacute_47</a></td>
             <td>2021-02-04</td>
-            <td></td>
+            <td>2022-09-28</td>
             <td align="center"></td>
             <td>3413</td>
         </tr>
@@ -2478,7 +2478,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ali_nour_elddin">ali_nour_elddin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1185952938990211075">1 other</a>)&nbsp;</td>
             <td>2019-10-20</td>
-            <td></td>
+            <td>2022-10-05</td>
             <td align="center"></td>
             <td>1155</td>
         </tr>

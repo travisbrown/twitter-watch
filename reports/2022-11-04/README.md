@@ -1348,7 +1348,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/matter">matter</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1232479427981791233">1 other</a>)&nbsp;</td>
             <td>2020-02-26</td>
-            <td></td>
+            <td>2022-11-08</td>
             <td align="center"></td>
             <td>9149</td>
         </tr>
@@ -3130,7 +3130,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/basedsodomite">basedsodomite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1255200879671603200">3 others</a>)&nbsp;</td>
             <td>2020-04-28</td>
-            <td></td>
+            <td>2022-09-24</td>
             <td align="center"></td>
             <td>1056</td>
         </tr>

@@ -40,7 +40,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RebekahUSA81">RebekahUSA81</a></td>
             <td>2022-04-10</td>
-            <td></td>
+            <td>2022-11-08</td>
             <td align="center"></td>
             <td>748</td>
             <td>2155</td>
@@ -88,7 +88,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Emanuel58486520">Emanuel58486520</a></td>
             <td>2021-07-01</td>
-            <td></td>
+            <td>2022-09-07</td>
             <td align="center"></td>
             <td>123</td>
             <td>75833</td>
@@ -548,7 +548,7 @@ Found 1408 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alvesmimar3">alvesmimar3</a></td>
             <td>2019-03-05</td>
-            <td></td>
+            <td>2022-09-10</td>
             <td align="center"></td>
             <td>49440</td>
         </tr>
@@ -614,7 +614,7 @@ Found 1408 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gonnassau">gonnassau</a></td>
             <td>2010-02-09</td>
-            <td></td>
+            <td>2022-10-06</td>
             <td align="center"></td>
             <td>31231</td>
         </tr>
@@ -1428,7 +1428,7 @@ Found 1408 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GC_Fuckups">GC_Fuckups</a></td>
             <td>2021-09-18</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>1769</td>
         </tr>

@@ -124,7 +124,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BartonBella1">BartonBella1</a></td>
             <td>2022-04-07</td>
-            <td></td>
+            <td>2022-10-08</td>
             <td align="center"></td>
             <td>594</td>
             <td>73726</td>

@@ -1170,7 +1170,7 @@ Found 1307 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pricklypear12">pricklypear12</a></td>
             <td>2009-07-18</td>
-            <td></td>
+            <td>2022-11-13</td>
             <td align="center"></td>
             <td>8130</td>
         </tr>
@@ -1214,7 +1214,7 @@ Found 1307 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/innereye_">innereye_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2438998100">6 others</a>)&nbsp;</td>
             <td>2014-04-11</td>
-            <td></td>
+            <td>2022-10-07</td>
             <td align="center"></td>
             <td>7604</td>
         </tr>
@@ -2050,7 +2050,7 @@ Found 1307 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MAGA_TRUMP_2024">MAGA_TRUMP_2024</a></td>
             <td>2022-05-01</td>
-            <td></td>
+            <td>2022-10-02</td>
             <td align="center"></td>
             <td>1582</td>
         </tr>

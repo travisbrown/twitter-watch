@@ -112,7 +112,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/reincarn83d">reincarn83d</a></td>
             <td>2020-11-10</td>
-            <td></td>
+            <td>2022-10-14</td>
             <td align="center"></td>
             <td>327</td>
             <td>10479</td>
@@ -1431,7 +1431,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/crunk_dan">crunk_dan</a></td>
             <td>2017-01-31</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>2640</td>
         </tr>

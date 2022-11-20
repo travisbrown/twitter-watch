@@ -972,7 +972,7 @@ Found 724 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Puterizoey">Puterizoey</a></td>
             <td>2012-05-03</td>
-            <td></td>
+            <td>2022-11-17</td>
             <td align="center"></td>
             <td>3358</td>
         </tr>
@@ -1423,7 +1423,7 @@ Found 724 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/basedeviousrick">basedeviousrick</a></td>
             <td>2021-10-10</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>1357</td>
         </tr>

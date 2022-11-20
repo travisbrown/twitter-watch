@@ -100,7 +100,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KEVINSKORNER2">KEVINSKORNER2</a></td>
             <td>2022-05-14</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>1298</td>
             <td>97519</td>
@@ -821,7 +821,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/oshiagugor">oshiagugor</a></td>
             <td>2019-11-23</td>
-            <td></td>
+            <td>2022-09-10</td>
             <td align="center"></td>
             <td>18525</td>
         </tr>
@@ -1822,7 +1822,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sanjay_world">sanjay_world</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/705765590586290176">1 other</a>)&nbsp;</td>
             <td>2016-03-04</td>
-            <td></td>
+            <td>2022-09-08</td>
             <td align="center"></td>
             <td>2645</td>
         </tr>

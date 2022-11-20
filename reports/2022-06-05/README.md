@@ -229,7 +229,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/QueenGiaLove">QueenGiaLove</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/146592666">2 others</a>)&nbsp;</td>
             <td>2010-05-21</td>
-            <td></td>
+            <td>2022-11-17</td>
             <td align="center"></td>
             <td>23143</td>
         </tr>

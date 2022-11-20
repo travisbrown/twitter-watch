@@ -300,7 +300,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrsKellyPierce">MrsKellyPierce</a></td>
             <td>2010-07-16</td>
-            <td></td>
+            <td>2022-10-18</td>
             <td align="center"></td>
             <td>43110</td>
         </tr>
@@ -388,7 +388,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bill_Kym">Bill_Kym</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/591955944">2 others</a>)&nbsp;</td>
             <td>2012-05-27</td>
-            <td></td>
+            <td>2022-10-27</td>
             <td align="center"></td>
             <td>11978</td>
         </tr>
@@ -476,7 +476,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/anonManu80">anonManu80</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2867423524">1 other</a>)&nbsp;</td>
             <td>2014-11-08</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>6629</td>
         </tr>
@@ -1323,7 +1323,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/roman_sevast">roman_sevast</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/127759564">1 other</a>)&nbsp;</td>
             <td>2010-03-30</td>
-            <td></td>
+            <td>2022-10-28</td>
             <td align="center"></td>
             <td>1214</td>
         </tr>

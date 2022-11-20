@@ -88,7 +88,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WackyPidgeon">WackyPidgeon</a></td>
             <td>2017-01-09</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>4407</td>
             <td>48609</td>

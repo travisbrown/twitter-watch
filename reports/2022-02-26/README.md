@@ -779,7 +779,7 @@ Found 781 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShimettaMasuta">ShimettaMasuta</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/9790552">2 others</a>)&nbsp;</td>
             <td>2007-10-30</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>7178</td>
         </tr>
@@ -1076,7 +1076,7 @@ Found 781 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Johnnelbrown">Johnnelbrown</a></td>
             <td>2016-08-06</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>1729</td>
         </tr>

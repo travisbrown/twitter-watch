@@ -100,7 +100,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FoxNewsMom">FoxNewsMom</a></td>
             <td>2009-03-12</td>
-            <td></td>
+            <td>2022-09-07</td>
             <td align="center"></td>
             <td>5445</td>
             <td>57079</td>
@@ -319,7 +319,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iconiksongs">iconiksongs</a></td>
             <td>2022-04-14</td>
-            <td></td>
+            <td>2022-09-10</td>
             <td align="center"></td>
             <td>97917</td>
         </tr>

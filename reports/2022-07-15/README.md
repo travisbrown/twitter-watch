@@ -1352,7 +1352,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FrankDelfinPupo">FrankDelfinPupo</a></td>
             <td>2018-05-10</td>
-            <td></td>
+            <td>2022-10-12</td>
             <td align="center"></td>
             <td>2353</td>
         </tr>
@@ -2144,7 +2144,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShivOm051555">ShivOm051555</a></td>
             <td>2017-02-23</td>
-            <td></td>
+            <td>2022-09-29</td>
             <td align="center"></td>
             <td>1345</td>
         </tr>

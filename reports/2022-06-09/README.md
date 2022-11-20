@@ -52,7 +52,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AngloPlayboy">AngloPlayboy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/994113366065987584">3 others</a>)&nbsp;</td>
             <td>2018-05-09</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>2186</td>
             <td>1851</td>
@@ -1054,7 +1054,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/realaustinzone">realaustinzone</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/880850336206004224">3 others</a>)&nbsp;</td>
             <td>2017-06-30</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>6189</td>
         </tr>

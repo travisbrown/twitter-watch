@@ -1530,7 +1530,7 @@ Found 1176 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jorgearmasv">jorgearmasv</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/597568921">7 others</a>)&nbsp;</td>
             <td>2012-06-02</td>
-            <td></td>
+            <td>2022-10-21</td>
             <td align="center"></td>
             <td>36385</td>
         </tr>

@@ -686,7 +686,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SantosOpressivo">SantosOpressivo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/371482016">1 other</a>)&nbsp;</td>
             <td>2011-09-10</td>
-            <td></td>
+            <td>2022-09-14</td>
             <td align="center"></td>
             <td>112851</td>
         </tr>
@@ -939,7 +939,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShibBender">ShibBender</a></td>
             <td>2021-05-20</td>
-            <td></td>
+            <td>2022-10-21</td>
             <td align="center"></td>
             <td>18700</td>
         </tr>
@@ -1368,7 +1368,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Azoz_Alsulyma">Azoz_Alsulyma</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1109273050875346944">1 other</a>)&nbsp;</td>
             <td>2019-03-23</td>
-            <td></td>
+            <td>2022-10-25</td>
             <td align="center"></td>
             <td>4680</td>
         </tr>
@@ -2292,7 +2292,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sinajski">Sinajski</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/852563482725806081">1 other</a>)&nbsp;</td>
             <td>2017-04-13</td>
-            <td></td>
+            <td>2022-11-12</td>
             <td align="center"></td>
             <td>1858</td>
         </tr>
@@ -2930,7 +2930,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HorttorBillie">HorttorBillie</a></td>
             <td>2019-10-06</td>
-            <td></td>
+            <td>2022-09-11</td>
             <td align="center"></td>
             <td>1133</td>
         </tr>
@@ -2974,7 +2974,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fandafatpanda_">Fandafatpanda_</a></td>
             <td>2022-05-08</td>
-            <td></td>
+            <td>2022-09-10</td>
             <td align="center"></td>
             <td>1090</td>
         </tr>

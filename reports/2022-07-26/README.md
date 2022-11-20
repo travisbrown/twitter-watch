@@ -360,7 +360,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JadenHeart3">JadenHeart3</a></td>
             <td>2019-01-29</td>
-            <td></td>
+            <td>2022-10-07</td>
             <td align="center"></td>
             <td>480250</td>
         </tr>
@@ -404,7 +404,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmericanTwinks">AmericanTwinks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1459263930">2 others</a>)&nbsp;</td>
             <td>2013-05-26</td>
-            <td></td>
+            <td>2022-09-25</td>
             <td align="center"></td>
             <td>223262</td>
         </tr>
@@ -844,7 +844,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/225727">225727</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/11549732">1 other</a>)&nbsp;</td>
             <td>2007-12-27</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center">🔒</td>
             <td>22827</td>
         </tr>

@@ -1070,7 +1070,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ElderAdewuyi1">ElderAdewuyi1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1006108114343559169">1 other</a>)&nbsp;</td>
             <td>2018-06-11</td>
-            <td></td>
+            <td>2022-10-01</td>
             <td align="center"></td>
             <td>2503</td>
         </tr>
@@ -1213,7 +1213,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/batfreight">batfreight</a></td>
             <td>2011-07-06</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>2057</td>
         </tr>
@@ -1356,7 +1356,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dat_offa_boy">dat_offa_boy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/997835219720957952">1 other</a>)&nbsp;</td>
             <td>2018-05-19</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>1634</td>
         </tr>
@@ -1587,7 +1587,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nkomango_jr">nkomango_jr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/538206496">1 other</a>)&nbsp;</td>
             <td>2012-03-27</td>
-            <td></td>
+            <td>2022-09-23</td>
             <td align="center"></td>
             <td>1288</td>
         </tr>

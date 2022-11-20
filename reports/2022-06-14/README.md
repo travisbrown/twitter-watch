@@ -825,7 +825,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FrancoisLucena">FrancoisLucena</a></td>
             <td>2021-08-16</td>
-            <td></td>
+            <td>2022-10-14</td>
             <td align="center"></td>
             <td>2786</td>
         </tr>

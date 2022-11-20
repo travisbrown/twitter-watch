@@ -194,7 +194,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlexandruC4">AlexandruC4</a></td>
             <td>2014-03-19</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>27331</td>
         </tr>

@@ -1663,7 +1663,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/misatohair">misatohair</a></td>
             <td>2021-08-22</td>
-            <td></td>
+            <td>2022-10-01</td>
             <td align="center"></td>
             <td>2100</td>
         </tr>

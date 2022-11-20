@@ -76,7 +76,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/awakening2022">awakening2022</a></td>
             <td>2021-12-22</td>
-            <td></td>
+            <td>2022-09-06</td>
             <td align="center"></td>
             <td>1399</td>
             <td>23700</td>

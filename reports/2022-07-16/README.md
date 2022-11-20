@@ -1655,7 +1655,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RelaxationWorks">RelaxationWorks</a></td>
             <td>2007-12-28</td>
-            <td></td>
+            <td>2022-09-25</td>
             <td align="center"></td>
             <td>5844</td>
         </tr>
@@ -3778,7 +3778,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pinopire43">pinopire43</a></td>
             <td>2013-03-06</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>2140</td>
         </tr>

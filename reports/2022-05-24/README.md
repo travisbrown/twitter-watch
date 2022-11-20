@@ -1592,7 +1592,7 @@ Found 700 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/howsweetitiss">howsweetitiss</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/23080631">3 others</a>)&nbsp;</td>
             <td>2009-03-06</td>
-            <td></td>
+            <td>2022-11-12</td>
             <td align="center"></td>
             <td>1363</td>
         </tr>

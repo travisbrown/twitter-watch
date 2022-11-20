@@ -192,7 +192,7 @@ Found 895 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/waqas9900">waqas9900</a></td>
             <td>2011-06-15</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>41014</td>
         </tr>

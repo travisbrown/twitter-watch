@@ -1494,7 +1494,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ElisabethAcas">ElisabethAcas</a></td>
             <td>2012-02-01</td>
-            <td></td>
+            <td>2022-11-15</td>
             <td align="center"></td>
             <td>3497</td>
         </tr>

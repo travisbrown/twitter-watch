@@ -1056,7 +1056,7 @@ Found 1322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/izziboye">izziboye</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/164052064">1 other</a>)&nbsp;</td>
             <td>2010-07-07</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>4875</td>
         </tr>
@@ -1100,7 +1100,7 @@ Found 1322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaintyDancing">DaintyDancing</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1296554771311017984">1 other</a>)&nbsp;</td>
             <td>2020-08-20</td>
-            <td></td>
+            <td>2022-10-20</td>
             <td align="center"></td>
             <td>4369</td>
         </tr>
@@ -1298,7 +1298,7 @@ Found 1322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CatholicLady103">CatholicLady103</a></td>
             <td>2019-07-18</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>2897</td>
         </tr>
@@ -1782,7 +1782,7 @@ Found 1322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/just_fish_uwu">just_fish_uwu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1186389000065564680">3 others</a>)&nbsp;</td>
             <td>2019-10-21</td>
-            <td></td>
+            <td>2022-10-29</td>
             <td align="center"></td>
             <td>1186</td>
         </tr>

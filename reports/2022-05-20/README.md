@@ -64,7 +64,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Barry23_888">Barry23_888</a></td>
             <td>2020-03-09</td>
-            <td></td>
+            <td>2022-10-21</td>
             <td align="center"></td>
             <td>439</td>
             <td>71170</td>
@@ -88,7 +88,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/01yeshua">01yeshua</a></td>
             <td>2017-03-17</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>962</td>
             <td>97467</td>
@@ -266,7 +266,7 @@ Found 754 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thames_tim">thames_tim</a></td>
             <td>2012-08-06</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>28438</td>
         </tr>

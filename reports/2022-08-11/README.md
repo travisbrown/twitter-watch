@@ -100,7 +100,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DevonGraham31">DevonGraham31</a></td>
             <td>2019-01-03</td>
-            <td></td>
+            <td>2022-10-05</td>
             <td align="center"></td>
             <td>540</td>
             <td>33388</td>
@@ -2474,7 +2474,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavidWo00206482">DavidWo00206482</a></td>
             <td>2022-05-06</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>1603</td>
         </tr>
@@ -2859,7 +2859,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DubsJayyyy">DubsJayyyy</a></td>
             <td>2022-06-28</td>
-            <td></td>
+            <td>2022-10-22</td>
             <td align="center"></td>
             <td>1166</td>
         </tr>
@@ -3024,7 +3024,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GracelynKC1">GracelynKC1</a></td>
             <td>2020-05-03</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>1055</td>
         </tr>

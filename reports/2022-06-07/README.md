@@ -1878,7 +1878,7 @@ Found 751 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JstAWife4">JstAWife4</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/781029062">8 others</a>)&nbsp;</td>
             <td>2012-08-25</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>3892</td>
         </tr>

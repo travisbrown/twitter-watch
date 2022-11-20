@@ -800,7 +800,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SRGnationwide">SRGnationwide</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/134989855">2 others</a>)&nbsp;</td>
             <td>2010-04-20</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>11077</td>
         </tr>
@@ -1350,7 +1350,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarthaG55793508">MarthaG55793508</a></td>
             <td>2018-12-05</td>
-            <td></td>
+            <td>2022-11-15</td>
             <td align="center"></td>
             <td>1633</td>
         </tr>

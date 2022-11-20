@@ -448,7 +448,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheLondonCrypto">TheLondonCrypto</a></td>
             <td>2012-02-19</td>
-            <td></td>
+            <td>2022-09-07</td>
             <td align="center"></td>
             <td>194254</td>
         </tr>
@@ -811,7 +811,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/notabigdeal111">notabigdeal111</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/782854399509037056">1 other</a>)&nbsp;</td>
             <td>2016-10-03</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>11270</td>
         </tr>
@@ -1009,7 +1009,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/monsieurnaudin">monsieurnaudin</a></td>
             <td>2022-01-26</td>
-            <td></td>
+            <td>2022-10-07</td>
             <td align="center"></td>
             <td>6662</td>
         </tr>
@@ -1515,7 +1515,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nikhilchandraa">nikhilchandraa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/83825802">1 other</a>)&nbsp;</td>
             <td>2009-10-20</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>3237</td>
         </tr>
@@ -2582,7 +2582,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrightAndHollow">BrightAndHollow</a></td>
             <td>2014-06-19</td>
-            <td></td>
+            <td>2022-09-08</td>
             <td align="center"></td>
             <td>1214</td>
         </tr>

@@ -564,7 +564,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mom1398">mom1398</a></td>
             <td>2013-09-25</td>
-            <td></td>
+            <td>2022-10-27</td>
             <td align="center"></td>
             <td>2871</td>
         </tr>
@@ -828,7 +828,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heritages_India">heritages_India</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419830426873614338">3 others</a>)&nbsp;</td>
             <td>2021-07-27</td>
-            <td></td>
+            <td>2022-09-22</td>
             <td align="center"></td>
             <td>1370</td>
         </tr>

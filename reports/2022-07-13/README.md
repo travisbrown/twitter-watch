@@ -1216,7 +1216,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/silvano69600139">silvano69600139</a></td>
             <td>2019-03-16</td>
-            <td></td>
+            <td>2022-10-18</td>
             <td align="center"></td>
             <td>2940</td>
         </tr>
@@ -1744,7 +1744,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Surf_R1ght">Surf_R1ght</a></td>
             <td>2017-08-28</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>1874</td>
         </tr>
@@ -1810,7 +1810,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rhys_ESPN">Rhys_ESPN</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1240283256798535681">8 others</a>)&nbsp;</td>
             <td>2020-03-18</td>
-            <td></td>
+            <td>2022-10-14</td>
             <td align="center"></td>
             <td>1843</td>
         </tr>
@@ -2833,7 +2833,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mohammid_med">mohammid_med</a></td>
             <td>2022-01-12</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>1092</td>
         </tr>

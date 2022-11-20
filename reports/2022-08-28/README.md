@@ -380,7 +380,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sfnakedbob1">sfnakedbob1</a></td>
             <td>2018-12-18</td>
-            <td></td>
+            <td>2022-09-28</td>
             <td align="center"></td>
             <td>54340</td>
         </tr>
@@ -402,7 +402,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fillpackart">fillpackart</a></td>
             <td>2019-04-13</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>24502</td>
         </tr>
@@ -853,7 +853,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Thankful4Usa">Thankful4Usa</a></td>
             <td>2018-01-31</td>
-            <td></td>
+            <td>2022-10-07</td>
             <td align="center"></td>
             <td>3037</td>
         </tr>
@@ -1139,7 +1139,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sns_zemun">sns_zemun</a></td>
             <td>2015-12-27</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>1981</td>
         </tr>

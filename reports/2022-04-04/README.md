@@ -918,7 +918,7 @@ Found 973 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/buildstrong1">buildstrong1</a></td>
             <td>2017-06-20</td>
-            <td></td>
+            <td>2022-11-17</td>
             <td align="center"></td>
             <td>4598</td>
         </tr>

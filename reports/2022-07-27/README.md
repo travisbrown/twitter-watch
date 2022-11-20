@@ -749,7 +749,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/paka_paka_kapa">paka_paka_kapa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2389010012">7 others</a>)&nbsp;</td>
             <td>2014-03-14</td>
-            <td></td>
+            <td>2022-09-14</td>
             <td align="center"></td>
             <td>194704</td>
         </tr>
@@ -2333,7 +2333,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FLAwaveSports">FLAwaveSports</a></td>
             <td>2014-08-12</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>3801</td>
         </tr>
@@ -2718,7 +2718,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoeMartner">JoeMartner</a></td>
             <td>2013-05-16</td>
-            <td></td>
+            <td>2022-10-07</td>
             <td align="center"></td>
             <td>2620</td>
         </tr>
@@ -3972,7 +3972,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SmashAndGet">SmashAndGet</a></td>
             <td>2021-06-18</td>
-            <td></td>
+            <td>2022-11-13</td>
             <td align="center"></td>
             <td>1098</td>
         </tr>

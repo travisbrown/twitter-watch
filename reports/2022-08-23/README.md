@@ -76,7 +76,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AugustinaJJD">AugustinaJJD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1594131900">1 other</a>)&nbsp;</td>
             <td>2013-07-14</td>
-            <td></td>
+            <td>2022-10-22</td>
             <td align="center"></td>
             <td>664</td>
             <td>32850</td>
@@ -663,7 +663,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iownjd">iownjd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/262749118">1 other</a>)&nbsp;</td>
             <td>2011-03-08</td>
-            <td></td>
+            <td>2022-11-17</td>
             <td align="center"></td>
             <td>811000</td>
         </tr>
@@ -861,7 +861,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mazhar_Dhariwal">Mazhar_Dhariwal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1889147971">2 others</a>)&nbsp;</td>
             <td>2013-09-21</td>
-            <td></td>
+            <td>2022-11-04</td>
             <td align="center"></td>
             <td>8522</td>
         </tr>
@@ -1158,7 +1158,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarvinTNeumann">MarvinTNeumann</a></td>
             <td>2021-05-15</td>
-            <td></td>
+            <td>2022-09-24</td>
             <td align="center"></td>
             <td>4088</td>
         </tr>
@@ -2071,7 +2071,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/angelynn1872">angelynn1872</a></td>
             <td>2008-09-10</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>1512</td>
         </tr>
@@ -2324,7 +2324,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/inkjetblue">inkjetblue</a></td>
             <td>2010-09-27</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>1162</td>
         </tr>

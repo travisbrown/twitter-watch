@@ -825,7 +825,7 @@ Found 706 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Odessa_news36">Odessa_news36</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1083759969638498307">1 other</a>)&nbsp;</td>
             <td>2019-01-11</td>
-            <td></td>
+            <td>2022-10-13</td>
             <td align="center"></td>
             <td>7790</td>
         </tr>
@@ -1320,7 +1320,7 @@ Found 706 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nhlalonhlemaps">nhlalonhlemaps</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/738295973668130816">2 others</a>)&nbsp;</td>
             <td>2016-06-02</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>1561</td>
         </tr>

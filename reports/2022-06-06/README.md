@@ -494,7 +494,7 @@ Found 812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GizzyNFT">GizzyNFT</a></td>
             <td>2021-12-26</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>107797</td>
         </tr>
@@ -879,7 +879,7 @@ Found 812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/milfhunter3828">milfhunter3828</a></td>
             <td>2015-01-03</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>3319</td>
         </tr>
@@ -945,7 +945,7 @@ Found 812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FurFrog">FurFrog</a></td>
             <td>2016-11-12</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>2940</td>
         </tr>

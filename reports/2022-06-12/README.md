@@ -1726,7 +1726,7 @@ Found 1532 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pkrealtymasters">pkrealtymasters</a></td>
             <td>2009-11-08</td>
-            <td></td>
+            <td>2022-11-12</td>
             <td align="center"></td>
             <td>2662</td>
         </tr>

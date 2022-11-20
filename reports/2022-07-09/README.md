@@ -705,7 +705,7 @@ Found 663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/axiomatic13">axiomatic13</a></td>
             <td>2009-03-24</td>
-            <td></td>
+            <td>2022-09-23</td>
             <td align="center"></td>
             <td>3833</td>
         </tr>
@@ -892,7 +892,7 @@ Found 663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PepoWoodz">PepoWoodz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/433076807">1 other</a>)&nbsp;</td>
             <td>2011-12-10</td>
-            <td></td>
+            <td>2022-10-17</td>
             <td align="center"></td>
             <td>2600</td>
         </tr>

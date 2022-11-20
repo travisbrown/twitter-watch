@@ -944,7 +944,7 @@ Found 417 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ceplenski4">ceplenski4</a></td>
             <td>2016-04-10</td>
-            <td></td>
+            <td>2022-11-13</td>
             <td align="center"></td>
             <td>2131</td>
         </tr>
@@ -1021,7 +1021,7 @@ Found 417 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/manxozee">manxozee</a></td>
             <td>2012-02-23</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>1526</td>
         </tr>

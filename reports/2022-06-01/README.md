@@ -376,7 +376,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CorHor_WasTaken">CorHor_WasTaken</a></td>
             <td>2021-06-05</td>
-            <td></td>
+            <td>2022-09-20</td>
             <td align="center"></td>
             <td>448</td>
             <td>79590</td>

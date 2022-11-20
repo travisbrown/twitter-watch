@@ -52,7 +52,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BeanFromPA">BeanFromPA</a></td>
             <td>2009-08-05</td>
-            <td></td>
+            <td>2022-10-06</td>
             <td align="center"></td>
             <td>14067</td>
             <td>73563</td>

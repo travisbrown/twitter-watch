@@ -112,7 +112,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SanityReign">SanityReign</a></td>
             <td>2018-09-24</td>
-            <td></td>
+            <td>2022-10-09</td>
             <td align="center"></td>
             <td>978</td>
             <td>21959</td>
@@ -1137,7 +1137,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PWPNation">PWPNation</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2687956578">1 other</a>)&nbsp;</td>
             <td>2014-07-28</td>
-            <td></td>
+            <td>2022-10-27</td>
             <td align="center"></td>
             <td>18821</td>
         </tr>
@@ -2248,7 +2248,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Swiluz">Swiluz</a></td>
             <td>2013-12-17</td>
-            <td></td>
+            <td>2022-09-29</td>
             <td align="center"></td>
             <td>2756</td>
         </tr>

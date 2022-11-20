@@ -769,7 +769,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NoTiktok">NoTiktok</a></td>
             <td>2018-09-14</td>
-            <td></td>
+            <td>2022-11-11</td>
             <td align="center"></td>
             <td>221166</td>
         </tr>
@@ -1858,7 +1858,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Franktalk777">Franktalk777</a></td>
             <td>2019-08-17</td>
-            <td></td>
+            <td>2022-09-09</td>
             <td align="center"></td>
             <td>1182</td>
         </tr>

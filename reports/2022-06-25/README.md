@@ -1874,7 +1874,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FriendsOfSAFA">FriendsOfSAFA</a></td>
             <td>2012-07-16</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>1199</td>
         </tr>

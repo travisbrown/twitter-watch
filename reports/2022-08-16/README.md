@@ -1236,7 +1236,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brule_t">brule_t</a></td>
             <td>2020-05-02</td>
-            <td></td>
+            <td>2022-11-09</td>
             <td align="center"></td>
             <td>1633</td>
         </tr>
@@ -1665,7 +1665,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/anerao15">anerao15</a></td>
             <td>2013-09-17</td>
-            <td></td>
+            <td>2022-09-07</td>
             <td align="center"></td>
             <td>1145</td>
         </tr>

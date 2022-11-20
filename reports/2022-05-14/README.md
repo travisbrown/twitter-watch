@@ -979,7 +979,7 @@ Found 839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tricolorsc06">tricolorsc06</a></td>
             <td>2016-06-23</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>7325</td>
         </tr>
@@ -1397,7 +1397,7 @@ Found 839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shigetaka_mtmt">shigetaka_mtmt</a></td>
             <td>2010-01-21</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>2489</td>
         </tr>

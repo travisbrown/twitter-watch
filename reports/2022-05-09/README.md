@@ -148,7 +148,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WoodofGod">WoodofGod</a></td>
             <td>2021-11-23</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>146</td>
             <td>83254</td>
@@ -1712,7 +1712,7 @@ Found 1090 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sacastic_snazzy">sacastic_snazzy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/255002695">1 other</a>)&nbsp;</td>
             <td>2011-02-20</td>
-            <td></td>
+            <td>2022-09-27</td>
             <td align="center"></td>
             <td>1187</td>
         </tr>

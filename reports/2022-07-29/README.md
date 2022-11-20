@@ -100,7 +100,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/rory_wings4u">rory_wings4u</a></td>
             <td>2020-03-11</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>13721</td>
             <td>46756</td>
@@ -1197,7 +1197,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fiveguysjapan">fiveguysjapan</a></td>
             <td>2022-07-15</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>4848</td>
         </tr>
@@ -2165,7 +2165,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/39BM6rZjDQoPKvn">39BM6rZjDQoPKvn</a></td>
             <td>2019-09-07</td>
-            <td></td>
+            <td>2022-10-26</td>
             <td align="center"></td>
             <td>1533</td>
         </tr>

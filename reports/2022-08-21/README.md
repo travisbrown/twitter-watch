@@ -172,7 +172,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BarrySealDeath">BarrySealDeath</a></td>
             <td>2013-03-25</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center"></td>
             <td>369</td>
             <td>72980</td>
@@ -833,7 +833,7 @@ Found 1128 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jersey_Craig">Jersey_Craig</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/22075159">1 other</a>)&nbsp;</td>
             <td>2009-02-26</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>42022</td>
         </tr>
@@ -877,7 +877,7 @@ Found 1128 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bruno_Attal_">Bruno_Attal_</a></td>
             <td>2021-09-01</td>
-            <td></td>
+            <td>2022-09-23</td>
             <td align="center"></td>
             <td>29873</td>
         </tr>
@@ -1383,7 +1383,7 @@ Found 1128 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JRAYSnews">JRAYSnews</a></td>
             <td>2021-10-18</td>
-            <td></td>
+            <td>2022-09-13</td>
             <td align="center"></td>
             <td>4534</td>
         </tr>

@@ -761,7 +761,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/crypto_hawk71">crypto_hawk71</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1353775441086091265">1 other</a>)&nbsp;</td>
             <td>2021-01-25</td>
-            <td></td>
+            <td>2022-11-13</td>
             <td align="center"></td>
             <td>6207</td>
         </tr>

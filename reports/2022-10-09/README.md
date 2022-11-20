@@ -40,7 +40,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MasterMcgough">MasterMcgough</a></td>
             <td>2022-05-24</td>
-            <td></td>
+            <td>2022-10-20</td>
             <td align="center"></td>
             <td>129</td>
             <td>14509</td>
@@ -634,7 +634,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeThePolls">BeThePolls</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3150144144">5 others</a>)&nbsp;</td>
             <td>2015-04-11</td>
-            <td></td>
+            <td>2022-11-09</td>
             <td align="center"></td>
             <td>43098</td>
         </tr>
@@ -656,7 +656,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/steve_gye">steve_gye</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/179281589">8 others</a>)&nbsp;</td>
             <td>2010-08-16</td>
-            <td></td>
+            <td>2022-10-17</td>
             <td align="center"></td>
             <td>37777</td>
         </tr>
@@ -766,7 +766,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarbonCapture_2">CarbonCapture_2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/702331486653952001">8 others</a>)&nbsp;</td>
             <td>2016-02-24</td>
-            <td></td>
+            <td>2022-10-24</td>
             <td align="center"></td>
             <td>13110</td>
         </tr>
@@ -810,7 +810,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarbonCapture_4">CarbonCapture_4</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/38385054">10 others</a>)&nbsp;</td>
             <td>2009-05-07</td>
-            <td></td>
+            <td>2022-10-23</td>
             <td align="center"></td>
             <td>11453</td>
         </tr>
@@ -865,7 +865,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarbonCredit_2">CarbonCredit_2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4439211613">5 others</a>)&nbsp;</td>
             <td>2015-12-03</td>
-            <td></td>
+            <td>2022-10-20</td>
             <td align="center"></td>
             <td>8105</td>
         </tr>
@@ -887,7 +887,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarbonCredit_3">CarbonCredit_3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3273816943">5 others</a>)&nbsp;</td>
             <td>2015-07-10</td>
-            <td></td>
+            <td>2022-10-21</td>
             <td align="center"></td>
             <td>7387</td>
         </tr>
@@ -942,7 +942,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarbonCredit_9">CarbonCredit_9</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/746224124511424513">5 others</a>)&nbsp;</td>
             <td>2016-06-24</td>
-            <td></td>
+            <td>2022-10-20</td>
             <td align="center"></td>
             <td>6574</td>
         </tr>
@@ -1008,7 +1008,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarbonCredit_10">CarbonCredit_10</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4581137714">5 others</a>)&nbsp;</td>
             <td>2015-12-17</td>
-            <td></td>
+            <td>2022-10-20</td>
             <td align="center"></td>
             <td>5972</td>
         </tr>
@@ -1118,7 +1118,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/srodnanref">srodnanref</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1370543986369310720">1 other</a>)&nbsp;</td>
             <td>2021-03-13</td>
-            <td></td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>4290</td>
         </tr>
@@ -1173,7 +1173,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BenThesker">BenThesker</a></td>
             <td>2021-04-02</td>
-            <td></td>
+            <td>2022-10-27</td>
             <td align="center"></td>
             <td>4062</td>
         </tr>
@@ -1195,7 +1195,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ddaaannnniiii">ddaaannnniiii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/190292610">1 other</a>)&nbsp;</td>
             <td>2010-09-13</td>
-            <td></td>
+            <td>2022-10-15</td>
             <td align="center"></td>
             <td>3830</td>
         </tr>
@@ -1228,7 +1228,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mustang_sally57">mustang_sally57</a></td>
             <td>2022-08-11</td>
-            <td></td>
+            <td>2022-09-26</td>
             <td align="center"></td>
             <td>3626</td>
         </tr>
@@ -1459,7 +1459,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wifeofafarmer87">wifeofafarmer87</a></td>
             <td>2022-09-27</td>
-            <td></td>
+            <td>2022-10-12</td>
             <td align="center"></td>
             <td>1879</td>
         </tr>
@@ -1481,7 +1481,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rocky16970717">Rocky16970717</a></td>
             <td>2018-12-21</td>
-            <td></td>
+            <td>2022-09-24</td>
             <td align="center"></td>
             <td>1865</td>
         </tr>
@@ -1734,7 +1734,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/simmonsechh">simmonsechh</a></td>
             <td>2022-01-21</td>
-            <td></td>
+            <td>2022-10-15</td>
             <td align="center"></td>
             <td>1241</td>
         </tr>

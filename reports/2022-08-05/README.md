@@ -2403,7 +2403,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chotastrum">chotastrum</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2286441313">8 others</a>)&nbsp;</td>
             <td>2014-01-11</td>
-            <td></td>
+            <td>2022-10-06</td>
             <td align="center"></td>
             <td>1039</td>
         </tr>

@@ -2396,7 +2396,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CSilverSpringSV">CSilverSpringSV</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1138597717570150402">2 others</a>)&nbsp;</td>
             <td>2019-06-12</td>
-            <td></td>
+            <td>2022-11-04</td>
             <td align="center"></td>
             <td>1159</td>
         </tr>

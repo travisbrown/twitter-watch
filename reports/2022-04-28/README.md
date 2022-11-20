@@ -1014,7 +1014,7 @@ Found 718 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thegreatBarryW">thegreatBarryW</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1179066261424234496">1 other</a>)&nbsp;</td>
             <td>2019-10-01</td>
-            <td></td>
+            <td>2022-11-15</td>
             <td align="center"></td>
             <td>1543</td>
         </tr>

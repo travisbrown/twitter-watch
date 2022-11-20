@@ -977,7 +977,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/3RE59">3RE59</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1512849168137691143">2 others</a>)&nbsp;</td>
             <td>2022-04-09</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>6899</td>
         </tr>
@@ -1010,7 +1010,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GhaisGuevara">GhaisGuevara</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/991711700968669186">2 others</a>)&nbsp;</td>
             <td>2018-05-02</td>
-            <td></td>
+            <td>2022-09-21</td>
             <td align="center"></td>
             <td>6233</td>
         </tr>
@@ -1032,7 +1032,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoinMovers">CoinMovers</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/264138532">1 other</a>)&nbsp;</td>
             <td>2011-03-11</td>
-            <td></td>
+            <td>2022-11-13</td>
             <td align="center"></td>
             <td>5978</td>
         </tr>
@@ -1472,7 +1472,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HelloLT">HelloLT</a></td>
             <td>2009-02-03</td>
-            <td></td>
+            <td>2022-10-30</td>
             <td align="center"></td>
             <td>2976</td>
         </tr>
@@ -1923,7 +1923,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MassageRoooms">MassageRoooms</a></td>
             <td>2017-08-21</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>1711</td>
         </tr>
@@ -2143,7 +2143,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/formbyfid">formbyfid</a></td>
             <td>2009-01-25</td>
-            <td></td>
+            <td>2022-10-22</td>
             <td align="center"></td>
             <td>1443</td>
         </tr>
@@ -2187,7 +2187,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/XGalactus">XGalactus</a></td>
             <td>2020-01-03</td>
-            <td></td>
+            <td>2022-09-28</td>
             <td align="center"></td>
             <td>1395</td>
         </tr>
@@ -2341,7 +2341,7 @@ Found 2630 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VCanzuk">VCanzuk</a></td>
             <td>2020-12-11</td>
-            <td></td>
+            <td>2022-10-04</td>
             <td align="center"></td>
             <td>1246</td>
         </tr>

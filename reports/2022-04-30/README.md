@@ -3077,7 +3077,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/emma_ungeimpft">emma_ungeimpft</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1339520020951535616">3 others</a>)&nbsp;</td>
             <td>2020-12-17</td>
-            <td></td>
+            <td>2022-09-28</td>
             <td align="center"></td>
             <td>2403</td>
         </tr>

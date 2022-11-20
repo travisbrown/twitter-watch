@@ -733,7 +733,7 @@ Found 614 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeahButlerSmith">LeahButlerSmith</a></td>
             <td>2012-11-27</td>
-            <td></td>
+            <td>2022-09-07</td>
             <td align="center"></td>
             <td>12728</td>
         </tr>

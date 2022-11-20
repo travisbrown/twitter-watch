@@ -76,7 +76,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BushidoBrown32">BushidoBrown32</a></td>
             <td>2018-10-02</td>
-            <td></td>
+            <td>2022-10-26</td>
             <td align="center"></td>
             <td>595</td>
             <td>60212</td>

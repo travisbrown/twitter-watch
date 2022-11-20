@@ -1577,7 +1577,7 @@ Found 710 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/miranda_toit">miranda_toit</a></td>
             <td>2021-12-15</td>
-            <td></td>
+            <td>2022-11-09</td>
             <td align="center"></td>
             <td>2071</td>
         </tr>
@@ -1709,7 +1709,7 @@ Found 710 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nonbinaryswaggg">nonbinaryswaggg</a></td>
             <td>2021-12-01</td>
-            <td></td>
+            <td>2022-10-18</td>
             <td align="center"></td>
             <td>1761</td>
         </tr>

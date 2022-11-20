@@ -1276,7 +1276,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/exsailor62">exsailor62</a></td>
             <td>2009-04-19</td>
-            <td></td>
+            <td>2022-09-12</td>
             <td align="center"></td>
             <td>3545</td>
         </tr>
@@ -1749,7 +1749,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChazzC38">ChazzC38</a></td>
             <td>2021-12-01</td>
-            <td></td>
+            <td>2022-11-16</td>
             <td align="center"></td>
             <td>1993</td>
         </tr>
@@ -1760,7 +1760,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JChijoko">JChijoko</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2253845350">1 other</a>)&nbsp;</td>
             <td>2013-12-31</td>
-            <td></td>
+            <td>2022-09-24</td>
             <td align="center"></td>
             <td>1987</td>
         </tr>

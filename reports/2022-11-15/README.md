@@ -52,7 +52,7 @@ Found 32 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/thats_a_fella">thats_a_fella</a></td>
             <td>2022-07-17</td>
-            <td></td>
+            <td>2022-09-27</td>
             <td align="center"></td>
             <td>100</td>
             <td>4133</td>
@@ -112,7 +112,7 @@ Found 32 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/the_svarog">the_svarog</a></td>
             <td>2022-09-16</td>
-            <td></td>
+            <td>2022-11-09</td>
             <td align="center"></td>
             <td>155</td>
             <td>19796</td>
@@ -1846,7 +1846,7 @@ Found 2253 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AngelinaVail">AngelinaVail</a></td>
             <td>2013-01-05</td>
-            <td></td>
+            <td>2022-11-14</td>
             <td align="center"></td>
             <td>2456</td>
         </tr>

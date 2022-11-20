@@ -2134,7 +2134,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/davestewart3">davestewart3</a></td>
             <td>2010-08-14</td>
-            <td></td>
+            <td>2022-11-17</td>
             <td align="center"></td>
             <td>1182</td>
         </tr>

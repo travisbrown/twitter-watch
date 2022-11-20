@@ -777,7 +777,7 @@ Found 1137 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/White_Hole_Sun">White_Hole_Sun</a></td>
             <td>2019-01-24</td>
-            <td></td>
+            <td>2022-11-12</td>
             <td align="center"></td>
             <td>2469</td>
         </tr>
@@ -843,7 +843,7 @@ Found 1137 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HMilf77">HMilf77</a></td>
             <td>2020-02-29</td>
-            <td></td>
+            <td>2022-11-10</td>
             <td align="center"></td>
             <td>2247</td>
         </tr>
