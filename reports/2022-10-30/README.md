@@ -1,6 +1,6 @@
 ## 30 October 2022
 
-* [Tracked suspensions (377)](#tracked-suspensions)
+* [Tracked suspensions (378)](#tracked-suspensions)
 * [Tracked screen name changes (57)](#tracked-screen-name-changes)
 * [Untracked suspensions (241)](#untracked-suspensions)
 
@@ -8,7 +8,7 @@ Please see the [project index](https://github.com/travisbrown/twitter-watch) for
 
 ### Tracked suspensions
 
-Found 377 suspensions for tracked accounts.
+Found 378 suspensions for tracked accounts.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -4510,6 +4510,18 @@ Found 377 suspensions for tracked accounts.
             <td>99184</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=616356655">
+                <img src="https://pbs.twimg.com/profile_images/1495558906541744128/noLRxm6R_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/2Aorbust">2Aorbust</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/616356655">1 other</a>)&nbsp;</td>
+            <td>2012-06-23</td>
+            <td>2022-11-19</td>
+            <td align="center"></td>
+            <td>980</td>
+            <td>99184</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1324429291413737473">
                 <img src="https://pbs.twimg.com/profile_images/1551975614705451010/hLIXGpjP_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -5304,7 +5316,7 @@ Found 57 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 3199 suspensions for untracked accounts.
+Found 3200 suspensions for untracked accounts.
 241 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

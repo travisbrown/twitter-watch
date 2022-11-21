@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (6)](#tracked-suspensions)
 * [Tracked screen name changes (35)](#tracked-screen-name-changes)
-* [Untracked suspensions (122)](#untracked-suspensions)
+* [Untracked suspensions (123)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -566,8 +566,8 @@ Found 35 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1071 suspensions for untracked accounts.
-122 accounts have more than 1000 followers and are included here.
+Found 1072 suspensions for untracked accounts.
+123 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1489,6 +1489,17 @@ Found 1071 suspensions for untracked accounts.
                 <a href="https://twitter.com/SturmLLiouville">SturmLLiouville</a></td>
             <td>2017-11-04</td>
             <td></td>
+            <td align="center"></td>
+            <td>1443</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=926722629045772288">
+                <img src="https://pbs.twimg.com/profile_images/926729565594144768/9IgWNyVI_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SturmLLiouville">SturmLLiouville</a></td>
+            <td>2017-11-04</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>1443</td>
         </tr>

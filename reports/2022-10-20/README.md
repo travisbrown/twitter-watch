@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (16)](#tracked-suspensions)
 * [Tracked screen name changes (39)](#tracked-screen-name-changes)
-* [Untracked suspensions (671)](#untracked-suspensions)
+* [Untracked suspensions (675)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -738,8 +738,8 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 7336 suspensions for untracked accounts.
-671 accounts have more than 1000 followers and are included here.
+Found 7365 suspensions for untracked accounts.
+675 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1929,6 +1929,17 @@ Found 7336 suspensions for untracked accounts.
             <td>2921</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1419390261562646528">
+                <img src="https://pbs.twimg.com/profile_images/1421439625734803460/P-2oTtzp_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FraudisReal11">FraudisReal11</a></td>
+            <td>2021-07-25</td>
+            <td>2022-11-19</td>
+            <td align="center"></td>
+            <td>2921</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1404220166322413568">
                 <img src="https://pbs.twimg.com/profile_images/1413263641605025793/rfIht_Sd_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2919,6 +2930,17 @@ Found 7336 suspensions for untracked accounts.
             <td>2140</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1514561188708986882">
+                <img src="https://pbs.twimg.com/profile_images/1525067451200831491/5MH02Sdm_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/IhatewokeBS">IhatewokeBS</a></td>
+            <td>2022-04-14</td>
+            <td>2022-11-19</td>
+            <td align="center"></td>
+            <td>2140</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1457734852694921219">
                 <img src="https://pbs.twimg.com/profile_images/1497930623260016646/6s_7hnaF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3542,6 +3564,17 @@ Found 7336 suspensions for untracked accounts.
                 <a href="https://twitter.com/GoodGamingIndia">GoodGamingIndia</a></td>
             <td>2021-05-22</td>
             <td></td>
+            <td align="center"></td>
+            <td>1887</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1396053662254784515">
+                <img src="https://pbs.twimg.com/profile_images/1396054204452532227/FH5ISOk2_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/GoodGamingIndia">GoodGamingIndia</a></td>
+            <td>2021-05-22</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>1887</td>
         </tr>
@@ -4400,6 +4433,17 @@ Found 7336 suspensions for untracked accounts.
                 <a href="https://twitter.com/MarckRiggins">MarckRiggins</a></td>
             <td>2019-10-07</td>
             <td></td>
+            <td align="center"></td>
+            <td>1639</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1181300057250791424">
+                <img src="https://pbs.twimg.com/profile_images/1522082030942523392/RPBEzATn_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MarckRiggins">MarckRiggins</a></td>
+            <td>2019-10-07</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>1639</td>
         </tr>

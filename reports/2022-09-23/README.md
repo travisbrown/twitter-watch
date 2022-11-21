@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (4)](#tracked-suspensions)
 * [Tracked screen name changes (35)](#tracked-screen-name-changes)
-* [Untracked suspensions (382)](#untracked-suspensions)
+* [Untracked suspensions (383)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -542,8 +542,8 @@ Found 35 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 5318 suspensions for untracked accounts.
-382 accounts have more than 1000 followers and are included here.
+Found 5320 suspensions for untracked accounts.
+383 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -904,6 +904,17 @@ Found 5318 suspensions for untracked accounts.
                 <a href="https://twitter.com/Subxnotdead">Subxnotdead</a></td>
             <td>2021-04-01</td>
             <td></td>
+            <td align="center"></td>
+            <td>18293</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1377754644546478080">
+                <img src="https://pbs.twimg.com/profile_images/1540757284728541184/T8fHOOTT_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Subxnotdead">Subxnotdead</a></td>
+            <td>2021-04-01</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>18293</td>
         </tr>

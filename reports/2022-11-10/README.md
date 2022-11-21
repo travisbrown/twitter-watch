@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (30)](#tracked-suspensions)
 * [Tracked screen name changes (55)](#tracked-screen-name-changes)
-* [Untracked suspensions (250)](#untracked-suspensions)
+* [Untracked suspensions (251)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -1114,8 +1114,8 @@ Found 55 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 3437 suspensions for untracked accounts.
-250 accounts have more than 1000 followers and are included here.
+Found 3441 suspensions for untracked accounts.
+251 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1993,6 +1993,17 @@ Found 3437 suspensions for untracked accounts.
                 <a href="https://twitter.com/nichoIastreece">nichoIastreece</a></td>
             <td>2012-03-26</td>
             <td></td>
+            <td align="center"></td>
+            <td>5206</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=537083495">
+                <img src="https://pbs.twimg.com/profile_images/1584849086301233157/_R9-XKRW_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/nichoIastreece">nichoIastreece</a></td>
+            <td>2012-03-26</td>
+            <td>2022-11-20</td>
             <td align="center"></td>
             <td>5206</td>
         </tr>

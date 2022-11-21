@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (4)](#tracked-suspensions)
 * [Tracked screen name changes (36)](#tracked-screen-name-changes)
-* [Untracked suspensions (200)](#untracked-suspensions)
+* [Untracked suspensions (201)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -555,8 +555,8 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1608 suspensions for untracked accounts.
-200 accounts have more than 1000 followers and are included here.
+Found 1615 suspensions for untracked accounts.
+201 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1489,6 +1489,17 @@ Found 1608 suspensions for untracked accounts.
                 <a href="https://twitter.com/lobosgatos">lobosgatos</a></td>
             <td>2013-07-25</td>
             <td></td>
+            <td align="center"></td>
+            <td>2961</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1620887210">
+                <img src="https://pbs.twimg.com/profile_images/1262854054092271616/qP9QZYU4_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/lobosgatos">lobosgatos</a></td>
+            <td>2013-07-25</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>2961</td>
         </tr>

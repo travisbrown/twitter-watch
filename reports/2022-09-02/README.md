@@ -602,7 +602,7 @@ Found 35 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1458 suspensions for untracked accounts.
+Found 1459 suspensions for untracked accounts.
 183 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 

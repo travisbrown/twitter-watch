@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (2)](#tracked-suspensions)
 * [Tracked screen name changes (18)](#tracked-screen-name-changes)
-* [Untracked suspensions (96)](#untracked-suspensions)
+* [Untracked suspensions (97)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -297,8 +297,8 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1287 suspensions for untracked accounts.
-96 accounts have more than 1000 followers and are included here.
+Found 1288 suspensions for untracked accounts.
+97 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -736,6 +736,17 @@ Found 1287 suspensions for untracked accounts.
                 <a href="https://twitter.com/NitinTripathiUp">NitinTripathiUp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764214600">14 others</a>)&nbsp;</td>
             <td>2012-08-17</td>
             <td></td>
+            <td align="center"></td>
+            <td>3027</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=764214600">
+                <img src="https://pbs.twimg.com/profile_images/1495285970115055616/5scV2yjX_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/NitinTripathiUp">NitinTripathiUp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764214600">14 others</a>)&nbsp;</td>
+            <td>2012-08-17</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>3027</td>
         </tr>

@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (0)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (53)](#untracked-suspensions)
+* [Untracked suspensions (54)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -28,8 +28,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 268 suspensions for untracked accounts.
-53 accounts have more than 1000 followers and are included here.
+Found 269 suspensions for untracked accounts.
+54 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -181,6 +181,17 @@ Found 268 suspensions for untracked accounts.
                 <a href="https://twitter.com/TheNeko_life">TheNeko_life</a></td>
             <td>2018-01-22</td>
             <td></td>
+            <td align="center"></td>
+            <td>19874</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=955313410102759424">
+                <img src="https://pbs.twimg.com/profile_images/955314825088913408/qXQMt-_S_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TheNeko_life">TheNeko_life</a></td>
+            <td>2018-01-22</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>19874</td>
         </tr>

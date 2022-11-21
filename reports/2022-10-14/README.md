@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (17)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (241)](#untracked-suspensions)
+* [Untracked suspensions (242)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -232,8 +232,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 2056 suspensions for untracked accounts.
-241 accounts have more than 1000 followers and are included here.
+Found 2058 suspensions for untracked accounts.
+242 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -253,6 +253,17 @@ Found 2056 suspensions for untracked accounts.
                 <a href="https://twitter.com/Neesy_Rizzo">Neesy_Rizzo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/723296168965337090">1 other</a>)&nbsp;</td>
             <td>2016-04-21</td>
             <td></td>
+            <td align="center"></td>
+            <td>640976</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=723296168965337090">
+                <img src="https://pbs.twimg.com/profile_images/727236836658028544/S6w7uGE3_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Neesy_Rizzo">Neesy_Rizzo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/723296168965337090">1 other</a>)&nbsp;</td>
+            <td>2016-04-21</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>640976</td>
         </tr>

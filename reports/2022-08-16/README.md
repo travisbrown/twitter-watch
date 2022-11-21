@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (3)](#tracked-suspensions)
 * [Tracked screen name changes (26)](#tracked-screen-name-changes)
-* [Untracked suspensions (125)](#untracked-suspensions)
+* [Untracked suspensions (126)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -413,8 +413,8 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1045 suspensions for untracked accounts.
-125 accounts have more than 1000 followers and are included here.
+Found 1046 suspensions for untracked accounts.
+126 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -830,6 +830,17 @@ Found 1045 suspensions for untracked accounts.
                 <a href="https://twitter.com/JorgeGueler">JorgeGueler</a></td>
             <td>2013-03-11</td>
             <td></td>
+            <td align="center"></td>
+            <td>3364</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1260238322">
+                <img src="https://pbs.twimg.com/profile_images/1545910120672002053/qlszst_q_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JorgeGueler">JorgeGueler</a></td>
+            <td>2013-03-11</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>3364</td>
         </tr>

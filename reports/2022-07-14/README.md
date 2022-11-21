@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (7)](#tracked-suspensions)
 * [Tracked screen name changes (67)](#tracked-screen-name-changes)
-* [Untracked suspensions (185)](#untracked-suspensions)
+* [Untracked suspensions (186)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -994,8 +994,8 @@ Found 67 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1146 suspensions for untracked accounts.
-185 accounts have more than 1000 followers and are included here.
+Found 1147 suspensions for untracked accounts.
+186 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1653,6 +1653,17 @@ Found 1146 suspensions for untracked accounts.
                 <a href="https://twitter.com/TheLastmanship">TheLastmanship</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/260442604">4 others</a>)&nbsp;</td>
             <td>2011-03-03</td>
             <td></td>
+            <td align="center"></td>
+            <td>4481</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=260442604">
+                <img src="https://pbs.twimg.com/profile_images/1504484376146374660/DD3vCftB_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TheLastmanship">TheLastmanship</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/260442604">4 others</a>)&nbsp;</td>
+            <td>2011-03-03</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>4481</td>
         </tr>

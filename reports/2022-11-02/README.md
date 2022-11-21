@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (51)](#tracked-suspensions)
 * [Tracked screen name changes (43)](#tracked-screen-name-changes)
-* [Untracked suspensions (147)](#untracked-suspensions)
+* [Untracked suspensions (148)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -1210,8 +1210,8 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1779 suspensions for untracked accounts.
-147 accounts have more than 1000 followers and are included here.
+Found 1781 suspensions for untracked accounts.
+148 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1616,6 +1616,17 @@ Found 1779 suspensions for untracked accounts.
                 <a href="https://twitter.com/Climate_News_a6">Climate_News_a6</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/785974425082486784">3 others</a>)&nbsp;</td>
             <td>2016-10-11</td>
             <td></td>
+            <td align="center"></td>
+            <td>4449</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=785974425082486784">
+                <img src="https://pbs.twimg.com/profile_images/1419479819092328451/J1PGbFIZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Climate_News_a6">Climate_News_a6</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/785974425082486784">3 others</a>)&nbsp;</td>
+            <td>2016-10-11</td>
+            <td>2022-11-20</td>
             <td align="center"></td>
             <td>4449</td>
         </tr>

@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (35)](#tracked-suspensions)
 * [Tracked screen name changes (30)](#tracked-screen-name-changes)
-* [Untracked suspensions (316)](#untracked-suspensions)
+* [Untracked suspensions (318)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -849,8 +849,8 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 4491 suspensions for untracked accounts.
-316 accounts have more than 1000 followers and are included here.
+Found 4497 suspensions for untracked accounts.
+318 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1453,6 +1453,17 @@ Found 4491 suspensions for untracked accounts.
                 <a href="https://twitter.com/PledgeAny">PledgeAny</a></td>
             <td>2019-04-26</td>
             <td></td>
+            <td align="center"></td>
+            <td>8972</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1121892911208108032">
+                <img src="https://pbs.twimg.com/profile_images/1121893925705388032/0l5UdrdW_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PledgeAny">PledgeAny</a></td>
+            <td>2019-04-26</td>
+            <td>2022-11-18</td>
             <td align="center"></td>
             <td>8972</td>
         </tr>
@@ -3147,6 +3158,17 @@ Found 4491 suspensions for untracked accounts.
                 <a href="https://twitter.com/joana_research">joana_research</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/83230719">2 others</a>)&nbsp;</td>
             <td>2009-10-17</td>
             <td></td>
+            <td align="center"></td>
+            <td>1735</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=83230719">
+                <img src="https://pbs.twimg.com/profile_images/1181631232700030976/OS5Kax5E_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/joana_research">joana_research</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/83230719">2 others</a>)&nbsp;</td>
+            <td>2009-10-17</td>
+            <td>2022-11-19</td>
             <td align="center"></td>
             <td>1735</td>
         </tr>
