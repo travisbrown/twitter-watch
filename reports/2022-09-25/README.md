@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2021-05-04</td>
             <td>2022-10-12</td>
             <td align="center"></td>
-            <td>1651</td>
+            <td>1662</td>
             <td>51742</td>
         </tr></table>
 
@@ -281,7 +281,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2008-06-13</td>
             <td>2022-09-28</td>
             <td align="center"></td>
-            <td>21015</td>
+            <td>21000</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=376229131">
@@ -314,7 +314,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2012-02-19</td>
             <td>2022-10-22</td>
             <td align="center"></td>
-            <td>17489</td>
+            <td>17485</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=746976175105400833">
@@ -339,6 +339,17 @@ Found 1436 suspensions for untracked accounts.
             <td>15953</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1460804388478464006">
+                <img src="https://pbs.twimg.com/profile_images/1554593772767436800/4SBD5GQI_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/geminifreaak">geminifreaak</a></td>
+            <td>2021-11-17</td>
+            <td>2022-10-04</td>
+            <td align="center"></td>
+            <td>13979</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1570368651173265411">
                 <img src="https://pbs.twimg.com/profile_images/1570368876537430016/AodV1thg_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -348,17 +359,6 @@ Found 1436 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>13954</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1460804388478464006">
-                <img src="https://pbs.twimg.com/profile_images/1554593772767436800/4SBD5GQI_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/geminifreaak">geminifreaak</a></td>
-            <td>2021-11-17</td>
-            <td>2022-10-04</td>
-            <td align="center"></td>
-            <td>13586</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=452253416">
@@ -567,7 +567,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2014-04-09</td>
             <td>2022-10-02</td>
             <td align="center"></td>
-            <td>5034</td>
+            <td>5029</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=36495769">
@@ -710,7 +710,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2022-05-05</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>2598</td>
+            <td>2595</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=975463229349560321">

@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (0)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (54)](#untracked-suspensions)
+* [Untracked suspensions (53)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -28,8 +28,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 269 suspensions for untracked accounts.
-54 accounts have more than 1000 followers and are included here.
+Found 268 suspensions for untracked accounts.
+53 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -174,15 +174,15 @@ Found 269 suspensions for untracked accounts.
             <td>20797</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=955313410102759424">
-                <img src="https://pbs.twimg.com/profile_images/955314825088913408/qXQMt-_S_normal.png" width="40px" height="40px" align="center"/></a>
+            <td><a href="https://twitter.com/intent/user?user_id=1222777985402654721">
+                <img src="https://pbs.twimg.com/profile_images/1236599855184830464/mpB_SDMI_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/TheNeko_life">TheNeko_life</a></td>
-            <td>2018-01-22</td>
+                <a href="https://twitter.com/Nature_Life123">Nature_Life123</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1222777985402654721">1 other</a>)&nbsp;</td>
+            <td>2020-01-30</td>
             <td></td>
             <td align="center"></td>
-            <td>19874</td>
+            <td>19718</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=955313410102759424">
@@ -193,18 +193,7 @@ Found 269 suspensions for untracked accounts.
             <td>2018-01-22</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>19874</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1222777985402654721">
-                <img src="https://pbs.twimg.com/profile_images/1236599855184830464/mpB_SDMI_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Nature_Life123">Nature_Life123</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1222777985402654721">1 other</a>)&nbsp;</td>
-            <td>2020-01-30</td>
-            <td></td>
-            <td align="center"></td>
-            <td>19718</td>
+            <td>19186</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=276841820">
@@ -314,7 +303,7 @@ Found 269 suspensions for untracked accounts.
             <td>2019-10-07</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>8599</td>
+            <td>8604</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1195599786">

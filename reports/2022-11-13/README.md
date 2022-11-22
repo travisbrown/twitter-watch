@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (12)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (129)](#untracked-suspensions)
+* [Untracked suspensions (128)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -172,8 +172,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 2063 suspensions for untracked accounts.
-129 accounts have more than 1000 followers and are included here.
+Found 2060 suspensions for untracked accounts.
+128 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -370,7 +370,7 @@ Found 2063 suspensions for untracked accounts.
             <td>2013-05-06</td>
             <td>2022-11-15</td>
             <td align="center"></td>
-            <td>11374</td>
+            <td>11357</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1538737121908903937">
@@ -500,20 +500,9 @@ Found 2063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ParisAlexN">ParisAlexN</a></td>
             <td>2013-03-19</td>
-            <td></td>
-            <td align="center"></td>
-            <td>6265</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1281100639">
-                <img src="https://pbs.twimg.com/profile_images/1535193523389181954/sU9n0XO9_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ParisAlexN">ParisAlexN</a></td>
-            <td>2013-03-19</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>6265</td>
+            <td>6331</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1438195462427844617">

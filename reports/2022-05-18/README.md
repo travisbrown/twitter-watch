@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2010-08-03</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>350</td>
+            <td>348</td>
             <td>81358</td>
         </tr></table>
 
@@ -131,7 +131,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ltstorks">ltstorks</a>
             </td>
             <td align="center"></td>
-            <td>93</td>
+            <td>90</td>
             <td>61592</td>
         </tr>
         <tr>
@@ -144,14 +144,14 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/MyCupcake1111">MyCupcake1111</a>
             </td>
             <td align="center"></td>
-            <td>1053</td>
+            <td>1091</td>
             <td>69938</td>
         </tr></table>
 
 
 ### Untracked suspensions
 
-Found 775 suspensions for untracked accounts.
+Found 774 suspensions for untracked accounts.
 57 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -294,7 +294,7 @@ Found 775 suspensions for untracked accounts.
             <td>2010-03-21</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>11428</td>
+            <td>11429</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1248346194159558659">
@@ -349,7 +349,7 @@ Found 775 suspensions for untracked accounts.
             <td>2021-01-19</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>4395</td>
+            <td>4397</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1262382448295456768">
@@ -624,7 +624,7 @@ Found 775 suspensions for untracked accounts.
             <td>2020-03-25</td>
             <td>2022-09-10</td>
             <td align="center"></td>
-            <td>1424</td>
+            <td>1420</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491516148046872579">
