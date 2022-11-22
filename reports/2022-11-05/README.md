@@ -225,7 +225,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PhysicsKingdom">PhysicsKingdom</a>
             </td>
             <td align="center"></td>
-            <td>4796</td>
+            <td>4798</td>
             <td>1010</td>
         </tr>
         <tr>
@@ -264,7 +264,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Elumin_8">Elumin_8</a>
             </td>
             <td align="center"></td>
-            <td>68</td>
+            <td>67</td>
             <td>17193</td>
         </tr>
         <tr>
@@ -277,7 +277,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/The_3rd_Son__">The_3rd_Son__</a>
             </td>
             <td align="center"></td>
-            <td>840</td>
+            <td>839</td>
             <td>19144</td>
         </tr>
         <tr>
@@ -290,7 +290,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheSurrealMac">TheSurrealMac</a>
             </td>
             <td align="center"></td>
-            <td>1462</td>
+            <td>1464</td>
             <td>24499</td>
         </tr>
         <tr>
@@ -394,7 +394,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ClosetedTechExc">ClosetedTechExc</a>
             </td>
             <td align="center"></td>
-            <td>137</td>
+            <td>141</td>
             <td>40198</td>
         </tr>
         <tr>
@@ -472,7 +472,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ppcgta">ppcgta</a>
             </td>
             <td align="center"></td>
-            <td>2677</td>
+            <td>2675</td>
             <td>66774</td>
         </tr>
         <tr>
@@ -498,7 +498,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/emorybadass">emorybadass</a>
             </td>
             <td align="center"></td>
-            <td>49</td>
+            <td>51</td>
             <td>70833</td>
         </tr>
         <tr>
@@ -511,7 +511,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/crisoulll">crisoulll</a>
             </td>
             <td align="center"></td>
-            <td>128</td>
+            <td>127</td>
             <td>74873</td>
         </tr>
         <tr>
@@ -537,7 +537,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/drzhivagoz">drzhivagoz</a>
             </td>
             <td align="center"></td>
-            <td>662</td>
+            <td>664</td>
             <td>79730</td>
         </tr>
         <tr>
@@ -550,7 +550,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/N0C0mmunism">N0C0mmunism</a>
             </td>
             <td align="center"></td>
-            <td>1274</td>
+            <td>1284</td>
             <td>84694</td>
         </tr>
         <tr>
@@ -576,7 +576,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/JMPhillips_1980">JMPhillips_1980</a>
             </td>
             <td align="center"></td>
-            <td>104</td>
+            <td>106</td>
             <td>88666</td>
         </tr>
         <tr>
@@ -1185,7 +1185,7 @@ Found 1293 suspensions for untracked accounts.
             <td>2020-04-25</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>2561</td>
+            <td>2558</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1484485174305992707">
@@ -1361,7 +1361,7 @@ Found 1293 suspensions for untracked accounts.
             <td>2011-09-20</td>
             <td>2022-11-09</td>
             <td align="center"></td>
-            <td>2122</td>
+            <td>2124</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1297067036">
@@ -1427,7 +1427,7 @@ Found 1293 suspensions for untracked accounts.
             <td>2020-04-06</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>2034</td>
+            <td>2035</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1501980807845584903">
@@ -1496,17 +1496,6 @@ Found 1293 suspensions for untracked accounts.
             <td>1864</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1517564954383110146">
-                <img src="https://pbs.twimg.com/profile_images/1519312542862036995/ebPzxE0U_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/DanielPheleg">DanielPheleg</a></td>
-            <td>2022-04-22</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1862</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2270252634">
                 <img src="https://pbs.twimg.com/profile_images/743025257011904512/Tgcp5-fM_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1527,6 +1516,17 @@ Found 1293 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1817</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1517564954383110146">
+                <img src="https://pbs.twimg.com/profile_images/1519312542862036995/ebPzxE0U_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/DanielPheleg">DanielPheleg</a></td>
+            <td>2022-04-22</td>
+            <td>2022-11-22</td>
+            <td align="center"></td>
+            <td>1811</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=29933313">

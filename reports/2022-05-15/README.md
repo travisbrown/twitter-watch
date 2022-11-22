@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2022-04-26</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>2218</td>
+            <td>2227</td>
             <td>60887</td>
         </tr></table>
 
@@ -106,7 +106,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Godvvins">Godvvins</a>
             </td>
             <td align="center"></td>
-            <td>706</td>
+            <td>725</td>
             <td>3220</td>
         </tr>
         <tr>
@@ -119,7 +119,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/barongregoryV">barongregoryV</a>
             </td>
             <td align="center">🔒</td>
-            <td>532</td>
+            <td>531</td>
             <td>7353</td>
         </tr>
         <tr>
@@ -171,7 +171,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/RanchoAstro">RanchoAstro</a>
             </td>
             <td align="center"></td>
-            <td>229</td>
+            <td>231</td>
             <td>52502</td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Doozer690">Doozer690</a>
             </td>
             <td align="center"></td>
-            <td>3596</td>
+            <td>3620</td>
             <td>88908</td>
         </tr>
         <tr>
@@ -223,7 +223,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AmeliaAiredale">AmeliaAiredale</a>
             </td>
             <td align="center"></td>
-            <td>1156</td>
+            <td>1155</td>
             <td>93211</td>
         </tr>
         <tr>
@@ -249,7 +249,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BeagleBaby1776">BeagleBaby1776</a>
             </td>
             <td align="center"></td>
-            <td>2419</td>
+            <td>2418</td>
             <td>96524</td>
         </tr>
         <tr>
@@ -467,7 +467,7 @@ Found 486 suspensions for untracked accounts.
             <td>2017-09-17</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4127</td>
+            <td>4128</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=386727814">
@@ -478,7 +478,7 @@ Found 486 suspensions for untracked accounts.
             <td>2011-10-07</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>4102</td>
+            <td>4103</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=711496274692935680">
@@ -500,7 +500,7 @@ Found 486 suspensions for untracked accounts.
             <td>2021-08-14</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>3799</td>
+            <td>3806</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2290031143">
@@ -577,7 +577,7 @@ Found 486 suspensions for untracked accounts.
             <td>2012-12-13</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2558</td>
+            <td>2559</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1499508905478705156">

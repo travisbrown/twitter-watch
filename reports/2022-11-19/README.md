@@ -172,7 +172,7 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 1485 suspensions for untracked accounts.
+Found 1487 suspensions for untracked accounts.
 143 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
@@ -203,9 +203,9 @@ Found 1485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Y6i____">Y6i____</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2504300292">16 others</a>)&nbsp;</td>
             <td>2014-05-18</td>
-            <td></td>
+            <td>2022-11-21</td>
             <td align="center"></td>
-            <td>336801</td>
+            <td>336880</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=125527961">
@@ -511,7 +511,7 @@ Found 1485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mousaa044">Mousaa044</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1327541131349995520">1 other</a>)&nbsp;</td>
             <td>2020-11-14</td>
-            <td></td>
+            <td>2022-11-22</td>
             <td align="center"></td>
             <td>7149</td>
         </tr>
