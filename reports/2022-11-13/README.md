@@ -247,9 +247,9 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Laspaceyart">Laspaceyart</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/574038379">2 others</a>)&nbsp;</td>
             <td>2012-05-07</td>
-            <td></td>
+            <td>2022-11-24</td>
             <td align="center"></td>
-            <td>50829</td>
+            <td>50704</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1605120217">
@@ -370,7 +370,7 @@ Found 2060 suspensions for untracked accounts.
             <td>2013-05-06</td>
             <td>2022-11-15</td>
             <td align="center"></td>
-            <td>11355</td>
+            <td>11348</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1538737121908903937">
@@ -502,7 +502,7 @@ Found 2060 suspensions for untracked accounts.
             <td>2013-03-19</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>6340</td>
+            <td>6365</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1438195462427844617">
@@ -1094,9 +1094,9 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/muto_eth">muto_eth</a></td>
             <td>2021-09-04</td>
-            <td></td>
+            <td>2022-11-22</td>
             <td align="center"></td>
-            <td>1834</td>
+            <td>1844</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1253192695503155200">

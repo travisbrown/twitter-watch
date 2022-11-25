@@ -778,7 +778,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ViktorVeidt">ViktorVeidt</a>
             </td>
             <td align="center"></td>
-            <td>46</td>
+            <td>45</td>
             <td>11309</td>
         </tr>
         <tr>
@@ -804,7 +804,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SiredbyAres">SiredbyAres</a>
             </td>
             <td align="center"></td>
-            <td>143</td>
+            <td>140</td>
             <td>16143</td>
         </tr>
         <tr>
@@ -856,7 +856,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/just__adam29">just__adam29</a>
             </td>
             <td align="center"></td>
-            <td>19</td>
+            <td>20</td>
             <td>25771</td>
         </tr>
         <tr>
@@ -869,7 +869,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/BriWag91">BriWag91</a>
             </td>
             <td align="center">🔒</td>
-            <td>2262</td>
+            <td>2261</td>
             <td>51531</td>
         </tr>
         <tr>
@@ -1064,7 +1064,7 @@ Found 1739 suspensions for untracked accounts.
             <td>2016-02-19</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>64498</td>
+            <td>64471</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1103822725095833600">
@@ -1790,7 +1790,7 @@ Found 1739 suspensions for untracked accounts.
             <td>2017-08-26</td>
             <td>2022-11-12</td>
             <td align="center"></td>
-            <td>3184</td>
+            <td>3181</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=795750344970141701">
@@ -1922,7 +1922,7 @@ Found 1739 suspensions for untracked accounts.
             <td>2022-08-22</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>2446</td>
+            <td>2440</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1310924880288808960">
@@ -1931,9 +1931,9 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GoldenRhino_">GoldenRhino_</a></td>
             <td>2020-09-29</td>
-            <td></td>
+            <td>2022-11-23</td>
             <td align="center"></td>
-            <td>2396</td>
+            <td>2374</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1480136442961608707">
@@ -2288,17 +2288,6 @@ Found 1739 suspensions for untracked accounts.
             <td>1515</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1553002352394862593">
-                <img src="https://pbs.twimg.com/profile_images/1553043632638279682/4ho-oLfb_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Marlene50720901">Marlene50720901</a></td>
-            <td>2022-07-29</td>
-            <td>2022-11-13</td>
-            <td align="center"></td>
-            <td>1515</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=18383161">
                 <img src="https://pbs.twimg.com/profile_images/1451853753951215616/Ms5H1MpU_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2308,6 +2297,17 @@ Found 1739 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1511</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1553002352394862593">
+                <img src="https://pbs.twimg.com/profile_images/1553043632638279682/4ho-oLfb_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Marlene50720901">Marlene50720901</a></td>
+            <td>2022-07-29</td>
+            <td>2022-11-13</td>
+            <td align="center"></td>
+            <td>1509</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1567950879348727808">

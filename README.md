@@ -32,16 +32,16 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 373944
-* Total number of suspension reversals detected: 15133
-* Mean number of followers for suspended accounts: 1697.28
+* Total number of suspensions detected: 379011
+* Total number of suspension reversals detected: 15490
+* Mean number of followers for suspended accounts: 1689.05
 * Median number of followers for suspended accounts: 56.0
-* Mean age of suspended accounts (days): 1026.72
-* Median age of suspended accounts (days): 303.0
-* Total number of verified accounts suspended: 140
-* Total number of protected accounts suspended: 18798
+* Mean age of suspended accounts (days): 1025.24
+* Median age of suspended accounts (days): 301.0
+* Total number of verified accounts suspended: 141
+* Total number of protected accounts suspended: 18948
 * Total number of suspensions for accounts previously withheld in specific countries: 25
-* Total number of screen name changes detected: 893535
+* Total number of screen name changes detected: 904465
 
 
 
@@ -290,17 +290,41 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2022-11-25/">25 November 2022</a>
+            </td>
+            <td>585</td>
+            <td>3</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-11-24/">24 November 2022</a>
+            </td>
+            <td>2202</td>
+            <td>35</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-11-23/">23 November 2022</a>
+            </td>
+            <td>2019</td>
+            <td>25</td>
+            <td>37</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2022-11-22/">22 November 2022</a>
             </td>
-            <td>1666</td>
-            <td>31</td>
-            <td>3</td>
+            <td>2011</td>
+            <td>35</td>
+            <td>26</td>
         </tr>
         <tr>
             <td>
                 <a href="reports/2022-11-21/">21 November 2022</a>
             </td>
-            <td>1773</td>
+            <td>1780</td>
             <td>26</td>
             <td>36</td>
         </tr>
@@ -886,7 +910,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>2021</td>
             <td>1</td>
-            <td>45</td>
+            <td>44</td>
         </tr>
         <tr>
             <td>

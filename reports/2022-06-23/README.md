@@ -131,7 +131,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/HerrMogus27">HerrMogus27</a>
             </td>
             <td align="center"></td>
-            <td>340</td>
+            <td>344</td>
             <td>42312</td>
         </tr>
         <tr>
@@ -206,7 +206,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2021-07-09</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>80715</td>
+            <td>80611</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1250256397293342720">
@@ -514,7 +514,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2019-02-14</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>3930</td>
+            <td>3931</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2995764965">
@@ -745,7 +745,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2009-05-12</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>2514</td>
+            <td>2512</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=732965724990275584">
@@ -968,6 +968,17 @@ Found 1499 suspensions for untracked accounts.
             <td>1894</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1410332713580703747">
+                <img src="https://pbs.twimg.com/profile_images/1568106195411427328/FHxU_V61_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/altcoinvicky">altcoinvicky</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1410332713580703747">2 others</a>)&nbsp;</td>
+            <td>2021-06-30</td>
+            <td>2022-07-04</td>
+            <td align="center"></td>
+            <td>1828</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1265199391855579139">
                 <img src="https://pbs.twimg.com/profile_images/1265806938736115712/971OzOph_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -988,17 +999,6 @@ Found 1499 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1812</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1410332713580703747">
-                <img src="https://pbs.twimg.com/profile_images/1568106195411427328/FHxU_V61_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/altcoinvicky">altcoinvicky</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1410332713580703747">2 others</a>)&nbsp;</td>
-            <td>2021-06-30</td>
-            <td>2022-07-04</td>
-            <td align="center"></td>
-            <td>1786</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=534597738">
@@ -1031,7 +1031,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2022-03-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1714</td>
+            <td>1712</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1460665887762046978">
@@ -1075,7 +1075,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2019-08-17</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1629</td>
+            <td>1632</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=602044842">
@@ -1339,7 +1339,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2016-02-01</td>
             <td>2022-10-19</td>
             <td align="center"></td>
-            <td>1330</td>
+            <td>1331</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=820392510191079424">
