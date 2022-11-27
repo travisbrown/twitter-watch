@@ -946,7 +946,7 @@ Found 2247 suspensions for untracked accounts.
             <td>2010-08-12</td>
             <td>2022-11-23</td>
             <td align="center"></td>
-            <td>137203</td>
+            <td>137189</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=151087125">
@@ -979,7 +979,7 @@ Found 2247 suspensions for untracked accounts.
             <td>2012-09-06</td>
             <td></td>
             <td align="center"></td>
-            <td>77978</td>
+            <td>77557</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=421912320">
@@ -2247,17 +2247,6 @@ Found 2247 suspensions for untracked accounts.
             <td>1564</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=715381737631662084">
-                <img src="https://pbs.twimg.com/profile_images/1201992491299409922/sbWYffqR_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/IvyLeaglady4djt">IvyLeaglady4djt</a></td>
-            <td>2016-03-31</td>
-            <td>2022-11-21</td>
-            <td align="center"></td>
-            <td>1556</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1549147138516520962">
                 <img src="https://pbs.twimg.com/profile_images/1561616606135955456/IuxNeR95_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2278,6 +2267,17 @@ Found 2247 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1556</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=715381737631662084">
+                <img src="https://pbs.twimg.com/profile_images/1201992491299409922/sbWYffqR_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/IvyLeaglady4djt">IvyLeaglady4djt</a></td>
+            <td>2016-03-31</td>
+            <td>2022-11-21</td>
+            <td align="center"></td>
+            <td>1555</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2503672752">

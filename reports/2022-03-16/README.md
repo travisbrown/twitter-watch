@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2022-03-04</td>
             <td>2022-04-12</td>
             <td align="center"></td>
-            <td>1109</td>
+            <td>1106</td>
             <td>14765</td>
         </tr></table>
 
@@ -438,7 +438,7 @@ Found 1137 suspensions for untracked accounts.
             <td>2011-05-28</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>16186</td>
+            <td>16168</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2598114599">
@@ -636,7 +636,7 @@ Found 1137 suspensions for untracked accounts.
             <td>2009-06-22</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>4264</td>
+            <td>4265</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1146688163852771328">
@@ -694,6 +694,17 @@ Found 1137 suspensions for untracked accounts.
             <td>3360</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1317766522249613313">
+                <img src="https://pbs.twimg.com/profile_images/1591391794138415105/dKeEZWz9_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MileOfSilence">MileOfSilence</a></td>
+            <td>2020-10-18</td>
+            <td>2022-03-27</td>
+            <td align="center"></td>
+            <td>3257</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1351278452226236416">
                 <img src="https://pbs.twimg.com/profile_images/1503602370176962562/UFqS2fIE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -703,17 +714,6 @@ Found 1137 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3257</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1317766522249613313">
-                <img src="https://pbs.twimg.com/profile_images/1591391794138415105/dKeEZWz9_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MileOfSilence">MileOfSilence</a></td>
-            <td>2020-10-18</td>
-            <td>2022-03-27</td>
-            <td align="center"></td>
-            <td>3255</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=183968715">
@@ -845,7 +845,7 @@ Found 1137 suspensions for untracked accounts.
             <td>2020-02-29</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>2281</td>
+            <td>2291</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4809660020">
@@ -999,7 +999,7 @@ Found 1137 suspensions for untracked accounts.
             <td>2015-02-03</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>1545</td>
+            <td>1544</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1211669220687147008">
@@ -1263,7 +1263,7 @@ Found 1137 suspensions for untracked accounts.
             <td>2021-05-14</td>
             <td>2022-04-17</td>
             <td align="center"></td>
-            <td>1240</td>
+            <td>1238</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=737301502780399616">

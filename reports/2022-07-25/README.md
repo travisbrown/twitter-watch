@@ -30,7 +30,7 @@ Found 8 suspensions for tracked accounts.
             <td>2021-10-11</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>16902</td>
+            <td>16919</td>
             <td>593</td>
         </tr>
         <tr>
@@ -669,7 +669,7 @@ Found 1694 suspensions for untracked accounts.
             <td>2015-02-18</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>44613</td>
+            <td>44607</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3427898085">
@@ -1054,7 +1054,7 @@ Found 1694 suspensions for untracked accounts.
             <td>2012-11-02</td>
             <td>2022-10-13</td>
             <td align="center"></td>
-            <td>10413</td>
+            <td>10414</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1451881736284090369">
@@ -2124,17 +2124,6 @@ Found 1694 suspensions for untracked accounts.
             <td>2577</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1356357879398236161">
-                <img src="https://pbs.twimg.com/profile_images/1470708861287821317/7VWuCgZD_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/pawley_robert">pawley_robert</a></td>
-            <td>2021-02-01</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>2562</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1515329558869856256">
                 <img src="https://pbs.twimg.com/profile_images/1519347347758723085/yBcpFRqi_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2144,6 +2133,17 @@ Found 1694 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2560</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1356357879398236161">
+                <img src="https://pbs.twimg.com/profile_images/1470708861287821317/7VWuCgZD_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/pawley_robert">pawley_robert</a></td>
+            <td>2021-02-01</td>
+            <td>2022-08-02</td>
+            <td align="center"></td>
+            <td>2556</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1467317402501206017">
@@ -2308,7 +2308,7 @@ Found 1694 suspensions for untracked accounts.
             <td>2010-11-22</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>2145</td>
+            <td>2146</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=150971723">
@@ -2707,17 +2707,6 @@ Found 1694 suspensions for untracked accounts.
             <td>1580</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=398043582">
-                <img src="https://pbs.twimg.com/profile_images/1004093168734883846/Tijnq5xm_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/1936power">1936power</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/398043582">1 other</a>)&nbsp;</td>
-            <td>2011-10-25</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1572</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1400561168440344578">
                 <img src="https://pbs.twimg.com/profile_images/1595187191654776832/-tqQefqO_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2725,6 +2714,17 @@ Found 1694 suspensions for untracked accounts.
                 <a href="https://twitter.com/_Carlos_The_Dog">_Carlos_The_Dog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1400561168440344578">1 other</a>)&nbsp;</td>
             <td>2021-06-03</td>
             <td>2022-11-22</td>
+            <td align="center"></td>
+            <td>1575</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=398043582">
+                <img src="https://pbs.twimg.com/profile_images/1004093168734883846/Tijnq5xm_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/1936power">1936power</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/398043582">1 other</a>)&nbsp;</td>
+            <td>2011-10-25</td>
+            <td></td>
             <td align="center"></td>
             <td>1572</td>
         </tr>

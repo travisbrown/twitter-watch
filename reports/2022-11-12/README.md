@@ -1014,7 +1014,7 @@ Found 2890 suspensions for untracked accounts.
             <td>2020-09-10</td>
             <td>2022-11-23</td>
             <td align="center"></td>
-            <td>431115</td>
+            <td>431016</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1272556267010166785">
@@ -1333,7 +1333,7 @@ Found 2890 suspensions for untracked accounts.
             <td>2020-05-18</td>
             <td>2022-11-18</td>
             <td align="center"></td>
-            <td>14985</td>
+            <td>15022</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1238438301394251776">
@@ -2048,7 +2048,7 @@ Found 2890 suspensions for untracked accounts.
             <td>2015-05-29</td>
             <td>2022-11-14</td>
             <td align="center"></td>
-            <td>1906</td>
+            <td>1905</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=819177050736971776">
@@ -2180,7 +2180,7 @@ Found 2890 suspensions for untracked accounts.
             <td>2022-01-10</td>
             <td>2022-11-16</td>
             <td align="center"></td>
-            <td>1583</td>
+            <td>1588</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=930373921597206529">
@@ -2620,18 +2620,7 @@ Found 2890 suspensions for untracked accounts.
             <td>2017-04-27</td>
             <td>2022-11-21</td>
             <td align="center"></td>
-            <td>1060</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=203759274">
-                <img src="https://pbs.twimg.com/profile_images/1510240262651527169/Pawk0CJS_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Poskok_Info">Poskok_Info</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/203759274">2 others</a>)&nbsp;</td>
-            <td>2010-10-17</td>
-            <td>2022-11-15</td>
-            <td align="center"></td>
-            <td>1034</td>
+            <td>1056</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1401013925349625861">
@@ -2643,6 +2632,17 @@ Found 2890 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1034</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=203759274">
+                <img src="https://pbs.twimg.com/profile_images/1510240262651527169/Pawk0CJS_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Poskok_Info">Poskok_Info</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/203759274">2 others</a>)&nbsp;</td>
+            <td>2010-10-17</td>
+            <td>2022-11-15</td>
+            <td align="center"></td>
+            <td>1033</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1446089584648105988">

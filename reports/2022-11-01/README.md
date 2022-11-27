@@ -856,9 +856,9 @@ Found 77 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FroghammedZoroa">FroghammedZoroa</a></td>
             <td>2022-08-02</td>
-            <td></td>
+            <td>2022-11-25</td>
             <td align="center"></td>
-            <td>94</td>
+            <td>87</td>
             <td>61480</td>
         </tr>
         <tr>
@@ -1657,7 +1657,7 @@ Found 1807 suspensions for untracked accounts.
             <td>2021-03-09</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>6001</td>
+            <td>6004</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1342614259210059776">
@@ -1690,7 +1690,7 @@ Found 1807 suspensions for untracked accounts.
             <td>2021-11-01</td>
             <td>2022-11-18</td>
             <td align="center"></td>
-            <td>4786</td>
+            <td>4780</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1396490944753582083">
@@ -1987,7 +1987,7 @@ Found 1807 suspensions for untracked accounts.
             <td>2017-02-17</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>1684</td>
+            <td>1687</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1281859595921756160">

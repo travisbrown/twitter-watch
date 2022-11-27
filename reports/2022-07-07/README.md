@@ -342,7 +342,7 @@ Found 31 suspensions for tracked accounts.
             <td>2019-09-02</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>319</td>
+            <td>321</td>
             <td>33856</td>
         </tr>
         <tr>
@@ -366,7 +366,7 @@ Found 31 suspensions for tracked accounts.
             <td>2013-05-15</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>291</td>
+            <td>290</td>
             <td>70841</td>
         </tr>
         <tr>
@@ -1109,7 +1109,7 @@ Found 1003 suspensions for untracked accounts.
             <td>2014-06-04</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>171343</td>
+            <td>171309</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=18614569">
@@ -1131,7 +1131,7 @@ Found 1003 suspensions for untracked accounts.
             <td>2015-03-16</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>122675</td>
+            <td>122655</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1288819602479341573">
@@ -1596,17 +1596,6 @@ Found 1003 suspensions for untracked accounts.
             <td>1959</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1230168415693942785">
-                <img src="https://pbs.twimg.com/profile_images/1593597344150437888/dntmilLB_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/catholicizm_">catholicizm_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230168415693942785">1 other</a>)&nbsp;</td>
-            <td>2020-02-19</td>
-            <td>2022-11-18</td>
-            <td align="center"></td>
-            <td>1946</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1480344599159791617">
                 <img src="https://pbs.twimg.com/profile_images/1525306874182176770/Va7DlZ-x_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1616,6 +1605,17 @@ Found 1003 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1946</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1230168415693942785">
+                <img src="https://pbs.twimg.com/profile_images/1593597344150437888/dntmilLB_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/catholicizm_">catholicizm_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230168415693942785">1 other</a>)&nbsp;</td>
+            <td>2020-02-19</td>
+            <td>2022-11-18</td>
+            <td align="center"></td>
+            <td>1943</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1320041092046356482">
@@ -1901,7 +1901,7 @@ Found 1003 suspensions for untracked accounts.
             <td>2009-04-13</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>1315</td>
+            <td>1316</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1134676199039557632">

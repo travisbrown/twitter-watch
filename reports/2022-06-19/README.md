@@ -429,7 +429,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2015-12-21</td>
             <td>2022-10-06</td>
             <td align="center"></td>
-            <td>14792</td>
+            <td>14781</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4631267695">
@@ -737,7 +737,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2012-08-17</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>2919</td>
+            <td>2917</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4528551015">
@@ -1155,7 +1155,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2015-09-25</td>
             <td>2022-08-21</td>
             <td align="center"></td>
-            <td>1332</td>
+            <td>1331</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=828279319072010240">
@@ -1224,17 +1224,6 @@ Found 1287 suspensions for untracked accounts.
             <td>1220</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=922910297689657351">
-                <img src="https://pbs.twimg.com/profile_images/1509494814097694723/4uSPrAeZ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Mat2olyYaHesham">Mat2olyYaHesham</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/922910297689657351">3 others</a>)&nbsp;</td>
-            <td>2017-10-24</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1192</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495144764466941959">
                 <img src="https://pbs.twimg.com/profile_images/1563713721108774918/-vxpsi3B_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1242,6 +1231,17 @@ Found 1287 suspensions for untracked accounts.
                 <a href="https://twitter.com/DiegoMavill">DiegoMavill</a></td>
             <td>2022-02-19</td>
             <td>2022-08-15</td>
+            <td align="center"></td>
+            <td>1197</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=922910297689657351">
+                <img src="https://pbs.twimg.com/profile_images/1509494814097694723/4uSPrAeZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Mat2olyYaHesham">Mat2olyYaHesham</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/922910297689657351">3 others</a>)&nbsp;</td>
+            <td>2017-10-24</td>
+            <td></td>
             <td align="center"></td>
             <td>1192</td>
         </tr>

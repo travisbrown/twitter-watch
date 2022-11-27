@@ -114,7 +114,7 @@ Found 11 suspensions for tracked accounts.
             <td>2021-12-20</td>
             <td>2022-10-09</td>
             <td align="center"></td>
-            <td>62</td>
+            <td>63</td>
             <td>27941</td>
         </tr>
         <tr>
@@ -667,7 +667,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2008-11-03</td>
             <td>2022-10-12</td>
             <td align="center"></td>
-            <td>45945</td>
+            <td>45941</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2623670842">
@@ -755,7 +755,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2020-12-24</td>
             <td>2022-10-23</td>
             <td align="center"></td>
-            <td>24588</td>
+            <td>24566</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1240824236513456128">
@@ -1264,17 +1264,6 @@ Found 1662 suspensions for untracked accounts.
             <td>5406</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1123568178582495233">
-                <img src="https://pbs.twimg.com/profile_images/1455118852908584961/JoBY4LLy_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Glitterbeard_">Glitterbeard_</a></td>
-            <td>2019-05-01</td>
-            <td>2022-10-16</td>
-            <td align="center"></td>
-            <td>5318</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=704003581733634048">
                 <img src="https://pbs.twimg.com/profile_images/1054516090552881152/38Rny8qc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1284,6 +1273,17 @@ Found 1662 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>5314</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1123568178582495233">
+                <img src="https://pbs.twimg.com/profile_images/1455118852908584961/JoBY4LLy_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Glitterbeard_">Glitterbeard_</a></td>
+            <td>2019-05-01</td>
+            <td>2022-10-16</td>
+            <td align="center"></td>
+            <td>5313</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1566928864441417729">
@@ -1448,7 +1448,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2021-10-16</td>
             <td>2022-10-13</td>
             <td align="center"></td>
-            <td>4282</td>
+            <td>4283</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=939353300">
@@ -1525,7 +1525,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2019-07-21</td>
             <td>2022-10-11</td>
             <td align="center"></td>
-            <td>3955</td>
+            <td>3956</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1281465391886159872">
@@ -1855,7 +1855,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2015-08-27</td>
             <td>2022-10-13</td>
             <td align="center"></td>
-            <td>2513</td>
+            <td>2521</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1489789425928347649">
@@ -1965,7 +1965,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2020-10-27</td>
             <td>2022-10-09</td>
             <td align="center"></td>
-            <td>2330</td>
+            <td>2336</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1252066578478202880">
@@ -2966,5 +2966,5 @@ Found 1662 suspensions for untracked accounts.
             <td>2020-10-21</td>
             <td>2022-10-11</td>
             <td align="center"></td>
-            <td>1012</td>
+            <td>1014</td>
         </tr></table>

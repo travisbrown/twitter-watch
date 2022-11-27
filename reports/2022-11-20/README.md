@@ -42,7 +42,7 @@ Found 35 suspensions for tracked accounts.
             <td>2013-09-17</td>
             <td>2022-11-21</td>
             <td align="center"></td>
-            <td>4371</td>
+            <td>4375</td>
             <td>1257</td>
         </tr>
         <tr>
@@ -1646,7 +1646,7 @@ Found 1366 suspensions for untracked accounts.
             <td>2021-01-23</td>
             <td>2022-11-24</td>
             <td align="center"></td>
-            <td>20510</td>
+            <td>20531</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=60700893">
@@ -3013,6 +3013,17 @@ Found 1366 suspensions for untracked accounts.
             <td>1259</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1659990266">
+                <img src="https://pbs.twimg.com/profile_images/811607199927500800/bJCuIxTU_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/1RedTulie">1RedTulie</a></td>
+            <td>2013-08-10</td>
+            <td>2022-11-21</td>
+            <td align="center"></td>
+            <td>1221</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1250562920368541700">
                 <img src="https://pbs.twimg.com/profile_images/1594206428113375233/l4IE9o79_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3022,17 +3033,6 @@ Found 1366 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1221</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1659990266">
-                <img src="https://pbs.twimg.com/profile_images/811607199927500800/bJCuIxTU_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/1RedTulie">1RedTulie</a></td>
-            <td>2013-08-10</td>
-            <td>2022-11-21</td>
-            <td align="center"></td>
-            <td>1216</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=761721686299385856">

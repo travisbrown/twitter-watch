@@ -54,7 +54,7 @@ Found 9 suspensions for tracked accounts.
             <td>2018-05-09</td>
             <td>2022-09-20</td>
             <td align="center"></td>
-            <td>2609</td>
+            <td>2613</td>
             <td>1851</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 9 suspensions for tracked accounts.
             <td>2022-04-25</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>4314</td>
+            <td>4321</td>
             <td>81769</td>
         </tr></table>
 
@@ -913,7 +913,7 @@ Found 668 suspensions for untracked accounts.
             <td>2018-06-06</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>22516</td>
+            <td>22501</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=492848754">
@@ -1056,7 +1056,7 @@ Found 668 suspensions for untracked accounts.
             <td>2017-06-30</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>6184</td>
+            <td>6185</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=48997805">
@@ -1093,14 +1093,14 @@ Found 668 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1134180052642467841">
-                <img src="https://pbs.twimg.com/profile_images/1535254602744057857/f6vLiCL8_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1593523750355492864/e_qwQY0u_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/vantoetsenbord">vantoetsenbord</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1134180052642467841">2 others</a>)&nbsp;</td>
             <td>2019-05-30</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>4420</td>
+            <td>4439</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1464900995348152322">

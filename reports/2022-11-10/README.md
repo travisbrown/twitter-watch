@@ -174,7 +174,7 @@ Found 30 suspensions for tracked accounts.
             <td>2022-04-27</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>1609</td>
+            <td>1608</td>
             <td>19247</td>
         </tr>
         <tr>
@@ -1202,7 +1202,7 @@ Found 3438 suspensions for untracked accounts.
             <td>2020-04-21</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>56696</td>
+            <td>56705</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1274615546118635520">
@@ -1301,7 +1301,7 @@ Found 3438 suspensions for untracked accounts.
             <td>2022-01-26</td>
             <td>2022-11-23</td>
             <td align="center"></td>
-            <td>23929</td>
+            <td>23876</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518656082767495168">
@@ -1389,7 +1389,7 @@ Found 3438 suspensions for untracked accounts.
             <td>2019-11-02</td>
             <td>2022-11-13</td>
             <td align="center"></td>
-            <td>16384</td>
+            <td>16386</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1302551253139025921">
@@ -1414,6 +1414,17 @@ Found 3438 suspensions for untracked accounts.
             <td>15467</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1578928538358493184">
+                <img src="https://pbs.twimg.com/profile_images/1596299088668069888/XYvlCfZD_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Rampage95_SGTG">Rampage95_SGTG</a></td>
+            <td>2022-10-09</td>
+            <td>2022-11-12</td>
+            <td align="center"></td>
+            <td>14930</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1291307450742837248">
                 <img src="https://pbs.twimg.com/profile_images/1586012377513852933/yddpDaBd_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1423,17 +1434,6 @@ Found 3438 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>14903</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1578928538358493184">
-                <img src="https://pbs.twimg.com/profile_images/1595996309206581250/jCbHeT2e_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Rampage95_SGTG">Rampage95_SGTG</a></td>
-            <td>2022-10-09</td>
-            <td>2022-11-12</td>
-            <td align="center"></td>
-            <td>14764</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3339289870">

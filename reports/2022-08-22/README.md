@@ -54,7 +54,7 @@ Found 5 suspensions for tracked accounts.
             <td>2020-07-23</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>15761</td>
+            <td>15789</td>
             <td>14745</td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2020-09-07</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>166633</td>
+            <td>166799</td>
             <td>31190</td>
         </tr>
         <tr>
@@ -909,6 +909,17 @@ Found 1804 suspensions for untracked accounts.
             <td>8118</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=3297735347">
+                <img src="https://pbs.twimg.com/profile_images/1257235754067079168/2YOKE2ZF_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/HowtoDIYHD">HowtoDIYHD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3297735347">1 other</a>)&nbsp;</td>
+            <td>2015-05-25</td>
+            <td>2022-10-08</td>
+            <td align="center"></td>
+            <td>8100</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2483042192">
                 <img src="https://pbs.twimg.com/profile_images/1150178395214548992/0ZUsbaxm_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -918,17 +929,6 @@ Found 1804 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>8094</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=3297735347">
-                <img src="https://pbs.twimg.com/profile_images/1257235754067079168/2YOKE2ZF_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/HowtoDIYHD">HowtoDIYHD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3297735347">1 other</a>)&nbsp;</td>
-            <td>2015-05-25</td>
-            <td>2022-10-08</td>
-            <td align="center"></td>
-            <td>8093</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=808707213443403778">
