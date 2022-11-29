@@ -81,7 +81,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/elniggmex">elniggmex</a>
             </td>
             <td align="center"></td>
-            <td>184</td>
+            <td>185</td>
             <td>4068</td>
         </tr>
         <tr>
@@ -283,7 +283,7 @@ Found 499 suspensions for untracked accounts.
             <td>2012-03-27</td>
             <td>2022-11-22</td>
             <td align="center"></td>
-            <td>11719</td>
+            <td>11704</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=223867229">
@@ -294,7 +294,7 @@ Found 499 suspensions for untracked accounts.
             <td>2010-12-07</td>
             <td>2022-11-11</td>
             <td align="center"></td>
-            <td>9430</td>
+            <td>9424</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1246441792020627457">
@@ -451,17 +451,6 @@ Found 499 suspensions for untracked accounts.
             <td>2959</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1492711336152907780">
-                <img src="https://pbs.twimg.com/profile_images/1566527760478117889/DZKwNa0u_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/OnismiNFT">OnismiNFT</a></td>
-            <td>2022-02-13</td>
-            <td>2022-05-06</td>
-            <td align="center"></td>
-            <td>2608</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1415390902789496839">
                 <img src="https://pbs.twimg.com/profile_images/1505290006411292679/9lVgNTBX_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -471,6 +460,17 @@ Found 499 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2599</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1492711336152907780">
+                <img src="https://pbs.twimg.com/profile_images/1566527760478117889/DZKwNa0u_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/OnismiNFT">OnismiNFT</a></td>
+            <td>2022-02-13</td>
+            <td>2022-05-06</td>
+            <td align="center"></td>
+            <td>2598</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2827781844">

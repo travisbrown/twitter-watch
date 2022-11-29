@@ -324,7 +324,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/meaniepants_iii">meaniepants_iii</a>
             </td>
             <td align="center"></td>
-            <td>139</td>
+            <td>136</td>
             <td>3728</td>
         </tr>
         <tr>
@@ -376,7 +376,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/1scd44">1scd44</a>
             </td>
             <td align="center"></td>
-            <td>277</td>
+            <td>270</td>
             <td>9713</td>
         </tr>
         <tr>
@@ -389,7 +389,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/8xnia">8xnia</a>
             </td>
             <td align="center"></td>
-            <td>809</td>
+            <td>815</td>
             <td>26686</td>
         </tr>
         <tr>
@@ -454,7 +454,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Governorfren">Governorfren</a>
             </td>
             <td align="center"></td>
-            <td>333</td>
+            <td>336</td>
             <td>46038</td>
         </tr>
         <tr>
@@ -506,7 +506,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/shawnn543">shawnn543</a>
             </td>
             <td align="center"></td>
-            <td>325</td>
+            <td>317</td>
             <td>84305</td>
         </tr>
         <tr>
@@ -545,7 +545,7 @@ Found 21 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/weathereport01">weathereport01</a>
             </td>
             <td align="center">🔒</td>
-            <td>36</td>
+            <td>37</td>
             <td>99096</td>
         </tr></table>
 
@@ -717,7 +717,7 @@ Found 1150 suspensions for untracked accounts.
             <td>2020-06-11</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>8184</td>
+            <td>8192</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2980170287">
@@ -827,7 +827,7 @@ Found 1150 suspensions for untracked accounts.
             <td>2021-08-16</td>
             <td>2022-10-14</td>
             <td align="center"></td>
-            <td>2765</td>
+            <td>2769</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1419320615211778050">
@@ -915,7 +915,7 @@ Found 1150 suspensions for untracked accounts.
             <td>2008-12-04</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>1802</td>
+            <td>1803</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1244270490409197569">
@@ -940,6 +940,17 @@ Found 1150 suspensions for untracked accounts.
             <td>1705</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1514427048210673667">
+                <img src="https://pbs.twimg.com/profile_images/1523320646431879169/P9sww70v_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JonezMordecai">JonezMordecai</a></td>
+            <td>2022-04-14</td>
+            <td>2022-06-20</td>
+            <td align="center"></td>
+            <td>1642</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1392233516113485824">
                 <img src="https://pbs.twimg.com/profile_images/1523305418163957762/IHsONjYr_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -960,17 +971,6 @@ Found 1150 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1601</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1514427048210673667">
-                <img src="https://pbs.twimg.com/profile_images/1523320646431879169/P9sww70v_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/JonezMordecai">JonezMordecai</a></td>
-            <td>2022-04-14</td>
-            <td>2022-06-20</td>
-            <td align="center"></td>
-            <td>1593</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=20639333">
