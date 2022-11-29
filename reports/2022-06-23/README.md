@@ -131,7 +131,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/HerrMogus27">HerrMogus27</a>
             </td>
             <td align="center"></td>
-            <td>342</td>
+            <td>352</td>
             <td>42312</td>
         </tr>
         <tr>
@@ -206,7 +206,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2021-07-09</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>80665</td>
+            <td>80759</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1250256397293342720">
@@ -976,7 +976,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2021-06-30</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1831</td>
+            <td>1835</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1265199391855579139">
@@ -1031,7 +1031,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2022-03-01</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1714</td>
+            <td>1713</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1460665887762046978">
@@ -1075,7 +1075,7 @@ Found 1499 suspensions for untracked accounts.
             <td>2019-08-17</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>1630</td>
+            <td>1632</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=602044842">

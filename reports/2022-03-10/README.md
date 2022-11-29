@@ -58,7 +58,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/AbolishWhitenes">AbolishWhitenes</a>
             </td>
             <td align="center"></td>
-            <td>269</td>
+            <td>270</td>
             <td>7618</td>
         </tr>
         <tr>
@@ -227,7 +227,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/inwhosehands">inwhosehands</a>
             </td>
             <td align="center"></td>
-            <td>44</td>
+            <td>45</td>
             <td>91524</td>
         </tr>
         <tr>
@@ -240,7 +240,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Harmonicritik">Harmonicritik</a>
             </td>
             <td align="center"></td>
-            <td>44</td>
+            <td>45</td>
             <td>94759</td>
         </tr>
         <tr>
@@ -359,9 +359,9 @@ Found 478 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Howard_TMH">Howard_TMH</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/152790127">2 others</a>)&nbsp;</td>
             <td>2010-06-06</td>
-            <td>2022-11-18</td>
+            <td>2022-11-10</td>
             <td align="center"></td>
-            <td>6100</td>
+            <td>6092</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3088970121">
@@ -405,7 +405,7 @@ Found 478 suspensions for untracked accounts.
             <td>2010-06-15</td>
             <td>2022-03-15</td>
             <td align="center"></td>
-            <td>5187</td>
+            <td>5185</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=592936291">
@@ -427,7 +427,7 @@ Found 478 suspensions for untracked accounts.
             <td>2017-02-03</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>4788</td>
+            <td>4786</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=24190527">
@@ -680,7 +680,7 @@ Found 478 suspensions for untracked accounts.
             <td>2019-12-17</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>1440</td>
+            <td>1442</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=154755480">
@@ -760,6 +760,17 @@ Found 478 suspensions for untracked accounts.
             <td>1130</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=936186666">
+                <img src="https://pbs.twimg.com/profile_images/1467544231778660359/hsyahPbM_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/GAZ1165">GAZ1165</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/936186666">1 other</a>)&nbsp;</td>
+            <td>2012-11-09</td>
+            <td>2022-09-09</td>
+            <td align="center"></td>
+            <td>1113</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1455121658419851264">
                 <img src="https://pbs.twimg.com/profile_images/1588972047266463744/uz8nxgh6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -769,17 +780,6 @@ Found 478 suspensions for untracked accounts.
             <td>2022-04-10</td>
             <td align="center"></td>
             <td>1111</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=936186666">
-                <img src="https://pbs.twimg.com/profile_images/1467544231778660359/hsyahPbM_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/GAZ1165">GAZ1165</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/936186666">1 other</a>)&nbsp;</td>
-            <td>2012-11-09</td>
-            <td>2022-09-09</td>
-            <td align="center"></td>
-            <td>1109</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=709917790359003137">
