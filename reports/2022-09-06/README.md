@@ -76,7 +76,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Burch12Tommy">Burch12Tommy</a></td>
             <td>2021-08-08</td>
-            <td></td>
+            <td>2022-09-09</td>
             <td align="center"></td>
             <td>1860</td>
             <td>90364</td>
@@ -510,7 +510,7 @@ Found 374 suspensions for untracked accounts.
             <td>2011-02-21</td>
             <td>2022-09-09</td>
             <td align="center"></td>
-            <td>8439</td>
+            <td>8436</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1380293058982420481">
@@ -598,7 +598,7 @@ Found 374 suspensions for untracked accounts.
             <td>2013-03-19</td>
             <td>2022-10-27</td>
             <td align="center"></td>
-            <td>2800</td>
+            <td>2799</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1351219096881405954">
@@ -906,7 +906,7 @@ Found 374 suspensions for untracked accounts.
             <td>2020-07-07</td>
             <td></td>
             <td align="center"></td>
-            <td>1170</td>
+            <td>1168</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3630869598">

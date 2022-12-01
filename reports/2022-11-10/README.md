@@ -174,7 +174,7 @@ Found 30 suspensions for tracked accounts.
             <td>2022-04-27</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>1602</td>
+            <td>1600</td>
             <td>19247</td>
         </tr>
         <tr>
@@ -1202,7 +1202,7 @@ Found 3438 suspensions for untracked accounts.
             <td>2020-04-21</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>57846</td>
+            <td>57856</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1274615546118635520">
@@ -1301,7 +1301,7 @@ Found 3438 suspensions for untracked accounts.
             <td>2022-01-26</td>
             <td>2022-11-23</td>
             <td align="center"></td>
-            <td>23955</td>
+            <td>23974</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518656082767495168">
@@ -1382,14 +1382,14 @@ Found 3438 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1578928538358493184">
-                <img src="https://pbs.twimg.com/profile_images/1597429600048627712/CQ49zql2_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1597755858674503680/5Lkbwvot_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Rampage95_SGTG">Rampage95_SGTG</a></td>
             <td>2022-10-09</td>
             <td>2022-11-12</td>
             <td align="center"></td>
-            <td>17642</td>
+            <td>17802</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1190758085536681984">
@@ -1400,7 +1400,7 @@ Found 3438 suspensions for untracked accounts.
             <td>2019-11-02</td>
             <td>2022-11-13</td>
             <td align="center"></td>
-            <td>16368</td>
+            <td>16366</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1302551253139025921">
@@ -2311,7 +2311,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Robert_A_Rainey">Robert_A_Rainey</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1509002228434055171">1 other</a>)&nbsp;</td>
             <td>2022-03-30</td>
-            <td>2022-10-14</td>
+            <td></td>
             <td align="center"></td>
             <td>3174</td>
         </tr>
@@ -2654,7 +2654,7 @@ Found 3438 suspensions for untracked accounts.
             <td>2012-03-26</td>
             <td>2022-11-20</td>
             <td align="center"></td>
-            <td>2379</td>
+            <td>2380</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=194768688">
@@ -2773,7 +2773,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AbdelSantos8">AbdelSantos8</a></td>
             <td>2019-05-06</td>
-            <td>2022-11-09</td>
+            <td></td>
             <td align="center"></td>
             <td>2023</td>
         </tr>
@@ -3097,6 +3097,17 @@ Found 3438 suspensions for untracked accounts.
             <td>1706</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1558496735994867712">
+                <img src="https://pbs.twimg.com/profile_images/1558496813119770624/Zz65QJGX_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Timothy86897664">Timothy86897664</a></td>
+            <td>2022-08-13</td>
+            <td>2022-11-17</td>
+            <td align="center"></td>
+            <td>1702</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=701797092814094336">
                 <img src="https://pbs.twimg.com/profile_images/1265370175429279745/yUbPp5Rw_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3227,17 +3238,6 @@ Found 3438 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1569</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1558496735994867712">
-                <img src="https://pbs.twimg.com/profile_images/1558496813119770624/Zz65QJGX_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Timothy86897664">Timothy86897664</a></td>
-            <td>2022-08-13</td>
-            <td>2022-11-17</td>
-            <td align="center"></td>
-            <td>1545</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1221739677172076546">
@@ -3526,17 +3526,6 @@ Found 3438 suspensions for untracked accounts.
             <td>1243</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1400010657626427394">
-                <img src="https://pbs.twimg.com/profile_images/1563854872033734656/nUXY94gA_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/arcnakwar">arcnakwar</a></td>
-            <td>2021-06-02</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1206</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1499731792307396616">
                 <img src="https://pbs.twimg.com/profile_images/1561654206674657283/_WZ-2jwb_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3601,6 +3590,17 @@ Found 3438 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1169</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1400010657626427394">
+                <img src="https://pbs.twimg.com/profile_images/1563854872033734656/nUXY94gA_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/arcnakwar">arcnakwar</a></td>
+            <td>2021-06-02</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1164</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1336900922581061633">

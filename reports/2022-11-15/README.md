@@ -52,7 +52,7 @@ Found 32 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/thats_a_fella">thats_a_fella</a></td>
             <td>2022-07-17</td>
-            <td>2022-09-27</td>
+            <td></td>
             <td align="center"></td>
             <td>100</td>
             <td>4133</td>
@@ -112,7 +112,7 @@ Found 32 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/the_svarog">the_svarog</a></td>
             <td>2022-09-16</td>
-            <td>2022-11-09</td>
+            <td></td>
             <td align="center"></td>
             <td>155</td>
             <td>19796</td>
@@ -939,14 +939,14 @@ Found 2247 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=177620521">
-                <img src="https://pbs.twimg.com/profile_images/1597365705065766913/lOcNSwT1_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1597636057671127040/ICu3D7Di_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/luisalarosa">luisalarosa</a></td>
             <td>2010-08-12</td>
             <td>2022-11-22</td>
             <td align="center"></td>
-            <td>137160</td>
+            <td>137149</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=151087125">
@@ -979,7 +979,7 @@ Found 2247 suspensions for untracked accounts.
             <td>2012-09-06</td>
             <td>2022-11-24</td>
             <td align="center"></td>
-            <td>77496</td>
+            <td>77449</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=421912320">
@@ -1298,7 +1298,7 @@ Found 2247 suspensions for untracked accounts.
             <td>2017-08-26</td>
             <td>2022-11-28</td>
             <td align="center"></td>
-            <td>8434</td>
+            <td>8418</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1534360685635072000">
@@ -1835,7 +1835,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AngelinaVail">AngelinaVail</a></td>
             <td>2013-01-05</td>
-            <td>2022-11-14</td>
+            <td></td>
             <td align="center"></td>
             <td>2456</td>
         </tr>
@@ -2255,7 +2255,7 @@ Found 2247 suspensions for untracked accounts.
             <td>2016-03-31</td>
             <td>2022-11-21</td>
             <td align="center"></td>
-            <td>1562</td>
+            <td>1560</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1549147138516520962">

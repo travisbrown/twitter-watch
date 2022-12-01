@@ -102,7 +102,7 @@ Found 9 suspensions for tracked accounts.
             <td>2012-09-16</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>1040</td>
+            <td>1042</td>
             <td>12133</td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ Found 9 suspensions for tracked accounts.
             <td>2021-09-02</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>428</td>
+            <td>431</td>
             <td>91438</td>
         </tr></table>
 
@@ -449,7 +449,7 @@ Found 806 suspensions for untracked accounts.
             <td>2021-08-21</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>56455</td>
+            <td>58216</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=110819978">
@@ -1486,17 +1486,6 @@ Found 806 suspensions for untracked accounts.
             <td>1192</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1069148964161769472">
-                <img src="https://pbs.twimg.com/profile_images/1243439943784988672/UN8M_Zah_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mehamadmahdi">mehamadmahdi</a></td>
-            <td>2018-12-02</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>1185</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=984048839261933568">
                 <img src="https://pbs.twimg.com/profile_images/1476883582241095682/TwlappvF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1506,6 +1495,17 @@ Found 806 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1182</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1069148964161769472">
+                <img src="https://pbs.twimg.com/profile_images/1243439943784988672/UN8M_Zah_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mehamadmahdi">mehamadmahdi</a></td>
+            <td>2018-12-02</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>1181</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=124845331">

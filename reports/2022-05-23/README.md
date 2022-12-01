@@ -287,7 +287,7 @@ Found 977 suspensions for untracked accounts.
             <td>2010-02-10</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>8866</td>
+            <td>8867</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=497196644">
@@ -463,18 +463,18 @@ Found 977 suspensions for untracked accounts.
             <td>2019-12-23</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2940</td>
+            <td>2939</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=258112416">
-                <img src="https://pbs.twimg.com/profile_images/1587601805437026308/7N0ENElp_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1597745995957374977/erEGKXyZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/FreyaManslayer">FreyaManslayer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/258112416">1 other</a>)&nbsp;</td>
             <td>2011-02-27</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2817</td>
+            <td>2818</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=858882895">
@@ -738,7 +738,7 @@ Found 977 suspensions for untracked accounts.
             <td>2021-12-27</td>
             <td>2022-10-31</td>
             <td align="center"></td>
-            <td>1353</td>
+            <td>1350</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=188361293">

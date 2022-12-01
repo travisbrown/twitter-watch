@@ -42,7 +42,7 @@ Found 2 suspensions for tracked accounts.
             <td>2017-06-25</td>
             <td>2022-10-27</td>
             <td align="center"></td>
-            <td>1297</td>
+            <td>1296</td>
             <td>93764</td>
         </tr></table>
 
@@ -770,7 +770,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2021-03-23</td>
             <td>2022-10-27</td>
             <td align="center"></td>
-            <td>9668</td>
+            <td>9672</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1257290297245040640">
@@ -891,7 +891,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2012-02-23</td>
             <td>2022-11-02</td>
             <td align="center"></td>
-            <td>5391</td>
+            <td>5392</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=763256714">
@@ -902,7 +902,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2012-08-17</td>
             <td>2022-10-25</td>
             <td align="center"></td>
-            <td>4989</td>
+            <td>4983</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1556460928023011329">
@@ -990,7 +990,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2022-07-02</td>
             <td>2022-10-26</td>
             <td align="center"></td>
-            <td>3931</td>
+            <td>3945</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1511316472743829515">
@@ -1309,7 +1309,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2014-04-27</td>
             <td>2022-11-14</td>
             <td align="center"></td>
-            <td>1948</td>
+            <td>1947</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1525521624707043330">
@@ -1395,7 +1395,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/succie_and_elf">succie_and_elf</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1459197881638916096">1 other</a>)&nbsp;</td>
             <td>2021-11-12</td>
-            <td>2022-09-20</td>
+            <td></td>
             <td align="center"></td>
             <td>1730</td>
         </tr>

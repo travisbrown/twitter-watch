@@ -90,7 +90,7 @@ Found 51 suspensions for tracked accounts.
             <td>2017-08-08</td>
             <td>2022-11-15</td>
             <td align="center"></td>
-            <td>1088</td>
+            <td>1087</td>
             <td>2650</td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ Found 51 suspensions for tracked accounts.
             <td>2016-05-24</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>33782</td>
+            <td>33772</td>
             <td>6551</td>
         </tr>
         <tr>
@@ -184,7 +184,7 @@ Found 51 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/StragglerTom">StragglerTom</a></td>
             <td>2022-07-02</td>
-            <td>2022-09-21</td>
+            <td></td>
             <td align="center"></td>
             <td>302</td>
             <td>12130</td>
@@ -306,7 +306,7 @@ Found 51 suspensions for tracked accounts.
             <td>2020-09-07</td>
             <td>2022-11-27</td>
             <td align="center"></td>
-            <td>1539</td>
+            <td>1543</td>
             <td>26758</td>
         </tr>
         <tr>
@@ -1417,7 +1417,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Flash_holl">Flash_holl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3434308761">2 others</a>)&nbsp;</td>
             <td>2015-08-21</td>
-            <td>2022-09-28</td>
+            <td></td>
             <td align="center"></td>
             <td>10306</td>
         </tr>
@@ -1672,7 +1672,7 @@ Found 1779 suspensions for untracked accounts.
             <td>2008-11-30</td>
             <td>2022-11-15</td>
             <td align="center"></td>
-            <td>3682</td>
+            <td>3680</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1486918879943303177">
@@ -2145,7 +2145,7 @@ Found 1779 suspensions for untracked accounts.
             <td>2021-08-20</td>
             <td>2022-11-27</td>
             <td align="center"></td>
-            <td>1740</td>
+            <td>1738</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=279748585">
@@ -2462,7 +2462,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReTurkmeniFava">ReTurkmeniFava</a></td>
             <td>2022-06-30</td>
-            <td>2022-10-14</td>
+            <td></td>
             <td align="center"></td>
             <td>1361</td>
         </tr>
@@ -2585,7 +2585,7 @@ Found 1779 suspensions for untracked accounts.
             <td>2018-04-13</td>
             <td>2022-11-20</td>
             <td align="center"></td>
-            <td>1229</td>
+            <td>1230</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=484311241">
@@ -2629,7 +2629,7 @@ Found 1779 suspensions for untracked accounts.
             <td>2017-08-22</td>
             <td>2022-11-12</td>
             <td align="center">🔒</td>
-            <td>1197</td>
+            <td>1195</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=823717926528090112">

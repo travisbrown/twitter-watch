@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (3)](#tracked-suspensions)
 * [Tracked screen name changes (40)](#tracked-screen-name-changes)
-* [Untracked suspensions (68)](#untracked-suspensions)
+* [Untracked suspensions (69)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2019-09-12</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>145</td>
+            <td>146</td>
             <td>39596</td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2015-05-02</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>74940</td>
+            <td>74938</td>
             <td>89826</td>
         </tr></table>
 
@@ -596,7 +596,7 @@ Found 40 screen name changes for tracked accounts.✔️ indicates that the acco
 ### Untracked suspensions
 
 Found 605 suspensions for untracked accounts.
-68 accounts have more than 1000 followers and are included here.
+69 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -793,7 +793,18 @@ Found 605 suspensions for untracked accounts.
             <td>2020-09-19</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>4547</td>
+            <td>4589</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=857080349880328192">
+                <img src="https://pbs.twimg.com/profile_images/1597127038682341378/C0NZwgAn_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/53A7713173">53A7713173</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/857080349880328192">16 others</a>)&nbsp;</td>
+            <td>2017-04-26</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>4485</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2282974549">

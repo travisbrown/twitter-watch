@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2009-07-14</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>21353</td>
+            <td>21349</td>
             <td>77647</td>
         </tr></table>
 
@@ -373,7 +373,7 @@ Found 824 suspensions for untracked accounts.
             <td>2015-02-25</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>6191</td>
+            <td>6190</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1453253019622072322">
@@ -439,7 +439,7 @@ Found 824 suspensions for untracked accounts.
             <td>2020-09-19</td>
             <td>2022-11-28</td>
             <td align="center"></td>
-            <td>4547</td>
+            <td>4589</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=781286905421893632">
@@ -684,17 +684,6 @@ Found 824 suspensions for untracked accounts.
             <td>1974</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=721809101664165888">
-                <img src="https://pbs.twimg.com/profile_images/1560774257742938114/KZP5_6BJ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/CsesarC">CsesarC</a></td>
-            <td>2016-04-17</td>
-            <td>2022-07-23</td>
-            <td align="center"></td>
-            <td>1939</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1480614672">
                 <img src="https://pbs.twimg.com/profile_images/1154544902623117312/y1MAZUZE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -702,6 +691,17 @@ Found 824 suspensions for untracked accounts.
                 <a href="https://twitter.com/margareta_matis">margareta_matis</a></td>
             <td>2013-06-03</td>
             <td></td>
+            <td align="center"></td>
+            <td>1938</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=721809101664165888">
+                <img src="https://pbs.twimg.com/profile_images/1560774257742938114/KZP5_6BJ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/CsesarC">CsesarC</a></td>
+            <td>2016-04-17</td>
+            <td>2022-07-23</td>
             <td align="center"></td>
             <td>1938</td>
         </tr>
@@ -989,7 +989,7 @@ Found 824 suspensions for untracked accounts.
             <td>2021-09-04</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1138</td>
+            <td>1134</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1438506602173067264">

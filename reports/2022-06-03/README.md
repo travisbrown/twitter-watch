@@ -1297,7 +1297,7 @@ Found 415 suspensions for untracked accounts.
             <td>2015-08-08</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>59778</td>
+            <td>59755</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=981813021285736448">
@@ -1363,7 +1363,7 @@ Found 415 suspensions for untracked accounts.
             <td>2015-03-07</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>14060</td>
+            <td>14058</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1411285863049445377">
@@ -1429,7 +1429,7 @@ Found 415 suspensions for untracked accounts.
             <td>2017-09-19</td>
             <td>2022-11-12</td>
             <td align="center"></td>
-            <td>3904</td>
+            <td>3913</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1485640436047880197">
@@ -1506,7 +1506,7 @@ Found 415 suspensions for untracked accounts.
             <td>2009-01-04</td>
             <td>2022-11-09</td>
             <td align="center"></td>
-            <td>2850</td>
+            <td>2852</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3273772536">
@@ -1572,7 +1572,7 @@ Found 415 suspensions for untracked accounts.
             <td>2019-01-14</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2209</td>
+            <td>2201</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1205555599213285376">
@@ -1748,7 +1748,7 @@ Found 415 suspensions for untracked accounts.
             <td>2022-02-03</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1260</td>
+            <td>1258</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1350228587832602627">

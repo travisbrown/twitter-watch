@@ -1344,7 +1344,7 @@ Found 702 suspensions for untracked accounts.
             <td>2014-11-02</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>12597</td>
+            <td>12593</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1447661804">
@@ -1817,7 +1817,7 @@ Found 702 suspensions for untracked accounts.
             <td>2010-08-17</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>2126</td>
+            <td>2124</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=816955361483689985">
@@ -2095,6 +2095,17 @@ Found 702 suspensions for untracked accounts.
             <td>1218</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=178158124">
+                <img src="https://pbs.twimg.com/profile_images/1359701147695554566/31cqP_hF_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/davestewart3">davestewart3</a></td>
+            <td>2010-08-14</td>
+            <td>2022-11-17</td>
+            <td align="center"></td>
+            <td>1192</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1324894711518203907">
                 <img src="https://pbs.twimg.com/profile_images/1537971408315174912/a63psi0x_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2104,17 +2115,6 @@ Found 702 suspensions for untracked accounts.
             <td></td>
             <td align="center">🔒</td>
             <td>1191</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=178158124">
-                <img src="https://pbs.twimg.com/profile_images/1359701147695554566/31cqP_hF_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/davestewart3">davestewart3</a></td>
-            <td>2010-08-14</td>
-            <td>2022-11-17</td>
-            <td align="center"></td>
-            <td>1190</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1342080659066662912">

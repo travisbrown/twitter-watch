@@ -30,7 +30,7 @@ Found 5 suspensions for tracked accounts.
             <td>2022-06-06</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>138489</td>
+            <td>138969</td>
             <td>154</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2013-07-14</td>
             <td>2022-10-22</td>
             <td align="center"></td>
-            <td>666</td>
+            <td>665</td>
             <td>32850</td>
         </tr></table>
 
@@ -665,7 +665,7 @@ Found 1261 suspensions for untracked accounts.
             <td>2011-03-08</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>809111</td>
+            <td>809008</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2317354298">
@@ -742,7 +742,7 @@ Found 1261 suspensions for untracked accounts.
             <td>2018-01-29</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>18045</td>
+            <td>18038</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1445562875519455235">
@@ -863,7 +863,7 @@ Found 1261 suspensions for untracked accounts.
             <td>2013-09-21</td>
             <td>2022-10-28</td>
             <td align="center"></td>
-            <td>8502</td>
+            <td>8505</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1295421518906892290">
@@ -1435,7 +1435,7 @@ Found 1261 suspensions for untracked accounts.
             <td>2011-10-17</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2795</td>
+            <td>2787</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1521534079879032833">
@@ -1644,7 +1644,7 @@ Found 1261 suspensions for untracked accounts.
             <td>2013-06-15</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>2381</td>
+            <td>2376</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=468958379">
@@ -1996,7 +1996,7 @@ Found 1261 suspensions for untracked accounts.
             <td>2009-04-29</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>1611</td>
+            <td>1612</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1498676142559137797">
@@ -2106,7 +2106,7 @@ Found 1261 suspensions for untracked accounts.
             <td>2017-10-31</td>
             <td>2022-09-05</td>
             <td align="center"></td>
-            <td>1479</td>
+            <td>1478</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=16350171">
@@ -2274,6 +2274,17 @@ Found 1261 suspensions for untracked accounts.
             <td>1184</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=195915697">
+                <img src="https://pbs.twimg.com/profile_images/1594162151307911168/B5vKbErz_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/inkjetblue">inkjetblue</a></td>
+            <td>2010-09-27</td>
+            <td>2022-11-14</td>
+            <td align="center"></td>
+            <td>1178</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1382544014340091906">
                 <img src="https://pbs.twimg.com/profile_images/1479452607449944067/5JQ0yhv0_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2283,17 +2294,6 @@ Found 1261 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1178</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=195915697">
-                <img src="https://pbs.twimg.com/profile_images/1594162151307911168/B5vKbErz_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/inkjetblue">inkjetblue</a></td>
-            <td>2010-09-27</td>
-            <td>2022-11-14</td>
-            <td align="center"></td>
-            <td>1175</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1360871575894036480">

@@ -460,7 +460,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Frogsphalt">Frogsphalt</a></td>
             <td>2022-10-21</td>
-            <td>2022-10-29</td>
+            <td></td>
             <td align="center"></td>
             <td>1086</td>
             <td>3333</td>
@@ -2526,7 +2526,7 @@ Found 377 suspensions for tracked accounts.
             <td>2021-11-05</td>
             <td>2022-11-02</td>
             <td align="center"></td>
-            <td>1652</td>
+            <td>1654</td>
             <td>35460</td>
         </tr>
         <tr>
@@ -3256,7 +3256,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/EuroHeg">EuroHeg</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1467197055202385926">1 other</a>)&nbsp;</td>
             <td>2021-12-04</td>
-            <td>2022-10-18</td>
+            <td></td>
             <td align="center"></td>
             <td>2717</td>
             <td>52540</td>
@@ -3700,7 +3700,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/eggybake">eggybake</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/859741720870879233">2 others</a>)&nbsp;</td>
             <td>2017-05-03</td>
-            <td>2022-10-24</td>
+            <td></td>
             <td align="center"></td>
             <td>880</td>
             <td>69542</td>
@@ -4096,7 +4096,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/vidyafan85">vidyafan85</a></td>
             <td>2022-09-21</td>
-            <td>2022-10-19</td>
+            <td></td>
             <td align="center"></td>
             <td>363</td>
             <td>85932</td>
@@ -4314,7 +4314,7 @@ Found 377 suspensions for tracked accounts.
             <td>2021-11-05</td>
             <td>2022-11-03</td>
             <td align="center"></td>
-            <td>389</td>
+            <td>390</td>
             <td>91665</td>
         </tr>
         <tr>
@@ -4506,7 +4506,7 @@ Found 377 suspensions for tracked accounts.
             <td>2012-06-23</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>965</td>
+            <td>967</td>
             <td>99184</td>
         </tr>
         <tr>
@@ -5942,7 +5942,7 @@ Found 3199 suspensions for untracked accounts.
             <td>2015-10-29</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>6745</td>
+            <td>6736</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=951840491972149248">
@@ -6514,7 +6514,7 @@ Found 3199 suspensions for untracked accounts.
             <td>2016-08-03</td>
             <td>2022-11-21</td>
             <td align="center"></td>
-            <td>2509</td>
+            <td>2506</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1490181377588871169">
@@ -6745,7 +6745,7 @@ Found 3199 suspensions for untracked accounts.
             <td>2020-01-31</td>
             <td>2022-11-18</td>
             <td align="center"></td>
-            <td>1957</td>
+            <td>1955</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1129882761249079299">
@@ -6831,7 +6831,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KazuneZK">KazuneZK</a></td>
             <td>2022-08-31</td>
-            <td>2022-10-04</td>
+            <td></td>
             <td align="center"></td>
             <td>1793</td>
         </tr>
@@ -7493,7 +7493,7 @@ Found 3199 suspensions for untracked accounts.
             <td>2022-01-09</td>
             <td>2022-11-18</td>
             <td align="center"></td>
-            <td>1223</td>
+            <td>1225</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1440930591894036482">

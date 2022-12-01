@@ -948,7 +948,7 @@ Found 1889 suspensions for untracked accounts.
             <td>2020-10-20</td>
             <td>2022-11-21</td>
             <td align="center"></td>
-            <td>87063</td>
+            <td>87137</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=998892703298433028">
@@ -1067,7 +1067,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lilmisfit1009">lilmisfit1009</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1436079909034725377">1 other</a>)&nbsp;</td>
             <td>2021-09-09</td>
-            <td>2022-10-26</td>
+            <td></td>
             <td align="center"></td>
             <td>19489</td>
         </tr>
@@ -1122,7 +1122,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Doctorfromliny">Doctorfromliny</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1526757545167228931">1 other</a>)&nbsp;</td>
             <td>2022-05-18</td>
-            <td>2022-10-15</td>
+            <td></td>
             <td align="center"></td>
             <td>12484</td>
         </tr>
@@ -1320,7 +1320,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wdsph">wdsph</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/952702430">2 others</a>)&nbsp;</td>
             <td>2012-11-17</td>
-            <td>2022-11-13</td>
+            <td></td>
             <td align="center"></td>
             <td>5274</td>
         </tr>
@@ -2832,17 +2832,6 @@ Found 1889 suspensions for untracked accounts.
             <td>1034</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1560867579236843520">
-                <img src="https://pbs.twimg.com/profile_images/1595781977847767040/skSqkKoT_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/sandisongcamu">sandisongcamu</a></td>
-            <td>2022-08-20</td>
-            <td>2022-11-24</td>
-            <td align="center"></td>
-            <td>1032</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1370872280943853582">
                 <img src="https://pbs.twimg.com/profile_images/1383909887135031302/ArnPAm1e_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2850,6 +2839,17 @@ Found 1889 suspensions for untracked accounts.
                 <a href="https://twitter.com/TheFiteZone">TheFiteZone</a></td>
             <td>2021-03-13</td>
             <td></td>
+            <td align="center"></td>
+            <td>1029</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1560867579236843520">
+                <img src="https://pbs.twimg.com/profile_images/1595781977847767040/skSqkKoT_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/sandisongcamu">sandisongcamu</a></td>
+            <td>2022-08-20</td>
+            <td>2022-11-24</td>
             <td align="center"></td>
             <td>1029</td>
         </tr>

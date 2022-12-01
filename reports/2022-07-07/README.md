@@ -1109,7 +1109,7 @@ Found 1003 suspensions for untracked accounts.
             <td>2014-06-04</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>171161</td>
+            <td>171135</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=18614569">
@@ -1131,7 +1131,7 @@ Found 1003 suspensions for untracked accounts.
             <td>2015-03-16</td>
             <td>2022-07-10</td>
             <td align="center"></td>
-            <td>122628</td>
+            <td>122635</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1288819602479341573">
@@ -1483,7 +1483,7 @@ Found 1003 suspensions for untracked accounts.
             <td>2017-08-02</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>2922</td>
+            <td>2921</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1457145255598362626">
@@ -1585,6 +1585,17 @@ Found 1003 suspensions for untracked accounts.
             <td>1965</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1230168415693942785">
+                <img src="https://pbs.twimg.com/profile_images/1593597344150437888/dntmilLB_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/catholicizm_">catholicizm_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230168415693942785">1 other</a>)&nbsp;</td>
+            <td>2020-02-19</td>
+            <td>2022-11-18</td>
+            <td align="center"></td>
+            <td>1965</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3236626470">
                 <img src="https://pbs.twimg.com/profile_images/1384670743653404675/idX4n6_B_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1605,17 +1616,6 @@ Found 1003 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1946</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1230168415693942785">
-                <img src="https://pbs.twimg.com/profile_images/1593597344150437888/dntmilLB_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/catholicizm_">catholicizm_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230168415693942785">1 other</a>)&nbsp;</td>
-            <td>2020-02-19</td>
-            <td>2022-11-18</td>
-            <td align="center"></td>
-            <td>1942</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1320041092046356482">

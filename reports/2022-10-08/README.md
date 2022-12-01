@@ -508,7 +508,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2009-02-10</td>
             <td>2022-10-21</td>
             <td align="center"></td>
-            <td>33250</td>
+            <td>33244</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1565510894175625217">
@@ -563,7 +563,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-09-23</td>
             <td>2022-10-18</td>
             <td align="center"></td>
-            <td>26195</td>
+            <td>26194</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1016043586364805121">
@@ -574,7 +574,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2018-07-08</td>
             <td>2022-10-19</td>
             <td align="center"></td>
-            <td>25861</td>
+            <td>25858</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1569375006353756170">
@@ -695,7 +695,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2020-08-22</td>
             <td>2022-10-20</td>
             <td align="center"></td>
-            <td>14819</td>
+            <td>14830</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1566142160466055168">
@@ -750,7 +750,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-09-14</td>
             <td>2022-10-24</td>
             <td align="center"></td>
-            <td>10554</td>
+            <td>10550</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4468164014">
@@ -761,7 +761,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-12-05</td>
             <td>2022-10-24</td>
             <td align="center"></td>
-            <td>10534</td>
+            <td>10531</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3273603468">
@@ -772,7 +772,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-07-10</td>
             <td>2022-10-24</td>
             <td align="center"></td>
-            <td>10111</td>
+            <td>10109</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1566534407267274752">
@@ -825,7 +825,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WhatRajveer">WhatRajveer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1386599807557513216">1 other</a>)&nbsp;</td>
             <td>2021-04-26</td>
-            <td>2022-09-23</td>
+            <td></td>
             <td align="center"></td>
             <td>8613</td>
         </tr>
@@ -882,7 +882,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2015-09-16</td>
             <td>2022-10-21</td>
             <td align="center"></td>
-            <td>6447</td>
+            <td>6448</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1558601956414967808">
@@ -1210,7 +1210,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mustang_rebel64">mustang_rebel64</a></td>
             <td>2022-08-15</td>
-            <td>2022-09-27</td>
+            <td></td>
             <td align="center"></td>
             <td>2729</td>
         </tr>
@@ -1300,7 +1300,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2020-03-07</td>
             <td>2022-10-13</td>
             <td align="center"></td>
-            <td>2148</td>
+            <td>2145</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1464998232472252417">
@@ -1344,7 +1344,7 @@ Found 1533 suspensions for untracked accounts.
             <td>2016-07-27</td>
             <td>2022-10-23</td>
             <td align="center"></td>
-            <td>1982</td>
+            <td>1978</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=558924580">

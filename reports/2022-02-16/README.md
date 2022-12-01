@@ -30,7 +30,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-05-07</td>
             <td>2022-02-17</td>
             <td align="center"></td>
-            <td>890936</td>
+            <td>891686</td>
             <td>23</td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2009-01-19</td>
             <td>2022-02-17</td>
             <td align="center"></td>
-            <td>359</td>
+            <td>358</td>
             <td>35268</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2018-09-28</td>
             <td>2022-03-23</td>
             <td align="center"></td>
-            <td>5989</td>
+            <td>6141</td>
             <td>47682</td>
         </tr></table>
 
@@ -885,7 +885,7 @@ Found 295 suspensions for untracked accounts.
             <td>2018-01-23</td>
             <td>2022-04-07</td>
             <td align="center"></td>
-            <td>12200</td>
+            <td>12197</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=268685628">
@@ -951,7 +951,7 @@ Found 295 suspensions for untracked accounts.
             <td>2017-03-10</td>
             <td>2022-02-18</td>
             <td align="center"></td>
-            <td>3732</td>
+            <td>3729</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=995773928097411074">
@@ -1027,7 +1027,7 @@ Found 295 suspensions for untracked accounts.
                 <a href="https://twitter.com/yuvalpi">yuvalpi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/369433931">1 other</a>)&nbsp;</td>
             <td>2011-09-07</td>
             <td>2022-09-05</td>
-            <td align="center"></td>
+            <td align="center">🔒</td>
             <td>2174</td>
         </tr>
         <tr>

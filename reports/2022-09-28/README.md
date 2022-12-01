@@ -114,7 +114,7 @@ Found 8 suspensions for tracked accounts.
             <td>2015-12-10</td>
             <td>2022-10-01</td>
             <td align="center"></td>
-            <td>46372</td>
+            <td>46394</td>
             <td>70568</td>
         </tr></table>
 
@@ -894,7 +894,7 @@ Found 1580 suspensions for untracked accounts.
             <td>2017-11-04</td>
             <td>2022-10-02</td>
             <td align="center"></td>
-            <td>75807</td>
+            <td>75820</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=796074792826847233">
@@ -938,7 +938,7 @@ Found 1580 suspensions for untracked accounts.
             <td>2012-11-12</td>
             <td>2022-10-12</td>
             <td align="center"></td>
-            <td>44291</td>
+            <td>44276</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2965496195">
@@ -1026,7 +1026,7 @@ Found 1580 suspensions for untracked accounts.
             <td>2016-01-19</td>
             <td>2022-10-03</td>
             <td align="center"></td>
-            <td>21259</td>
+            <td>21272</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1282073509858926593">
@@ -1587,7 +1587,7 @@ Found 1580 suspensions for untracked accounts.
             <td>2021-10-14</td>
             <td>2022-11-11</td>
             <td align="center"></td>
-            <td>3425</td>
+            <td>3432</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1173074239605415936">
@@ -1829,7 +1829,7 @@ Found 1580 suspensions for untracked accounts.
             <td>2018-09-17</td>
             <td>2022-10-27</td>
             <td align="center"></td>
-            <td>2805</td>
+            <td>2810</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=69786575">
@@ -2126,7 +2126,7 @@ Found 1580 suspensions for untracked accounts.
             <td>2020-07-02</td>
             <td>2022-10-28</td>
             <td align="center"></td>
-            <td>1833</td>
+            <td>1834</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1555333015424860161">
@@ -2168,7 +2168,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Joe67635848">Joe67635848</a></td>
             <td>2021-05-26</td>
-            <td></td>
+            <td>2022-10-06</td>
             <td align="center"></td>
             <td>1680</td>
         </tr>
@@ -2247,7 +2247,7 @@ Found 1580 suspensions for untracked accounts.
             <td>2021-06-05</td>
             <td>2022-10-05</td>
             <td align="center"></td>
-            <td>1606</td>
+            <td>1597</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1072004396303683584">
@@ -2283,17 +2283,6 @@ Found 1580 suspensions for untracked accounts.
             <td>1571</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1205443784726720513">
-                <img src="https://pbs.twimg.com/profile_images/1572203894351986690/vmBcQBdO_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/gan_Geilleadh">gan_Geilleadh</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1205443784726720513">1 other</a>)&nbsp;</td>
-            <td>2019-12-13</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1548</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1472947366265298944">
                 <img src="https://pbs.twimg.com/profile_images/1474027951213748224/CYuDQ2hi_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2303,6 +2292,17 @@ Found 1580 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1521</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1205443784726720513">
+                <img src="https://pbs.twimg.com/profile_images/1597552538760380419/CQiDuBzI_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/gan_Geilleadh">gan_Geilleadh</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1205443784726720513">1 other</a>)&nbsp;</td>
+            <td>2019-12-13</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1519</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1457725047565475849">

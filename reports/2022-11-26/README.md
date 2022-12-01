@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (16)](#tracked-suspensions)
 * [Tracked screen name changes (30)](#tracked-screen-name-changes)
-* [Untracked suspensions (166)](#untracked-suspensions)
+* [Untracked suspensions (165)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -621,8 +621,8 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
 
 ### Untracked suspensions
 
-Found 1976 suspensions for untracked accounts.
-166 accounts have more than 1000 followers and are included here.
+Found 1972 suspensions for untracked accounts.
+165 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -1020,17 +1020,6 @@ Found 1976 suspensions for untracked accounts.
             <td>5730</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1363932663502012419">
-                <img src="https://pbs.twimg.com/profile_images/1363933051789717505/GaYS0UEz_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/DjAleea">DjAleea</a></td>
-            <td>2021-02-22</td>
-            <td></td>
-            <td align="center"></td>
-            <td>5585</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1368556531915063296">
                 <img src="https://pbs.twimg.com/profile_images/1591019194576928770/fGmGtMj6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1051,6 +1040,17 @@ Found 1976 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>5491</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1363932663502012419">
+                <img src="https://pbs.twimg.com/profile_images/1363933051789717505/GaYS0UEz_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/DjAleea">DjAleea</a></td>
+            <td>2021-02-22</td>
+            <td></td>
+            <td align="center"></td>
+            <td>5430</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3431732927">
@@ -1656,17 +1656,6 @@ Found 1976 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1957</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1559945300575412225">
-                <img src="https://pbs.twimg.com/profile_images/1573261591633600513/XtEXgHFM_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ezzz1975">ezzz1975</a></td>
-            <td>2022-08-17</td>
-            <td>2022-09-28</td>
-            <td align="center"></td>
-            <td>1937</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1226007289">

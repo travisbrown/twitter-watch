@@ -30,7 +30,7 @@ Found 3 suspensions for tracked accounts.
             <td>2012-02-13</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>36432</td>
+            <td>36514</td>
             <td>230</td>
         </tr>
         <tr>
@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2022-04-24</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>3567</td>
+            <td>3570</td>
             <td>86992</td>
         </tr>
         <tr>
@@ -1214,17 +1214,6 @@ Found 904 suspensions for untracked accounts.
             <td>1578</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=796389005457760260">
-                <img src="https://pbs.twimg.com/profile_images/1439816004046098433/eiK-WI0R_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/cointelprostate">cointelprostate</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/796389005457760260">4 others</a>)&nbsp;</td>
-            <td>2016-11-09</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>1546</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519507664132268033">
                 <img src="https://pbs.twimg.com/profile_images/1519518781328048128/Ovdf_w66_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1243,6 +1232,17 @@ Found 904 suspensions for untracked accounts.
                 <a href="https://twitter.com/GabbyBradford7">GabbyBradford7</a></td>
             <td>2012-08-06</td>
             <td></td>
+            <td align="center"></td>
+            <td>1540</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=796389005457760260">
+                <img src="https://pbs.twimg.com/profile_images/1439816004046098433/eiK-WI0R_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/cointelprostate">cointelprostate</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/796389005457760260">4 others</a>)&nbsp;</td>
+            <td>2016-11-09</td>
+            <td>2022-08-02</td>
             <td align="center"></td>
             <td>1540</td>
         </tr>

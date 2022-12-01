@@ -54,7 +54,7 @@ Found 4 suspensions for tracked accounts.
             <td>2021-12-04</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>379</td>
+            <td>382</td>
             <td>41983</td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Found 4 suspensions for tracked accounts.
             <td>2013-01-22</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1742</td>
+            <td>1743</td>
             <td>63490</td>
         </tr></table>
 
@@ -985,7 +985,7 @@ Found 710 suspensions for untracked accounts.
             <td>2015-09-12</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>254276</td>
+            <td>254463</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2264702750">
@@ -1051,7 +1051,7 @@ Found 710 suspensions for untracked accounts.
             <td>2015-02-13</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>11365</td>
+            <td>11363</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=85027908">
@@ -1106,7 +1106,7 @@ Found 710 suspensions for untracked accounts.
             <td>2014-09-24</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>7701</td>
+            <td>7703</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1518868548633964546">
@@ -1491,7 +1491,7 @@ Found 710 suspensions for untracked accounts.
             <td>2021-12-15</td>
             <td>2022-11-09</td>
             <td align="center"></td>
-            <td>2280</td>
+            <td>2286</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1240874343778979842">
@@ -1579,7 +1579,7 @@ Found 710 suspensions for untracked accounts.
             <td>2021-08-25</td>
             <td>2022-06-09</td>
             <td align="center"></td>
-            <td>2123</td>
+            <td>2141</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1234525962043158529">

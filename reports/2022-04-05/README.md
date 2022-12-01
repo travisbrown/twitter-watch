@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2014-08-10</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>90140</td>
+            <td>1</td>
             <td>11073</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-05-06</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>20411</td>
+            <td>20420</td>
             <td>43991</td>
         </tr></table>
 
@@ -728,7 +728,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2017-01-18</td>
             <td>2022-11-21</td>
             <td align="center"></td>
-            <td>17953</td>
+            <td>17942</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1420895302622531586">
@@ -1520,7 +1520,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2021-07-10</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>1979</td>
+            <td>1987</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1327391717742567430">
@@ -1732,17 +1732,6 @@ Found 1605 suspensions for untracked accounts.
             <td>1626</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1371552818159620096">
-                <img src="https://pbs.twimg.com/profile_images/1521503514073120770/AsdEJ_sm_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/eva_folks">eva_folks</a></td>
-            <td>2021-03-15</td>
-            <td>2022-04-12</td>
-            <td align="center"></td>
-            <td>1621</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1411029308274089987">
                 <img src="https://pbs.twimg.com/profile_images/1421443422414585859/Yb6hVyhY_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1763,6 +1752,17 @@ Found 1605 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1619</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1371552818159620096">
+                <img src="https://pbs.twimg.com/profile_images/1521503514073120770/AsdEJ_sm_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/eva_folks">eva_folks</a></td>
+            <td>2021-03-15</td>
+            <td>2022-04-12</td>
+            <td align="center"></td>
+            <td>1617</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1493633122331951106">
@@ -2653,7 +2653,7 @@ Found 1605 suspensions for untracked accounts.
             <td>2009-11-21</td>
             <td>2022-11-27</td>
             <td align="center"></td>
-            <td>1025</td>
+            <td>1027</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1490271431615262720">

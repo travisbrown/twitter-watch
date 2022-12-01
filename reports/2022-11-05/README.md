@@ -136,7 +136,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Lrn2History">Lrn2History</a></td>
             <td>2012-05-27</td>
-            <td>2022-10-04</td>
+            <td></td>
             <td align="center"></td>
             <td>225</td>
             <td>55194</td>
@@ -1185,7 +1185,7 @@ Found 1294 suspensions for untracked accounts.
             <td>2020-04-25</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>2530</td>
+            <td>2540</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1484485174305992707">
@@ -1394,7 +1394,7 @@ Found 1294 suspensions for untracked accounts.
             <td>2011-09-20</td>
             <td>2022-11-09</td>
             <td align="center"></td>
-            <td>2104</td>
+            <td>2102</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=475807639">
@@ -1438,7 +1438,7 @@ Found 1294 suspensions for untracked accounts.
             <td>2020-04-06</td>
             <td>2022-11-19</td>
             <td align="center"></td>
-            <td>2034</td>
+            <td>2033</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1501980807845584903">
