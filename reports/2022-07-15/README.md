@@ -309,7 +309,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Serenityin24">Serenityin24</a>
             </td>
             <td align="center"></td>
-            <td>28589</td>
+            <td>28136</td>
             <td>607</td>
         </tr>
         <tr>
@@ -387,7 +387,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/tacticalzion">tacticalzion</a>
             </td>
             <td align="center"></td>
-            <td>84</td>
+            <td>83</td>
             <td>44057</td>
         </tr>
         <tr>
@@ -400,7 +400,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/colonodosecxxi">colonodosecxxi</a>
             </td>
             <td align="center">🔒</td>
-            <td>609</td>
+            <td>607</td>
             <td>46993</td>
         </tr>
         <tr>
@@ -413,7 +413,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/couchowner">couchowner</a>
             </td>
             <td align="center"></td>
-            <td>27</td>
+            <td>26</td>
             <td>50155</td>
         </tr>
         <tr>
@@ -426,7 +426,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/rogue9857035">rogue9857035</a>
             </td>
             <td align="center"></td>
-            <td>103</td>
+            <td>101</td>
             <td>55588</td>
         </tr>
         <tr>
@@ -439,7 +439,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Rchains68">Rchains68</a>
             </td>
             <td align="center"></td>
-            <td>1052</td>
+            <td>1102</td>
             <td>78515</td>
         </tr>
         <tr>
@@ -452,7 +452,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/bananayockey">bananayockey</a>
             </td>
             <td align="center"></td>
-            <td>358</td>
+            <td>364</td>
             <td>81109</td>
         </tr>
         <tr>
@@ -465,7 +465,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/HorsesVSCenk">HorsesVSCenk</a>
             </td>
             <td align="center"></td>
-            <td>273</td>
+            <td>278</td>
             <td>88695</td>
         </tr>
         <tr>
@@ -478,7 +478,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/qwer4t6mmnvxf">qwer4t6mmnvxf</a>
             </td>
             <td align="center"></td>
-            <td>8</td>
+            <td>9</td>
             <td>88823</td>
         </tr></table>
 
@@ -1346,17 +1346,6 @@ Found 2215 suspensions for untracked accounts.
             <td>2356</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=994701528270241792">
-                <img src="https://pbs.twimg.com/profile_images/1584308363017469952/DpkXdNN7_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/FrankDelfinPupo">FrankDelfinPupo</a></td>
-            <td>2018-05-10</td>
-            <td>2022-10-12</td>
-            <td align="center"></td>
-            <td>2353</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1290063124415078400">
                 <img src="https://pbs.twimg.com/profile_images/1544783945191112704/fel6Lbdp_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1388,6 +1377,17 @@ Found 2215 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2304</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=994701528270241792">
+                <img src="https://pbs.twimg.com/profile_images/1584308363017469952/DpkXdNN7_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FrankDelfinPupo">FrankDelfinPupo</a></td>
+            <td>2018-05-10</td>
+            <td>2022-10-12</td>
+            <td align="center"></td>
+            <td>2298</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=410255812">

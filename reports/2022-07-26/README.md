@@ -54,7 +54,7 @@ Found 7 suspensions for tracked accounts.
             <td>2022-06-10</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>187</td>
+            <td>188</td>
             <td>3435</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2009-05-04</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>3155</td>
+            <td>3128</td>
             <td>71286</td>
         </tr></table>
 
@@ -129,7 +129,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/SFrises">SFrises</a>
             </td>
             <td align="center"></td>
-            <td>108</td>
+            <td>112</td>
             <td>2325</td>
         </tr>
         <tr>
@@ -142,7 +142,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/d1lupa">d1lupa</a>
             </td>
             <td align="center"></td>
-            <td>121</td>
+            <td>125</td>
             <td>3158</td>
         </tr>
         <tr>
@@ -181,12 +181,12 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/dmattpearson">dmattpearson</a>
             </td>
             <td align="center">🔒</td>
-            <td>46</td>
+            <td>48</td>
             <td>14933</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1372676181510606849">
-                <img src="https://pbs.twimg.com/profile_images/1570983463674843138/6jYd3zrB_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1597807395983327232/yea07pmr_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/UceDuce4">UceDuce4</a></td>
@@ -194,7 +194,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/uCeLiNk">uCeLiNk</a>
             </td>
             <td align="center"></td>
-            <td>2595</td>
+            <td>2611</td>
             <td>16160</td>
         </tr>
         <tr>
@@ -207,7 +207,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/redpilled_exlib">redpilled_exlib</a>
             </td>
             <td align="center"></td>
-            <td>1459</td>
+            <td>1449</td>
             <td>18645</td>
         </tr>
         <tr>
@@ -298,7 +298,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/brixwe">brixwe</a>
             </td>
             <td align="center"></td>
-            <td>44990</td>
+            <td>44211</td>
             <td>67338</td>
         </tr>
         <tr>
@@ -311,7 +311,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/KalebOfAtlanta">KalebOfAtlanta</a>
             </td>
             <td align="center"></td>
-            <td>3691</td>
+            <td>3716</td>
             <td>96026</td>
         </tr></table>
 
@@ -362,7 +362,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2019-01-29</td>
             <td>2022-10-07</td>
             <td align="center"></td>
-            <td>484403</td>
+            <td>484526</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2733601126">
@@ -406,7 +406,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2013-05-26</td>
             <td>2022-09-25</td>
             <td align="center"></td>
-            <td>223916</td>
+            <td>223807</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1485582243686850561">
@@ -439,7 +439,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2011-07-20</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>145219</td>
+            <td>145212</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=15140295">
@@ -450,7 +450,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2008-06-17</td>
             <td>2022-08-02</td>
             <td align="center"></td>
-            <td>138966</td>
+            <td>138960</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1419957724096380970">
@@ -593,7 +593,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2012-04-22</td>
             <td>2022-08-21</td>
             <td align="center"></td>
-            <td>60652</td>
+            <td>60647</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=485886321">
@@ -769,7 +769,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2015-10-26</td>
             <td>2022-08-25</td>
             <td align="center"></td>
-            <td>28713</td>
+            <td>28702</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=910114195483406339">
@@ -857,7 +857,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2007-12-27</td>
             <td>2022-11-11</td>
             <td align="center">🔒</td>
-            <td>22723</td>
+            <td>22718</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=37272767">
@@ -1352,7 +1352,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2018-02-10</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>8105</td>
+            <td>8215</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1503421685717950465">
@@ -1682,7 +1682,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2013-10-01</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>5698</td>
+            <td>5703</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1434810707405647873">
@@ -1993,17 +1993,6 @@ Found 2812 suspensions for untracked accounts.
             <td>4702</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=157078780">
-                <img src="https://pbs.twimg.com/profile_images/1152592325563912192/TFwXZV-a_normal.png" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/dmmktg">dmmktg</a></td>
-            <td>2010-06-18</td>
-            <td></td>
-            <td align="center"></td>
-            <td>4638</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1470426454945054723">
                 <img src="https://pbs.twimg.com/profile_images/1594454288679555076/ycxXk90m_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2011,6 +2000,17 @@ Found 2812 suspensions for untracked accounts.
                 <a href="https://twitter.com/mihal_wojtas">mihal_wojtas</a></td>
             <td>2021-12-13</td>
             <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>4641</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=157078780">
+                <img src="https://pbs.twimg.com/profile_images/1152592325563912192/TFwXZV-a_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/dmmktg">dmmktg</a></td>
+            <td>2010-06-18</td>
+            <td></td>
             <td align="center"></td>
             <td>4638</td>
         </tr>
@@ -2243,7 +2243,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2022-04-25</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>3639</td>
+            <td>3637</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1380868907645464580">
@@ -2903,7 +2903,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2021-05-30</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>2193</td>
+            <td>2191</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=362193382">
@@ -3321,7 +3321,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2019-11-24</td>
             <td>2022-11-26</td>
             <td align="center"></td>
-            <td>1699</td>
+            <td>1698</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1500406621788590082">
@@ -3563,7 +3563,7 @@ Found 2812 suspensions for untracked accounts.
             <td>2021-09-16</td>
             <td>2022-07-28</td>
             <td align="center"></td>
-            <td>1530</td>
+            <td>1531</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=825772110991736835">
@@ -3874,6 +3874,17 @@ Found 2812 suspensions for untracked accounts.
             <td>1324</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1142194434681004032">
+                <img src="https://pbs.twimg.com/profile_images/1583325388494757888/EPDAmOf__normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Arlena73324812">Arlena73324812</a></td>
+            <td>2019-06-21</td>
+            <td>2022-07-28</td>
+            <td align="center"></td>
+            <td>1313</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2332524766">
                 <img src="https://pbs.twimg.com/profile_images/1471633924212277250/MSrlTYYz_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3892,17 +3903,6 @@ Found 2812 suspensions for untracked accounts.
                 <a href="https://twitter.com/anajinn">anajinn</a></td>
             <td>2010-10-07</td>
             <td></td>
-            <td align="center"></td>
-            <td>1304</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1142194434681004032">
-                <img src="https://pbs.twimg.com/profile_images/1583325388494757888/EPDAmOf__normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Arlena73324812">Arlena73324812</a></td>
-            <td>2019-06-21</td>
-            <td>2022-07-28</td>
             <td align="center"></td>
             <td>1304</td>
         </tr>
@@ -4666,6 +4666,17 @@ Found 2812 suspensions for untracked accounts.
             <td>1026</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1515979462092992513">
+                <img src="https://pbs.twimg.com/profile_images/1515979680658112522/-Zqofk1Y_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/aliimranm748">aliimranm748</a></td>
+            <td>2022-04-18</td>
+            <td>2022-09-05</td>
+            <td align="center"></td>
+            <td>1025</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1519610644529569796">
                 <img src="https://pbs.twimg.com/profile_images/1519613006807719936/nPQoz7oQ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -4686,17 +4697,6 @@ Found 2812 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1023</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1515979462092992513">
-                <img src="https://pbs.twimg.com/profile_images/1515979680658112522/-Zqofk1Y_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/aliimranm748">aliimranm748</a></td>
-            <td>2022-04-18</td>
-            <td>2022-09-05</td>
-            <td align="center"></td>
-            <td>1021</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=871988625071681536">
