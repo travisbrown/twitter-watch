@@ -872,7 +872,7 @@ Found 1945 suspensions for untracked accounts.
             <td>2022-06-20</td>
             <td>2022-11-26</td>
             <td align="center"></td>
-            <td>47040</td>
+            <td>47182</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=46339623">
@@ -1123,9 +1123,9 @@ Found 1945 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/famil_kk">famil_kk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1359203888180658179">2 others</a>)&nbsp;</td>
             <td>2021-02-09</td>
-            <td></td>
+            <td>2022-11-30</td>
             <td align="center"></td>
-            <td>13154</td>
+            <td>13171</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1328126486">
@@ -1568,6 +1568,17 @@ Found 1945 suspensions for untracked accounts.
             <td>3591</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=94712457">
+                <img src="https://pbs.twimg.com/profile_images/1593998249756696578/nxaElIUj_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PodAwful">PodAwful</a></td>
+            <td>2009-12-05</td>
+            <td>2022-11-22</td>
+            <td align="center"></td>
+            <td>3559</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=927290606912770048">
                 <img src="https://pbs.twimg.com/profile_images/1520556587932336129/XqbqGgeZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1577,17 +1588,6 @@ Found 1945 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3549</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=94712457">
-                <img src="https://pbs.twimg.com/profile_images/1593998249756696578/nxaElIUj_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/PodAwful">PodAwful</a></td>
-            <td>2009-12-05</td>
-            <td>2022-11-22</td>
-            <td align="center"></td>
-            <td>3534</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1488222253867282444">
@@ -2261,6 +2261,17 @@ Found 1945 suspensions for untracked accounts.
             <td>1541</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1547650827883491331">
+                <img src="https://pbs.twimg.com/profile_images/1597055193132445696/_FsfHD7L_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JosephSoriben">JosephSoriben</a></td>
+            <td>2022-07-14</td>
+            <td>2022-11-26</td>
+            <td align="center"></td>
+            <td>1534</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4355633963">
                 <img src="https://pbs.twimg.com/profile_images/1160496271351787521/VijKwCFm_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2279,17 +2290,6 @@ Found 1945 suspensions for untracked accounts.
                 <a href="https://twitter.com/AzelfDaBoi">AzelfDaBoi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2988955654">1 other</a>)&nbsp;</td>
             <td>2015-01-21</td>
             <td></td>
-            <td align="center"></td>
-            <td>1531</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1547650827883491331">
-                <img src="https://pbs.twimg.com/profile_images/1597055193132445696/_FsfHD7L_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/JosephSoriben">JosephSoriben</a></td>
-            <td>2022-07-14</td>
-            <td>2022-11-26</td>
             <td align="center"></td>
             <td>1531</td>
         </tr>

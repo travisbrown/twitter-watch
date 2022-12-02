@@ -667,7 +667,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2008-11-03</td>
             <td>2022-10-12</td>
             <td align="center"></td>
-            <td>45945</td>
+            <td>45957</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2623670842">
@@ -755,7 +755,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2020-12-24</td>
             <td>2022-10-23</td>
             <td align="center"></td>
-            <td>24591</td>
+            <td>24588</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1240824236513456128">
@@ -1448,7 +1448,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2021-10-16</td>
             <td>2022-10-13</td>
             <td align="center"></td>
-            <td>4283</td>
+            <td>4285</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=939353300">
@@ -1855,7 +1855,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2015-08-27</td>
             <td>2022-10-13</td>
             <td align="center"></td>
-            <td>2532</td>
+            <td>2536</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1489789425928347649">
@@ -1935,6 +1935,17 @@ Found 1662 suspensions for untracked accounts.
             <td>2366</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1320993309087522817">
+                <img src="https://pbs.twimg.com/profile_images/1327093606260244480/Vpjt0X6z_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PemdyPriority">PemdyPriority</a></td>
+            <td>2020-10-27</td>
+            <td>2022-10-09</td>
+            <td align="center"></td>
+            <td>2356</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2367531011">
                 <img src="https://pbs.twimg.com/profile_images/438764108587225089/lX6gxdh__normal.jpeg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1955,17 +1966,6 @@ Found 1662 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2352</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1320993309087522817">
-                <img src="https://pbs.twimg.com/profile_images/1327093606260244480/Vpjt0X6z_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/PemdyPriority">PemdyPriority</a></td>
-            <td>2020-10-27</td>
-            <td>2022-10-09</td>
-            <td align="center"></td>
-            <td>2351</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1252066578478202880">
@@ -2724,7 +2724,7 @@ Found 1662 suspensions for untracked accounts.
             <td>2017-05-15</td>
             <td>2022-10-11</td>
             <td align="center"></td>
-            <td>1177</td>
+            <td>1178</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1187132956508393473">
@@ -2966,5 +2966,5 @@ Found 1662 suspensions for untracked accounts.
             <td>2020-10-21</td>
             <td>2022-10-11</td>
             <td align="center"></td>
-            <td>1011</td>
+            <td>1012</td>
         </tr></table>

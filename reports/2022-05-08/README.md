@@ -999,7 +999,7 @@ Found 493 suspensions for untracked accounts.
             <td>2018-03-19</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>2267</td>
+            <td>2269</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=115312059">
@@ -1109,7 +1109,7 @@ Found 493 suspensions for untracked accounts.
             <td>2013-10-20</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1613</td>
+            <td>1614</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1494273467633520640">
@@ -1145,6 +1145,17 @@ Found 493 suspensions for untracked accounts.
             <td>1483</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1213975347818926080">
+                <img src="https://pbs.twimg.com/profile_images/1557095172349067272/uUtLJIu1_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/CLINTWILSON27">CLINTWILSON27</a></td>
+            <td>2020-01-06</td>
+            <td>2022-05-28</td>
+            <td align="center"></td>
+            <td>1481</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1261833745298006016">
                 <img src="https://pbs.twimg.com/profile_images/1457627488176070663/DRZSm-qs_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1154,17 +1165,6 @@ Found 493 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1471</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1213975347818926080">
-                <img src="https://pbs.twimg.com/profile_images/1557095172349067272/uUtLJIu1_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/CLINTWILSON27">CLINTWILSON27</a></td>
-            <td>2020-01-06</td>
-            <td>2022-05-28</td>
-            <td align="center"></td>
-            <td>1453</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1193805260957114368">

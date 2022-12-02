@@ -361,7 +361,7 @@ Found 478 suspensions for untracked accounts.
             <td>2010-06-06</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>6088</td>
+            <td>6083</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3088970121">
@@ -427,7 +427,7 @@ Found 478 suspensions for untracked accounts.
             <td>2017-02-03</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>4781</td>
+            <td>4785</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=24190527">
@@ -584,17 +584,6 @@ Found 478 suspensions for untracked accounts.
             <td>2085</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1243383868125634566">
-                <img src="https://pbs.twimg.com/profile_images/1477386833180954631/R1g7q_xG_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Judges42Gaming">Judges42Gaming</a></td>
-            <td>2020-03-27</td>
-            <td>2022-03-23</td>
-            <td align="center"></td>
-            <td>1989</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1162848526029795329">
                 <img src="https://pbs.twimg.com/profile_images/1165373874026033152/IsSzmnAM_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -604,6 +593,17 @@ Found 478 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1980</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1243383868125634566">
+                <img src="https://pbs.twimg.com/profile_images/1477386833180954631/R1g7q_xG_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Judges42Gaming">Judges42Gaming</a></td>
+            <td>2020-03-27</td>
+            <td>2022-03-23</td>
+            <td align="center"></td>
+            <td>1977</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2828337932">
@@ -768,7 +768,7 @@ Found 478 suspensions for untracked accounts.
             <td>2012-11-09</td>
             <td>2022-09-09</td>
             <td align="center"></td>
-            <td>1112</td>
+            <td>1118</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1455121658419851264">

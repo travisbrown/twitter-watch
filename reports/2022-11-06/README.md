@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (286)](#tracked-suspensions)
 * [Tracked screen name changes (52)](#tracked-screen-name-changes)
-* [Untracked suspensions (129)](#untracked-suspensions)
+* [Untracked suspensions (128)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -2284,9 +2284,9 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/govt_taylor">govt_taylor</a></td>
             <td>2022-05-23</td>
-            <td></td>
+            <td>2022-11-30</td>
             <td align="center"></td>
-            <td>493</td>
+            <td>466</td>
             <td>38597</td>
         </tr>
         <tr>
@@ -4148,7 +4148,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
 ### Untracked suspensions
 
 Found 1823 suspensions for untracked accounts.
-129 accounts have more than 1000 followers and are included here.
+128 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -4169,7 +4169,7 @@ Found 1823 suspensions for untracked accounts.
             <td>2009-02-17</td>
             <td>2022-11-18</td>
             <td align="center">🔒✔️</td>
-            <td>2070869</td>
+            <td>2070413</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1019975819136045056">
@@ -4268,7 +4268,7 @@ Found 1823 suspensions for untracked accounts.
             <td>2010-09-24</td>
             <td>2022-11-17</td>
             <td align="center"></td>
-            <td>18885</td>
+            <td>18888</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1563508308925095939">
@@ -4775,17 +4775,6 @@ Found 1823 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2222</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1161024704360009728">
-                <img src="https://pbs.twimg.com/profile_images/1454249970480017412/9omI19us_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/itchy_dan">itchy_dan</a></td>
-            <td>2019-08-12</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2214</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=453931107">

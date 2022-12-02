@@ -939,14 +939,14 @@ Found 2247 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=177620521">
-                <img src="https://pbs.twimg.com/profile_images/1597636057671127040/ICu3D7Di_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1597821894618669058/WR5BawhT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/luisalarosa">luisalarosa</a></td>
             <td>2010-08-12</td>
             <td>2022-11-22</td>
             <td align="center"></td>
-            <td>137149</td>
+            <td>137134</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=151087125">
@@ -1298,7 +1298,7 @@ Found 2247 suspensions for untracked accounts.
             <td>2017-08-26</td>
             <td>2022-11-28</td>
             <td align="center"></td>
-            <td>8418</td>
+            <td>8407</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1534360685635072000">
@@ -2236,6 +2236,17 @@ Found 2247 suspensions for untracked accounts.
             <td>1567</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=715381737631662084">
+                <img src="https://pbs.twimg.com/profile_images/1201992491299409922/sbWYffqR_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/IvyLeaglady4djt">IvyLeaglady4djt</a></td>
+            <td>2016-03-31</td>
+            <td>2022-11-21</td>
+            <td align="center"></td>
+            <td>1565</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1474121666108157978">
                 <img src="https://pbs.twimg.com/profile_images/1590356975409250304/uMvP2zEw_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2245,17 +2256,6 @@ Found 2247 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1564</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=715381737631662084">
-                <img src="https://pbs.twimg.com/profile_images/1201992491299409922/sbWYffqR_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/IvyLeaglady4djt">IvyLeaglady4djt</a></td>
-            <td>2016-03-31</td>
-            <td>2022-11-21</td>
-            <td align="center"></td>
-            <td>1560</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1549147138516520962">

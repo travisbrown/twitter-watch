@@ -244,9 +244,9 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/essemcee34">essemcee34</a></td>
             <td>2009-12-09</td>
-            <td></td>
+            <td>2022-11-30</td>
             <td align="center"></td>
-            <td>135</td>
+            <td>144</td>
             <td>77743</td>
         </tr>
         <tr>

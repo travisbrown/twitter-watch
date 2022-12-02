@@ -1885,6 +1885,17 @@ Found 2215 suspensions for untracked accounts.
             <td>1653</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1213252203437101056">
+                <img src="https://pbs.twimg.com/profile_images/1572700465908826114/OJOxEYRJ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AzharJumaili">AzharJumaili</a></td>
+            <td>2020-01-04</td>
+            <td>2022-07-18</td>
+            <td align="center"></td>
+            <td>1623</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1516012448419131402">
                 <img src="https://pbs.twimg.com/profile_images/1516012960459771910/swQSkkot_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1960,17 +1971,6 @@ Found 2215 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1563</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1213252203437101056">
-                <img src="https://pbs.twimg.com/profile_images/1572700465908826114/OJOxEYRJ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AzharJumaili">AzharJumaili</a></td>
-            <td>2020-01-04</td>
-            <td>2022-07-18</td>
-            <td align="center"></td>
-            <td>1518</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=558477109">

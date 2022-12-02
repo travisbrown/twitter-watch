@@ -1048,9 +1048,9 @@ Found 1972 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DjAleea">DjAleea</a></td>
             <td>2021-02-22</td>
-            <td></td>
+            <td>2022-11-29</td>
             <td align="center"></td>
-            <td>5430</td>
+            <td>5429</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3431732927">

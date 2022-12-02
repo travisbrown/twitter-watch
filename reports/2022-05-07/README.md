@@ -852,7 +852,7 @@ Found 624 suspensions for untracked accounts.
             <td>2018-09-10</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>7947</td>
+            <td>7945</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1389549564">
@@ -962,7 +962,7 @@ Found 624 suspensions for untracked accounts.
             <td>2021-11-20</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>2677</td>
+            <td>2683</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1516421748698267652">
@@ -995,7 +995,7 @@ Found 624 suspensions for untracked accounts.
             <td>2018-03-18</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>2273</td>
+            <td>2257</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=65574124">
@@ -1196,17 +1196,6 @@ Found 624 suspensions for untracked accounts.
             <td>1202</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1269492117983965184">
-                <img src="https://pbs.twimg.com/profile_images/1588451298596093953/3E42g_ph_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MonoarOfficiaL1">MonoarOfficiaL1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1269492117983965184">3 others</a>)&nbsp;</td>
-            <td>2020-06-07</td>
-            <td>2022-05-21</td>
-            <td align="center"></td>
-            <td>1128</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=277151598">
                 <img src="https://pbs.twimg.com/profile_images/1510678313286656005/-hEj86j9_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1216,6 +1205,17 @@ Found 624 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1124</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1269492117983965184">
+                <img src="https://pbs.twimg.com/profile_images/1588451298596093953/3E42g_ph_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MonoarOfficiaL1">MonoarOfficiaL1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1269492117983965184">3 others</a>)&nbsp;</td>
+            <td>2020-06-07</td>
+            <td>2022-05-21</td>
+            <td align="center"></td>
+            <td>1119</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1435920309610237953">
@@ -1248,7 +1248,7 @@ Found 624 suspensions for untracked accounts.
             <td>2010-05-22</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>1086</td>
+            <td>1065</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1364439827781976064">

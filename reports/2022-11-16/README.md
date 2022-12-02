@@ -948,7 +948,7 @@ Found 1889 suspensions for untracked accounts.
             <td>2020-10-20</td>
             <td>2022-11-21</td>
             <td align="center"></td>
-            <td>87137</td>
+            <td>87267</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=998892703298433028">
@@ -2821,6 +2821,17 @@ Found 1889 suspensions for untracked accounts.
             <td>1043</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1560867579236843520">
+                <img src="https://pbs.twimg.com/profile_images/1595781977847767040/skSqkKoT_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/sandisongcamu">sandisongcamu</a></td>
+            <td>2022-08-20</td>
+            <td>2022-11-24</td>
+            <td align="center"></td>
+            <td>1040</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1192215853598728194">
                 <img src="https://pbs.twimg.com/profile_images/1566122234858668036/rVGWlthX_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2839,17 +2850,6 @@ Found 1889 suspensions for untracked accounts.
                 <a href="https://twitter.com/TheFiteZone">TheFiteZone</a></td>
             <td>2021-03-13</td>
             <td></td>
-            <td align="center"></td>
-            <td>1029</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1560867579236843520">
-                <img src="https://pbs.twimg.com/profile_images/1595781977847767040/skSqkKoT_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/sandisongcamu">sandisongcamu</a></td>
-            <td>2022-08-20</td>
-            <td>2022-11-24</td>
             <td align="center"></td>
             <td>1029</td>
         </tr>

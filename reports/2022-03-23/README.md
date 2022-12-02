@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2013-06-05</td>
             <td>2022-03-26</td>
             <td align="center"></td>
-            <td>71995</td>
+            <td>72012</td>
             <td>24753</td>
         </tr></table>
 
@@ -884,7 +884,7 @@ Found 853 suspensions for untracked accounts.
             <td>2017-03-29</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>19076</td>
+            <td>19073</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=210562612">
@@ -895,7 +895,7 @@ Found 853 suspensions for untracked accounts.
             <td>2010-10-31</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>18397</td>
+            <td>18400</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4089091572">
@@ -1632,7 +1632,7 @@ Found 853 suspensions for untracked accounts.
             <td>2011-11-21</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1296</td>
+            <td>1301</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491631805786730498">
@@ -1778,17 +1778,6 @@ Found 853 suspensions for untracked accounts.
             <td>1079</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=807543961564905472">
-                <img src="https://pbs.twimg.com/profile_images/1483090957188972551/0hz0xVhk_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/HeddaHainsworth">HeddaHainsworth</a></td>
-            <td>2016-12-10</td>
-            <td>2022-03-26</td>
-            <td align="center"></td>
-            <td>1044</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1457875075009589248">
                 <img src="https://pbs.twimg.com/profile_images/1486541995980038146/f36F9a18_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1798,6 +1787,17 @@ Found 853 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1044</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=807543961564905472">
+                <img src="https://pbs.twimg.com/profile_images/1483090957188972551/0hz0xVhk_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/HeddaHainsworth">HeddaHainsworth</a></td>
+            <td>2016-12-10</td>
+            <td>2022-03-26</td>
+            <td align="center"></td>
+            <td>1043</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1321115544557441024">

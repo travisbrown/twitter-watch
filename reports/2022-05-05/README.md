@@ -198,7 +198,7 @@ Found 16 suspensions for tracked accounts.
             <td>2010-01-27</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>467</td>
+            <td>469</td>
             <td>51160</td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ Found 16 suspensions for tracked accounts.
             <td>2017-05-03</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>466</td>
+            <td>465</td>
             <td>57197</td>
         </tr></table>
 
@@ -1532,7 +1532,7 @@ Found 1177 suspensions for untracked accounts.
             <td>2012-06-02</td>
             <td>2022-10-21</td>
             <td align="center"></td>
-            <td>36373</td>
+            <td>36370</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1330687838636048385">
@@ -1609,7 +1609,7 @@ Found 1177 suspensions for untracked accounts.
             <td>2012-04-13</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>16515</td>
+            <td>16542</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1251835633590349829">
@@ -1774,7 +1774,7 @@ Found 1177 suspensions for untracked accounts.
             <td>2012-07-02</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>6816</td>
+            <td>6814</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=880257497554067456">
@@ -1997,6 +1997,17 @@ Found 1177 suspensions for untracked accounts.
             <td>3446</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1375136646715355137">
+                <img src="https://pbs.twimg.com/profile_images/1467913230270058498/r9JxIvBW_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JoelKimiti">JoelKimiti</a></td>
+            <td>2021-03-25</td>
+            <td>2022-07-04</td>
+            <td align="center"></td>
+            <td>3432</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=23204260">
                 <img src="https://pbs.twimg.com/profile_images/1485020914253246475/PsJVn-s0_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2006,17 +2017,6 @@ Found 1177 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3425</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1375136646715355137">
-                <img src="https://pbs.twimg.com/profile_images/1467913230270058498/r9JxIvBW_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/JoelKimiti">JoelKimiti</a></td>
-            <td>2021-03-25</td>
-            <td>2022-07-04</td>
-            <td align="center"></td>
-            <td>3413</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1236005601404227584">
@@ -2060,7 +2060,7 @@ Found 1177 suspensions for untracked accounts.
             <td>2019-07-15</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>2999</td>
+            <td>2995</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=20597486">

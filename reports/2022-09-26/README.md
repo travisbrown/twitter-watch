@@ -174,7 +174,7 @@ Found 13 suspensions for tracked accounts.
             <td>2015-04-30</td>
             <td>2022-10-10</td>
             <td align="center"></td>
-            <td>273</td>
+            <td>271</td>
             <td>95478</td>
         </tr></table>
 
@@ -928,7 +928,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2016-09-25</td>
             <td>2022-10-06</td>
             <td align="center"></td>
-            <td>81481</td>
+            <td>81480</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1543415550617030662">
@@ -1236,7 +1236,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2011-11-18</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>6924</td>
+            <td>6938</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1302170133222182913">
@@ -1313,7 +1313,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2017-10-22</td>
             <td>2022-09-26</td>
             <td align="center"></td>
-            <td>4681</td>
+            <td>4680</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2876558705">
@@ -1390,7 +1390,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2022-05-24</td>
             <td>2022-09-29</td>
             <td align="center"></td>
-            <td>3619</td>
+            <td>3618</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1041453245728804864">
@@ -1401,7 +1401,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2018-09-16</td>
             <td>2022-10-01</td>
             <td align="center"></td>
-            <td>3577</td>
+            <td>3574</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=148670515">
@@ -1412,7 +1412,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2010-05-27</td>
             <td>2022-10-14</td>
             <td align="center"></td>
-            <td>3472</td>
+            <td>3466</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1450546040277508100">
@@ -1797,7 +1797,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2021-08-03</td>
             <td>2022-10-24</td>
             <td align="center"></td>
-            <td>1990</td>
+            <td>2012</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1433860353939546114">
@@ -2336,7 +2336,7 @@ Found 1466 suspensions for untracked accounts.
             <td>2018-02-01</td>
             <td>2022-09-29</td>
             <td align="center"></td>
-            <td>1132</td>
+            <td>1137</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4067657476">
@@ -2438,6 +2438,17 @@ Found 1466 suspensions for untracked accounts.
             <td>1054</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=924279924">
+                <img src="https://pbs.twimg.com/profile_images/1552547080270499842/rxbN7r2b_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/LoadedDanny">LoadedDanny</a></td>
+            <td>2012-11-04</td>
+            <td>2022-09-29</td>
+            <td align="center"></td>
+            <td>1028</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1298749253834088448">
                 <img src="https://pbs.twimg.com/profile_images/1430300597119602691/z1TIkXqo_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2447,17 +2458,6 @@ Found 1466 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1028</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=924279924">
-                <img src="https://pbs.twimg.com/profile_images/1552547080270499842/rxbN7r2b_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/LoadedDanny">LoadedDanny</a></td>
-            <td>2012-11-04</td>
-            <td>2022-09-29</td>
-            <td align="center"></td>
-            <td>1026</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=436109394">

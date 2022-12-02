@@ -770,7 +770,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2021-03-23</td>
             <td>2022-10-27</td>
             <td align="center"></td>
-            <td>9672</td>
+            <td>9685</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1257290297245040640">
@@ -891,7 +891,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2012-02-23</td>
             <td>2022-11-02</td>
             <td align="center"></td>
-            <td>5392</td>
+            <td>5393</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=763256714">
@@ -902,7 +902,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2012-08-17</td>
             <td>2022-10-25</td>
             <td align="center"></td>
-            <td>4983</td>
+            <td>4980</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1556460928023011329">
@@ -1169,17 +1169,6 @@ Found 1282 suspensions for untracked accounts.
             <td>2430</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1306837207211298820">
-                <img src="https://pbs.twimg.com/profile_images/1592569205521530881/CGCg9giL_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/patrickpotter_1">patrickpotter_1</a></td>
-            <td>2020-09-18</td>
-            <td>2022-11-14</td>
-            <td align="center"></td>
-            <td>2430</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=55907061">
                 <img src="https://pbs.twimg.com/profile_images/1560074992628273153/t-wDo9pp_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1189,6 +1178,17 @@ Found 1282 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2420</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1306837207211298820">
+                <img src="https://pbs.twimg.com/profile_images/1592569205521530881/CGCg9giL_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/patrickpotter_1">patrickpotter_1</a></td>
+            <td>2020-09-18</td>
+            <td>2022-11-14</td>
+            <td align="center"></td>
+            <td>2393</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1566476201602023425">
@@ -1705,7 +1705,7 @@ Found 1282 suspensions for untracked accounts.
             <td>2010-07-27</td>
             <td>2022-10-24</td>
             <td align="center"></td>
-            <td>1057</td>
+            <td>1056</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=751656103088357376">

@@ -102,7 +102,7 @@ Found 9 suspensions for tracked accounts.
             <td>2012-09-16</td>
             <td>2022-07-07</td>
             <td align="center"></td>
-            <td>1042</td>
+            <td>1044</td>
             <td>12133</td>
         </tr>
         <tr>
@@ -430,6 +430,17 @@ Found 806 suspensions for untracked accounts.
             <td>158545</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1429025450534215686">
+                <img src="https://pbs.twimg.com/profile_images/1462297324806234115/29hyQ0ru_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/WordCloudsBot">WordCloudsBot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1429025450534215686">1 other</a>)&nbsp;</td>
+            <td>2021-08-21</td>
+            <td>2022-08-02</td>
+            <td align="center"></td>
+            <td>62638</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=53672896">
                 <img src="https://pbs.twimg.com/profile_images/634845586286604289/iVgjS1Gj_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -439,17 +450,6 @@ Found 806 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>60738</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1429025450534215686">
-                <img src="https://pbs.twimg.com/profile_images/1462297324806234115/29hyQ0ru_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/WordCloudsBot">WordCloudsBot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1429025450534215686">1 other</a>)&nbsp;</td>
-            <td>2021-08-21</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>58216</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=110819978">
@@ -529,17 +529,6 @@ Found 806 suspensions for untracked accounts.
             <td>20061</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1528045891239616512">
-                <img src="https://pbs.twimg.com/profile_images/1532871786424983553/dcn6rrkN_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/McGoblinBurger">McGoblinBurger</a></td>
-            <td>2022-05-21</td>
-            <td>2022-07-07</td>
-            <td align="center"></td>
-            <td>19387</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1086638653458112518">
                 <img src="https://pbs.twimg.com/profile_images/1521128422197448706/jGSn0NuV_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -549,6 +538,17 @@ Found 806 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>18551</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1528045891239616512">
+                <img src="https://pbs.twimg.com/profile_images/1532871786424983553/dcn6rrkN_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/McGoblinBurger">McGoblinBurger</a></td>
+            <td>2022-05-21</td>
+            <td>2022-07-07</td>
+            <td align="center"></td>
+            <td>18468</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1397010457324625920">
@@ -1505,7 +1505,7 @@ Found 806 suspensions for untracked accounts.
             <td>2018-12-02</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>1181</td>
+            <td>1180</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=124845331">

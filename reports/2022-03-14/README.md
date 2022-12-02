@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-06-03</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>892</td>
+            <td>896</td>
             <td>32535</td>
         </tr>
         <tr>
@@ -764,7 +764,7 @@ Found 1205 suspensions for untracked accounts.
             <td>2020-06-16</td>
             <td>2022-03-29</td>
             <td align="center"></td>
-            <td>17186</td>
+            <td>17198</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1429791162769068033">
@@ -940,7 +940,7 @@ Found 1205 suspensions for untracked accounts.
             <td>2018-11-13</td>
             <td>2022-04-17</td>
             <td align="center"></td>
-            <td>4677</td>
+            <td>4705</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1098591942454243330">
@@ -1615,14 +1615,14 @@ Found 1205 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1060532894966390784">
-                <img src="https://pbs.twimg.com/profile_images/1585983006329769984/O7Diq2ji_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1595226603759476736/RQevJPDz_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Earthmasharon">Earthmasharon</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1060532894966390784">1 other</a>)&nbsp;</td>
             <td>2018-11-08</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>1093</td>
+            <td>1094</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1657177974">
@@ -1677,7 +1677,7 @@ Found 1205 suspensions for untracked accounts.
             <td>2014-04-08</td>
             <td>2022-04-15</td>
             <td align="center"></td>
-            <td>1018</td>
+            <td>1016</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1432335873992007682">

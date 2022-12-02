@@ -1104,9 +1104,9 @@ Found 1690 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vashtiy">vashtiy</a></td>
             <td>2010-03-04</td>
-            <td></td>
+            <td>2022-11-29</td>
             <td align="center"></td>
-            <td>4754</td>
+            <td>4755</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1284903281974804486">

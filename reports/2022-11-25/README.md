@@ -2519,7 +2519,7 @@ Found 3117 suspensions for untracked accounts.
             <td>2022-09-16</td>
             <td>2022-11-29</td>
             <td align="center"></td>
-            <td>1297</td>
+            <td>1306</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1076602376063197186">
@@ -2583,7 +2583,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AXTG2021">AXTG2021</a></td>
             <td>2021-05-23</td>
-            <td></td>
+            <td>2022-11-30</td>
             <td align="center"></td>
             <td>1215</td>
         </tr>
@@ -2761,7 +2761,7 @@ Found 3117 suspensions for untracked accounts.
             <td>2013-09-29</td>
             <td>2022-11-28</td>
             <td align="center"></td>
-            <td>1093</td>
+            <td>1095</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1500059266383757314">

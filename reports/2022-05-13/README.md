@@ -66,7 +66,7 @@ Found 7 suspensions for tracked accounts.
             <td>2018-09-22</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>10338</td>
+            <td>10346</td>
             <td>26322</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2017-01-09</td>
             <td>2022-09-20</td>
             <td align="center"></td>
-            <td>4409</td>
+            <td>4408</td>
             <td>48609</td>
         </tr>
         <tr>
@@ -1017,7 +1017,7 @@ Found 1024 suspensions for untracked accounts.
             <td>2016-11-10</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>27324</td>
+            <td>27354</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1449057905718829069">
@@ -1039,7 +1039,7 @@ Found 1024 suspensions for untracked accounts.
             <td>2008-09-14</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>18947</td>
+            <td>18941</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1385277144327204870">
@@ -1087,14 +1087,14 @@ Found 1024 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=43629419">
-                <img src="https://pbs.twimg.com/profile_images/1528872507981324288/SD5a5t3A_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1597293779026944002/6j8ON2Yl_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/iMarialaura">iMarialaura</a></td>
             <td>2009-05-31</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>12495</td>
+            <td>12443</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1302141083082805248">
@@ -1193,7 +1193,7 @@ Found 1024 suspensions for untracked accounts.
             <td>2018-07-07</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>7495</td>
+            <td>7492</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1413176365143179267">
@@ -1204,7 +1204,7 @@ Found 1024 suspensions for untracked accounts.
             <td>2021-07-08</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>7223</td>
+            <td>7222</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=133162379">
@@ -1226,7 +1226,7 @@ Found 1024 suspensions for untracked accounts.
             <td>2020-02-18</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>6107</td>
+            <td>6104</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1426995523433664515">
@@ -1383,6 +1383,17 @@ Found 1024 suspensions for untracked accounts.
             <td>3033</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=569306950">
+                <img src="https://pbs.twimg.com/profile_images/1147236509252296705/jdmlevhP_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Idan_Ronen">Idan_Ronen</a></td>
+            <td>2012-05-02</td>
+            <td>2022-05-21</td>
+            <td align="center"></td>
+            <td>3005</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491771790653370380">
                 <img src="https://pbs.twimg.com/profile_images/1588382539906949122/KqvvZEPm_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1392,17 +1403,6 @@ Found 1024 suspensions for untracked accounts.
             <td>2022-05-21</td>
             <td align="center"></td>
             <td>3003</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=569306950">
-                <img src="https://pbs.twimg.com/profile_images/1147236509252296705/jdmlevhP_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Idan_Ronen">Idan_Ronen</a></td>
-            <td>2012-05-02</td>
-            <td>2022-05-21</td>
-            <td align="center"></td>
-            <td>2999</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1222215573767180288">
@@ -1512,7 +1512,7 @@ Found 1024 suspensions for untracked accounts.
             <td>2009-09-17</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>2018</td>
+            <td>2021</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1219717507705180161">
@@ -1523,7 +1523,7 @@ Found 1024 suspensions for untracked accounts.
             <td>2020-01-21</td>
             <td>2022-05-14</td>
             <td align="center"></td>
-            <td>2001</td>
+            <td>1999</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2873827785">

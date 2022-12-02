@@ -935,7 +935,7 @@ Found 2631 suspensions for untracked accounts.
             <td>2015-01-05</td>
             <td>2022-11-18</td>
             <td align="center"></td>
-            <td>8349</td>
+            <td>8347</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1520024063917400064">
@@ -990,7 +990,7 @@ Found 2631 suspensions for untracked accounts.
             <td>2022-04-09</td>
             <td>2022-11-10</td>
             <td align="center"></td>
-            <td>6880</td>
+            <td>6893</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1545476833659047940">
@@ -1023,7 +1023,7 @@ Found 2631 suspensions for untracked accounts.
             <td>2018-05-02</td>
             <td>2022-09-21</td>
             <td align="center"></td>
-            <td>6323</td>
+            <td>6330</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=880827295530975232">
@@ -1045,7 +1045,7 @@ Found 2631 suspensions for untracked accounts.
             <td>2011-03-11</td>
             <td>2022-11-13</td>
             <td align="center"></td>
-            <td>5980</td>
+            <td>5978</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2896094106">
@@ -2156,7 +2156,7 @@ Found 2631 suspensions for untracked accounts.
             <td>2009-01-25</td>
             <td>2022-10-22</td>
             <td align="center"></td>
-            <td>1446</td>
+            <td>1447</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1264679034002247685">
@@ -2354,7 +2354,7 @@ Found 2631 suspensions for untracked accounts.
             <td>2020-12-11</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>1230</td>
+            <td>1232</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1306255424484601856">

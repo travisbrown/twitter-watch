@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2020-06-09</td>
             <td>2022-05-06</td>
             <td align="center">🔒</td>
-            <td>3534</td>
+            <td>3531</td>
             <td>85614</td>
         </tr></table>
 
@@ -1069,6 +1069,17 @@ Found 843 suspensions for untracked accounts.
             <td>2647</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1361207334396071936">
+                <img src="https://pbs.twimg.com/profile_images/1584296154829062144/MQ8p8Uxu_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/GenevoMundi">GenevoMundi</a></td>
+            <td>2021-02-15</td>
+            <td>2022-08-10</td>
+            <td align="center"></td>
+            <td>2530</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1293634823450431488">
                 <img src="https://pbs.twimg.com/profile_images/1480732080879419397/-2oqXB3v_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1100,17 +1111,6 @@ Found 843 suspensions for untracked accounts.
             <td>2022-06-27</td>
             <td align="center"></td>
             <td>2405</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1361207334396071936">
-                <img src="https://pbs.twimg.com/profile_images/1584296154829062144/MQ8p8Uxu_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/GenevoMundi">GenevoMundi</a></td>
-            <td>2021-02-15</td>
-            <td>2022-08-10</td>
-            <td align="center"></td>
-            <td>2362</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1334914523493519360">

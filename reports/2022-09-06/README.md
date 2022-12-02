@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2021-08-08</td>
             <td>2022-09-09</td>
             <td align="center"></td>
-            <td>1860</td>
+            <td>1866</td>
             <td>90364</td>
         </tr></table>
 
@@ -510,7 +510,7 @@ Found 374 suspensions for untracked accounts.
             <td>2011-02-21</td>
             <td>2022-09-09</td>
             <td align="center"></td>
-            <td>8436</td>
+            <td>8432</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1380293058982420481">
@@ -598,7 +598,7 @@ Found 374 suspensions for untracked accounts.
             <td>2013-03-19</td>
             <td>2022-10-27</td>
             <td align="center"></td>
-            <td>2799</td>
+            <td>2805</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1351219096881405954">
@@ -899,14 +899,14 @@ Found 374 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1280642375929548802">
-                <img src="https://pbs.twimg.com/profile_images/1596760445183991809/rmUiU6c7_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1597697936548401152/hZqhyENZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Jke_on_Twitt3r">Jke_on_Twitt3r</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1280642375929548802">3 others</a>)&nbsp;</td>
             <td>2020-07-07</td>
             <td></td>
             <td align="center"></td>
-            <td>1168</td>
+            <td>1171</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3630869598">

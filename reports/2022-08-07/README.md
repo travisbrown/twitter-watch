@@ -66,7 +66,7 @@ Found 5 suspensions for tracked accounts.
             <td>2011-09-09</td>
             <td>2022-08-25</td>
             <td align="center">🔒</td>
-            <td>370</td>
+            <td>369</td>
             <td>88597</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Found 5 suspensions for tracked accounts.
             <td>2022-04-06</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>97</td>
+            <td>98</td>
             <td>90282</td>
         </tr></table>
 
@@ -638,7 +638,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2020-01-27</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>125126</td>
+            <td>125193</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1070337762128220163">
@@ -1378,6 +1378,17 @@ Found 1063 suspensions for untracked accounts.
             <td>4663</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1459416842204696577">
+                <img src="https://pbs.twimg.com/profile_images/1507486848427315202/cFewAQMh_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TheTennisLetter">TheTennisLetter</a></td>
+            <td>2021-11-13</td>
+            <td>2022-08-18</td>
+            <td align="center"></td>
+            <td>4389</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1484540350068895746">
                 <img src="https://pbs.twimg.com/profile_images/1491460541411471362/49WtUWF6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1496,7 +1507,7 @@ Found 1063 suspensions for untracked accounts.
             <td>2012-02-01</td>
             <td>2022-11-15</td>
             <td align="center"></td>
-            <td>3499</td>
+            <td>3502</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=51887885">
@@ -1508,17 +1519,6 @@ Found 1063 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3470</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1459416842204696577">
-                <img src="https://pbs.twimg.com/profile_images/1507486848427315202/cFewAQMh_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/TheTennisLetter">TheTennisLetter</a></td>
-            <td>2021-11-13</td>
-            <td>2022-08-18</td>
-            <td align="center"></td>
-            <td>3389</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1377031600463081474">

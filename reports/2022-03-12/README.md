@@ -42,7 +42,7 @@ Found 2 suspensions for tracked accounts.
             <td>2009-06-20</td>
             <td>2022-09-06</td>
             <td align="center"></td>
-            <td>1153</td>
+            <td>1159</td>
             <td>52155</td>
         </tr></table>
 
@@ -688,7 +688,7 @@ Found 420 suspensions for untracked accounts.
             <td>2020-01-12</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>7800</td>
+            <td>7799</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495859189515698176">
@@ -757,6 +757,17 @@ Found 420 suspensions for untracked accounts.
             <td>4919</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1210518754330730501">
+                <img src="https://pbs.twimg.com/profile_images/1596165910338969600/tTOGxcVK_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/NataliabelleVip">NataliabelleVip</a></td>
+            <td>2019-12-27</td>
+            <td>2022-03-19</td>
+            <td align="center"></td>
+            <td>4774</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1343477799429042176">
                 <img src="https://pbs.twimg.com/profile_images/1451545430433546244/XdNbI9aD_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -768,17 +779,6 @@ Found 420 suspensions for untracked accounts.
             <td>4771</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1210518754330730501">
-                <img src="https://pbs.twimg.com/profile_images/1580197040679632896/6TfcJx1y_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/NataliabelleVip">NataliabelleVip</a></td>
-            <td>2019-12-27</td>
-            <td>2022-03-19</td>
-            <td align="center"></td>
-            <td>4739</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=42817864">
                 <img src="https://pbs.twimg.com/profile_images/1250665680245936129/ff9UXUNA_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -787,7 +787,7 @@ Found 420 suspensions for untracked accounts.
             <td>2009-05-27</td>
             <td>2022-09-06</td>
             <td align="center"></td>
-            <td>4475</td>
+            <td>4476</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4866412145">
@@ -966,17 +966,6 @@ Found 420 suspensions for untracked accounts.
             <td>2064</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=16392953">
-                <img src="https://pbs.twimg.com/profile_images/1071266714132729861/RVQqeUim_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MeeksAZ">MeeksAZ</a></td>
-            <td>2008-09-21</td>
-            <td>2022-09-06</td>
-            <td align="center"></td>
-            <td>1888</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1379475345821343752">
                 <img src="https://pbs.twimg.com/profile_images/1481111963845500928/J091QAtb_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -986,6 +975,17 @@ Found 420 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1887</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=16392953">
+                <img src="https://pbs.twimg.com/profile_images/1071266714132729861/RVQqeUim_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MeeksAZ">MeeksAZ</a></td>
+            <td>2008-09-21</td>
+            <td>2022-09-06</td>
+            <td align="center"></td>
+            <td>1886</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1231703106494304256">
@@ -1029,7 +1029,7 @@ Found 420 suspensions for untracked accounts.
             <td>2014-06-12</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>1506</td>
+            <td>1508</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=882585118677889024">

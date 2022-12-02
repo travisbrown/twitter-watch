@@ -54,7 +54,7 @@ Found 7 suspensions for tracked accounts.
             <td>2008-02-10</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>284</td>
+            <td>285</td>
             <td>9222</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2022-07-14</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>62973</td>
+            <td>62953</td>
             <td>90540</td>
         </tr>
         <tr>
@@ -507,7 +507,7 @@ Found 919 suspensions for untracked accounts.
             <td>2019-06-04</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>734050</td>
+            <td>734076</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1187334816540364800">
@@ -584,7 +584,7 @@ Found 919 suspensions for untracked accounts.
             <td>2022-06-14</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>186906</td>
+            <td>186912</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1537476977615024128">
@@ -595,7 +595,7 @@ Found 919 suspensions for untracked accounts.
             <td>2022-06-16</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>139030</td>
+            <td>139035</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1520695073448542208">
@@ -628,7 +628,7 @@ Found 919 suspensions for untracked accounts.
             <td>2022-07-16</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>67841</td>
+            <td>67889</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=765876635170115584">
@@ -661,7 +661,7 @@ Found 919 suspensions for untracked accounts.
             <td>2021-03-03</td>
             <td>2022-08-04</td>
             <td align="center"></td>
-            <td>37814</td>
+            <td>37827</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1367218625732632584">
@@ -694,7 +694,7 @@ Found 919 suspensions for untracked accounts.
             <td>2021-09-15</td>
             <td>2022-11-13</td>
             <td align="center"></td>
-            <td>34846</td>
+            <td>34943</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1177029323259285505">
@@ -1002,7 +1002,7 @@ Found 919 suspensions for untracked accounts.
             <td>2020-09-07</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>9777</td>
+            <td>9794</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=940225281079562240">
@@ -1797,6 +1797,17 @@ Found 919 suspensions for untracked accounts.
             <td>2179</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1259113714411847683">
+                <img src="https://pbs.twimg.com/profile_images/1495229103284404230/m5lvFum-_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/blueMaverick21">blueMaverick21</a></td>
+            <td>2020-05-09</td>
+            <td>2022-08-04</td>
+            <td align="center"></td>
+            <td>2171</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1358672906331521026">
                 <img src="https://pbs.twimg.com/profile_images/1547231267594403841/cVcLwpiq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1817,17 +1828,6 @@ Found 919 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2166</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1259113714411847683">
-                <img src="https://pbs.twimg.com/profile_images/1495229103284404230/m5lvFum-_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/blueMaverick21">blueMaverick21</a></td>
-            <td>2020-05-09</td>
-            <td>2022-08-04</td>
-            <td align="center"></td>
-            <td>2162</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=899302218137993218">

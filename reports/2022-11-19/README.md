@@ -205,7 +205,7 @@ Found 1487 suspensions for untracked accounts.
             <td>2014-05-18</td>
             <td>2022-11-20</td>
             <td align="center"></td>
-            <td>336962</td>
+            <td>336943</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=125527961">
@@ -381,7 +381,7 @@ Found 1487 suspensions for untracked accounts.
             <td>2010-11-23</td>
             <td>2022-11-20</td>
             <td align="center"></td>
-            <td>13276</td>
+            <td>13282</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1528097001086373890">
@@ -480,7 +480,7 @@ Found 1487 suspensions for untracked accounts.
             <td>2020-11-14</td>
             <td>2022-11-22</td>
             <td align="center"></td>
-            <td>8052</td>
+            <td>8097</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=816010504321822725">
@@ -1704,6 +1704,17 @@ Found 1487 suspensions for untracked accounts.
             <td>1031</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=4353831681">
+                <img src="https://pbs.twimg.com/profile_images/1592062881494958080/WtnIpgb3_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/taktakalas1931">taktakalas1931</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4353831681">2 others</a>)&nbsp;</td>
+            <td>2015-12-02</td>
+            <td>2022-11-23</td>
+            <td align="center"></td>
+            <td>1030</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1439670800756346882">
                 <img src="https://pbs.twimg.com/profile_images/1588215562148016129/0t1ujY23_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1713,17 +1724,6 @@ Found 1487 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1030</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=4353831681">
-                <img src="https://pbs.twimg.com/profile_images/1592062881494958080/WtnIpgb3_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/taktakalas1931">taktakalas1931</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4353831681">2 others</a>)&nbsp;</td>
-            <td>2015-12-02</td>
-            <td>2022-11-23</td>
-            <td align="center"></td>
-            <td>1029</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=67132390">

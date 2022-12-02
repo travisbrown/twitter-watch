@@ -78,7 +78,7 @@ Found 6 suspensions for tracked accounts.
             <td>2012-03-07</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>1253</td>
+            <td>1252</td>
             <td>77215</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 6 suspensions for tracked accounts.
             <td>2021-12-31</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>449</td>
+            <td>451</td>
             <td>77955</td>
         </tr></table>
 
@@ -730,7 +730,7 @@ Found 840 suspensions for untracked accounts.
             <td>2009-10-09</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>9226</td>
+            <td>9227</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=992154278436405249">
@@ -851,7 +851,7 @@ Found 840 suspensions for untracked accounts.
             <td>2016-11-06</td>
             <td>2022-11-28</td>
             <td align="center"></td>
-            <td>4997</td>
+            <td>4995</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1404486403090620430">
@@ -895,7 +895,7 @@ Found 840 suspensions for untracked accounts.
             <td>2014-04-27</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>3939</td>
+            <td>3936</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=25805685">
@@ -939,7 +939,7 @@ Found 840 suspensions for untracked accounts.
             <td>2012-10-15</td>
             <td>2022-04-02</td>
             <td align="center">🔒</td>
-            <td>3142</td>
+            <td>3143</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=785132794359996416">
@@ -1030,6 +1030,17 @@ Found 840 suspensions for untracked accounts.
             <td>1986</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=443965235">
+                <img src="https://pbs.twimg.com/profile_images/1597404090828365825/S42pQmlm_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Clarita201112E">Clarita201112E</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/443965235">1 other</a>)&nbsp;</td>
+            <td>2011-12-22</td>
+            <td>2022-04-03</td>
+            <td align="center"></td>
+            <td>1875</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2805827856">
                 <img src="https://pbs.twimg.com/profile_images/1509226521679998976/OsWtozFe_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1039,17 +1050,6 @@ Found 840 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1860</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=443965235">
-                <img src="https://pbs.twimg.com/profile_images/1584843910647406592/d-_-6CoY_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Clarita201112E">Clarita201112E</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/443965235">1 other</a>)&nbsp;</td>
-            <td>2011-12-22</td>
-            <td>2022-04-03</td>
-            <td align="center"></td>
-            <td>1853</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1322776873814822912">
@@ -1247,7 +1247,7 @@ Found 840 suspensions for untracked accounts.
             <td>2014-04-27</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>1359</td>
+            <td>1361</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=41352389">
@@ -1434,5 +1434,5 @@ Found 840 suspensions for untracked accounts.
             <td>2008-10-03</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>1042</td>
+            <td>1043</td>
         </tr></table>

@@ -600,7 +600,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2017-07-06</td>
             <td>2022-09-22</td>
             <td align="center"></td>
-            <td>81575</td>
+            <td>81643</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1561731029240512512">
@@ -710,7 +710,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2013-05-18</td>
             <td>2022-09-22</td>
             <td align="center"></td>
-            <td>29868</td>
+            <td>29871</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1387007104880422912">
@@ -1216,7 +1216,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2014-03-25</td>
             <td>2022-09-25</td>
             <td align="center"></td>
-            <td>3798</td>
+            <td>3795</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=133187049">
@@ -1249,7 +1249,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2019-07-11</td>
             <td>2022-09-23</td>
             <td align="center"></td>
-            <td>3689</td>
+            <td>3701</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=246958935">
@@ -1384,17 +1384,6 @@ Found 2012 suspensions for untracked accounts.
             <td>2868</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=781304089837723649">
-                <img src="https://pbs.twimg.com/profile_images/1546235955832651776/S_up6MQY_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MBershod">MBershod</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/781304089837723649">1 other</a>)&nbsp;</td>
-            <td>2016-09-29</td>
-            <td>2022-09-20</td>
-            <td align="center"></td>
-            <td>2758</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1224765888731152391">
                 <img src="https://pbs.twimg.com/profile_images/1243779830027620352/l0QWRGUx_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1404,6 +1393,17 @@ Found 2012 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2758</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=781304089837723649">
+                <img src="https://pbs.twimg.com/profile_images/1546235955832651776/S_up6MQY_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MBershod">MBershod</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/781304089837723649">1 other</a>)&nbsp;</td>
+            <td>2016-09-29</td>
+            <td>2022-09-20</td>
+            <td align="center"></td>
+            <td>2754</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=976132870292103169">
@@ -1513,7 +1513,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2011-10-16</td>
             <td>2022-09-24</td>
             <td align="center"></td>
-            <td>2509</td>
+            <td>2510</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1560049079895433216">
@@ -1612,7 +1612,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2020-04-16</td>
             <td>2022-10-23</td>
             <td align="center"></td>
-            <td>2119</td>
+            <td>2120</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1433872417273913345">
@@ -1744,7 +1744,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2011-02-27</td>
             <td>2022-09-23</td>
             <td align="center"></td>
-            <td>1911</td>
+            <td>1913</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2749311350">
@@ -2000,17 +2000,6 @@ Found 2012 suspensions for untracked accounts.
             <td>1561</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=359400737">
-                <img src="https://pbs.twimg.com/profile_images/1592829952268783619/mFN1z6nV_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Voice_4_India">Voice_4_India</a></td>
-            <td>2011-08-21</td>
-            <td>2022-10-23</td>
-            <td align="center"></td>
-            <td>1559</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1503930298714980359">
                 <img src="https://pbs.twimg.com/profile_images/1538813060290605056/zOndLLo3_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2020,6 +2009,17 @@ Found 2012 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1559</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=359400737">
+                <img src="https://pbs.twimg.com/profile_images/1592829952268783619/mFN1z6nV_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Voice_4_India">Voice_4_India</a></td>
+            <td>2011-08-21</td>
+            <td>2022-10-23</td>
+            <td align="center"></td>
+            <td>1558</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=387769793">
@@ -2096,7 +2096,7 @@ Found 2012 suspensions for untracked accounts.
             <td>2009-03-12</td>
             <td>2022-09-22</td>
             <td align="center"></td>
-            <td>1482</td>
+            <td>1483</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1276127644103385088">

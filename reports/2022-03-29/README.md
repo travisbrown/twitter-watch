@@ -495,7 +495,7 @@ Found 831 suspensions for untracked accounts.
             <td>2008-11-21</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>28793</td>
+            <td>28795</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1448784688005500929">
@@ -506,7 +506,7 @@ Found 831 suspensions for untracked accounts.
             <td>2021-10-14</td>
             <td>2022-03-30</td>
             <td align="center"></td>
-            <td>20037</td>
+            <td>20054</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4092182478">
@@ -594,7 +594,7 @@ Found 831 suspensions for untracked accounts.
             <td>2019-05-17</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>4083</td>
+            <td>4064</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=605106858">
@@ -894,17 +894,6 @@ Found 831 suspensions for untracked accounts.
             <td>1918</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=375762278">
-                <img src="https://pbs.twimg.com/profile_images/1103947152995299329/-z_MfXQy_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/M_GHISA">M_GHISA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/375762278">2 others</a>)&nbsp;</td>
-            <td>2011-09-18</td>
-            <td>2022-03-30</td>
-            <td align="center"></td>
-            <td>1895</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2833142352">
                 <img src="https://pbs.twimg.com/profile_images/843399736099033088/bqeYfzAJ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -914,6 +903,17 @@ Found 831 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1895</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=375762278">
+                <img src="https://pbs.twimg.com/profile_images/1103947152995299329/-z_MfXQy_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/M_GHISA">M_GHISA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/375762278">2 others</a>)&nbsp;</td>
+            <td>2011-09-18</td>
+            <td>2022-03-30</td>
+            <td align="center"></td>
+            <td>1894</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1487730283432534017">
@@ -1188,5 +1188,5 @@ Found 831 suspensions for untracked accounts.
             <td>2021-09-21</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>1001</td>
+            <td>1002</td>
         </tr></table>

@@ -66,7 +66,7 @@ Found 11 suspensions for tracked accounts.
             <td>2009-04-07</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>3654</td>
+            <td>3653</td>
             <td>1483</td>
         </tr>
         <tr>
@@ -867,7 +867,7 @@ Found 1090 suspensions for untracked accounts.
             <td>2018-12-11</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>34466</td>
+            <td>34470</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1211378500889804801">
@@ -977,7 +977,7 @@ Found 1090 suspensions for untracked accounts.
             <td>2021-01-06</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>10010</td>
+            <td>10009</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=812529315095216128">
@@ -1252,7 +1252,7 @@ Found 1090 suspensions for untracked accounts.
             <td>2016-10-16</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2379</td>
+            <td>2382</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1698829921">
@@ -1299,17 +1299,6 @@ Found 1090 suspensions for untracked accounts.
             <td>2187</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=3962358676">
-                <img src="https://pbs.twimg.com/profile_images/1584539465904787456/w9YYRGPx_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/EEAR_PLUG">EEAR_PLUG</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3962358676">2 others</a>)&nbsp;</td>
-            <td>2015-10-15</td>
-            <td>2022-05-19</td>
-            <td align="center"></td>
-            <td>2161</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=77061746">
                 <img src="https://pbs.twimg.com/profile_images/3438467199/34f6d3a02d64de928c2f5d613e91134e_normal.jpeg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1319,6 +1308,17 @@ Found 1090 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2156</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=3962358676">
+                <img src="https://pbs.twimg.com/profile_images/1584539465904787456/w9YYRGPx_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/EEAR_PLUG">EEAR_PLUG</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3962358676">2 others</a>)&nbsp;</td>
+            <td>2015-10-15</td>
+            <td>2022-05-19</td>
+            <td align="center"></td>
+            <td>2135</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1470689924181549056">
@@ -1439,7 +1439,7 @@ Found 1090 suspensions for untracked accounts.
             <td>2016-08-27</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>1816</td>
+            <td>1818</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=553301640">
@@ -1714,7 +1714,7 @@ Found 1090 suspensions for untracked accounts.
             <td>2011-02-20</td>
             <td>2022-09-27</td>
             <td align="center"></td>
-            <td>1187</td>
+            <td>1188</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1438376095301214209">
@@ -1846,5 +1846,5 @@ Found 1090 suspensions for untracked accounts.
             <td>2021-05-12</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1016</td>
+            <td>1015</td>
         </tr></table>

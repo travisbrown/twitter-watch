@@ -78,7 +78,7 @@ Found 7 suspensions for tracked accounts.
             <td>2016-08-11</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1470</td>
+            <td>1473</td>
             <td>21680</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2020-12-15</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>355</td>
+            <td>354</td>
             <td>66227</td>
         </tr>
         <tr>
@@ -1991,7 +1991,7 @@ Found 962 suspensions for untracked accounts.
             <td>2013-01-11</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>185760</td>
+            <td>185814</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1348779946009907202">
@@ -2101,7 +2101,7 @@ Found 962 suspensions for untracked accounts.
             <td>2011-03-02</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>12237</td>
+            <td>12250</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=427498564">
@@ -2156,7 +2156,7 @@ Found 962 suspensions for untracked accounts.
             <td>2019-06-06</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>8291</td>
+            <td>8293</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1505477153349066752">
@@ -2332,7 +2332,7 @@ Found 962 suspensions for untracked accounts.
             <td>2017-04-26</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>4485</td>
+            <td>4490</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1459681634886864898">
@@ -2563,7 +2563,7 @@ Found 962 suspensions for untracked accounts.
             <td>2011-06-08</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>2352</td>
+            <td>2351</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=833441691910676480">
@@ -2783,7 +2783,7 @@ Found 962 suspensions for untracked accounts.
             <td>2009-06-24</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1515</td>
+            <td>1517</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1300097330998325250">
@@ -2970,7 +2970,7 @@ Found 962 suspensions for untracked accounts.
             <td>2010-10-08</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>1262</td>
+            <td>1261</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=116288272">
@@ -3039,17 +3039,6 @@ Found 962 suspensions for untracked accounts.
             <td>1117</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1399504229258117122">
-                <img src="https://pbs.twimg.com/profile_images/1399504535958306816/3qD8RzRY_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ReyNey9">ReyNey9</a></td>
-            <td>2021-05-31</td>
-            <td>2022-05-02</td>
-            <td align="center"></td>
-            <td>1115</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=836573118391021570">
                 <img src="https://pbs.twimg.com/profile_images/1290118752479121410/6gqDxLJZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3070,6 +3059,17 @@ Found 962 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1110</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1399504229258117122">
+                <img src="https://pbs.twimg.com/profile_images/1399504535958306816/3qD8RzRY_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ReyNey9">ReyNey9</a></td>
+            <td>2021-05-31</td>
+            <td>2022-05-02</td>
+            <td align="center"></td>
+            <td>1100</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1368350296259313667">
