@@ -32,16 +32,16 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 408464
+* Total number of suspensions detected: 409910
 * Total number of suspension reversals detected: 15996
-* Mean number of followers for suspended accounts: 1716.42
-* Median number of followers for suspended accounts: 52.0
-* Mean age of suspended accounts (days): 1023.9
-* Median age of suspended accounts (days): 295.0
+* Mean number of followers for suspended accounts: 1711.96
+* Median number of followers for suspended accounts: 51.0
+* Mean age of suspended accounts (days): 1024.61
+* Median age of suspended accounts (days): 294.0
 * Total number of verified accounts suspended: 144
-* Total number of protected accounts suspended: 20283
+* Total number of protected accounts suspended: 20351
 * Total number of suspensions for accounts previously withheld in specific countries: 28
-* Total number of screen name changes detected: 954070
+* Total number of screen name changes detected: 962618
 
 
 
@@ -292,9 +292,9 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>
                 <a href="reports/2022-12-03/"> 3 December 2022</a>
             </td>
-            <td>1381</td>
-            <td>3</td>
-            <td>0</td>
+            <td>2832</td>
+            <td>12</td>
+            <td>6</td>
         </tr>
         <tr>
             <td>
@@ -302,7 +302,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>5004</td>
             <td>27</td>
-            <td>10</td>
+            <td>29</td>
         </tr>
         <tr>
             <td>
@@ -310,7 +310,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>4528</td>
             <td>36</td>
-            <td>38</td>
+            <td>37</td>
         </tr>
         <tr>
             <td>
@@ -342,7 +342,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1719</td>
             <td>15</td>
-            <td>31</td>
+            <td>30</td>
         </tr>
         <tr>
             <td>
@@ -398,7 +398,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1471</td>
             <td>35</td>
-            <td>82</td>
+            <td>81</td>
         </tr>
         <tr>
             <td>
@@ -542,7 +542,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>1860</td>
             <td>51</td>
-            <td>43</td>
+            <td>42</td>
         </tr>
         <tr>
             <td>
@@ -2006,7 +2006,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>519</td>
             <td>7</td>
-            <td>8</td>
+            <td>9</td>
         </tr>
         <tr>
             <td>
@@ -2502,7 +2502,7 @@ Current list of suspensions of accounts most central to far-right networks since
             </td>
             <td>615</td>
             <td>2</td>
-            <td>42</td>
+            <td>41</td>
         </tr>
         <tr>
             <td>

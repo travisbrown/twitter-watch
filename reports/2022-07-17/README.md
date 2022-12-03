@@ -30,7 +30,7 @@ Found 2 suspensions for tracked accounts.
             <td>2018-10-11</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>750</td>
+            <td>749</td>
             <td>16801</td>
         </tr>
         <tr>
@@ -69,7 +69,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/wafflepirate">wafflepirate</a>
             </td>
             <td align="center"></td>
-            <td>5435</td>
+            <td>5431</td>
             <td>765</td>
         </tr>
         <tr>
@@ -82,7 +82,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SSkanderbeu">SSkanderbeu</a>
             </td>
             <td align="center"></td>
-            <td>880</td>
+            <td>876</td>
             <td>2879</td>
         </tr>
         <tr>
@@ -121,7 +121,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/ToiletMarv">ToiletMarv</a>
             </td>
             <td align="center"></td>
-            <td>267</td>
+            <td>269</td>
             <td>38471</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Octagon1975">Octagon1975</a>
             </td>
             <td align="center"></td>
-            <td>781</td>
+            <td>804</td>
             <td>39579</td>
         </tr></table>
 
@@ -471,7 +471,7 @@ Found 1704 suspensions for untracked accounts.
             <td>2020-10-18</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>19841</td>
+            <td>19831</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=390650964">
@@ -581,7 +581,7 @@ Found 1704 suspensions for untracked accounts.
             <td>2021-11-19</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>12895</td>
+            <td>12899</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=862412810">
@@ -1879,7 +1879,7 @@ Found 1704 suspensions for untracked accounts.
             <td>2019-06-05</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>2175</td>
+            <td>2173</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1498140602973802498">
@@ -2179,6 +2179,17 @@ Found 1704 suspensions for untracked accounts.
             <td>1818</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1362603034866458627">
+                <img src="https://pbs.twimg.com/profile_images/1591527594285060097/YKxNlkLx_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/CryptoWalkArt">CryptoWalkArt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1362603034866458627">1 other</a>)&nbsp;</td>
+            <td>2021-02-19</td>
+            <td>2022-08-02</td>
+            <td align="center"></td>
+            <td>1818</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1437121958857089029">
                 <img src="https://pbs.twimg.com/profile_images/1437122127937908738/kPoB_5gY_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
@@ -2199,17 +2210,6 @@ Found 1704 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1814</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1362603034866458627">
-                <img src="https://pbs.twimg.com/profile_images/1591527594285060097/YKxNlkLx_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/CryptoWalkArt">CryptoWalkArt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1362603034866458627">1 other</a>)&nbsp;</td>
-            <td>2021-02-19</td>
-            <td>2022-08-02</td>
-            <td align="center"></td>
-            <td>1812</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=79919502">
@@ -2759,7 +2759,7 @@ Found 1704 suspensions for untracked accounts.
             <td>2013-01-26</td>
             <td>2022-08-10</td>
             <td align="center"></td>
-            <td>1307</td>
+            <td>1304</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=65487307">
@@ -3004,17 +3004,6 @@ Found 1704 suspensions for untracked accounts.
             <td>1116</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=187320612">
-                <img src="https://pbs.twimg.com/profile_images/1530782783420997632/xCA1kHLf_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/francisguy444">francisguy444</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/187320612">1 other</a>)&nbsp;</td>
-            <td>2010-09-05</td>
-            <td></td>
-            <td align="center"></td>
-            <td>1111</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1371976884356059141">
                 <img src="https://pbs.twimg.com/profile_images/1372003292197359616/WXm1WRJv_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -3112,6 +3101,17 @@ Found 1704 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1046</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=187320612">
+                <img src="https://pbs.twimg.com/profile_images/1598479972087341056/G_rHm7A9_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/francisguy444">francisguy444</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/187320612">1 other</a>)&nbsp;</td>
+            <td>2010-09-05</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1045</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=885237703339421696">

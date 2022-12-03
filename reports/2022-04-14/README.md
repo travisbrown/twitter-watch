@@ -81,7 +81,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/elniggmex">elniggmex</a>
             </td>
             <td align="center"></td>
-            <td>189</td>
+            <td>192</td>
             <td>4068</td>
         </tr>
         <tr>
@@ -94,7 +94,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/misinfocentral">misinfocentral</a>
             </td>
             <td align="center"></td>
-            <td>40</td>
+            <td>41</td>
             <td>39127</td>
         </tr>
         <tr>
@@ -294,7 +294,7 @@ Found 499 suspensions for untracked accounts.
             <td>2010-12-07</td>
             <td>2022-11-11</td>
             <td align="center"></td>
-            <td>9426</td>
+            <td>9424</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1246441792020627457">
@@ -470,7 +470,7 @@ Found 499 suspensions for untracked accounts.
             <td>2022-02-13</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>2593</td>
+            <td>2591</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=2827781844">

@@ -107,7 +107,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/SolarSunGod">SolarSunGod</a>
             </td>
             <td align="center"></td>
-            <td>241</td>
+            <td>242</td>
             <td>53896</td>
         </tr>
         <tr>
@@ -314,7 +314,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2012-02-19</td>
             <td>2022-10-22</td>
             <td align="center"></td>
-            <td>17426</td>
+            <td>17421</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=746976175105400833">
@@ -347,7 +347,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2021-11-17</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>14253</td>
+            <td>14242</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1570368651173265411">
@@ -402,7 +402,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2014-09-14</td>
             <td>2022-10-15</td>
             <td align="center"></td>
-            <td>11192</td>
+            <td>11196</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1183303203200352256">
@@ -567,7 +567,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2014-04-09</td>
             <td>2022-10-02</td>
             <td align="center"></td>
-            <td>5036</td>
+            <td>5035</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=36495769">
@@ -721,7 +721,7 @@ Found 1436 suspensions for untracked accounts.
             <td>2022-05-05</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>2561</td>
+            <td>2563</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3090662824">

@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2009-08-05</td>
             <td>2022-10-06</td>
             <td align="center"></td>
-            <td>14026</td>
+            <td>14072</td>
             <td>73563</td>
         </tr></table>
 
@@ -146,7 +146,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/KariLakeWarRoom">KariLakeWarRoom</a>
             </td>
             <td align="center"></td>
-            <td>192938</td>
+            <td>199089</td>
             <td>62735</td>
         </tr>
         <tr>
@@ -344,7 +344,7 @@ Found 958 suspensions for untracked accounts.
             <td>2020-11-12</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>10526</td>
+            <td>10507</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=792492689535164416">
@@ -608,7 +608,7 @@ Found 958 suspensions for untracked accounts.
             <td>2015-11-09</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>2848</td>
+            <td>2851</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1502985628367085569">
@@ -619,7 +619,7 @@ Found 958 suspensions for untracked accounts.
             <td>2022-03-13</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>2845</td>
+            <td>2840</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=201765864">
@@ -773,7 +773,7 @@ Found 958 suspensions for untracked accounts.
             <td>2019-07-04</td>
             <td>2022-04-05</td>
             <td align="center"></td>
-            <td>1675</td>
+            <td>1674</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1431138912764837889">
@@ -843,7 +843,7 @@ Found 958 suspensions for untracked accounts.
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1380286944">
-                <img src="https://pbs.twimg.com/profile_images/1588870112668286976/ySodQEV4_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://pbs.twimg.com/profile_images/1598298006108794880/UHW0V8f9_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/godvruchtigheid">godvruchtigheid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1380286944">1 other</a>)&nbsp;</td>
