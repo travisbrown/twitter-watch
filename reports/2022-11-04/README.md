@@ -1412,7 +1412,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheBoyDAD">TheBoyDAD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/881846064088743936">7 others</a>)&nbsp;</td>
             <td>2017-07-03</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>7623</td>
         </tr>

@@ -1527,7 +1527,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LewisRourke7">LewisRourke7</a></td>
             <td>2022-08-23</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>1431</td>
         </tr>

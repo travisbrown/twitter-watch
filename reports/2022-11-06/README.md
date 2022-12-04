@@ -232,7 +232,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AmalekAvengers">AmalekAvengers</a></td>
             <td>2022-01-16</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>160</td>
             <td>3004</td>
@@ -4838,7 +4838,7 @@ Found 1823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mike42mike">mike42mike</a></td>
             <td>2009-11-01</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>2055</td>
         </tr>

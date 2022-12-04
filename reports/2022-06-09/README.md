@@ -1470,7 +1470,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1stSouthernYank">1stSouthernYank</a></td>
             <td>2022-03-19</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1357</td>
         </tr>

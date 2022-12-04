@@ -647,7 +647,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vitoquiles">vitoquiles</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1187524450809536513">4 others</a>)&nbsp;</td>
             <td>2019-10-25</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>68124</td>
         </tr>

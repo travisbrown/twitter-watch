@@ -28,7 +28,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MatrixPirate12">MatrixPirate12</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1167603779568578560">2 others</a>)&nbsp;</td>
             <td>2019-08-31</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>17828</td>
             <td>499</td>

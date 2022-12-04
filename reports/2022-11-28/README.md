@@ -100,7 +100,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MarthaJ74276781">MarthaJ74276781</a></td>
             <td>2021-09-21</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>2901</td>
             <td>30426</td>
@@ -922,7 +922,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/javierfpanadero">javierfpanadero</a></td>
             <td>2011-09-11</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>24191</td>
         </tr>

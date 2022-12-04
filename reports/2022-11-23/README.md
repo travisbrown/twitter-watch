@@ -1564,7 +1564,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rvp">rvp</a></td>
             <td>2008-02-17</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>4828</td>
         </tr>
@@ -3016,7 +3016,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pxantomx">Pxantomx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/513761881">5 others</a>)&nbsp;</td>
             <td>2012-03-04</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1068</td>
         </tr>

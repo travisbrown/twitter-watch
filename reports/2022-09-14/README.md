@@ -1643,7 +1643,7 @@ Found 1591 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RoteZoraRadical">RoteZoraRadical</a></td>
             <td>2021-11-01</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1876</td>
         </tr>

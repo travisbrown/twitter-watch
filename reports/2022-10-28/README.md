@@ -2077,7 +2077,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/siciliancnq">siciliancnq</a></td>
             <td>2009-04-19</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>6621</td>
         </tr>
@@ -3628,7 +3628,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HambyRedbeer">HambyRedbeer</a></td>
             <td>2013-06-28</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1902</td>
         </tr>

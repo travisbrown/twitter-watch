@@ -2669,7 +2669,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cooperbear">Cooperbear</a></td>
             <td>2008-10-13</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1099</td>
         </tr>

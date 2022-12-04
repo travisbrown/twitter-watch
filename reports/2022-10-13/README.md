@@ -1077,7 +1077,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Iam_entee">Iam_entee</a></td>
             <td>2018-12-06</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>3252</td>
         </tr>
@@ -1308,7 +1308,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LadimusPrime">LadimusPrime</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1251528523065548800">2 others</a>)&nbsp;</td>
             <td>2020-04-18</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>2484</td>
         </tr>

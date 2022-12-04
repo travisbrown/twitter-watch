@@ -28,7 +28,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Jebadoo2">Jebadoo2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1436433500">1 other</a>)&nbsp;</td>
             <td>2013-05-17</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>22406</td>
             <td>445</td>

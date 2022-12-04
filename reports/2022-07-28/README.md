@@ -3007,7 +3007,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealTeddylee">RealTeddylee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1688452944">1 other</a>)&nbsp;</td>
             <td>2013-08-21</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1750</td>
         </tr>

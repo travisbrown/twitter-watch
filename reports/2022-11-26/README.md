@@ -1334,7 +1334,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UkrLrc_Jason">UkrLrc_Jason</a></td>
             <td>2022-08-23</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>2742</td>
         </tr>

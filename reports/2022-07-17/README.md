@@ -3109,7 +3109,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/francisguy444">francisguy444</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/187320612">1 other</a>)&nbsp;</td>
             <td>2010-09-05</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1045</td>
         </tr>

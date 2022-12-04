@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BosozokuTerKen">BosozokuTerKen</a></td>
             <td>2021-12-30</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1941</td>
             <td>1399</td>

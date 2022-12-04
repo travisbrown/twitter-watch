@@ -2669,7 +2669,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MatKindt">MatKindt</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1317</td>
         </tr>

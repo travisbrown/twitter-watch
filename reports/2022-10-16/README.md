@@ -507,7 +507,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/angelacif1">angelacif1</a></td>
             <td>2018-04-10</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>210946</td>
         </tr>

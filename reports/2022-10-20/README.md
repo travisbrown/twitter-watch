@@ -64,7 +64,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Natalie71784541">Natalie71784541</a></td>
             <td>2022-03-22</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1729</td>
             <td>2061</td>
@@ -5070,7 +5070,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JimDefoy">JimDefoy</a></td>
             <td>2020-01-16</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1482</td>
         </tr>
@@ -7842,7 +7842,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DonnaJoCatLady">DonnaJoCatLady</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1040</td>
         </tr>

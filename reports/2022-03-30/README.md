@@ -1056,7 +1056,7 @@ Found 867 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JackNapierKnows">JackNapierKnows</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1018704749926010880">3 others</a>)&nbsp;</td>
             <td>2018-07-16</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>5526</td>
         </tr>

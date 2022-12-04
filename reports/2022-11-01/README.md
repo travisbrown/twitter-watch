@@ -1842,7 +1842,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dieter_am">dieter_am</a></td>
             <td>2022-03-15</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>2469</td>
         </tr>

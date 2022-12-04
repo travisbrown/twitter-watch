@@ -629,7 +629,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SaveVidBot">SaveVidBot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1241925768374038533">1 other</a>)&nbsp;</td>
             <td>2020-03-23</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center">🔒</td>
             <td>305927</td>
         </tr>

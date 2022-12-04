@@ -880,7 +880,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CentroLeaks">CentroLeaks</a></td>
             <td>2016-11-07</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>318686</td>
         </tr>
@@ -2695,7 +2695,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LoveGotchi">LoveGotchi</a></td>
             <td>2021-05-18</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1106</td>
         </tr>

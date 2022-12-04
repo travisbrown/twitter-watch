@@ -1616,7 +1616,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoeahVR">JoeahVR</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1237099144755503105">1 other</a>)&nbsp;</td>
             <td>2020-03-09</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>9822</td>
         </tr>

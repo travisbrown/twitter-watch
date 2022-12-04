@@ -624,7 +624,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Wonderful_Ed">Wonderful_Ed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/181346048">7 others</a>)&nbsp;</td>
             <td>2010-08-21</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>20856</td>
         </tr>

@@ -160,7 +160,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BrodenStarJacob">BrodenStarJacob</a></td>
             <td>2022-04-17</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>0</td>
             <td>99095</td>
@@ -1281,7 +1281,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/erik_ruijter">erik_ruijter</a></td>
             <td>2017-10-16</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>1304</td>
         </tr>

@@ -5651,7 +5651,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nelsonrosamilha">nelsonrosamilha</a></td>
             <td>2010-12-22</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1670</td>
         </tr>

@@ -1262,7 +1262,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChannelInteres">ChannelInteres</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1127649947627732993">1 other</a>)&nbsp;</td>
             <td>2019-05-12</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>41655</td>
         </tr>

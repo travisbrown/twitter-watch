@@ -713,7 +713,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/enclaveFem">enclaveFem</a></td>
             <td>2011-02-17</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>12140</td>
         </tr>

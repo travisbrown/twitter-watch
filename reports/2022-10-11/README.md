@@ -969,7 +969,7 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Albertopugilat">Albertopugilat</a></td>
             <td>2021-11-27</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>4299</td>
         </tr>

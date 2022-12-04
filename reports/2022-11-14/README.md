@@ -88,7 +88,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Silent_Observ3r">Silent_Observ3r</a></td>
             <td>2016-09-30</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>111</td>
             <td>6607</td>
@@ -160,7 +160,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HoosFren">HoosFren</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1464075664512987141">2 others</a>)&nbsp;</td>
             <td>2021-11-26</td>
-            <td></td>
+            <td>2022-12-01</td>
             <td align="center"></td>
             <td>151</td>
             <td>17576</td>

@@ -1233,7 +1233,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/workxout">workxout</a></td>
             <td>2021-10-14</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>6842</td>
         </tr>
@@ -1365,7 +1365,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chitagloria">chitagloria</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1380538464370757635">3 others</a>)&nbsp;</td>
             <td>2021-04-09</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>5242</td>
         </tr>
@@ -1431,7 +1431,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uupinn_">uupinn_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1274554785790717958">5 others</a>)&nbsp;</td>
             <td>2020-06-21</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>4326</td>
         </tr>
@@ -3026,7 +3026,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/orulbee">orulbee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2184277388">1 other</a>)&nbsp;</td>
             <td>2013-11-09</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1532</td>
         </tr>
@@ -4379,7 +4379,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/usnlight">usnlight</a></td>
             <td>2014-11-17</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1018</td>
         </tr>

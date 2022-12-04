@@ -832,7 +832,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Skylar_Jenn">Skylar_Jenn</a></td>
             <td>2016-06-07</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>10919</td>
         </tr>

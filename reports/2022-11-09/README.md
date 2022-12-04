@@ -3179,7 +3179,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/solanki3007">solanki3007</a></td>
             <td>2012-11-15</td>
-            <td></td>
+            <td>2022-12-02</td>
             <td align="center"></td>
             <td>1709</td>
         </tr>
@@ -3410,7 +3410,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Feldegast1">Feldegast1</a></td>
             <td>2020-09-09</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>1565</td>
         </tr>
@@ -4125,7 +4125,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bcoops12">bcoops12</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2484959003">1 other</a>)&nbsp;</td>
             <td>2014-04-14</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>1081</td>
         </tr>
