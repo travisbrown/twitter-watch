@@ -42,7 +42,7 @@ Found 3 suspensions for tracked accounts.
             <td>2019-10-29</td>
             <td>2022-07-23</td>
             <td align="center"></td>
-            <td>715</td>
+            <td>717</td>
             <td>64497</td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@ Found 3 suspensions for tracked accounts.
             <td>2017-11-14</td>
             <td>2022-07-18</td>
             <td align="center"></td>
-            <td>628</td>
+            <td>627</td>
             <td>79704</td>
         </tr></table>
 
@@ -172,7 +172,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/fkliftcertified">fkliftcertified</a>
             </td>
             <td align="center"></td>
-            <td>32</td>
+            <td>33</td>
             <td>86016</td>
         </tr></table>
 
@@ -1356,7 +1356,7 @@ Found 2859 suspensions for untracked accounts.
             <td>2017-12-30</td>
             <td>2022-08-15</td>
             <td align="center">🔒</td>
-            <td>1431</td>
+            <td>1430</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1437270821656043522">

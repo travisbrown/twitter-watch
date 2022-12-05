@@ -30,7 +30,7 @@ Found 1 suspensions for tracked accounts.
             <td>2015-09-06</td>
             <td>2022-04-26</td>
             <td align="center"></td>
-            <td>1782</td>
+            <td>1784</td>
             <td>35909</td>
         </tr></table>
 
@@ -57,7 +57,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/CrimsonFrost_">CrimsonFrost_</a>
             </td>
             <td align="center"></td>
-            <td>1616</td>
+            <td>1619</td>
             <td>2116</td>
         </tr>
         <tr>
@@ -161,7 +161,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/sneedkuanyew">sneedkuanyew</a>
             </td>
             <td align="center"></td>
-            <td>297</td>
+            <td>298</td>
             <td>14173</td>
         </tr>
         <tr>
@@ -213,7 +213,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/PanzerBarbarian">PanzerBarbarian</a>
             </td>
             <td align="center"></td>
-            <td>225</td>
+            <td>227</td>
             <td>36650</td>
         </tr>
         <tr>
@@ -226,7 +226,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ChrisBell73">ChrisBell73</a>
             </td>
             <td align="center"></td>
-            <td>5426</td>
+            <td>5429</td>
             <td>47573</td>
         </tr>
         <tr>
@@ -239,7 +239,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/45Alana24">45Alana24</a>
             </td>
             <td align="center"></td>
-            <td>3225</td>
+            <td>3236</td>
             <td>52302</td>
         </tr>
         <tr>
@@ -278,7 +278,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Pilkpropaganda">Pilkpropaganda</a>
             </td>
             <td align="center"></td>
-            <td>272</td>
+            <td>273</td>
             <td>69539</td>
         </tr>
         <tr>
@@ -317,7 +317,7 @@ Found 23 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/scaredemic2022">scaredemic2022</a>
             </td>
             <td align="center"></td>
-            <td>1287</td>
+            <td>1284</td>
             <td>91196</td>
         </tr>
         <tr>
@@ -826,6 +826,17 @@ Found 519 suspensions for untracked accounts.
             <td>1514</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1027709464906948610">
+                <img src="https://pbs.twimg.com/profile_images/1595178256541503491/wvhyRDdj_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SubversiveUnde1">SubversiveUnde1</a></td>
+            <td>2018-08-10</td>
+            <td>2022-03-14</td>
+            <td align="center"></td>
+            <td>1499</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1410007804723728387">
                 <img src="https://pbs.twimg.com/profile_images/1481815756799156227/yFixc24k_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -835,17 +846,6 @@ Found 519 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1499</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1027709464906948610">
-                <img src="https://pbs.twimg.com/profile_images/1595178256541503491/wvhyRDdj_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/SubversiveUnde1">SubversiveUnde1</a></td>
-            <td>2018-08-10</td>
-            <td>2022-03-14</td>
-            <td align="center"></td>
-            <td>1497</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=946788867004395520">

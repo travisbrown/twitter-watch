@@ -90,7 +90,7 @@ Found 7 suspensions for tracked accounts.
             <td>2021-08-01</td>
             <td>2022-05-21</td>
             <td align="center"></td>
-            <td>1808</td>
+            <td>1814</td>
             <td>15488</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ Found 7 suspensions for tracked accounts.
             <td>2018-11-11</td>
             <td>2022-05-10</td>
             <td align="center"></td>
-            <td>249</td>
+            <td>251</td>
             <td>18658</td>
         </tr></table>
 
@@ -155,7 +155,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bmac1776">bmac1776</a>
             </td>
             <td align="center"></td>
-            <td>496</td>
+            <td>495</td>
             <td>11083</td>
         </tr>
         <tr>
@@ -526,7 +526,7 @@ Found 504 suspensions for untracked accounts.
             <td>2021-08-23</td>
             <td>2022-08-10</td>
             <td align="center">🔒</td>
-            <td>5732</td>
+            <td>5745</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=354365373">
@@ -713,7 +713,7 @@ Found 504 suspensions for untracked accounts.
             <td>2012-12-07</td>
             <td>2022-05-06</td>
             <td align="center"></td>
-            <td>2229</td>
+            <td>2228</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1250842340496900098">
@@ -856,7 +856,7 @@ Found 504 suspensions for untracked accounts.
             <td>2012-08-13</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>1359</td>
+            <td>1358</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=50234164">

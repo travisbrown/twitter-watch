@@ -275,7 +275,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/bostronix">bostronix</a>
             </td>
             <td align="center"></td>
-            <td>232</td>
+            <td>235</td>
             <td>60247</td>
         </tr>
         <tr>
@@ -605,7 +605,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2021-08-11</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>8523</td>
+            <td>8594</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1189293164827435009">
@@ -880,7 +880,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2020-09-16</td>
             <td>2022-10-04</td>
             <td align="center"></td>
-            <td>3201</td>
+            <td>3216</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1435730495044792323">
@@ -1529,7 +1529,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2022-08-23</td>
             <td>2022-12-03</td>
             <td align="center"></td>
-            <td>1431</td>
+            <td>1446</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4041344854">
@@ -1650,7 +1650,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2009-03-20</td>
             <td>2022-10-12</td>
             <td align="center"></td>
-            <td>1233</td>
+            <td>1243</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1490861439967506435">
@@ -1815,7 +1815,7 @@ Found 1564 suspensions for untracked accounts.
             <td>2012-05-17</td>
             <td>2022-10-13</td>
             <td align="center"></td>
-            <td>1081</td>
+            <td>1079</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1558399236705816576">

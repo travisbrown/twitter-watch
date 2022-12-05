@@ -30,7 +30,7 @@ Found 1 suspensions for tracked accounts.
             <td>2009-04-20</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>602</td>
+            <td>603</td>
             <td>98133</td>
         </tr></table>
 
@@ -96,7 +96,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/TheMonkeyKing51">TheMonkeyKing51</a>
             </td>
             <td align="center"></td>
-            <td>71</td>
+            <td>70</td>
             <td>21486</td>
         </tr>
         <tr>
@@ -122,7 +122,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/ALLisLovE888">ALLisLovE888</a>
             </td>
             <td align="center"></td>
-            <td>1171</td>
+            <td>1170</td>
             <td>25338</td>
         </tr>
         <tr>
@@ -135,7 +135,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/jenluvssocal">jenluvssocal</a>
             </td>
             <td align="center"></td>
-            <td>518</td>
+            <td>519</td>
             <td>32896</td>
         </tr>
         <tr>
@@ -148,7 +148,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/starpalladin">starpalladin</a>
             </td>
             <td align="center"></td>
-            <td>84</td>
+            <td>86</td>
             <td>39048</td>
         </tr>
         <tr>
@@ -369,7 +369,7 @@ Found 548 suspensions for untracked accounts.
             <td>2017-05-06</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>31266</td>
+            <td>31264</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1259329379295014914">
@@ -468,7 +468,7 @@ Found 548 suspensions for untracked accounts.
             <td>2020-04-03</td>
             <td>2022-04-10</td>
             <td align="center"></td>
-            <td>13231</td>
+            <td>13238</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1963696802">
@@ -523,7 +523,7 @@ Found 548 suspensions for untracked accounts.
             <td>2009-04-16</td>
             <td>2022-04-02</td>
             <td align="center"></td>
-            <td>8983</td>
+            <td>8984</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1360408439856517121">
@@ -757,6 +757,17 @@ Found 548 suspensions for untracked accounts.
             <td>3592</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=990136229143498757">
+                <img src="https://pbs.twimg.com/profile_images/1596034588966817792/dnb3dYys_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mehmetxyzx">mehmetxyzx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/990136229143498757">8 others</a>)&nbsp;</td>
+            <td>2018-04-28</td>
+            <td>2022-05-21</td>
+            <td align="center"></td>
+            <td>3321</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=226357311">
                 <img src="https://pbs.twimg.com/profile_images/1331689477/IMG_1650_1__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -766,17 +777,6 @@ Found 548 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>3320</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=990136229143498757">
-                <img src="https://pbs.twimg.com/profile_images/1596034588966817792/dnb3dYys_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mehmetxyzx">mehmetxyzx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/990136229143498757">8 others</a>)&nbsp;</td>
-            <td>2018-04-28</td>
-            <td>2022-05-21</td>
-            <td align="center"></td>
-            <td>3318</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1484226673763565568">

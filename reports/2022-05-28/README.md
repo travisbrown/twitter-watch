@@ -90,7 +90,7 @@ Found 6 suspensions for tracked accounts.
             <td>2013-01-21</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>456</td>
+            <td>455</td>
             <td>94330</td>
         </tr></table>
 
@@ -143,7 +143,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/royallprick">royallprick</a>
             </td>
             <td align="center"></td>
-            <td>475</td>
+            <td>476</td>
             <td>13885</td>
         </tr>
         <tr>
@@ -195,7 +195,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/sniffmybiden">sniffmybiden</a>
             </td>
             <td align="center"></td>
-            <td>1638</td>
+            <td>1639</td>
             <td>37209</td>
         </tr>
         <tr>
@@ -273,7 +273,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/uwucommie">uwucommie</a>
             </td>
             <td align="center">🔒</td>
-            <td>810</td>
+            <td>808</td>
             <td>70525</td>
         </tr>
         <tr>
@@ -286,7 +286,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/patriotichound">patriotichound</a>
             </td>
             <td align="center"></td>
-            <td>229</td>
+            <td>231</td>
             <td>77182</td>
         </tr>
         <tr>
@@ -328,7 +328,7 @@ Found 825 suspensions for untracked accounts.
             <td>2011-07-09</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>261219</td>
+            <td>253215</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1379490605043216384">
@@ -559,7 +559,7 @@ Found 825 suspensions for untracked accounts.
             <td>2019-07-05</td>
             <td>2022-06-05</td>
             <td align="center"></td>
-            <td>6500</td>
+            <td>6498</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=966601637728018434">

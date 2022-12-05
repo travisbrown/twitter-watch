@@ -42,7 +42,7 @@ Found 2 suspensions for tracked accounts.
             <td>2009-06-20</td>
             <td>2022-09-06</td>
             <td align="center"></td>
-            <td>1159</td>
+            <td>1160</td>
             <td>52155</td>
         </tr></table>
 
@@ -121,7 +121,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/nicholatian1">nicholatian1</a>
             </td>
             <td align="center"></td>
-            <td>336</td>
+            <td>335</td>
             <td>3616</td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/govtUSbomb">govtUSbomb</a>
             </td>
             <td align="center"></td>
-            <td>330</td>
+            <td>331</td>
             <td>4561</td>
         </tr>
         <tr>
@@ -147,7 +147,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/DaleStarkA10">DaleStarkA10</a>
             </td>
             <td align="center"></td>
-            <td>54515</td>
+            <td>54663</td>
             <td>5932</td>
         </tr>
         <tr>
@@ -160,7 +160,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/arrowtotheknes">arrowtotheknes</a>
             </td>
             <td align="center"></td>
-            <td>151</td>
+            <td>150</td>
             <td>8238</td>
         </tr>
         <tr>
@@ -368,7 +368,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Bitc0inBuLL">Bitc0inBuLL</a>
             </td>
             <td align="center"></td>
-            <td>525</td>
+            <td>526</td>
             <td>58007</td>
         </tr>
         <tr>
@@ -459,7 +459,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/Tochaz39">Tochaz39</a>
             </td>
             <td align="center"></td>
-            <td>33</td>
+            <td>32</td>
             <td>90827</td>
         </tr>
         <tr>
@@ -688,7 +688,7 @@ Found 420 suspensions for untracked accounts.
             <td>2020-01-12</td>
             <td>2022-05-19</td>
             <td align="center"></td>
-            <td>7794</td>
+            <td>7796</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1495859189515698176">
@@ -966,6 +966,17 @@ Found 420 suspensions for untracked accounts.
             <td>2064</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=16392953">
+                <img src="https://pbs.twimg.com/profile_images/1071266714132729861/RVQqeUim_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MeeksAZ">MeeksAZ</a></td>
+            <td>2008-09-21</td>
+            <td>2022-09-06</td>
+            <td align="center"></td>
+            <td>1888</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1379475345821343752">
                 <img src="https://pbs.twimg.com/profile_images/1481111963845500928/J091QAtb_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -975,17 +986,6 @@ Found 420 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1887</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=16392953">
-                <img src="https://pbs.twimg.com/profile_images/1071266714132729861/RVQqeUim_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/MeeksAZ">MeeksAZ</a></td>
-            <td>2008-09-21</td>
-            <td>2022-09-06</td>
-            <td align="center"></td>
-            <td>1885</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1231703106494304256">

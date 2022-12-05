@@ -238,7 +238,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/__billydakid">__billydakid</a>
             </td>
             <td align="center"></td>
-            <td>211</td>
+            <td>215</td>
             <td>71687</td>
         </tr>
         <tr>
@@ -264,7 +264,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <a href="https://twitter.com/aguysayinhi">aguysayinhi</a>
             </td>
             <td align="center"></td>
-            <td>451</td>
+            <td>450</td>
             <td>86499</td>
         </tr>
         <tr>
@@ -495,7 +495,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2021-12-30</td>
             <td>2022-07-04</td>
             <td align="center"></td>
-            <td>9401</td>
+            <td>9402</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=567640198">
@@ -704,7 +704,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2018-06-18</td>
             <td>2022-06-20</td>
             <td align="center"></td>
-            <td>3291</td>
+            <td>3290</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=329067566">
@@ -729,6 +729,17 @@ Found 1287 suspensions for untracked accounts.
             <td>3148</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=143327654">
+                <img src="https://pbs.twimg.com/profile_images/1239563420220850179/VWcu1F_E_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Yogshukla">Yogshukla</a></td>
+            <td>2010-05-13</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2929</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=764214600">
                 <img src="https://pbs.twimg.com/profile_images/1598679761672605697/ahgsEHvs_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -737,7 +748,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2012-08-17</td>
             <td>2022-11-18</td>
             <td align="center"></td>
-            <td>2909</td>
+            <td>2908</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4528551015">
@@ -804,17 +815,6 @@ Found 1287 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2596</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=143327654">
-                <img src="https://pbs.twimg.com/profile_images/1239563420220850179/VWcu1F_E_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Yogshukla">Yogshukla</a></td>
-            <td>2010-05-13</td>
-            <td></td>
-            <td align="center"></td>
-            <td>2492</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=60696230">
@@ -916,6 +916,17 @@ Found 1287 suspensions for untracked accounts.
             <td>1946</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1488375669683892224">
+                <img src="https://pbs.twimg.com/profile_images/1598660354426421250/Fu8ZzdTf_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/felnezia">felnezia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488375669683892224">6 others</a>)&nbsp;</td>
+            <td>2022-02-01</td>
+            <td>2022-10-01</td>
+            <td align="center"></td>
+            <td>1893</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=302676601">
                 <img src="https://pbs.twimg.com/profile_images/1462542396928008192/kCPaQeGl_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -936,17 +947,6 @@ Found 1287 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1889</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1488375669683892224">
-                <img src="https://pbs.twimg.com/profile_images/1598285636494032896/YHQNmhh2_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/ElsieMafimbo">ElsieMafimbo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488375669683892224">6 others</a>)&nbsp;</td>
-            <td>2022-02-01</td>
-            <td>2022-10-01</td>
-            <td align="center"></td>
-            <td>1886</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1438419998">
@@ -990,7 +990,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2016-07-22</td>
             <td>2022-11-20</td>
             <td align="center"></td>
-            <td>1792</td>
+            <td>1794</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=702103634">
@@ -1144,7 +1144,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2019-09-07</td>
             <td>2022-06-27</td>
             <td align="center"></td>
-            <td>1363</td>
+            <td>1360</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=828279319072010240">
@@ -1221,7 +1221,7 @@ Found 1287 suspensions for untracked accounts.
             <td>2022-02-19</td>
             <td>2022-08-15</td>
             <td align="center"></td>
-            <td>1238</td>
+            <td>1242</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1069293885262888962">

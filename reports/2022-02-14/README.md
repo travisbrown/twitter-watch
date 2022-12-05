@@ -57,7 +57,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <a href="https://twitter.com/Pissed_Penguin2">Pissed_Penguin2</a>
             </td>
             <td align="center"></td>
-            <td>494</td>
+            <td>495</td>
             <td>2538</td>
         </tr>
         <tr>
@@ -961,7 +961,7 @@ Found 708 suspensions for untracked accounts.
             <td>2017-01-29</td>
             <td>2022-05-02</td>
             <td align="center"></td>
-            <td>4429</td>
+            <td>4430</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1405335394519076866">
@@ -1368,7 +1368,7 @@ Found 708 suspensions for untracked accounts.
             <td>2009-12-29</td>
             <td>2022-05-28</td>
             <td align="center"></td>
-            <td>2502</td>
+            <td>2503</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=432106257">
@@ -1976,6 +1976,17 @@ Found 708 suspensions for untracked accounts.
             <td>1552</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1357530631073394688">
+                <img src="https://pbs.twimg.com/profile_images/1357530745233883136/PuH0ZExY_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/mikefar61911385">mikefar61911385</a></td>
+            <td>2021-02-05</td>
+            <td>2022-05-19</td>
+            <td align="center"></td>
+            <td>1550</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1021595902102913024">
                 <img src="https://pbs.twimg.com/profile_images/1463460389912555522/Tq4JXYQs_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -1985,17 +1996,6 @@ Found 708 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1547</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1357530631073394688">
-                <img src="https://pbs.twimg.com/profile_images/1357530745233883136/PuH0ZExY_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/mikefar61911385">mikefar61911385</a></td>
-            <td>2021-02-05</td>
-            <td>2022-05-19</td>
-            <td align="center"></td>
-            <td>1544</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=213415213">
