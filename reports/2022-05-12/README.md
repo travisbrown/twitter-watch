@@ -114,7 +114,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1524358016920924169/9I_-zsFP_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/bronzeagegiant">bronzeagegiant</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1499798091733647367">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/bronzeagegiant">bronzeagegiant</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1499798091733647367">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/bighoneycartel">bighoneycartel</a>
             </td>

@@ -38,7 +38,7 @@ Found 12 suspensions for tracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1584992347154251806/hKO65M7f_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AlbertWatkins_">AlbertWatkins_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1521526232390774789">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/AlbertWatkins_">AlbertWatkins_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1521526232390774789">4 others</a>)&nbsp;</td>
             <td>2022-05-03</td>
             <td>2022-09-07</td>
             <td align="center"></td>
@@ -212,7 +212,7 @@ Found 2060 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1590314431166152705/XJRZOgc6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/vaIlhaIa">vaIlhaIa</a></td>
+                <a href="https://twitter.com/vaIlhaIa">vaIlhaIa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419880519605506050">2 others</a>)&nbsp;</td>
             <td>2021-07-27</td>
             <td></td>
             <td align="center"></td>
@@ -278,7 +278,7 @@ Found 2060 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1588243223083892736/W7Z9zruU_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/capriioleiio">capriioleiio</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1266198368">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/capriioleiio">capriioleiio</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1266198368">7 others</a>)&nbsp;</td>
             <td>2013-03-14</td>
             <td></td>
             <td align="center"></td>
@@ -344,7 +344,7 @@ Found 2060 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1560459543158685697/bRu14-It_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/YDengebe">YDengebe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/819602602727968768">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/YDengebe">YDengebe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/819602602727968768">2 others</a>)&nbsp;</td>
             <td>2017-01-12</td>
             <td></td>
             <td align="center"></td>
@@ -828,7 +828,7 @@ Found 2060 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1586248543852978177/V4u2UR5H_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/PeregrineBTC_">PeregrineBTC_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/511689527">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/PeregrineBTC_">PeregrineBTC_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/511689527">2 others</a>)&nbsp;</td>
             <td>2012-03-02</td>
             <td></td>
             <td align="center"></td>
@@ -1125,7 +1125,7 @@ Found 2060 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1590835363643367430/1YJlgVkA_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Mcunt_">Mcunt_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1509452352314646530">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/Mcunt_">Mcunt_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1509452352314646530">5 others</a>)&nbsp;</td>
             <td>2022-03-31</td>
             <td></td>
             <td align="center">🔒</td>
@@ -1389,7 +1389,7 @@ Found 2060 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1499835435287298055/gdygLLvq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Leo_BR_JB">Leo_BR_JB</a></td>
+                <a href="https://twitter.com/Leo_BR_JB">Leo_BR_JB</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1491206835227041794">1 other</a>)&nbsp;</td>
             <td>2022-02-09</td>
             <td></td>
             <td align="center"></td>
@@ -1455,7 +1455,7 @@ Found 2060 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1555808029412655105/H_SfStCt_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/nekrocidioss">nekrocidioss</a></td>
+                <a href="https://twitter.com/nekrocidioss">nekrocidioss</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1465522613883584519">1 other</a>)&nbsp;</td>
             <td>2021-11-30</td>
             <td></td>
             <td align="center">🔒</td>

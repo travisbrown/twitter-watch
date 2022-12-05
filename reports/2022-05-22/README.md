@@ -191,7 +191,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1496262300969447426/VBBFEaGg_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AK12647768">AK12647768</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4064513657">10 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/AK12647768">AK12647768</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4064513657">11 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/c2slv5">c2slv5</a>
             </td>
@@ -477,7 +477,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1548016887551774721/EAxeTlOT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/goldenagebryan">goldenagebryan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1424799701572988939">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/goldenagebryan">goldenagebryan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1424799701572988939">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/strugglerbrah">strugglerbrah</a>
             </td>
@@ -568,7 +568,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1506785724934373386/61L2ovGU_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Jackie58268642">Jackie58268642</a></td>
+                <a href="https://twitter.com/Jackie58268642">Jackie58268642</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1413709147703500800">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/JackieLNic">JackieLNic</a>
             </td>
@@ -633,7 +633,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1563261682645757953/p0hN7LMf_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/cakow_c">cakow_c</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1184867965772206082">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/cakow_c">cakow_c</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1184867965772206082">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Johannes_0222">Johannes_0222</a>
             </td>
@@ -646,7 +646,7 @@ Found 43 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1553215114848788480/xnWThnso_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/nihalsimransing">nihalsimransing</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1438352457516531716">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/nihalsimransing">nihalsimransing</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1438352457516531716">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/alkalizedandrew">alkalizedandrew</a>
             </td>
@@ -1193,7 +1193,7 @@ Found 654 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1593794249358659584/LatqyAXG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Stockpickmover">Stockpickmover</a></td>
+                <a href="https://twitter.com/Stockpickmover">Stockpickmover</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2585998813">1 other</a>)&nbsp;</td>
             <td>2014-06-24</td>
             <td>2022-05-28</td>
             <td align="center"></td>

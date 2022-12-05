@@ -224,7 +224,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1558156062288531456/CaIhXRjh_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/DoohickeyDingle">DoohickeyDingle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1491406461016150022">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/DoohickeyDingle">DoohickeyDingle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1491406461016150022">10 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/WhimsicalFella">WhimsicalFella</a>
             </td>
@@ -237,7 +237,7 @@ Found 10 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1559939110932025344/HPJlxznj_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/summer_2022_SS">summer_2022_SS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/19204438">24 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/summer_2022_SS">summer_2022_SS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/19204438">25 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/anon_1984__">anon_1984__</a>
             </td>
@@ -1034,7 +1034,7 @@ Found 982 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1597608245903892480/-dN39kFf_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/air_4_you">air_4_you</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1317459030877634562">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/air_4_you">air_4_you</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1317459030877634562">3 others</a>)&nbsp;</td>
             <td>2020-10-17</td>
             <td>2022-08-10</td>
             <td align="center"></td>

@@ -158,7 +158,7 @@ Found 17 suspensions for tracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1563440229008039936/1oTfH_ya_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/dkfupdates">dkfupdates</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337465351962046467">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/dkfupdates">dkfupdates</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337465351962046467">2 others</a>)&nbsp;</td>
             <td>2020-12-11</td>
             <td></td>
             <td align="center"></td>
@@ -283,7 +283,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1576373610109087745/_gYQoE35_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/TheDripl0mat">TheDripl0mat</a></td>
+                <a href="https://twitter.com/TheDripl0mat">TheDripl0mat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1572241161741565952">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Gat0rGate">Gat0rGate</a>
             </td>
@@ -296,7 +296,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1575636738181144576/ZeByXgMR_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Firstname687346">Firstname687346</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1526404674986835968">9 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Firstname687346">Firstname687346</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1526404674986835968">45 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/DearbornInd">DearbornInd</a>
             </td>
@@ -326,7 +326,7 @@ Found 1564 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1574772809041317889/qc92OVWA_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/______Elyse">______Elyse</a></td>
+                <a href="https://twitter.com/______Elyse">______Elyse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1558107626927378437">1 other</a>)&nbsp;</td>
             <td>2022-08-12</td>
             <td></td>
             <td align="center"></td>
@@ -546,7 +546,7 @@ Found 1564 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1559991990728552450/C88KSv7K_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Twi_selling">Twi_selling</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4093120094">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Twi_selling">Twi_selling</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4093120094">3 others</a>)&nbsp;</td>
             <td>2015-11-01</td>
             <td></td>
             <td align="center"></td>
@@ -1327,7 +1327,7 @@ Found 1564 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1575098193443971077/06lYaMA1_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/TantricViolence">TantricViolence</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1456614769453056000">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/TantricViolence">TantricViolence</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1456614769453056000">2 others</a>)&nbsp;</td>
             <td>2021-11-05</td>
             <td></td>
             <td align="center"></td>
@@ -1360,7 +1360,7 @@ Found 1564 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1571180127651774467/tP7igHJo_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/pierobuconero">pierobuconero</a></td>
+                <a href="https://twitter.com/pierobuconero">pierobuconero</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1531949113562083331">1 other</a>)&nbsp;</td>
             <td>2022-06-01</td>
             <td></td>
             <td align="center"></td>
@@ -1591,7 +1591,7 @@ Found 1564 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1573713690645372928/g7FKsP6z_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Tapfer__">Tapfer__</a></td>
+                <a href="https://twitter.com/Tapfer__">Tapfer__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2328311881">1 other</a>)&nbsp;</td>
             <td>2014-02-05</td>
             <td></td>
             <td align="center"></td>
@@ -1833,7 +1833,7 @@ Found 1564 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1560695640178724864/UJ9BKjaG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/lewaLFC">lewaLFC</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/931457004786323457">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/lewaLFC">lewaLFC</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/931457004786323457">4 others</a>)&nbsp;</td>
             <td>2017-11-17</td>
             <td></td>
             <td align="center"></td>

@@ -88,7 +88,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1536401264677888002/DPcZOoEP_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/dhjortnaes">dhjortnaes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1462612616149446659">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/dhjortnaes">dhjortnaes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1462612616149446659">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/barstoolgoat">barstoolgoat</a>
             </td>
@@ -153,7 +153,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1509935264382087170/HJo6I5Wq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/FractalEarth">FractalEarth</a></td>
+                <a href="https://twitter.com/FractalEarth">FractalEarth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/984455699655806976">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/_S_Kelly">_S_Kelly</a>
             </td>
@@ -387,7 +387,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/noxfox77">noxfox77</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4291462692">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/noxfox77">noxfox77</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4291462692">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/noxfox771">noxfox771</a>
             </td>
@@ -465,7 +465,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1454130464835395585/5eDVjRh__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/lonestargazer5">lonestargazer5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1368368634075230214">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/lonestargazer5">lonestargazer5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1368368634075230214">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/handofmelania">handofmelania</a>
             </td>

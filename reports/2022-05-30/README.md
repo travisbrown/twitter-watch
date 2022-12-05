@@ -115,7 +115,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1569633112942059527/iUBDsKNE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/masterfulcopy">masterfulcopy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1315355262568460289">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/masterfulcopy">masterfulcopy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1315355262568460289">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/humbleconquest">humbleconquest</a>
             </td>
@@ -128,7 +128,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1532887706224697346/ZReyLXsW_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ProstagmaAoe2">ProstagmaAoe2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1531021660924657664">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ProstagmaAoe2">ProstagmaAoe2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1531021660924657664">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/DriftKingAF">DriftKingAF</a>
             </td>

@@ -66,7 +66,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1588911718859788290/LMHqkvyT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Z_Remote">Z_Remote</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1332889311885348865">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Z_Remote">Z_Remote</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1332889311885348865">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/ZKeplar">ZKeplar</a>
             </td>
@@ -79,7 +79,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1501738325274681345/RkcHAm13_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/MKULTRAMILF">MKULTRAMILF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1049751249065832448">5 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/MKULTRAMILF">MKULTRAMILF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1049751249065832448">7 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/SHOEGAZEMlLF">SHOEGAZEMlLF</a>
             </td>
@@ -118,7 +118,7 @@ Found 18 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1501633628987543552/1fXQ9VWX_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/RebelliousEagle">RebelliousEagle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1458167441918513155">23 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/RebelliousEagle">RebelliousEagle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1458167441918513155">24 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/UltraTyrannis">UltraTyrannis</a>
             </td>

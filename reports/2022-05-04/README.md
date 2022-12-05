@@ -77,7 +77,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1527020979448430592/rFYtCIp-_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/weirdoincel">weirdoincel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518855992712351744">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/weirdoincel">weirdoincel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518855992712351744">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/MurdererLs">MurdererLs</a>
             </td>
@@ -129,7 +129,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1579142678524166146/eTB2ZqAb_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/cabinrapist">cabinrapist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1451269385591660551">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/cabinrapist">cabinrapist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1451269385591660551">7 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/cabinonline">cabinonline</a>
             </td>
@@ -168,7 +168,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1519656044733120512/kGHCifao_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/M0ONCULT">M0ONCULT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1519581710739988480">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/M0ONCULT">M0ONCULT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1519581710739988480">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/BABYkillerLs">BABYkillerLs</a>
             </td>
@@ -541,7 +541,7 @@ Found 858 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1597991496208482307/VfCuiwlr_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/NeeRaj_1023">NeeRaj_1023</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/561887706">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/NeeRaj_1023">NeeRaj_1023</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/561887706">4 others</a>)&nbsp;</td>
             <td>2012-04-24</td>
             <td>2022-05-06</td>
             <td align="center"></td>

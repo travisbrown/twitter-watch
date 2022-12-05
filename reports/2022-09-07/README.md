@@ -187,7 +187,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1568217365887811584/Vae2HE-I_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/9PathsOfDante">9PathsOfDante</a></td>
+                <a href="https://twitter.com/9PathsOfDante">9PathsOfDante</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1449641476745568258">28 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/PathofDante">PathofDante</a>
             </td>
@@ -304,7 +304,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1574788389433401345/QocoT2oB_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ozjrkco">ozjrkco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337419512728203265">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ozjrkco">ozjrkco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337419512728203265">7 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/auderesemper_">auderesemper_</a>
             </td>
@@ -382,7 +382,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1291895861040025600/B427V4D2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/xsocyotes">xsocyotes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4203076153">8 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/xsocyotes">xsocyotes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4203076153">11 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/xsyotes">xsyotes</a>
             </td>
@@ -460,7 +460,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1567395165458911237/8V5uw24L_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ELYX2022">ELYX2022</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1442276211594461190">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ELYX2022">ELYX2022</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1442276211594461190">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/PacificJCM">PacificJCM</a>
             </td>
@@ -473,7 +473,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1569931667908829186/RVuTI4to_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/___888___888___">___888___888___</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1533601624463122434">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/___888___888___">___888___888___</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1533601624463122434">16 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/crackdblkmirror">crackdblkmirror</a>
             </td>
@@ -639,7 +639,7 @@ Found 1071 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1590549968279977985/_3puF2m1_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/omwambaEK">omwambaEK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1489187463176372227">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/omwambaEK">omwambaEK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1489187463176372227">8 others</a>)&nbsp;</td>
             <td>2022-02-03</td>
             <td>2022-09-21</td>
             <td align="center"></td>
@@ -738,7 +738,7 @@ Found 1071 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1365899312174137347/FFsTzBDG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/officialtrad128">officialtrad128</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3016495211">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/officialtrad128">officialtrad128</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3016495211">2 others</a>)&nbsp;</td>
             <td>2015-02-04</td>
             <td></td>
             <td align="center"></td>
@@ -1024,7 +1024,7 @@ Found 1071 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1561774876410531840/2IZyv9tC_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/weallsurviwed">weallsurviwed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/754749123270545409">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/weallsurviwed">weallsurviwed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/754749123270545409">2 others</a>)&nbsp;</td>
             <td>2016-07-17</td>
             <td></td>
             <td align="center"></td>
@@ -1598,7 +1598,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2DKre">2DKre</a></td>
             <td>2017-12-24</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>1457</td>
         </tr>

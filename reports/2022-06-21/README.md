@@ -100,7 +100,7 @@ Found 5 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1590828441959632897/ui5ZQW2J_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/GoldAgeSociopth">GoldAgeSociopth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1161814114538270721">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/GoldAgeSociopth">GoldAgeSociopth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1161814114538270721">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/GoldAgeSchizo">GoldAgeSchizo</a>
             </td>

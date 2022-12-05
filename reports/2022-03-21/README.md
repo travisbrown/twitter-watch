@@ -127,7 +127,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1420481190746800128/EFzpZFrI_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/greenagriservis">greenagriservis</a></td>
+                <a href="https://twitter.com/greenagriservis">greenagriservis</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/732681128646201344">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/SpindlyOpinion">SpindlyOpinion</a>
             </td>
@@ -166,7 +166,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1505738369967562756/A47sVAXK_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AZOVenjoyer">AZOVenjoyer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1468050854171516928">14 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/AZOVenjoyer">AZOVenjoyer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1468050854171516928">17 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/solararyan">solararyan</a>
             </td>
@@ -387,7 +387,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1499104578528325636/WpmeGAa1_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/REALMAJ0RDAN">REALMAJ0RDAN</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/344373492">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/REALMAJ0RDAN">REALMAJ0RDAN</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/344373492">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/ReaIIyMJ">ReaIIyMJ</a>
             </td>
@@ -452,7 +452,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1487472994708561922/S1VOXkVF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/wolfadee">wolfadee</a></td>
+                <a href="https://twitter.com/wolfadee">wolfadee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1431279657882685440">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/wolfwonde">wolfwonde</a>
             </td>
@@ -478,7 +478,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1565711497417920513/sMDdgkCP_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/meliweav">meliweav</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1377704507522551808">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/meliweav">meliweav</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1377704507522551808">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/MeliMolasses">MeliMolasses</a>
             </td>
@@ -504,7 +504,7 @@ Found 36 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1506636524909117443/1VpMwwTQ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/bradbelafonte">bradbelafonte</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1262366752459026432">5 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/bradbelafonte">bradbelafonte</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1262366752459026432">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/joniloveschocha">joniloveschocha</a>
             </td>

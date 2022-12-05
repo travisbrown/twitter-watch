@@ -324,7 +324,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1229286426203701248/Sc3SRMa3_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Waylon1995">Waylon1995</a></td>
+                <a href="https://twitter.com/Waylon1995">Waylon1995</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/754145743640727552">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/MrLongTree">MrLongTree</a>
             </td>
@@ -363,7 +363,7 @@ Found 32 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1498447605764091905/v3QIL2Pt_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Eddie01233580">Eddie01233580</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">12 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Eddie01233580">Eddie01233580</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">31 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Eddie22705590">Eddie22705590</a>
             </td>
@@ -684,7 +684,7 @@ Found 518 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1595740524689891328/nZtXbggF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ZaraGiveaway">ZaraGiveaway</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1401406260000460800">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ZaraGiveaway">ZaraGiveaway</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1401406260000460800">7 others</a>)&nbsp;</td>
             <td>2021-06-06</td>
             <td>2022-05-28</td>
             <td align="center"></td>

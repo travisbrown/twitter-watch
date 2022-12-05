@@ -449,7 +449,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1552373814113312768/oftS0KtV_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/twatnationalism">twatnationalism</a></td>
+                <a href="https://twitter.com/twatnationalism">twatnationalism</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1102969947901345794">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/NihlstDthfetish">NihlstDthfetish</a>
             </td>
@@ -462,7 +462,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1498447605764091905/v3QIL2Pt_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Eddie7272990">Eddie7272990</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">12 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Eddie7272990">Eddie7272990</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">31 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/EddiefreedomNow">EddiefreedomNow</a>
             </td>
@@ -501,7 +501,7 @@ Found 39 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1503531965974257664/MNWV7Oqc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/imnotrlyblck">imnotrlyblck</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/206910941">5 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/imnotrlyblck">imnotrlyblck</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/206910941">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/PepeBigalow">PepeBigalow</a>
             </td>

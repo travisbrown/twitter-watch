@@ -113,7 +113,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1583051107831537666/rXMxpK9y_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/herefordiscours">herefordiscours</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1408101094543212553">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/herefordiscours">herefordiscours</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1408101094543212553">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/thedesertitself">thedesertitself</a>
             </td>

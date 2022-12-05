@@ -343,7 +343,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1493233406829813773/wTXW8N-t_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Misc45ra">Misc45ra</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1363719474835243013">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/Misc45ra">Misc45ra</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1363719474835243013">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/LJ8RL52">LJ8RL52</a>
             </td>
@@ -369,7 +369,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1547647859738128385/speemdlk_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/BasedBillBixby">BasedBillBixby</a></td>
+                <a href="https://twitter.com/BasedBillBixby">BasedBillBixby</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1522589747029463040">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/VindicatedDepp">VindicatedDepp</a>
             </td>
@@ -1187,7 +1187,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Muhd_Augie">Muhd_Augie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2556443389">1 other</a>)&nbsp;</td>
             <td>2014-06-09</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>2681</td>
         </tr>
@@ -1286,7 +1286,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Viren24901409">Viren24901409</a></td>
             <td>2019-12-30</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>2519</td>
         </tr>
@@ -2661,7 +2661,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SorabhTiwari13">SorabhTiwari13</a></td>
             <td>2019-08-29</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>1045</td>
         </tr>

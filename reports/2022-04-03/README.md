@@ -167,7 +167,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1574458688793972746/vZUD6t67_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/taco_kookie">taco_kookie</a></td>
+                <a href="https://twitter.com/taco_kookie">taco_kookie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1503447897219678228">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/bbqsauuuce">bbqsauuuce</a>
             </td>
@@ -846,7 +846,7 @@ Found 958 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1598298006108794880/UHW0V8f9_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/godvruchtigheid">godvruchtigheid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1380286944">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/godvruchtigheid">godvruchtigheid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1380286944">3 others</a>)&nbsp;</td>
             <td>2013-04-25</td>
             <td>2022-04-10</td>
             <td align="center"></td>
@@ -936,7 +936,7 @@ Found 958 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/deependersharya">deependersharya</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1345653920069128192">1 other</a>)&nbsp;</td>
             <td>2021-01-03</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>1294</td>
         </tr>

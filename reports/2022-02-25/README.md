@@ -285,7 +285,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1507452696445562888/Ot-zwW0w_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/NevaPopAPressy">NevaPopAPressy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1182177906639982598">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/NevaPopAPressy">NevaPopAPressy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1182177906639982598">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/IndpndThghts">IndpndThghts</a>
             </td>
@@ -311,7 +311,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1529877435419873280/6RDlx8dT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/the_chadimir">the_chadimir</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1279431302">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/the_chadimir">the_chadimir</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1279431302">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/ChadymaChadenko">ChadymaChadenko</a>
             </td>

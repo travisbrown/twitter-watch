@@ -371,7 +371,7 @@ Found 2056 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1558710609780379648/k9f2AeB5_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/furaesome">furaesome</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1174960039443910657">10 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/furaesome">furaesome</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1174960039443910657">11 others</a>)&nbsp;</td>
             <td>2019-09-20</td>
             <td></td>
             <td align="center"></td>
@@ -877,7 +877,7 @@ Found 2056 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1570378261019983872/d9FaYj1B_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/34GcccK34">34GcccK34</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1293636789706665986">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/34GcccK34">34GcccK34</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1293636789706665986">5 others</a>)&nbsp;</td>
             <td>2020-08-12</td>
             <td></td>
             <td align="center"></td>
@@ -1669,7 +1669,7 @@ Found 2056 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1588530389613793283/Iw3E_d2h_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/PATRIOTGHOFFY">PATRIOTGHOFFY</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1497705771534069760">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/PATRIOTGHOFFY">PATRIOTGHOFFY</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1497705771534069760">2 others</a>)&nbsp;</td>
             <td>2022-02-26</td>
             <td>2022-10-26</td>
             <td align="center"></td>
@@ -1757,7 +1757,7 @@ Found 2056 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1571312476163129345/Zwe5HGYu_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/FreeGuy_420">FreeGuy_420</a></td>
+                <a href="https://twitter.com/FreeGuy_420">FreeGuy_420</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1565730262008451072">1 other</a>)&nbsp;</td>
             <td>2022-09-02</td>
             <td></td>
             <td align="center"></td>
@@ -1768,7 +1768,7 @@ Found 2056 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1596652933675991040/I-CQe6c7_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/TexSaysOwz">TexSaysOwz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1371181115071983624">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/TexSaysOwz">TexSaysOwz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1371181115071983624">4 others</a>)&nbsp;</td>
             <td>2021-03-14</td>
             <td>2022-10-24</td>
             <td align="center"></td>

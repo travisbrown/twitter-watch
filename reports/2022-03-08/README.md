@@ -406,7 +406,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1529971092835688467/3415e3Rf_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/UnusualCaptions">UnusualCaptions</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1486344938891710469">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/UnusualCaptions">UnusualCaptions</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1486344938891710469">8 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/CoCaptions">CoCaptions</a>
             </td>
@@ -432,7 +432,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1498447605764091905/v3QIL2Pt_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Eddie22705590">Eddie22705590</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">12 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Eddie22705590">Eddie22705590</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">31 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Eddie7272990">Eddie7272990</a>
             </td>
@@ -497,7 +497,7 @@ Found 26 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1501024192157868032/u6nzpWQM_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/BryLordingham">BryLordingham</a></td>
+                <a href="https://twitter.com/BryLordingham">BryLordingham</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/899122575598637056">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/FLChungus">FLChungus</a>
             </td>

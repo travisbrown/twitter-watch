@@ -129,7 +129,7 @@ Found 40 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1144750878387253248/dvEuMJcv_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/E46_Enjoyer">E46_Enjoyer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/378125075">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/E46_Enjoyer">E46_Enjoyer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/378125075">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/e90_enjoyer">e90_enjoyer</a>
             </td>
@@ -376,7 +376,7 @@ Found 40 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/686698891144728576/_H5szXin_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/6yads">6yads</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/140462168">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/6yads">6yads</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/140462168">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/brrbrbtbbb">brrbrbtbbb</a>
             </td>
@@ -415,7 +415,7 @@ Found 40 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1515329627471982598/xaPVIZwv_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/kaiser_duck">kaiser_duck</a></td>
+                <a href="https://twitter.com/kaiser_duck">kaiser_duck</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1006834497156014080">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/woleg_">woleg_</a>
             </td>
@@ -601,7 +601,7 @@ Found 781 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1560891668165005312/7mXgG93m_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/UkrWarReport">UkrWarReport</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1240665212438577154">25 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/UkrWarReport">UkrWarReport</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1240665212438577154">26 others</a>)&nbsp;</td>
             <td>2020-03-19</td>
             <td>2022-04-10</td>
             <td align="center"></td>

@@ -148,7 +148,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1534519915058692096/8_AvsBv2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/shagbone14">shagbone14</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518804801064210432">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/shagbone14">shagbone14</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518804801064210432">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Sc666yDoo">Sc666yDoo</a>
             </td>
@@ -226,7 +226,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1556468064727744514/Nc7H-OCM_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/_ExtraNothing">_ExtraNothing</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1463703907985772552">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/_ExtraNothing">_ExtraNothing</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1463703907985772552">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/_ExtraRacist">_ExtraRacist</a>
             </td>
@@ -278,7 +278,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1538330569343389698/nWGHfz4s_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/monbury">monbury</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488504227274055684">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/monbury">monbury</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488504227274055684">7 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/popeloche">popeloche</a>
             </td>
@@ -304,7 +304,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1521026641895784448/ZZbJnNn-_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/debotroy003">debotroy003</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1068725549936402432">7 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/debotroy003">debotroy003</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1068725549936402432">10 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/godsfinalwish">godsfinalwish</a>
             </td>
@@ -473,7 +473,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1534544618817064960/BGTCiUpz_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/A57378889">A57378889</a></td>
+                <a href="https://twitter.com/A57378889">A57378889</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1396523409862021126">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/mindfishh">mindfishh</a>
             </td>
@@ -499,7 +499,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1490529299178340355/2r1PguxB_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/BrettJReid">BrettJReid</a></td>
+                <a href="https://twitter.com/BrettJReid">BrettJReid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1490528944331927553">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/BrettsAccount">BrettsAccount</a>
             </td>
@@ -603,7 +603,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1535046543853617165/deTi5s55_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Elan_Musc">Elan_Musc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1519689732451672064">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Elan_Musc">Elan_Musc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1519689732451672064">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Elan_Markk">Elan_Markk</a>
             </td>
@@ -707,7 +707,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1536331381999017987/yYwhBGHj_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/nodriza1717">nodriza1717</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">39 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/nodriza1717">nodriza1717</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">61 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/jaguarbravo17">jaguarbravo17</a>
             </td>
@@ -759,7 +759,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1520556239964581888/mwTi35Q__normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ScottDynamite">ScottDynamite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1334239441368576003">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ScottDynamite">ScottDynamite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1334239441368576003">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/sbdi1j2792snkz">sbdi1j2792snkz</a>
             </td>
@@ -772,7 +772,7 @@ Found 52 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1522827819436359680/sOvksFfe_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/angelov317">angelov317</a></td>
+                <a href="https://twitter.com/angelov317">angelov317</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1254137616359927809">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/FUCKADSIHATEADS">FUCKADSIHATEADS</a>
             </td>

@@ -164,7 +164,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1543672593357893633/GITk8eSE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Anon_247365">Anon_247365</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1520469420740468736">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/Anon_247365">Anon_247365</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1520469420740468736">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/maarxiom">maarxiom</a>
             </td>
@@ -177,7 +177,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1528944410465034240/LcxrlP4X_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/KyleLaBrue">KyleLaBrue</a></td>
+                <a href="https://twitter.com/KyleLaBrue">KyleLaBrue</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1460328772419272705">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/LaBrue4Congress">LaBrue4Congress</a>
             </td>
@@ -242,7 +242,7 @@ Found 15 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1530377289426518016/K4RqZOVO_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/_stugotz">_stugotz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1324915424400723969">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/_stugotz">_stugotz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1324915424400723969">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/basedpaisan">basedpaisan</a>
             </td>

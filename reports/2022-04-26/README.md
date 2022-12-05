@@ -140,7 +140,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1518952216677306368/Bz0tJmJI_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/cathedralwreck1">cathedralwreck1</a></td>
+                <a href="https://twitter.com/cathedralwreck1">cathedralwreck1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1459362767211749376">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/WoodenDoorsLOL">WoodenDoorsLOL</a>
             </td>
@@ -166,7 +166,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/EHRML2">EHRML2</a></td>
+                <a href="https://twitter.com/EHRML2">EHRML2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1489382704978276354">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/elliptization">elliptization</a>
             </td>
@@ -179,7 +179,7 @@ Found 11 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1550180583057137664/6abCXFxL_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/MalePyschopath">MalePyschopath</a></td>
+                <a href="https://twitter.com/MalePyschopath">MalePyschopath</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1479319064535199752">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/RuleofThule">RuleofThule</a>
             </td>
@@ -336,7 +336,7 @@ Found 409 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1568900342506754048/bKvDX3Ia_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Ymviva98">Ymviva98</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4023818954">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Ymviva98">Ymviva98</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4023818954">4 others</a>)&nbsp;</td>
             <td>2015-10-26</td>
             <td>2022-06-09</td>
             <td align="center"></td>

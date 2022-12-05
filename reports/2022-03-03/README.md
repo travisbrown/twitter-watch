@@ -116,7 +116,7 @@ Found 37 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1511807420045180932/mj659NJM_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/mindsmirrors">mindsmirrors</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1260443588464345096">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/mindsmirrors">mindsmirrors</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1260443588464345096">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/K4marooner">K4marooner</a>
             </td>
@@ -168,7 +168,7 @@ Found 37 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1499243828309635073/IlBhtbzq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/btcark">btcark</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/46686761">13 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/btcark">btcark</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/46686761">14 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/ReyKingRe">ReyKingRe</a>
             </td>

@@ -260,7 +260,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1508191631861821450/Zzt-6e5M_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/leastweraged">leastweraged</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1107665526409568257">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/leastweraged">leastweraged</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1107665526409568257">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/leastwelost">leastwelost</a>
             </td>
@@ -403,7 +403,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1542196636566315010/XIx4dKGa_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/fauci_brah">fauci_brah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1416601201009995776">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/fauci_brah">fauci_brah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1416601201009995776">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/nordid_">nordid_</a>
             </td>
@@ -442,7 +442,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1488660440120918017/JIeXRt-p_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/communz4days">communz4days</a></td>
+                <a href="https://twitter.com/communz4days">communz4days</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1065057317358452736">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/BethuneEnjoyer">BethuneEnjoyer</a>
             </td>

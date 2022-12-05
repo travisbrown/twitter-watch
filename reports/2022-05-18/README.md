@@ -642,7 +642,7 @@ Found 774 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1566909038448627712/I1QdL4BG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Fikhryamrullah">Fikhryamrullah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/837132229">5 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Fikhryamrullah">Fikhryamrullah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/837132229">6 others</a>)&nbsp;</td>
             <td>2012-09-21</td>
             <td>2022-06-05</td>
             <td align="center"></td>

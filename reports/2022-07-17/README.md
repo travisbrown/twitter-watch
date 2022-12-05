@@ -90,7 +90,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1552019412005408768/mdiaaQOX_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/bnrmidmgmt">bnrmidmgmt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1373093264442732544">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/bnrmidmgmt">bnrmidmgmt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1373093264442732544">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/prepboysummer">prepboysummer</a>
             </td>

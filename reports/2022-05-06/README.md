@@ -98,7 +98,7 @@ Found 10 suspensions for tracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1580340171458760706/FI720ENE_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Jong64209">Jong64209</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764244624361652224">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Jong64209">Jong64209</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764244624361652224">8 others</a>)&nbsp;</td>
             <td>2016-08-12</td>
             <td>2022-06-27</td>
             <td align="center"></td>
@@ -342,7 +342,7 @@ Found 28 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1442479389749383180/-8DAsKwm_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ethanwanyoike">ethanwanyoike</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/798618402193600512">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ethanwanyoike">ethanwanyoike</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/798618402193600512">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/et_libertarian">et_libertarian</a>
             </td>
@@ -728,7 +728,7 @@ Found 1308 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1547178406168895489/cKZg2duJ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AKSS0099">AKSS0099</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1272371469532585987">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/AKSS0099">AKSS0099</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1272371469532585987">2 others</a>)&nbsp;</td>
             <td>2020-06-15</td>
             <td>2022-05-19</td>
             <td align="center"></td>

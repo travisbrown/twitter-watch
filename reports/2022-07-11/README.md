@@ -76,7 +76,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1548514168327782401/t1VmWIIs_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Bacillious_III">Bacillious_III</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1483581798785470464">7 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Bacillious_III">Bacillious_III</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1483581798785470464">9 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/BacWalesSouth">BacWalesSouth</a>
             </td>
@@ -115,7 +115,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1562584495030935553/mOhTQvUc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/FashleySimpson">FashleySimpson</a></td>
+                <a href="https://twitter.com/FashleySimpson">FashleySimpson</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1523246504374267904">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/bfarley88">bfarley88</a>
             </td>
@@ -154,7 +154,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1545987846741413888/1Z9RxSCZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/20_handicap">20_handicap</a></td>
+                <a href="https://twitter.com/20_handicap">20_handicap</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1540042272221315072">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/ColinLaurence87">ColinLaurence87</a>
             </td>

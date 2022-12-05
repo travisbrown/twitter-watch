@@ -52,7 +52,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1514313807459495938/iwV2kYx7_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/tsarwandering">tsarwandering</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1474088093565300737">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/tsarwandering">tsarwandering</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1474088093565300737">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/WanderingWrath">WanderingWrath</a>
             </td>
@@ -78,7 +78,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1507192147254165510/wJkswsWN_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/solararyan">solararyan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1468050854171516928">14 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/solararyan">solararyan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1468050854171516928">17 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/solarfrvnz">solarfrvnz</a>
             </td>
@@ -91,7 +91,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1506054219475783680/3xm29u0g_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AnonymousPale2">AnonymousPale2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1497800630550740996">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/AnonymousPale2">AnonymousPale2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1497800630550740996">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/AnonymousPale">AnonymousPale</a>
             </td>
@@ -208,7 +208,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1321374692121468929/Llb81Uf-_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/phillyredpiII">phillyredpiII</a></td>
+                <a href="https://twitter.com/phillyredpiII">phillyredpiII</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1293951285247594496">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/phillyblackpill">phillyblackpill</a>
             </td>
@@ -247,7 +247,7 @@ Found 19 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1513186892925358084/0Ny7apcg_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/captionscompany">captionscompany</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1486344938891710469">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/captionscompany">captionscompany</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1486344938891710469">8 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/GazzillionBeer">GazzillionBeer</a>
             </td>
@@ -316,7 +316,7 @@ Found 804 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1587788828642840577/VA4URDyZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ShibalnuNews">ShibalnuNews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/284845544">7 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ShibalnuNews">ShibalnuNews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/284845544">9 others</a>)&nbsp;</td>
             <td>2011-04-20</td>
             <td>2022-03-27</td>
             <td align="center"></td>

@@ -76,7 +76,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1577004936726024223/PIEQHYaq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Zaxton88">Zaxton88</a></td>
+                <a href="https://twitter.com/Zaxton88">Zaxton88</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1556325372794490883">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/BoomerZoomer88">BoomerZoomer88</a>
             </td>
@@ -115,7 +115,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1557697807855026176/OFVGUxEN_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/philologia125">philologia125</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389141777018363907">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/philologia125">philologia125</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389141777018363907">11 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/historacle125">historacle125</a>
             </td>
@@ -202,7 +202,7 @@ Found 1437 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AfterDarkWasa">AfterDarkWasa</a></td>
             <td>2021-01-17</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>99218</td>
         </tr>
@@ -1113,7 +1113,7 @@ Found 1437 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1570620998772494336/nwaqv3Va_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/6666inactive">6666inactive</a></td>
+                <a href="https://twitter.com/6666inactive">6666inactive</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/11217882">1 other</a>)&nbsp;</td>
             <td>2007-12-16</td>
             <td></td>
             <td align="center">🔒</td>

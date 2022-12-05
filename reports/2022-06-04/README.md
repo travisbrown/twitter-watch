@@ -794,7 +794,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1532915689127698432/2zD4c7KK_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/RUSSIANMANDEM">RUSSIANMANDEM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1439269424616206340">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/RUSSIANMANDEM">RUSSIANMANDEM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1439269424616206340">8 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/RUSSIANARTHOE">RUSSIANARTHOE</a>
             </td>
@@ -846,7 +846,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1540018582695776256/l7Mg5M23_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/TeamAmericaNew">TeamAmericaNew</a></td>
+                <a href="https://twitter.com/TeamAmericaNew">TeamAmericaNew</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488414030670618627">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/TeamAmericaNow">TeamAmericaNow</a>
             </td>
@@ -872,7 +872,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1598745807062171670/mthdGI9u_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Chud_bud_">Chud_bud_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1507245615201271808">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/Chud_bud_">Chud_bud_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1507245615201271808">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/chudbud88">chudbud88</a>
             </td>
@@ -937,7 +937,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1532224779012427776/dIyR5fjg_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Kenzo14195805">Kenzo14195805</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1530835160047951872">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Kenzo14195805">Kenzo14195805</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1530835160047951872">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Kenzo1419">Kenzo1419</a>
             </td>

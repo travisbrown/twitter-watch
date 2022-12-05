@@ -151,7 +151,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1555951706512523268/D5GEwN0x_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Heypoomaquina">Heypoomaquina</a></td>
+                <a href="https://twitter.com/Heypoomaquina">Heypoomaquina</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1485172934515830786">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/HeyyPooMaq">HeyyPooMaq</a>
             </td>

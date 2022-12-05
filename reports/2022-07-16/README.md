@@ -150,7 +150,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1532847637384286208/20t2Gi5T_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/315447z">315447z</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1402292034841554951">6 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/315447z">315447z</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1402292034841554951">7 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/415447z">415447z</a>
             </td>
@@ -176,7 +176,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1549179959347974146/RUbLG5bd_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/crashburnpod">crashburnpod</a></td>
+                <a href="https://twitter.com/crashburnpod">crashburnpod</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1484492859231326209">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/OutrunJake">OutrunJake</a>
             </td>
@@ -2392,7 +2392,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cathymwafer">cathymwafer</a></td>
             <td>2016-12-22</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>3975</td>
         </tr>

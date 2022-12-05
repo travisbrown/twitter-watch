@@ -205,7 +205,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1503855421852831745/GjotSHHn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ProminentFrog">ProminentFrog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1202816719909089281">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ProminentFrog">ProminentFrog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1202816719909089281">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/wtf_snapchat">wtf_snapchat</a>
             </td>

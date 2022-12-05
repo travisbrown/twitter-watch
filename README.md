@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 416419
-* Total number of suspension reversals detected: 16441
-* Mean number of followers for suspended accounts: 1690.57
+* Total number of suspensions detected: 417838
+* Total number of suspension reversals detected: 16675
+* Mean number of followers for suspended accounts: 1684.8
 * Median number of followers for suspended accounts: 50.0
-* Mean age of suspended accounts (days): 1028.02
-* Median age of suspended accounts (days): 295.0
+* Mean age of suspended accounts (days): 1027.2
+* Median age of suspended accounts (days): 294.0
 * Total number of verified accounts suspended: 144
-* Total number of protected accounts suspended: 20629
+* Total number of protected accounts suspended: 20685
 * Total number of suspensions for accounts previously withheld in specific countries: 28
 * Total number of screen name changes detected: 966283
 
@@ -118,7 +118,7 @@ Current list of suspensions of accounts most central to far-right networks since
                 <img src="https://pbs.twimg.com/profile_images/1549607701851807744/Ig2Z6_ar_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/crackconnoisser">crackconnoisser</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1393240605828993028">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/crackconnoisser">crackconnoisser</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1393240605828993028">2 others</a>)&nbsp;</td>
             <td>2021-05-14</td>
             <td>2022-08-21</td>
             <td>80314</td>
@@ -140,7 +140,7 @@ Current list of suspensions of accounts most central to far-right networks since
                 <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/BenJohn97534340">BenJohn97534340</a></td>
+                <a href="https://twitter.com/BenJohn97534340">BenJohn97534340</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1563536866070392832">1 other</a>)&nbsp;</td>
             <td>2022-08-27</td>
             <td>2022-10-11</td>
             <td>83666</td>
@@ -292,8 +292,8 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>
                 <a href="reports/2022-12-05/"> 5 December 2022</a>
             </td>
-            <td>792</td>
-            <td>8</td>
+            <td>2229</td>
+            <td>21</td>
             <td>0</td>
         </tr>
         <tr>

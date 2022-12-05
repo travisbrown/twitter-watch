@@ -113,7 +113,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1553204120072425472/N-GJAzyS_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/dumbwop">dumbwop</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/24118518">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/dumbwop">dumbwop</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/24118518">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/uccello_errante">uccello_errante</a>
             </td>
@@ -165,7 +165,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1572774904755265538/bRX-LD3S_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/redpilledfit">redpilledfit</a></td>
+                <a href="https://twitter.com/redpilledfit">redpilledfit</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1548861558696120326">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/whale_watcher0">whale_watcher0</a>
             </td>
@@ -178,7 +178,7 @@ Found 8 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/686698891144728576/_H5szXin_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/brbbbrbbtb">brbbbrbbtb</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/140462168">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/brbbbrbbtb">brbbbrbbtb</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/140462168">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/alltimehighs_">alltimehighs_</a>
             </td>

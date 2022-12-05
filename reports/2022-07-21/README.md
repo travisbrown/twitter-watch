@@ -134,7 +134,7 @@ Found 11 suspensions for tracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1598114781994840069/fbNVEBOu_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/shogsskyityeshe">shogsskyityeshe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1527698802572152832">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/shogsskyityeshe">shogsskyityeshe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1527698802572152832">4 others</a>)&nbsp;</td>
             <td>2022-05-20</td>
             <td>2022-07-23</td>
             <td align="center">🔒</td>
@@ -172,7 +172,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1549797528765431809/7OxvpgeF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/CoffeeCultist">CoffeeCultist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2395684538">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/CoffeeCultist">CoffeeCultist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2395684538">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/KohiCaff">KohiCaff</a>
             </td>
@@ -211,7 +211,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1549048692002398209/p0BYVQkg_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/pbandricecakes">pbandricecakes</a></td>
+                <a href="https://twitter.com/pbandricecakes">pbandricecakes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1528456914324967424">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/iamsochuffed">iamsochuffed</a>
             </td>

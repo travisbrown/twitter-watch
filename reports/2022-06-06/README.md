@@ -425,7 +425,7 @@ Found 4 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1513764940246663168/GLzlvC_t_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/divinetriarii">divinetriarii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1495045293670166533">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/divinetriarii">divinetriarii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1495045293670166533">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/etrvscan">etrvscan</a>
             </td>

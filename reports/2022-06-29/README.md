@@ -211,7 +211,7 @@ Found 7 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1533285460361064452/POfhTyIT_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/OBDgames">OBDgames</a></td>
+                <a href="https://twitter.com/OBDgames">OBDgames</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1506263102127411206">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/OBDpilled">OBDpilled</a>
             </td>

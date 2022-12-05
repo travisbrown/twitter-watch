@@ -195,7 +195,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1509708339240116224/Kq9vY_w1_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/FreedomIsNotVax">FreedomIsNotVax</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">12 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/FreedomIsNotVax">FreedomIsNotVax</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">31 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/VaxIsBadNews">VaxIsBadNews</a>
             </td>
@@ -208,7 +208,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1498447605764091905/v3QIL2Pt_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/VAXisDANGEROUS">VAXisDANGEROUS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">12 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/VAXisDANGEROUS">VAXisDANGEROUS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1004488621930381312">31 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/FreedomIsNotVax">FreedomIsNotVax</a>
             </td>
@@ -247,7 +247,7 @@ Found 16 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1509506731855990784/md4mOxhX_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/celbion7">celbion7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">39 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/celbion7">celbion7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">61 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/Telsim_17">Telsim_17</a>
             </td>
@@ -277,7 +277,7 @@ Found 548 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1587788828642840577/VA4URDyZ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ShibalnuNews">ShibalnuNews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/284845544">7 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/ShibalnuNews">ShibalnuNews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/284845544">9 others</a>)&nbsp;</td>
             <td>2011-04-20</td>
             <td>2022-08-10</td>
             <td align="center"></td>
@@ -761,7 +761,7 @@ Found 548 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1596034588966817792/dnb3dYys_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/mehmetxyzx">mehmetxyzx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/990136229143498757">8 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/mehmetxyzx">mehmetxyzx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/990136229143498757">10 others</a>)&nbsp;</td>
             <td>2018-04-28</td>
             <td>2022-05-21</td>
             <td align="center"></td>

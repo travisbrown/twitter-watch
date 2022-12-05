@@ -74,7 +74,7 @@ Found 6 suspensions for tracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1596973804877660163/6Wc0r4go_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Quack_Pot">Quack_Pot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1452664409432764428">5 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Quack_Pot">Quack_Pot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1452664409432764428">7 others</a>)&nbsp;</td>
             <td>2021-10-25</td>
             <td>2022-07-18</td>
             <td align="center"></td>
@@ -1819,7 +1819,7 @@ Found 2329 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1598906433893847040/FFpVqawn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/KareemHuntRBW">KareemHuntRBW</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1240283256798535681">8 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/KareemHuntRBW">KareemHuntRBW</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1240283256798535681">10 others</a>)&nbsp;</td>
             <td>2020-03-18</td>
             <td>2022-10-14</td>
             <td align="center"></td>

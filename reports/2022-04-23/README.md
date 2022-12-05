@@ -400,7 +400,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1575642966097641472/TtYQDDFU_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/catchraghaver">catchraghaver</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1427423749662511107">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/catchraghaver">catchraghaver</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1427423749662511107">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/kabobmitch">kabobmitch</a>
             </td>
@@ -413,7 +413,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1526372365965197312/80hC_MdN_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/9024gm">9024gm</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1476196417647620102">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/9024gm">9024gm</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1476196417647620102">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/__mikemurphy">__mikemurphy</a>
             </td>
@@ -426,7 +426,7 @@ Found 3 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1539760673265156098/rNB0gseq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/SneedManActual">SneedManActual</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1407062530325991426">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/SneedManActual">SneedManActual</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1407062530325991426">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/CopeSneedFartin">CopeSneedFartin</a>
             </td>
@@ -1085,7 +1085,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rnbytrade">rnbytrade</a></td>
             <td>2009-05-26</td>
-            <td></td>
+            <td>2022-12-03</td>
             <td align="center"></td>
             <td>7719</td>
         </tr>

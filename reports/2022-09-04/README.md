@@ -209,7 +209,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1566179211513139201/Qn1iCbA6_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AllMySins94">AllMySins94</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1139031247597035521">5 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/AllMySins94">AllMySins94</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1139031247597035521">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/handsomeretard6">handsomeretard6</a>
             </td>
@@ -287,7 +287,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1566180533880721416/n0VUe5Va_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/MKULTRAJON">MKULTRAJON</a></td>
+                <a href="https://twitter.com/MKULTRAJON">MKULTRAJON</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1563520642762231810">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/C4DMU5">C4DMU5</a>
             </td>
@@ -300,7 +300,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1329153059016962048/zMgj1Ghc_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/SDHallock">SDHallock</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/76703288">5 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/SDHallock">SDHallock</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/76703288">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/spicewoodsteve">spicewoodsteve</a>
             </td>
@@ -339,7 +339,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1566303999795544067/HkS4wRvG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/HealthEnjoyer">HealthEnjoyer</a></td>
+                <a href="https://twitter.com/HealthEnjoyer">HealthEnjoyer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1515047992721645574">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/FrameEnjoyer">FrameEnjoyer</a>
             </td>
@@ -365,7 +365,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1497436460957384706/P2JQjAo9_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/hatemylife79">hatemylife79</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389109875662221313">9 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/hatemylife79">hatemylife79</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389109875662221313">12 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/YoWassupmija">YoWassupmija</a>
             </td>
@@ -391,7 +391,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1566251999615520768/f3RSj63o_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/0999999AA">0999999AA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1396523409862021126">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/0999999AA">0999999AA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1396523409862021126">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/tacopinatas">tacopinatas</a>
             </td>
@@ -456,7 +456,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1582171025587830784/InkfHVho_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AngryOrIeanist">AngryOrIeanist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381465477864558599">7 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/AngryOrIeanist">AngryOrIeanist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381465477864558599">9 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/EsotericNixonit">EsotericNixonit</a>
             </td>
@@ -508,7 +508,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1549095628294131718/6iPr1h9f_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/UpThDwnEsclator">UpThDwnEsclator</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/779029933645410304">12 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/UpThDwnEsclator">UpThDwnEsclator</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/779029933645410304">14 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/LieSpy">LieSpy</a>
             </td>
@@ -521,7 +521,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1495088956815200256/vZX4sU8T_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/NotLargeMarge1">NotLargeMarge1</a></td>
+                <a href="https://twitter.com/NotLargeMarge1">NotLargeMarge1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1386079767732973575">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/NotLargeMarg3">NotLargeMarg3</a>
             </td>
@@ -547,7 +547,7 @@ Found 30 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1565476193767497729/ar_W92Qw_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/GhostofCapone">GhostofCapone</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1526404674986835968">9 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/GhostofCapone">GhostofCapone</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1526404674986835968">45 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/DailyMailHOF">DailyMailHOF</a>
             </td>
@@ -658,7 +658,7 @@ Found 947 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1556790071956758528/KtpfhbhC_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/SheriMAGA">SheriMAGA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1459235820766904320">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/SheriMAGA">SheriMAGA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1459235820766904320">4 others</a>)&nbsp;</td>
             <td>2021-11-12</td>
             <td></td>
             <td align="center"></td>
@@ -966,7 +966,7 @@ Found 947 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1564705236870103044/wxY4Xb3a_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/TheGreatResist_">TheGreatResist_</a></td>
+                <a href="https://twitter.com/TheGreatResist_">TheGreatResist_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1563305384193929216">1 other</a>)&nbsp;</td>
             <td>2022-08-26</td>
             <td></td>
             <td align="center"></td>
@@ -1032,7 +1032,7 @@ Found 947 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1566085047446343684/k9BD7__A_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/SheriMAGA3">SheriMAGA3</a></td>
+                <a href="https://twitter.com/SheriMAGA3">SheriMAGA3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1559885203010641921">2 others</a>)&nbsp;</td>
             <td>2022-08-17</td>
             <td></td>
             <td align="center"></td>
@@ -1340,7 +1340,7 @@ Found 947 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1564058316044730368/zsVbhf1Q_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/NardoWiick">NardoWiick</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488383998036373505">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/NardoWiick">NardoWiick</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488383998036373505">3 others</a>)&nbsp;</td>
             <td>2022-02-01</td>
             <td></td>
             <td align="center"></td>
@@ -1428,7 +1428,7 @@ Found 947 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1590106399715258368/fVjP3u1G_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/kehtjap">kehtjap</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1425275694">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/kehtjap">kehtjap</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1425275694">2 others</a>)&nbsp;</td>
             <td>2013-05-13</td>
             <td>2022-10-04</td>
             <td align="center"></td>

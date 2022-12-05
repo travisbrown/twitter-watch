@@ -244,7 +244,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1563784251492950016/T1iF_oDj_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/ScapularPilled">ScapularPilled</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1479318942304849923">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/ScapularPilled">ScapularPilled</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1479318942304849923">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/ScapularBrah">ScapularBrah</a>
             </td>
@@ -257,7 +257,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1517392262237499396/3rZNWw04_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/GoldAgePsycho">GoldAgePsycho</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1161814114538270721">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/GoldAgePsycho">GoldAgePsycho</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1161814114538270721">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/GoldAgeSociopth">GoldAgeSociopth</a>
             </td>
@@ -335,7 +335,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1530938964412334081/oVYDETpI_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/JawnDaBastid">JawnDaBastid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/940426184227151872">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/JawnDaBastid">JawnDaBastid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/940426184227151872">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/PeacebeUponDeez">PeacebeUponDeez</a>
             </td>
@@ -452,7 +452,7 @@ Found 22 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1522531310241300480/qV-10Hna_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/NatureSupremacy">NatureSupremacy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1480886322965405701">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/NatureSupremacy">NatureSupremacy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1480886322965405701">6 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/fertile_spirit">fertile_spirit</a>
             </td>

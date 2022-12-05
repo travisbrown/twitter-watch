@@ -76,7 +76,7 @@ Found 24 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1503069460780896257/pAjkyOvD_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/LibsofBYU">LibsofBYU</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1246233056458854400">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/LibsofBYU">LibsofBYU</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1246233056458854400">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/BYUtahSucks">BYUtahSucks</a>
             </td>
@@ -193,7 +193,7 @@ Found 24 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1505465118380933122/NXXWSRo7_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/blackoutcoffee2">blackoutcoffee2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1269065174712872960">7 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/blackoutcoffee2">blackoutcoffee2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1269065174712872960">8 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/glock1930">glock1930</a>
             </td>
@@ -349,7 +349,7 @@ Found 24 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1545136782798307328/XdYtGZ1S_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Apupoohead">Apupoohead</a></td>
+                <a href="https://twitter.com/Apupoohead">Apupoohead</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1504272848457674754">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/apuhead">apuhead</a>
             </td>

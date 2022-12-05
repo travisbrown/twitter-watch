@@ -124,7 +124,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1519820686142943234/xsTdpGxG_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/merrillville71">merrillville71</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1342416298790301696">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/merrillville71">merrillville71</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1342416298790301696">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/snowface56">snowface56</a>
             </td>
@@ -163,7 +163,7 @@ Found 9 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1580245650276483080/ZbAH1BYn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/rise_up100">rise_up100</a></td>
+                <a href="https://twitter.com/rise_up100">rise_up100</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1515759728088997891">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/rise_up99">rise_up99</a>
             </td>

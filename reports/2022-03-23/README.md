@@ -319,7 +319,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1529238152023506946/2SIiV7aq_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Dant3Alighieri">Dant3Alighieri</a></td>
+                <a href="https://twitter.com/Dant3Alighieri">Dant3Alighieri</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1506313775137402889">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/wastelandwell3r">wastelandwell3r</a>
             </td>
@@ -345,7 +345,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1418818621107810312/uJ64aw2x_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/JadedJoni">JadedJoni</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/75923873">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/JadedJoni">JadedJoni</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/75923873">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/southtexasjoni">southtexasjoni</a>
             </td>
@@ -358,7 +358,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1530649031239782402/kHAsBJOk_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/DISABLEDRAPIST">DISABLEDRAPIST</a></td>
+                <a href="https://twitter.com/DISABLEDRAPIST">DISABLEDRAPIST</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1455893105425752066">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/koshernigga">koshernigga</a>
             </td>
@@ -410,7 +410,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1506678818547048448/HO5jNPrF_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/Beckinslaw">Beckinslaw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1100698616442671105">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/Beckinslaw">Beckinslaw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1100698616442671105">4 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/victor01540775">victor01540775</a>
             </td>
@@ -501,7 +501,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1551591371110510593/ldLVeAIu_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/facilityqq">facilityqq</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2570531484">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/facilityqq">facilityqq</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2570531484">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/zokkusingh">zokkusingh</a>
             </td>
@@ -553,7 +553,7 @@ Found 34 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1506081425619132422/da8FzvBw_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/titinac7">titinac7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">39 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/titinac7">titinac7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">61 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/onumi17">onumi17</a>
             </td>

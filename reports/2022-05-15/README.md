@@ -153,7 +153,7 @@ Found 14 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1524736823867674625/g-97Yqlp_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/galgbror">galgbror</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1520994218466029568">2 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/galgbror">galgbror</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1520994218466029568">3 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/SlanginSkooma">SlanginSkooma</a>
             </td>

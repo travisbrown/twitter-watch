@@ -64,7 +64,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1566039019498180609/TO29HaEK_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/AZhileski">AZhileski</a></td>
+                <a href="https://twitter.com/AZhileski">AZhileski</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1312058894416515074">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/AZmilitary1">AZmilitary1</a>
             </td>
@@ -103,7 +103,7 @@ Found 6 screen name changes for tracked accounts.✔️ indicates that the accou
                 <img src="https://pbs.twimg.com/profile_images/1468481221617324036/G38z8eYL_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/1Handsome_Monk">1Handsome_Monk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/711832326972448768">1 other</a>)&nbsp;</td>
+                <a href="https://twitter.com/1Handsome_Monk">1Handsome_Monk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/711832326972448768">2 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/1AtulChoudhary">1AtulChoudhary</a>
             </td>

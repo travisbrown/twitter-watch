@@ -787,7 +787,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1533277751930519552/STKp0myi_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/2715eth">2715eth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2401964114">3 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/2715eth">2715eth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2401964114">11 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/0x_2715">0x_2715</a>
             </td>
@@ -813,7 +813,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1591164834929954816/mIPqUToD_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/VOTWMPodcast">VOTWMPodcast</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2424016218">4 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/VOTWMPodcast">VOTWMPodcast</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2424016218">5 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/matt_locke17">matt_locke17</a>
             </td>
@@ -865,7 +865,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1580918551363338241/H-KK3BhJ_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/tickywalsh">tickywalsh</a></td>
+                <a href="https://twitter.com/tickywalsh">tickywalsh</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/339788781">1 other</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/GCticky">GCticky</a>
             </td>
@@ -1034,7 +1034,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1535488837639540737/LUV83QM2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/pisspisip">pisspisip</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/910898483472736256">7 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/pisspisip">pisspisip</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/910898483472736256">9 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/OnlineSeraph">OnlineSeraph</a>
             </td>
@@ -1151,7 +1151,7 @@ Found 33 screen name changes for tracked accounts.✔️ indicates that the acco
                 <img src="https://pbs.twimg.com/profile_images/1532837233857810432/vAcEO4Af_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/BravoCuantico17">BravoCuantico17</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">39 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/BravoCuantico17">BravoCuantico17</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1267451358808023040">61 others</a>)&nbsp;</td>
             <td>
                 <a href="https://twitter.com/nodriza1717">nodriza1717</a>
             </td>
@@ -1293,7 +1293,7 @@ Found 415 suspensions for untracked accounts.
                 <img src="https://pbs.twimg.com/profile_images/1597241773780336640/u-bjChId_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
-                <a href="https://twitter.com/DetectiveDrip_">DetectiveDrip_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3408716145">15 others</a>)&nbsp;</td>
+                <a href="https://twitter.com/DetectiveDrip_">DetectiveDrip_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3408716145">17 others</a>)&nbsp;</td>
             <td>2015-08-08</td>
             <td>2022-06-05</td>
             <td align="center"></td>
