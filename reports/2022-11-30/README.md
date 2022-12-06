@@ -1199,7 +1199,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Razio14814294">Razio14814294</a></td>
             <td>2020-11-29</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center">🔒</td>
             <td>6093</td>
         </tr>
@@ -1243,7 +1243,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yommywindy">yommywindy</a></td>
             <td>2010-04-24</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>4793</td>
         </tr>

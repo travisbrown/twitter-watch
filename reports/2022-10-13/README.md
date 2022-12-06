@@ -307,7 +307,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Deusa_Mille">Deusa_Mille</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/991824343163457536">1 other</a>)&nbsp;</td>
             <td>2018-05-02</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>172475</td>
         </tr>

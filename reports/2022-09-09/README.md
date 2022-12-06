@@ -28,7 +28,7 @@ Found 1 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Cap_nThunder">Cap_nThunder</a></td>
             <td>2021-12-18</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>331</td>
             <td>90046</td>

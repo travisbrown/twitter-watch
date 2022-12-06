@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 417838
-* Total number of suspension reversals detected: 16675
-* Mean number of followers for suspended accounts: 1684.8
+* Total number of suspensions detected: 419610
+* Total number of suspension reversals detected: 16762
+* Mean number of followers for suspended accounts: 1680.91
 * Median number of followers for suspended accounts: 50.0
-* Mean age of suspended accounts (days): 1027.2
-* Median age of suspended accounts (days): 294.0
+* Mean age of suspended accounts (days): 1027.08
+* Median age of suspended accounts (days): 293.0
 * Total number of verified accounts suspended: 144
-* Total number of protected accounts suspended: 20685
+* Total number of protected accounts suspended: 20754
 * Total number of suspensions for accounts previously withheld in specific countries: 28
 * Total number of screen name changes detected: 966283
 
@@ -112,6 +112,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-04-13</td>
             <td>78570</td>
             <td>149</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1151913018936053760">
+                <img src="https://pbs.twimg.com/profile_images/1567704552283193345/wMLFemzm_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/jacksonhinklle">jacksonhinklle</a></td>
+            <td>2019-07-18</td>
+            <td>2022-12-05</td>
+            <td>88116</td>
+            <td>166</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1393240605828993028">
@@ -266,17 +277,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-04-08</td>
             <td>40447</td>
             <td>250</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=363710590">
-                <img src="https://pbs.twimg.com/profile_images/1440300695706431497/NjowAdIt_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Bret_Sears">Bret_Sears</a></td>
-            <td>2011-08-28</td>
-            <td>2022-07-16</td>
-            <td>47801</td>
-            <td>254</td>
         </tr></table>
 
 ## Daily reports
@@ -290,10 +290,18 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2022-12-06/"> 6 December 2022</a>
+            </td>
+            <td>463</td>
+            <td>4</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2022-12-05/"> 5 December 2022</a>
             </td>
-            <td>2229</td>
-            <td>21</td>
+            <td>3580</td>
+            <td>41</td>
             <td>0</td>
         </tr>
         <tr>

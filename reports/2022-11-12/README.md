@@ -2618,7 +2618,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lion_lewisham">lion_lewisham</a></td>
             <td>2022-09-07</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center">🔒</td>
             <td>1064</td>
         </tr>

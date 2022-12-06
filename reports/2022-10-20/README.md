@@ -1957,7 +1957,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReneeCrochets">ReneeCrochets</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>2910</td>
         </tr>

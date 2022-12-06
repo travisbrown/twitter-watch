@@ -1294,7 +1294,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IlluminatiKw">IlluminatiKw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1085549516143636481">2 others</a>)&nbsp;</td>
             <td>2019-01-16</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>2639</td>
         </tr>

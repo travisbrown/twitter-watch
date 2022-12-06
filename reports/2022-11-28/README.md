@@ -124,7 +124,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Agra3479">Agra3479</a></td>
             <td>2010-06-08</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>933</td>
             <td>39736</td>

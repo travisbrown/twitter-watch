@@ -2702,7 +2702,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fabbz3182">Fabbz3182</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/261300530">11 others</a>)&nbsp;</td>
             <td>2011-03-05</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>1090</td>
         </tr>

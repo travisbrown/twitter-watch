@@ -752,7 +752,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/taddwarner">taddwarner</a></td>
             <td>2009-06-18</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>6009</td>
         </tr>

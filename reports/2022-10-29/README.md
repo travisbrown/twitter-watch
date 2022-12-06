@@ -6703,7 +6703,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/munsue">munsue</a></td>
             <td>2009-04-27</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>5334</td>
         </tr>
@@ -7000,7 +7000,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CudaChick1968">CudaChick1968</a></td>
             <td>2009-04-05</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>5049</td>
         </tr>
@@ -7363,7 +7363,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kimmeh_Kimmeh">Kimmeh_Kimmeh</a></td>
             <td>2022-01-12</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>4835</td>
         </tr>
@@ -14656,7 +14656,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Wolfduck1953">Wolfduck1953</a></td>
             <td>2022-05-18</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>2584</td>
         </tr>
@@ -31860,7 +31860,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeaBT66">LeaBT66</a></td>
             <td>2021-08-16</td>
-            <td></td>
+            <td>2022-12-04</td>
             <td align="center"></td>
             <td>1241</td>
         </tr>

@@ -1596,7 +1596,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DemocracyProj22">DemocracyProj22</a></td>
             <td>2022-01-31</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>3454</td>
         </tr>
