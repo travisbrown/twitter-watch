@@ -28,7 +28,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/jacksonhinklle">jacksonhinklle</a></td>
             <td>2019-07-18</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>88116</td>
             <td>166</td>
@@ -40,7 +40,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RokoMijic">RokoMijic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/952626408496488450">1 other</a>)&nbsp;</td>
             <td>2018-01-14</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>9414</td>
             <td>793</td>
@@ -112,7 +112,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/papago1996">papago1996</a></td>
             <td>2009-06-19</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>1951</td>
             <td>20727</td>
@@ -148,7 +148,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Nathan10889036">Nathan10889036</a></td>
             <td>2019-12-18</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>3038</td>
             <td>31232</td>
@@ -220,7 +220,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Fussiest_Missy">Fussiest_Missy</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>3108</td>
             <td>44427</td>
@@ -738,7 +738,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FRISCOPLAYRSF">FRISCOPLAYRSF</a></td>
             <td>2010-02-04</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>19913</td>
         </tr>
@@ -1002,7 +1002,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dogememegirl">Dogememegirl</a></td>
             <td>2021-07-24</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>7460</td>
         </tr>
@@ -1123,7 +1123,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JPEGculture">JPEGculture</a></td>
             <td>2012-05-13</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>5449</td>
         </tr>
@@ -1475,7 +1475,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/varaskymusic">varaskymusic</a></td>
             <td>2018-08-17</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>2896</td>
         </tr>
@@ -1673,7 +1673,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MikeVaden2">MikeVaden2</a></td>
             <td>2020-11-06</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>2321</td>
         </tr>
@@ -2069,7 +2069,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/saintangelo">saintangelo</a></td>
             <td>2009-03-07</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>1676</td>
         </tr>
@@ -2234,7 +2234,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Positive_Chalie">Positive_Chalie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1476194611752312836">1 other</a>)&nbsp;</td>
             <td>2021-12-29</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>1533</td>
         </tr>

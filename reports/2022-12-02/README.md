@@ -1112,7 +1112,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KoceilaChougar">KoceilaChougar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1123464804570738689">1 other</a>)&nbsp;</td>
             <td>2019-05-01</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>19037</td>
         </tr>
@@ -1959,7 +1959,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AshleyWeis4">AshleyWeis4</a></td>
             <td>2018-11-02</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>4408</td>
         </tr>
@@ -2278,7 +2278,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TransphobeWs_">TransphobeWs_</a></td>
             <td>2021-06-01</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>3512</td>
         </tr>
@@ -3081,7 +3081,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hanselsSoHot">hanselsSoHot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1035140902556192769">1 other</a>)&nbsp;</td>
             <td>2018-08-30</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>2112</td>
         </tr>
@@ -4071,7 +4071,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SuzieWm5mbxyrwp">SuzieWm5mbxyrwp</a></td>
             <td>2021-09-10</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1344</td>
         </tr>

@@ -196,7 +196,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SamColt45NH">SamColt45NH</a></td>
             <td>2021-04-21</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>809</td>
             <td>69089</td>
@@ -576,7 +576,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xFuLi">0xFuLi</a></td>
             <td>2017-10-22</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>10560</td>
         </tr>
@@ -818,7 +818,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MusashiBonMot">MusashiBonMot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1363452560401653760">1 other</a>)&nbsp;</td>
             <td>2021-02-21</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>5513</td>
         </tr>
@@ -862,7 +862,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FinleyMack7">FinleyMack7</a></td>
             <td>2011-11-23</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>5270</td>
         </tr>
@@ -1016,7 +1016,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RiverLevon">RiverLevon</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>4115</td>
         </tr>
@@ -1280,7 +1280,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BKK918">BKK918</a></td>
             <td>2009-05-23</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>2381</td>
         </tr>

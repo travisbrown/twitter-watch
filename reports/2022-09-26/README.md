@@ -1784,7 +1784,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JonBaxter20">JonBaxter20</a></td>
             <td>2019-11-01</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>2032</td>
         </tr>

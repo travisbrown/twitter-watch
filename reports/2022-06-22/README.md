@@ -1705,7 +1705,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/libertyismetal">libertyismetal</a></td>
             <td>2021-06-24</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>2628</td>
         </tr>

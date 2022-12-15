@@ -172,7 +172,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/saltyestcracker">saltyestcracker</a></td>
             <td>2018-02-25</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>770</td>
             <td>19039</td>
@@ -1632,7 +1632,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShadowCaptions">ShadowCaptions</a></td>
             <td>2021-09-05</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>19861</td>
         </tr>

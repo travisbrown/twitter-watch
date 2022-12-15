@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FlashGorgone">FlashGorgone</a></td>
             <td>2019-04-24</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>337</td>
             <td>3401</td>
@@ -944,7 +944,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/talijfonseca">talijfonseca</a></td>
             <td>2020-03-30</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>4776</td>
         </tr>
@@ -977,7 +977,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/direita_ligia">direita_ligia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/57500084">3 others</a>)&nbsp;</td>
             <td>2009-07-17</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>4025</td>
         </tr>

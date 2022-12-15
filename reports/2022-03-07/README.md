@@ -1030,7 +1030,7 @@ Found 614 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SERGIO2448">SERGIO2448</a></td>
             <td>2021-04-25</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>2554</td>
         </tr>

@@ -2380,7 +2380,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OgdenAveSF">OgdenAveSF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1168597224990941191">1 other</a>)&nbsp;</td>
             <td>2019-09-02</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>2547</td>
         </tr>

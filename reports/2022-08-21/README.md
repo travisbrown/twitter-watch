@@ -2261,7 +2261,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VHS_Archive">VHS_Archive</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2925793055">7 others</a>)&nbsp;</td>
             <td>2014-12-16</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>1369</td>
         </tr>

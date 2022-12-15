@@ -652,7 +652,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Greytillilay">Greytillilay</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1366619018656948227">3 others</a>)&nbsp;</td>
             <td>2021-03-02</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>704</td>
             <td>4591</td>

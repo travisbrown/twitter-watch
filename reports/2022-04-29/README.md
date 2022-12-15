@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/aimeeterese">aimeeterese</a></td>
             <td>2009-03-08</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>32190</td>
             <td>397</td>

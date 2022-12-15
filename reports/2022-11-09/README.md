@@ -1683,7 +1683,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nagleociemnialy">nagleociemnialy</a></td>
             <td>2014-09-02</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>5871</td>
         </tr>

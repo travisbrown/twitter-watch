@@ -40,7 +40,7 @@ Found 17 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Aristos_Revenge">Aristos_Revenge</a></td>
             <td>2022-06-20</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>13312</td>
             <td>712</td>

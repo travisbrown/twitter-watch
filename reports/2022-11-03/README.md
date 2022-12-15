@@ -676,7 +676,7 @@ Found 60 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/callme_Chari">callme_Chari</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/17408744">2 others</a>)&nbsp;</td>
             <td>2008-11-15</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>10989</td>
             <td>80601</td>

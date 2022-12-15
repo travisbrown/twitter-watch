@@ -4487,7 +4487,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bulletandpacks">bulletandpacks</a></td>
             <td>2022-04-28</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>1633</td>
         </tr>
@@ -6412,7 +6412,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Desiree86887424">Desiree86887424</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>1236</td>
         </tr>

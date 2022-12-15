@@ -790,7 +790,7 @@ Found 1408 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/this_is_austen">this_is_austen</a></td>
             <td>2022-02-21</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>8267</td>
         </tr>
@@ -1120,7 +1120,7 @@ Found 1408 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pheanixs">Pheanixs</a></td>
             <td>2011-07-18</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>3953</td>
         </tr>

@@ -1470,7 +1470,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hdigreg">Hdigreg</a></td>
             <td>2013-06-21</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>2071</td>
         </tr>
@@ -1613,7 +1613,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Not_Woke_Enough">Not_Woke_Enough</a></td>
             <td>2020-07-08</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>1599</td>
         </tr>

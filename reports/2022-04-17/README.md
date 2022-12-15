@@ -1432,7 +1432,7 @@ Found 1021 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VincentGorman6">VincentGorman6</a></td>
             <td>2021-10-07</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>3587</td>
         </tr>

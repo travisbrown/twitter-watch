@@ -977,7 +977,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Novus_Stock">Novus_Stock</a></td>
             <td>2016-08-12</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>4949</td>
         </tr>

@@ -1694,7 +1694,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ropeium">Ropeium</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1226913516">2 others</a>)&nbsp;</td>
             <td>2013-02-28</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>3260</td>
         </tr>
@@ -1969,7 +1969,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/girlssmellweird">girlssmellweird</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/413594088">1 other</a>)&nbsp;</td>
             <td>2011-11-16</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>2167</td>
         </tr>
@@ -2035,7 +2035,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/simsyg">simsyg</a></td>
             <td>2009-02-13</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>1919</td>
         </tr>

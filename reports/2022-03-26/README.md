@@ -666,7 +666,7 @@ Found 761 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jefegoat_">jefegoat_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/285040366">4 others</a>)&nbsp;</td>
             <td>2011-04-20</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>20839</td>
         </tr>

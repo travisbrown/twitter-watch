@@ -1708,7 +1708,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VOTETRUMP202024">VOTETRUMP202024</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1219960570625044480">1 other</a>)&nbsp;</td>
             <td>2020-01-22</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>1846</td>
         </tr>

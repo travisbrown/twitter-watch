@@ -1133,7 +1133,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lexyylauren">lexyylauren</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/329188561">2 others</a>)&nbsp;</td>
             <td>2011-07-04</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>12271</td>
         </tr>

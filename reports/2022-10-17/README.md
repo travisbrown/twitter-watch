@@ -40,7 +40,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Aristos_Vagrant">Aristos_Vagrant</a></td>
             <td>2022-10-14</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>616</td>
             <td>3644</td>
@@ -1382,7 +1382,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EveAnaya1">EveAnaya1</a></td>
             <td>2017-09-06</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>2155</td>
         </tr>
@@ -1690,7 +1690,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wtyl_live">wtyl_live</a></td>
             <td>2022-07-11</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>1561</td>
         </tr>

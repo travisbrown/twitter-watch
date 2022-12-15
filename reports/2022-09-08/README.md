@@ -2775,7 +2775,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HlioFreire5">HlioFreire5</a></td>
             <td>2019-01-05</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>2138</td>
         </tr>

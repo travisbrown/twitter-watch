@@ -1389,7 +1389,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PernaReflitao">PernaReflitao</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/788611364">21 others</a>)&nbsp;</td>
             <td>2012-08-29</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>27855</td>
         </tr>

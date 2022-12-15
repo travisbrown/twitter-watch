@@ -1121,7 +1121,7 @@ Found 698 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeckyJohnson222">BeckyJohnson222</a></td>
             <td>2010-01-27</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>3948</td>
         </tr>

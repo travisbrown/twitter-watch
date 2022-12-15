@@ -1038,7 +1038,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ColetivoSalaPT">ColetivoSalaPT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1276861526847217666">1 other</a>)&nbsp;</td>
             <td>2020-06-27</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>22701</td>
         </tr>
@@ -2710,7 +2710,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tfin1974">tfin1974</a></td>
             <td>2022-04-28</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1068</td>
         </tr>

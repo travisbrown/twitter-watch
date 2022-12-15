@@ -1003,7 +1003,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AgingDeath">AgingDeath</a></td>
             <td>2022-03-31</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>6857</td>
         </tr>
@@ -1630,7 +1630,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ahmeadelkady">ahmeadelkady</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1318963218451206144">19 others</a>)&nbsp;</td>
             <td>2020-10-21</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1763</td>
         </tr>

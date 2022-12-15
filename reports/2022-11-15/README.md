@@ -2440,7 +2440,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mutumwashumba">mutumwashumba</a></td>
             <td>2011-09-24</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1334</td>
         </tr>

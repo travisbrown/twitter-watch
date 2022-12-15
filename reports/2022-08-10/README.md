@@ -825,7 +825,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hazydav">hazydav</a></td>
             <td>2011-08-05</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>31268</td>
         </tr>
@@ -2453,7 +2453,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/barstache87">barstache87</a></td>
             <td>2016-08-03</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>1729</td>
         </tr>

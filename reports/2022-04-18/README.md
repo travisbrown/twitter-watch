@@ -572,7 +572,7 @@ Found 149 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BobMccollom">BobMccollom</a></td>
             <td>2016-12-25</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1508</td>
         </tr>

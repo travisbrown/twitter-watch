@@ -1038,7 +1038,7 @@ Found 548 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/freakyfrog13">freakyfrog13</a></td>
             <td>2021-03-30</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>1475</td>
         </tr>

@@ -148,7 +148,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KBearthur">KBearthur</a></td>
             <td>2022-01-21</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>586</td>
             <td>7038</td>

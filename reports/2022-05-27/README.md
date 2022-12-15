@@ -887,7 +887,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tyson_James_">Tyson_James_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/800803268599238656">1 other</a>)&nbsp;</td>
             <td>2016-11-21</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>4925</td>
         </tr>

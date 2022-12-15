@@ -787,7 +787,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/convexdegen">convexdegen</a></td>
             <td>2021-07-26</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>5556</td>
         </tr>

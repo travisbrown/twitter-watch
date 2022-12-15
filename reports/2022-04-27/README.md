@@ -2418,7 +2418,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Badtameeziyat">Badtameeziyat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3602673439">17 others</a>)&nbsp;</td>
             <td>2015-09-18</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>3533</td>
         </tr>

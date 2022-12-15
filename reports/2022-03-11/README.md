@@ -1567,7 +1567,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mazimpaka_ange">mazimpaka_ange</a></td>
             <td>2012-03-01</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>1549</td>
         </tr>

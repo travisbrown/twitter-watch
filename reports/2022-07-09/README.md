@@ -606,7 +606,7 @@ Found 663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/janet_cutts1">janet_cutts1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3087448180">1 other</a>)&nbsp;</td>
             <td>2015-03-11</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>6947</td>
         </tr>

@@ -770,7 +770,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MMAFPress">MMAFPress</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1085657516967485441">3 others</a>)&nbsp;</td>
             <td>2019-01-16</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>16182</td>
         </tr>

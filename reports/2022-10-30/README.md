@@ -5984,7 +5984,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CrimsonFenrir7">CrimsonFenrir7</a></td>
             <td>2022-05-21</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>6128</td>
         </tr>

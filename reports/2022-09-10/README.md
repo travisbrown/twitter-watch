@@ -997,7 +997,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lelacohen">lelacohen</a></td>
             <td>2009-08-16</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>7959</td>
         </tr>
@@ -1063,7 +1063,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aurora__9">aurora__9</a></td>
             <td>2012-03-21</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>6533</td>
         </tr>

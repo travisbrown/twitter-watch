@@ -1413,7 +1413,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/artXtr3m">artXtr3m</a></td>
             <td>2011-06-08</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>2824</td>
         </tr>

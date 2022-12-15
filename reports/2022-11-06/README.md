@@ -3352,7 +3352,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/m00ncow">m00ncow</a></td>
             <td>2009-04-16</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>21</td>
             <td>89316</td>

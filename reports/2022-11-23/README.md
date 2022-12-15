@@ -2807,7 +2807,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Crypto_Shack10">Crypto_Shack10</a></td>
             <td>2021-06-08</td>
-            <td></td>
+            <td>2022-12-07</td>
             <td align="center"></td>
             <td>1250</td>
         </tr>

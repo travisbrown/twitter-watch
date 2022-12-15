@@ -2110,7 +2110,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/passemardj">passemardj</a></td>
             <td>2018-05-11</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1426</td>
         </tr>
@@ -2121,7 +2121,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SO05442711">SO05442711</a></td>
             <td>2015-08-29</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>1401</td>
         </tr>

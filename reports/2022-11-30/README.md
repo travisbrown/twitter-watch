@@ -2882,7 +2882,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PaulaAndreaAC">PaulaAndreaAC</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/142355681">1 other</a>)&nbsp;</td>
             <td>2010-05-10</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1074</td>
         </tr>

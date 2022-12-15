@@ -1930,7 +1930,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/helenaboechat">helenaboechat</a></td>
             <td>2009-09-25</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>4046</td>
         </tr>
@@ -2865,7 +2865,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Genunca">Genunca</a></td>
             <td>2017-03-30</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>2692</td>
         </tr>
@@ -3360,7 +3360,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cereal_twit">cereal_twit</a></td>
             <td>2012-09-18</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>2252</td>
         </tr>
@@ -4559,7 +4559,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RaySouz93221370">RaySouz93221370</a></td>
             <td>2019-07-02</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>1381</td>
         </tr>

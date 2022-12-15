@@ -328,7 +328,7 @@ Found 28 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Hotel2a">Hotel2a</a></td>
             <td>2022-07-26</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>5570</td>
             <td>97287</td>
@@ -2196,7 +2196,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnaSuboti1">AnaSuboti1</a></td>
             <td>2018-11-09</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>2339</td>
         </tr>

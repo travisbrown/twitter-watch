@@ -666,7 +666,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/traffiCARACAS">traffiCARACAS</a></td>
             <td>2009-12-07</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>1663288</td>
         </tr>

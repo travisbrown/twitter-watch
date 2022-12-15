@@ -950,7 +950,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SarkySage">SarkySage</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/255369151">1 other</a>)&nbsp;</td>
             <td>2011-02-21</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>18294</td>
         </tr>

@@ -1800,7 +1800,7 @@ Found 1162 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/socramsgtpm">socramsgtpm</a></td>
             <td>2021-03-29</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>1051</td>
         </tr>

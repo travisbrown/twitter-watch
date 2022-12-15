@@ -1036,7 +1036,7 @@ Found 426 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OhFuckItsRayner">OhFuckItsRayner</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230461199806074880">1 other</a>)&nbsp;</td>
             <td>2020-02-20</td>
-            <td></td>
+            <td>2022-12-08</td>
             <td align="center"></td>
             <td>5846</td>
         </tr>

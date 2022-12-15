@@ -519,7 +519,7 @@ Found 1359 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jesusdersupajew">jesusdersupajew</a></td>
             <td>2021-05-24</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>30127</td>
         </tr>

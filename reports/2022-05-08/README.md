@@ -887,7 +887,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CurbsideRX">CurbsideRX</a></td>
             <td>2013-01-02</td>
-            <td></td>
+            <td>2022-12-06</td>
             <td align="center"></td>
             <td>4688</td>
         </tr>

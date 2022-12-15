@@ -28,7 +28,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/arthoefootjob">arthoefootjob</a></td>
             <td>2021-06-30</td>
-            <td></td>
+            <td>2022-12-05</td>
             <td align="center"></td>
             <td>11770</td>
             <td>722</td>
