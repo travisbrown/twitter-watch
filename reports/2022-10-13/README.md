@@ -791,7 +791,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrBraggatto">MrBraggatto</a></td>
             <td>2011-10-01</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>5962</td>
         </tr>

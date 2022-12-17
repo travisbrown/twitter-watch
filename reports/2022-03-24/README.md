@@ -734,7 +734,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nukesn_missiles">nukesn_missiles</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2295063314">2 others</a>)&nbsp;</td>
             <td>2014-01-16</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>20088</td>
         </tr>

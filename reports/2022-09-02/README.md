@@ -2294,7 +2294,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlanDonn">AlanDonn</a></td>
             <td>2009-03-31</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1262</td>
         </tr>

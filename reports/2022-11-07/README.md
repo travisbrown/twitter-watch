@@ -1936,7 +1936,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/tracycupcake20">tracycupcake20</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1269016138790428674">1 other</a>)&nbsp;</td>
             <td>2020-06-05</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>23190</td>
             <td>13795</td>

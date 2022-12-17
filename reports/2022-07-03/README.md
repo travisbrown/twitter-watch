@@ -2428,7 +2428,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RMConservative">RMConservative</a></td>
             <td>2011-02-15</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center">✔️</td>
             <td>173750</td>
         </tr>

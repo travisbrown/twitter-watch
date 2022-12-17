@@ -2189,7 +2189,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/maissa_shehad79">maissa_shehad79</a></td>
             <td>2017-11-14</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1548</td>
         </tr>

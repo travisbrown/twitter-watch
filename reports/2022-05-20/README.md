@@ -453,7 +453,7 @@ Found 754 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndreCostaOliv">AndreCostaOliv</a></td>
             <td>2020-04-22</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>3156</td>
         </tr>

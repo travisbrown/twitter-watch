@@ -28,7 +28,7 @@ Found 38 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KingJamesTomato">KingJamesTomato</a></td>
             <td>2022-06-01</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1008</td>
             <td>2540</td>
@@ -801,7 +801,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dylanshub_">dylanshub_</a></td>
             <td>2022-02-17</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>6953</td>
         </tr>
@@ -1131,7 +1131,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ToryBashinFun">ToryBashinFun</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1440986697517436928">1 other</a>)&nbsp;</td>
             <td>2021-09-23</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center">🔒</td>
             <td>3235</td>
         </tr>
@@ -2176,7 +2176,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Persian_Darius_">Persian_Darius_</a></td>
             <td>2020-09-06</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1170</td>
         </tr>

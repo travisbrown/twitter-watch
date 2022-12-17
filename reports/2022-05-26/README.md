@@ -929,7 +929,7 @@ Found 882 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WrestlingFan061">WrestlingFan061</a></td>
             <td>2017-03-13</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>5088</td>
         </tr>

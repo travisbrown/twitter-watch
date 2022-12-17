@@ -1050,7 +1050,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/samj">samj</a></td>
             <td>2007-02-26</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>15611</td>
         </tr>
@@ -2304,7 +2304,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tranbisgoiadrik">tranbisgoiadrik</a></td>
             <td>2022-04-03</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1099</td>
         </tr>

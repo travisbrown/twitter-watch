@@ -112,7 +112,7 @@ Found 60 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/tonyk2169">tonyk2169</a></td>
             <td>2014-05-28</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>9391</td>
             <td>4045</td>

@@ -232,7 +232,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JeffJongsma">JeffJongsma</a></td>
             <td>2019-09-03</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>263</td>
             <td>81763</td>

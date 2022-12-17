@@ -2183,7 +2183,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/josephaurcel">josephaurcel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1276880035882897409">9 others</a>)&nbsp;</td>
             <td>2020-06-27</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1407</td>
         </tr>

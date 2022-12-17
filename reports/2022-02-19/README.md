@@ -1064,7 +1064,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/A13KF3">A13KF3</a></td>
             <td>2022-02-01</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1441</td>
         </tr>
@@ -1119,7 +1119,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NathanLivOnline">NathanLivOnline</a></td>
             <td>2021-08-24</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1360</td>
         </tr>

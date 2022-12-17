@@ -292,7 +292,7 @@ Found 23 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TrevorFitzgibb1">TrevorFitzgibb1</a></td>
             <td>2019-06-11</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>3640</td>
             <td>99342</td>
@@ -511,7 +511,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/321gaux">321gaux</a></td>
             <td>2014-07-08</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>18961</td>
         </tr>
@@ -1259,7 +1259,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/clintcarlton">clintcarlton</a></td>
             <td>2009-04-09</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>2804</td>
         </tr>

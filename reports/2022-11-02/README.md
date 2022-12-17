@@ -2394,7 +2394,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrifuriousHulk">TrifuriousHulk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1338132491681452033">1 other</a>)&nbsp;</td>
             <td>2020-12-13</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1471</td>
         </tr>

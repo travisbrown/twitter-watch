@@ -2860,7 +2860,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeepindude67">jeepindude67</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1023</td>
         </tr>

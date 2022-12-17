@@ -171,7 +171,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MichaelDeLauzon">MichaelDeLauzon</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/752493806">1 other</a>)&nbsp;</td>
             <td>2012-08-12</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>61670</td>
         </tr>

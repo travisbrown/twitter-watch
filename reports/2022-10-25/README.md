@@ -2360,7 +2360,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Micmac132">Micmac132</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1300948618891984897">3 others</a>)&nbsp;</td>
             <td>2020-09-02</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1475</td>
         </tr>

@@ -1139,7 +1139,7 @@ Found 841 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/abiroberts">abiroberts</a></td>
             <td>2008-12-22</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center">✔️</td>
             <td>46791</td>
         </tr>

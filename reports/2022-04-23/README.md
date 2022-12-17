@@ -799,7 +799,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BigFish3000">BigFish3000</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/774089965458354176">2 others</a>)&nbsp;</td>
             <td>2016-09-09</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>26241</td>
         </tr>
@@ -2075,7 +2075,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rdj61_Canada">rdj61_Canada</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1421131101922332672">2 others</a>)&nbsp;</td>
             <td>2021-07-30</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1469</td>
         </tr>

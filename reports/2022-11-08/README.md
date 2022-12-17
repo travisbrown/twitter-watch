@@ -1497,7 +1497,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_sp64">_sp64</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/813007">2 others</a>)&nbsp;</td>
             <td>2007-03-05</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>66452</td>
         </tr>

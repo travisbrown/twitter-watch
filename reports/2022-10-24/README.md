@@ -40,7 +40,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ZeroTwoMexicana">ZeroTwoMexicana</a></td>
             <td>2022-06-26</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>13395</td>
             <td>657</td>

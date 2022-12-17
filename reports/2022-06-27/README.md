@@ -1382,7 +1382,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gem_xyz">gem_xyz</a></td>
             <td>2022-04-28</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1460</td>
         </tr>

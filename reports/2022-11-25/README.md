@@ -256,7 +256,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Christianus47">Christianus47</a></td>
             <td>2021-10-14</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1427</td>
             <td>90679</td>

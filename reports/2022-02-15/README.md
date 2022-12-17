@@ -1753,7 +1753,7 @@ Found 462 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pdubdev">pdubdev</a></td>
             <td>2014-07-12</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>26458</td>
         </tr>
@@ -1962,7 +1962,7 @@ Found 462 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VolynForest">VolynForest</a></td>
             <td>2014-03-02</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>5199</td>
         </tr>

@@ -612,7 +612,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TenderLorraine">TenderLorraine</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/302359737">3 others</a>)&nbsp;</td>
             <td>2011-05-21</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>18286</td>
         </tr>

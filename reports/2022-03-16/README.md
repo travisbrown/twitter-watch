@@ -1239,7 +1239,7 @@ Found 1139 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jamesdpitley">jamesdpitley</a></td>
             <td>2011-03-20</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1286</td>
         </tr>

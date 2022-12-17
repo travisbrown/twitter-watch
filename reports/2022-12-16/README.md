@@ -3557,7 +3557,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pirate4004">pirate4004</a></td>
             <td>2016-06-10</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>1141</td>
         </tr>

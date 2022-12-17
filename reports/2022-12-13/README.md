@@ -909,7 +909,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MysticNFT_">MysticNFT_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381055500599582726">2 others</a>)&nbsp;</td>
             <td>2021-04-11</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center">🔒</td>
             <td>6783</td>
         </tr>
@@ -964,7 +964,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/edglomb">edglomb</a></td>
             <td>2012-08-31</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>6091</td>
         </tr>
@@ -2383,7 +2383,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jambo57044821">jambo57044821</a></td>
             <td>2022-05-16</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1329</td>
         </tr>

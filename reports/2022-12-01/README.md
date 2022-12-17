@@ -1401,7 +1401,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gary_Bernstein">Gary_Bernstein</a></td>
             <td>2009-03-10</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>13986</td>
         </tr>
@@ -1819,7 +1819,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/doge_albania">doge_albania</a></td>
             <td>2021-09-18</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>5845</td>
         </tr>

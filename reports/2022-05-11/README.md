@@ -1204,7 +1204,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Truckers8F">Truckers8F</a></td>
             <td>2022-05-02</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>4351</td>
         </tr>

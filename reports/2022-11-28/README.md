@@ -3177,7 +3177,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Citrus_sin_bin">Citrus_sin_bin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4046118683">1 other</a>)&nbsp;</td>
             <td>2015-10-26</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1087</td>
         </tr>

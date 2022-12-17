@@ -181,7 +181,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Covid19Crusher">Covid19Crusher</a></td>
             <td>2020-04-25</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>99485</td>
         </tr>
@@ -1105,7 +1105,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Revelation2041">Revelation2041</a></td>
             <td>2020-12-04</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>13512</td>
         </tr>
@@ -8552,7 +8552,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Captain75956545">Captain75956545</a></td>
             <td>2020-03-16</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1092</td>
         </tr>

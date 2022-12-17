@@ -148,7 +148,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/bigoldgoy">bigoldgoy</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>35</td>
             <td>16205</td>

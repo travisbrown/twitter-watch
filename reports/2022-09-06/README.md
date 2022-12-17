@@ -431,7 +431,7 @@ Found 374 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GarretKramer">GarretKramer</a></td>
             <td>2009-11-05</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center">✔️</td>
             <td>50076</td>
         </tr>

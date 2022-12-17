@@ -1198,7 +1198,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/laworfiction">laworfiction</a></td>
             <td>2020-06-21</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>48263</td>
         </tr>

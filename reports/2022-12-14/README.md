@@ -112,7 +112,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/t_b_1120_">t_b_1120_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/386761742">3 others</a>)&nbsp;</td>
             <td>2011-10-07</td>
-            <td></td>
+            <td>2022-12-16</td>
             <td align="center"></td>
             <td>35288</td>
             <td>10422</td>
