@@ -2116,7 +2116,7 @@ Found 1813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/funymnjamo">funymnjamo</a></td>
             <td>2012-08-09</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>1167</td>
         </tr>

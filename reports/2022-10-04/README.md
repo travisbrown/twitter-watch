@@ -787,7 +787,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrumpVVon">TrumpVVon</a></td>
             <td>2022-08-17</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>13316</td>
         </tr>

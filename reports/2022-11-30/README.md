@@ -1254,7 +1254,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Krypto_Kan">Krypto_Kan</a></td>
             <td>2022-06-25</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>4646</td>
         </tr>
@@ -2013,7 +2013,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BobbyAFC79">BobbyAFC79</a></td>
             <td>2010-01-24</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>1806</td>
         </tr>
@@ -2233,7 +2233,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jarhead45Jt1">Jarhead45Jt1</a></td>
             <td>2022-04-21</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>1563</td>
         </tr>

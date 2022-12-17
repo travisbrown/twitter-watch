@@ -160,7 +160,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GarlandNixon">GarlandNixon</a></td>
             <td>2009-03-15</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>53438</td>
             <td>18988</td>
@@ -1442,7 +1442,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lilyward736">lilyward736</a></td>
             <td>2022-04-28</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>4229</td>
         </tr>

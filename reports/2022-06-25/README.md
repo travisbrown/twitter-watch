@@ -1533,7 +1533,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IMektin">IMektin</a></td>
             <td>2021-07-14</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>2045</td>
         </tr>
@@ -1676,7 +1676,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZealCULT">ZealCULT</a></td>
             <td>2020-03-23</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1466</td>
         </tr>

@@ -1215,7 +1215,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/demetrioleite">demetrioleite</a></td>
             <td>2009-10-11</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>8040</td>
         </tr>

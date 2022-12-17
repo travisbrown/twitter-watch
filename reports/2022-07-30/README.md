@@ -894,7 +894,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sitequalty">Sitequalty</a></td>
             <td>2016-07-16</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>2150</td>
         </tr>
@@ -1312,7 +1312,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gary49148971">Gary49148971</a></td>
             <td>2017-10-15</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1217</td>
         </tr>

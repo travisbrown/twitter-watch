@@ -1598,7 +1598,7 @@ Found 1024 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/__UmZulu__">__UmZulu__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/824020680891056130">2 others</a>)&nbsp;</td>
             <td>2017-01-24</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>1778</td>
         </tr>

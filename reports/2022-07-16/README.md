@@ -995,7 +995,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RamonOfAkkad">RamonOfAkkad</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1084798705860034563">1 other</a>)&nbsp;</td>
             <td>2019-01-14</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>12387</td>
         </tr>
@@ -1424,7 +1424,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/5CitiesV">5CitiesV</a></td>
             <td>2017-07-14</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>7412</td>
         </tr>
@@ -1721,7 +1721,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mommyinaz">mommyinaz</a></td>
             <td>2009-06-17</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>5704</td>
         </tr>
@@ -4977,7 +4977,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Renegade424">Renegade424</a></td>
             <td>2011-03-13</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>1468</td>
         </tr>

@@ -1713,7 +1713,7 @@ Found 700 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Feeninu1">Feeninu1</a></td>
             <td>2018-01-18</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1193</td>
         </tr>

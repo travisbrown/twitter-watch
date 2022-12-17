@@ -100,7 +100,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/P_McCulloughMD">P_McCulloughMD</a></td>
             <td>2021-11-29</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>512212</td>
             <td>27196</td>

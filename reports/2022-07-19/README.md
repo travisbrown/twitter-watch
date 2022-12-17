@@ -2222,7 +2222,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShahidMohmand79">ShahidMohmand79</a></td>
             <td>2013-11-19</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1409</td>
         </tr>

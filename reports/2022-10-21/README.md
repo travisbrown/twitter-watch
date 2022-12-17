@@ -940,7 +940,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JordanHatton12">JordanHatton12</a></td>
             <td>2020-07-14</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>21957</td>
         </tr>
@@ -1369,7 +1369,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TanureRicardo">TanureRicardo</a></td>
             <td>2020-04-29</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>3496</td>
         </tr>

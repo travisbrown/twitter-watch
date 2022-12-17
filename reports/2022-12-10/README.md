@@ -717,7 +717,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntisWTF">AntisWTF</a></td>
             <td>2022-04-07</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>6888</td>
         </tr>
@@ -1432,7 +1432,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iHateWaspz">iHateWaspz</a></td>
             <td>2022-08-16</td>
-            <td></td>
+            <td>2022-12-12</td>
             <td align="center"></td>
             <td>2055</td>
         </tr>
@@ -1751,7 +1751,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/samuelekpe">samuelekpe</a></td>
             <td>2013-04-02</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1478</td>
         </tr>
@@ -1839,7 +1839,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheGoldenPups">TheGoldenPups</a></td>
             <td>2021-08-22</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>1384</td>
         </tr>

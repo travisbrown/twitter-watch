@@ -2035,7 +2035,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JustJordyn24">JustJordyn24</a></td>
             <td>2021-10-14</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1985</td>
         </tr>

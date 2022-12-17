@@ -457,7 +457,7 @@ Found 926 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/InsaneAssMemes">InsaneAssMemes</a></td>
             <td>2022-06-06</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>30297</td>
         </tr>

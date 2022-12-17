@@ -246,7 +246,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ortizmedical">ortizmedical</a></td>
             <td>2013-05-09</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>50975</td>
         </tr>

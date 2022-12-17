@@ -1333,7 +1333,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TerryMeggins">TerryMeggins</a></td>
             <td>2017-03-06</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>1791</td>
         </tr>

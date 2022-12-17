@@ -1436,7 +1436,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IMNOTFNSELLING">IMNOTFNSELLING</a></td>
             <td>2021-05-06</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>3969</td>
         </tr>
@@ -1502,7 +1502,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tabarnesandaluz">Tabarnesandaluz</a></td>
             <td>2014-02-12</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>3507</td>
         </tr>

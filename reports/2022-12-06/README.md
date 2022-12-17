@@ -794,7 +794,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Derbyshireboy64">Derbyshireboy64</a></td>
             <td>2022-02-04</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>8143</td>
         </tr>
@@ -992,7 +992,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KylenPadilla">KylenPadilla</a></td>
             <td>2012-04-15</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>4418</td>
         </tr>
@@ -2268,7 +2268,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nate_Pulse242">Nate_Pulse242</a></td>
             <td>2021-10-15</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1285</td>
         </tr>

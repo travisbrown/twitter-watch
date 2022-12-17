@@ -805,7 +805,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alt1na1">alt1na1</a></td>
             <td>2020-05-20</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>5837</td>
         </tr>

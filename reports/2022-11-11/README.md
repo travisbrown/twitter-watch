@@ -1910,7 +1910,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NinoContaballe">NinoContaballe</a></td>
             <td>2022-05-20</td>
-            <td></td>
+            <td>2022-12-12</td>
             <td align="center"></td>
             <td>2161</td>
         </tr>
@@ -2801,7 +2801,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GuardiolaAgenda">GuardiolaAgenda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/926257363471908864">2 others</a>)&nbsp;</td>
             <td>2017-11-03</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1015</td>
         </tr></table>

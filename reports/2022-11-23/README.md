@@ -172,7 +172,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JewelEldora">JewelEldora</a></td>
             <td>2017-06-28</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>1807</td>
             <td>43195</td>
@@ -1597,7 +1597,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FirstUSAFirst">FirstUSAFirst</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1511014981025812483">1 other</a>)&nbsp;</td>
             <td>2022-04-04</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>4623</td>
         </tr>

@@ -645,7 +645,7 @@ Found 519 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Orwell7777">Orwell7777</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/431985654">1 other</a>)&nbsp;</td>
             <td>2011-12-08</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>2219</td>
         </tr>

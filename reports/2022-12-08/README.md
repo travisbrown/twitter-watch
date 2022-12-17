@@ -172,7 +172,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Esthiang">Esthiang</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1323047372470046724">1 other</a>)&nbsp;</td>
             <td>2020-11-01</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>1015</td>
             <td>31740</td>
@@ -414,7 +414,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rafael_Narbona">Rafael_Narbona</a></td>
             <td>2011-02-06</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>33085</td>
         </tr>
@@ -667,7 +667,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coreycosta123">coreycosta123</a></td>
             <td>2013-05-08</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>9284</td>
         </tr>
@@ -909,7 +909,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/michaelcaserta2">michaelcaserta2</a></td>
             <td>2018-04-09</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>4327</td>
         </tr>
@@ -964,7 +964,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/drezzyclub">drezzyclub</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4768326807">2 others</a>)&nbsp;</td>
             <td>2016-01-10</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>3957</td>
         </tr>
@@ -1745,7 +1745,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/breckyunits">breckyunits</a></td>
             <td>2007-11-08</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>1275</td>
         </tr>
@@ -2163,7 +2163,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealQLoungeLive">RealQLoungeLive</a></td>
             <td>2022-10-29</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1028</td>
         </tr>

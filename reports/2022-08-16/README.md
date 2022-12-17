@@ -1071,7 +1071,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/luckyyang09">luckyyang09</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1078265358539206657">5 others</a>)&nbsp;</td>
             <td>2018-12-27</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>2065</td>
         </tr>

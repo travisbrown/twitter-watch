@@ -1118,7 +1118,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IWaveATrumpFlag">IWaveATrumpFlag</a></td>
             <td>2017-07-03</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>2384</td>
         </tr>
@@ -1184,7 +1184,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NuweUche">NuweUche</a></td>
             <td>2020-03-31</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>2099</td>
         </tr>

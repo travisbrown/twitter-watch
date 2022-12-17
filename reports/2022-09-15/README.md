@@ -677,7 +677,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GoonFuelDaily">GoonFuelDaily</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1134182333198884867">2 others</a>)&nbsp;</td>
             <td>2019-05-30</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>25718</td>
         </tr>
@@ -1788,7 +1788,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ben_grosse">ben_grosse</a></td>
             <td>2013-12-26</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1470</td>
         </tr>

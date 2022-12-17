@@ -1204,7 +1204,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ImDavidDunn">ImDavidDunn</a></td>
             <td>2013-01-13</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>1382</td>
         </tr>

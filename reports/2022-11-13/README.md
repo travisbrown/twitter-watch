@@ -984,7 +984,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sarcasticalien3">sarcasticalien3</a></td>
             <td>2019-09-19</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>2341</td>
         </tr>
@@ -1325,7 +1325,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Spatback">Spatback</a></td>
             <td>2011-09-20</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>1214</td>
         </tr>

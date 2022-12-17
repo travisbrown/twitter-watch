@@ -136,7 +136,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Neanderthal_Tom">Neanderthal_Tom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2158344853">1 other</a>)&nbsp;</td>
             <td>2013-10-27</td>
-            <td></td>
+            <td>2022-12-12</td>
             <td align="center"></td>
             <td>241</td>
             <td>43845</td>
@@ -422,7 +422,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AretiAthanasiu">AretiAthanasiu</a></td>
             <td>2021-08-19</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>19195</td>
         </tr>
@@ -950,7 +950,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CalliCapone">CalliCapone</a></td>
             <td>2015-08-24</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>4697</td>
         </tr>
@@ -1445,7 +1445,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sneakers">sneakers</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2998914106">1 other</a>)&nbsp;</td>
             <td>2015-01-25</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>2047</td>
         </tr>
@@ -1555,7 +1555,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/miss_sartoshi">miss_sartoshi</a></td>
             <td>2022-02-25</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>1878</td>
         </tr>
@@ -1918,7 +1918,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OnHels50">OnHels50</a></td>
             <td>2022-03-20</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>1340</td>
         </tr>

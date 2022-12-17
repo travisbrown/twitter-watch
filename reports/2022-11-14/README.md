@@ -244,7 +244,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Not_GuyLeDouche">Not_GuyLeDouche</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/526523658">2 others</a>)&nbsp;</td>
             <td>2012-03-16</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>41</td>
             <td>29909</td>
@@ -280,7 +280,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/1776Warof1812">1776Warof1812</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1524717982361993216">1 other</a>)&nbsp;</td>
             <td>2022-05-12</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>2073</td>
             <td>35497</td>
@@ -1709,7 +1709,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aliwalidkanaan">aliwalidkanaan</a></td>
             <td>2017-06-07</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>12353</td>
         </tr>
@@ -2578,7 +2578,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/is__me__jnr">is__me__jnr</a></td>
             <td>2021-12-18</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1732</td>
         </tr>

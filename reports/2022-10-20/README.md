@@ -780,7 +780,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrowneProject">BrowneProject</a></td>
             <td>2009-06-25</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>88070</td>
         </tr>
@@ -901,7 +901,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AfgGcpsu">AfgGcpsu</a></td>
             <td>2022-01-18</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>25774</td>
         </tr>

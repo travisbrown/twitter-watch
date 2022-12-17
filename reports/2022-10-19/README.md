@@ -1644,7 +1644,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PrepWithStorm">PrepWithStorm</a></td>
             <td>2021-09-25</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>2324</td>
         </tr>
@@ -2733,7 +2733,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BessieM17">BessieM17</a></td>
             <td>2021-05-09</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>1244</td>
         </tr>

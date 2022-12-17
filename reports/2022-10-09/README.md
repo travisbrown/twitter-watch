@@ -1426,7 +1426,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LethalRusty">LethalRusty</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/190256586">2 others</a>)&nbsp;</td>
             <td>2010-09-13</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>2034</td>
         </tr>
@@ -1437,7 +1437,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JaeHashem">JaeHashem</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1080781451191308288">1 other</a>)&nbsp;</td>
             <td>2019-01-03</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>2026</td>
         </tr>

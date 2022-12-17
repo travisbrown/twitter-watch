@@ -883,7 +883,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CeliaPfau">CeliaPfau</a></td>
             <td>2015-07-13</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>6317</td>
         </tr>
@@ -1279,7 +1279,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Zepykenu">Zepykenu</a></td>
             <td>2011-06-03</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>4168</td>
         </tr>
@@ -3974,7 +3974,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/normagilbert54">normagilbert54</a></td>
             <td>2015-03-23</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>1360</td>
         </tr>

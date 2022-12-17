@@ -689,7 +689,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fakeannalee">fakeannalee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1086041671987589121">1 other</a>)&nbsp;</td>
             <td>2019-01-17</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>9795</td>
         </tr>

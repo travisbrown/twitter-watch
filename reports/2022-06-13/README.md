@@ -1664,7 +1664,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hankentwhistle">hankentwhistle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1537364828">1 other</a>)&nbsp;</td>
             <td>2013-06-21</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>5943</td>
         </tr>

@@ -1056,7 +1056,7 @@ Found 1075 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cozymaximalist">cozymaximalist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1475612593830178820">1 other</a>)&nbsp;</td>
             <td>2021-12-27</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>1908</td>
         </tr>

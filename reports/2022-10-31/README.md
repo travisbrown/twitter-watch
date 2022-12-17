@@ -2580,7 +2580,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KSA_876">KSA_876</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/559997688">4 others</a>)&nbsp;</td>
             <td>2012-04-21</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>1104</td>
         </tr>

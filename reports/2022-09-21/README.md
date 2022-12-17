@@ -742,7 +742,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JonathanKeQuan7">JonathanKeQuan7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1670454373">1 other</a>)&nbsp;</td>
             <td>2013-08-14</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>52860</td>
         </tr>

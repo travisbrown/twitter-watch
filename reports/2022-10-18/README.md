@@ -894,7 +894,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stormrobinson">stormrobinson</a></td>
             <td>2009-06-26</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>13182</td>
         </tr>
@@ -1642,7 +1642,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brzybluewillow">brzybluewillow</a></td>
             <td>2010-09-30</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>2279</td>
         </tr>

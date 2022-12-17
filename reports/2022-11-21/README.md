@@ -993,7 +993,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VietnamNear">VietnamNear</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1383616840530731010">1 other</a>)&nbsp;</td>
             <td>2021-04-18</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>11315</td>
         </tr>
@@ -1697,7 +1697,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mundus01">mundus01</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/254942163">1 other</a>)&nbsp;</td>
             <td>2011-02-20</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>2287</td>
         </tr>

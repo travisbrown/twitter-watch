@@ -291,7 +291,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zukosmama">zukosmama</a></td>
             <td>2022-06-14</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>22996</td>
         </tr>
@@ -1655,7 +1655,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kylesellers">kylesellers</a></td>
             <td>2007-03-28</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>1110</td>
         </tr>

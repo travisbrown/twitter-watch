@@ -3957,7 +3957,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MahmoudPalesti6">MahmoudPalesti6</a></td>
             <td>2019-10-29</td>
-            <td></td>
+            <td>2022-12-12</td>
             <td align="center"></td>
             <td>4650</td>
         </tr>
@@ -6916,7 +6916,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Digenes_Akrites">Digenes_Akrites</a></td>
             <td>2016-11-14</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>1007</td>
         </tr>

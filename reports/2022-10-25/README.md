@@ -974,7 +974,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RiseofBurnol">RiseofBurnol</a></td>
             <td>2019-03-30</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>25220</td>
         </tr>

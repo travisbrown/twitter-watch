@@ -2428,7 +2428,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ExiledRefugee">ExiledRefugee</a></td>
             <td>2021-09-01</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>193</td>
             <td>19407</td>

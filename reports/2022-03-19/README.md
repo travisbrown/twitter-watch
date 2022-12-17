@@ -1305,7 +1305,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SimpsonMiska">SimpsonMiska</a></td>
             <td>2016-06-21</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1816</td>
         </tr>

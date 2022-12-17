@@ -88,7 +88,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/0Fedbear2">0Fedbear2</a></td>
             <td>2020-11-09</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>774</td>
             <td>18325</td>

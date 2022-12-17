@@ -40,7 +40,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Lionheart213072">Lionheart213072</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1166508226319454208">1 other</a>)&nbsp;</td>
             <td>2019-08-28</td>
-            <td></td>
+            <td>2022-12-12</td>
             <td align="center"></td>
             <td>394</td>
             <td>2268</td>

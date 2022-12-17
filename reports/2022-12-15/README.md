@@ -1,6 +1,6 @@
 ## 15 December 2022
 
-* [Tracked suspensions (22)](#tracked-suspensions)
+* [Tracked suspensions (23)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
 * [Untracked suspensions (203)](#untracked-suspensions)
 
@@ -8,7 +8,7 @@ Please see the [project index](https://github.com/travisbrown/twitter-watch) for
 
 ### Tracked suspensions
 
-Found 22 suspensions for tracked accounts.
+Found 23 suspensions for tracked accounts.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -21,6 +21,18 @@ Found 22 suspensions for tracked accounts.
         <th align="left">Followers</th>
         <th align="left">Ranking</th></tr>
     </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=767960339547774976">
+                <img src="https://pbs.twimg.com/profile_images/1590208028191719426/EwRlY6bw_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/revelation17_14">revelation17_14</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/767960339547774976">4 others</a>)&nbsp;</td>
+            <td>2016-08-23</td>
+            <td></td>
+            <td align="center"></td>
+            <td>357603</td>
+            <td>43</td>
+        </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3318902369">
                 <img src="https://pbs.twimg.com/profile_images/1559379194223771650/DrwgKAfY_normal.jpg" width="40px" height="40px" align="center"/></a>

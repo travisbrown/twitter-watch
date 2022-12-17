@@ -1255,7 +1255,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MargaretDemko3">MargaretDemko3</a></td>
             <td>2022-03-20</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>3056</td>
         </tr>
@@ -1948,7 +1948,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wendy_dees">wendy_dees</a></td>
             <td>2014-02-27</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1722</td>
         </tr>

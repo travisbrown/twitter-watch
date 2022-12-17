@@ -1191,7 +1191,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ANDR32096370">ANDR32096370</a></td>
             <td>2019-11-06</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>2412</td>
         </tr>

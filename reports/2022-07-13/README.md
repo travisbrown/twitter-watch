@@ -2096,7 +2096,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wbfe">wbfe</a></td>
             <td>2012-01-14</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>1578</td>
         </tr>

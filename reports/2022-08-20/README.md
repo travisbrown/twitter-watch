@@ -1137,7 +1137,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JacqMantBrasil">JacqMantBrasil</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1040707537488826369">2 others</a>)&nbsp;</td>
             <td>2018-09-14</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>10130</td>
         </tr>

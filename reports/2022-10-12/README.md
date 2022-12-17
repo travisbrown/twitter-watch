@@ -1480,7 +1480,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aaron_evarts">aaron_evarts</a></td>
             <td>2022-02-11</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>4499</td>
         </tr>
@@ -1546,7 +1546,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Adsvel">Adsvel</a></td>
             <td>2018-04-15</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>3891</td>
         </tr>

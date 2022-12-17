@@ -124,7 +124,7 @@ Found 38 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Jonteinspain">Jonteinspain</a></td>
             <td>2009-11-07</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>116941</td>
             <td>15391</td>
@@ -691,7 +691,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jamesmbrandon">jamesmbrandon</a></td>
             <td>2014-10-17</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>15056</td>
         </tr>
@@ -922,7 +922,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DizzleCrypto">DizzleCrypto</a></td>
             <td>2020-08-04</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>4770</td>
         </tr>
@@ -1307,7 +1307,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LyndaE222">LyndaE222</a></td>
             <td>2012-07-12</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>2625</td>
         </tr>
@@ -1934,7 +1934,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vismer">vismer</a></td>
             <td>2009-07-09</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>1395</td>
         </tr>

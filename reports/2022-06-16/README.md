@@ -1567,7 +1567,7 @@ Found 332 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mangasushi2">Mangasushi2</a></td>
             <td>2021-07-21</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1028</td>
         </tr></table>

@@ -64,7 +64,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/0xKrypteia">0xKrypteia</a></td>
             <td>2021-10-12</td>
-            <td></td>
+            <td>2022-12-09</td>
             <td align="center"></td>
             <td>494</td>
             <td>3865</td>

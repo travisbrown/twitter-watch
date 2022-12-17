@@ -765,7 +765,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/entre_guerras_">entre_guerras_</a></td>
             <td>2019-10-20</td>
-            <td></td>
+            <td>2022-12-12</td>
             <td align="center"></td>
             <td>30555</td>
         </tr>

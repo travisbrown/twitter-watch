@@ -196,7 +196,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RealRickyA">RealRickyA</a></td>
             <td>2022-04-29</td>
-            <td></td>
+            <td>2022-12-14</td>
             <td align="center"></td>
             <td>597</td>
             <td>75238</td>
@@ -856,7 +856,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dijoni">dijoni</a></td>
             <td>2009-03-15</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>36173</td>
         </tr>
@@ -977,7 +977,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AbogadosCrist">AbogadosCrist</a></td>
             <td>2012-09-27</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>18177</td>
         </tr>
@@ -1186,7 +1186,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AuthorityMgzine">AuthorityMgzine</a></td>
             <td>2018-03-12</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>9895</td>
         </tr>

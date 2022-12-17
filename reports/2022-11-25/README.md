@@ -1406,7 +1406,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ferozwala">ferozwala</a></td>
             <td>2009-07-01</td>
-            <td></td>
+            <td>2022-12-13</td>
             <td align="center"></td>
             <td>4914</td>
         </tr>
@@ -1681,7 +1681,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lukenbachr">lukenbachr</a></td>
             <td>2009-04-05</td>
-            <td></td>
+            <td>2022-12-15</td>
             <td align="center"></td>
             <td>3314</td>
         </tr>
@@ -2407,7 +2407,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gabiruzinha">gabiruzinha</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/97101403">1 other</a>)&nbsp;</td>
             <td>2009-12-16</td>
-            <td></td>
+            <td>2022-12-10</td>
             <td align="center"></td>
             <td>1414</td>
         </tr>
@@ -2440,7 +2440,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ethfund2021">ethfund2021</a></td>
             <td>2021-02-04</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>1371</td>
         </tr>
@@ -2792,7 +2792,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Edward57684252">Edward57684252</a></td>
             <td>2022-05-20</td>
-            <td></td>
+            <td>2022-12-11</td>
             <td align="center"></td>
             <td>1080</td>
         </tr>
