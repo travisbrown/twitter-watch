@@ -2909,7 +2909,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntunesEllison">AntunesEllison</a></td>
             <td>2019-05-25</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>2247</td>
         </tr>

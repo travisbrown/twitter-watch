@@ -2303,7 +2303,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EvertonEfmm">EvertonEfmm</a></td>
             <td>2018-03-05</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1050</td>
         </tr>
@@ -2314,7 +2314,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/anniemmm">anniemmm</a></td>
             <td>2009-02-07</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>1038</td>
         </tr>

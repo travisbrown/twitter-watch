@@ -2146,7 +2146,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PainkillerH20">PainkillerH20</a></td>
             <td>2017-01-27</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>1580</td>
         </tr>
@@ -2289,7 +2289,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/not_onions">not_onions</a></td>
             <td>2022-02-05</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>1458</td>
         </tr>

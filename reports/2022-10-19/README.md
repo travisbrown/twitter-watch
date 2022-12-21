@@ -2062,7 +2062,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MMschadenfreude">MMschadenfreude</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1471582842425683973">2 others</a>)&nbsp;</td>
             <td>2021-12-16</td>
-            <td></td>
+            <td>2022-12-20</td>
             <td align="center"></td>
             <td>1818</td>
         </tr>

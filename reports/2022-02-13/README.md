@@ -709,7 +709,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/No__Plandemia">No__Plandemia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/472031699">1 other</a>)&nbsp;</td>
             <td>2012-01-23</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>21156</td>
         </tr>

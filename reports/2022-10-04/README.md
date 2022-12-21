@@ -710,7 +710,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/adaptavel">adaptavel</a></td>
             <td>2009-09-14</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>20766</td>
         </tr>

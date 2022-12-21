@@ -534,7 +534,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JulzJuliez">JulzJuliez</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1352348922602287107">1 other</a>)&nbsp;</td>
             <td>2021-01-21</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>2016</td>
         </tr>

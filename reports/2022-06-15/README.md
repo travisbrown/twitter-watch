@@ -561,7 +561,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AdamThompsonLaw">AdamThompsonLaw</a></td>
             <td>2013-07-12</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>7326</td>
         </tr>

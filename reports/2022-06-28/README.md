@@ -1170,7 +1170,7 @@ Found 1813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/oji_gi3">oji_gi3</a></td>
             <td>2017-05-07</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>36342</td>
         </tr>

@@ -1013,7 +1013,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gssyvk">gssyvk</a></td>
             <td>2021-10-23</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>26247</td>
         </tr>

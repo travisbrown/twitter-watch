@@ -1385,7 +1385,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bigirlforfun341">Bigirlforfun341</a></td>
             <td>2019-07-16</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>4941</td>
         </tr>
@@ -1737,7 +1737,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wolfman8262">wolfman8262</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>3310</td>
         </tr>

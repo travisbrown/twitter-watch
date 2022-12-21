@@ -2011,7 +2011,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WillReeveJr">WillReeveJr</a></td>
             <td>2013-07-23</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center">✔️</td>
             <td>48693</td>
         </tr>
@@ -3089,7 +3089,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cw3263">cw3263</a></td>
             <td>2011-03-03</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1079</td>
         </tr>

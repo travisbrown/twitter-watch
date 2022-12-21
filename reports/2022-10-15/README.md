@@ -2432,7 +2432,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChwisSweed">ChwisSweed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/818831534354558976">2 others</a>)&nbsp;</td>
             <td>2017-01-10</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center">🔒</td>
             <td>2290</td>
         </tr>

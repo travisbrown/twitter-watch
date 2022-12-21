@@ -381,7 +381,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/olurisco">olurisco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3868800495">7 others</a>)&nbsp;</td>
             <td>2015-10-05</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>63051</td>
         </tr>
@@ -997,7 +997,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shibidi_austine">shibidi_austine</a></td>
             <td>2016-09-16</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>3819</td>
         </tr>
@@ -1019,7 +1019,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shoukootaden">shoukootaden</a></td>
             <td>2009-09-21</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>3541</td>
         </tr>
@@ -1580,7 +1580,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DerpKraken">DerpKraken</a></td>
             <td>2021-03-15</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1566</td>
         </tr>
@@ -2053,7 +2053,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DeFiKassidy">DeFiKassidy</a></td>
             <td>2022-07-12</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>1101</td>
         </tr>

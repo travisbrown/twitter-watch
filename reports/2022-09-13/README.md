@@ -1181,7 +1181,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RodolpheTola">RodolpheTola</a></td>
             <td>2021-01-08</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>4165</td>
         </tr>

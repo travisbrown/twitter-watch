@@ -64,7 +64,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/swiftyloo">swiftyloo</a></td>
             <td>2012-03-13</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>2226</td>
             <td>7410</td>

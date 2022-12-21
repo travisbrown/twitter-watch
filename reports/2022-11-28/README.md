@@ -944,7 +944,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnMoser66">JohnMoser66</a></td>
             <td>2022-09-03</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>20680</td>
         </tr>

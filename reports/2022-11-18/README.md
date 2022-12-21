@@ -2304,7 +2304,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavidMu46239762">DavidMu46239762</a></td>
             <td>2022-04-30</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>1245</td>
         </tr>

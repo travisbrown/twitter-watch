@@ -1671,7 +1671,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heemglizz">heemglizz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1020432316219514882">1 other</a>)&nbsp;</td>
             <td>2018-07-20</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>1807</td>
         </tr>

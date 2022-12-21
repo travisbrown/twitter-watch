@@ -1820,7 +1820,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Timerican">Timerican</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/191076433">2 others</a>)&nbsp;</td>
             <td>2010-09-15</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>3988</td>
         </tr>

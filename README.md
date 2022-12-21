@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 455076
-* Total number of suspension reversals detected: 19458
-* Mean number of followers for suspended accounts: 1605.6
+* Total number of suspensions detected: 460000
+* Total number of suspension reversals detected: 20086
+* Mean number of followers for suspended accounts: 1595.85
 * Median number of followers for suspended accounts: 49.0
-* Mean age of suspended accounts (days): 1021.27
-* Median age of suspended accounts (days): 288.0
-* Total number of verified accounts suspended: 159
-* Total number of protected accounts suspended: 22441
+* Mean age of suspended accounts (days): 1022.57
+* Median age of suspended accounts (days): 290.0
+* Total number of verified accounts suspended: 160
+* Total number of protected accounts suspended: 22748
 * Total number of suspensions for accounts previously withheld in specific countries: 31
 * Total number of screen name changes detected: 966283
 
@@ -290,10 +290,34 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2022-12-21/">21 December 2022</a>
+            </td>
+            <td>502</td>
+            <td>5</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-20/">20 December 2022</a>
+            </td>
+            <td>1839</td>
+            <td>19</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-19/">19 December 2022</a>
+            </td>
+            <td>1625</td>
+            <td>21</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2022-12-18/">18 December 2022</a>
             </td>
-            <td>835</td>
-            <td>6</td>
+            <td>2475</td>
+            <td>16</td>
             <td>0</td>
         </tr>
         <tr>

@@ -2062,7 +2062,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jaydonthedayone">jaydonthedayone</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3309593063">1 other</a>)&nbsp;</td>
             <td>2015-06-05</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>1524</td>
         </tr>

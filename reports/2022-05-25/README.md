@@ -1549,7 +1549,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BMenezesSantana">BMenezesSantana</a></td>
             <td>2014-07-12</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>2137</td>
         </tr>

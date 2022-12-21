@@ -2143,7 +2143,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CycleJunkie88">CycleJunkie88</a></td>
             <td>2009-09-21</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1697</td>
         </tr>

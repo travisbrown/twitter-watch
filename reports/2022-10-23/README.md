@@ -845,7 +845,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Moussax7">Moussax7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4754934141">10 others</a>)&nbsp;</td>
             <td>2016-01-09</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>6470</td>
         </tr>

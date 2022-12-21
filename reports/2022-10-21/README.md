@@ -2249,7 +2249,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TerryLewisJr2">TerryLewisJr2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1249165656857051136">1 other</a>)&nbsp;</td>
             <td>2020-04-12</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>1157</td>
         </tr>

@@ -112,7 +112,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Austin_Realty">Austin_Realty</a></td>
             <td>2014-08-08</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>2799</td>
             <td>29858</td>

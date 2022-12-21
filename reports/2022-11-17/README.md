@@ -683,7 +683,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OOTDFESS">OOTDFESS</a></td>
             <td>2017-04-23</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>357377</td>
         </tr>
@@ -2883,7 +2883,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/madridfooty_">madridfooty_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1416858452215881730">1 other</a>)&nbsp;</td>
             <td>2021-07-18</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>1597</td>
         </tr>

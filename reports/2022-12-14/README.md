@@ -64,7 +64,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Deadgayson51">Deadgayson51</a></td>
             <td>2021-07-26</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>48</td>
             <td>6089</td>
@@ -124,7 +124,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/picklepeeete">picklepeeete</a></td>
             <td>2022-01-21</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>106</td>
             <td>15017</td>
@@ -208,7 +208,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheMFingCOO">TheMFingCOO</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/767833060662398976">1 other</a>)&nbsp;</td>
             <td>2016-08-22</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>18180</td>
             <td>31726</td>
@@ -220,7 +220,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ronjohnson4823">ronjohnson4823</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/25823503">1 other</a>)&nbsp;</td>
             <td>2009-03-22</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>136</td>
             <td>32742</td>
@@ -244,7 +244,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RyanCordell16">RyanCordell16</a></td>
             <td>2022-03-04</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>78</td>
             <td>34258</td>
@@ -436,7 +436,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LGBTrumpUSA">LGBTrumpUSA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/767545096011210752">3 others</a>)&nbsp;</td>
             <td>2016-08-22</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>4238</td>
             <td>72485</td>
@@ -762,7 +762,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brobert545">brobert545</a></td>
             <td>2008-11-18</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>21562</td>
         </tr>
@@ -883,7 +883,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SheilaBair2013">SheilaBair2013</a></td>
             <td>2013-07-25</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>13912</td>
         </tr>
@@ -949,7 +949,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CeoKnots">CeoKnots</a></td>
             <td>2021-02-28</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>9567</td>
         </tr>
@@ -1334,7 +1334,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SweetPeaBell326">SweetPeaBell326</a></td>
             <td>2022-06-11</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>2977</td>
         </tr>
@@ -1763,7 +1763,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VitaVeritas1">VitaVeritas1</a></td>
             <td>2020-04-14</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>1732</td>
         </tr>
@@ -2104,7 +2104,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ENdilichi">ENdilichi</a></td>
             <td>2018-07-09</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1337</td>
         </tr>

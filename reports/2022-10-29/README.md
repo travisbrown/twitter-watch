@@ -1192,7 +1192,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OperHealAmerica">OperHealAmerica</a></td>
             <td>2020-03-30</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>53887</td>
         </tr>
@@ -2336,7 +2336,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Allysdream1">Allysdream1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1332752239694319621">1 other</a>)&nbsp;</td>
             <td>2020-11-28</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>16049</td>
         </tr>
@@ -5273,7 +5273,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RonnieStewart17">RonnieStewart17</a></td>
             <td>2012-10-23</td>
-            <td></td>
+            <td>2022-12-20</td>
             <td align="center"></td>
             <td>6719</td>
         </tr>
@@ -6692,7 +6692,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cinnyster">Cinnyster</a></td>
             <td>2009-03-29</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>5338</td>
         </tr>
@@ -9651,7 +9651,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TimNank">TimNank</a></td>
             <td>2009-07-13</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>3628</td>
         </tr>
@@ -11092,7 +11092,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mal8193">mal8193</a></td>
             <td>2011-09-21</td>
-            <td></td>
+            <td>2022-12-20</td>
             <td align="center"></td>
             <td>3207</td>
         </tr>
@@ -23533,7 +23533,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sonyareneejames">sonyareneejames</a></td>
             <td>2021-08-31</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1704</td>
         </tr>
@@ -25040,7 +25040,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OurPatriot2020">OurPatriot2020</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/348299416">3 others</a>)&nbsp;</td>
             <td>2011-08-04</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>1609</td>
         </tr>
@@ -30738,7 +30738,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Foyrex">Foyrex</a></td>
             <td>2016-03-04</td>
-            <td></td>
+            <td>2022-12-20</td>
             <td align="center"></td>
             <td>1293</td>
         </tr>
@@ -30991,7 +30991,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cheyenne6219551">Cheyenne6219551</a></td>
             <td>2019-11-26</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1282</td>
         </tr>
@@ -32487,7 +32487,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dan81359">dan81359</a></td>
             <td>2009-03-06</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>1211</td>
         </tr>
@@ -33609,7 +33609,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/runner_mom">runner_mom</a></td>
             <td>2011-05-05</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1168</td>
         </tr>

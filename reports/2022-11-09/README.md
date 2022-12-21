@@ -3058,7 +3058,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaveSul56464133">DaveSul56464133</a></td>
             <td>2019-07-18</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>1803</td>
         </tr>

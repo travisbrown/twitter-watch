@@ -850,7 +850,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/QuoteTaySwift">QuoteTaySwift</a></td>
             <td>2011-08-01</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>156845</td>
         </tr>
@@ -1191,7 +1191,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Budhist254">Budhist254</a></td>
             <td>2022-05-25</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>6108</td>
         </tr>
@@ -1763,7 +1763,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LookatChefCurry">LookatChefCurry</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1189708010211487748">1 other</a>)&nbsp;</td>
             <td>2019-10-31</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>2176</td>
         </tr>

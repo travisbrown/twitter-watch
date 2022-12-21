@@ -544,7 +544,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tutukane">tutukane</a></td>
             <td>2019-03-05</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>25770</td>
         </tr>
@@ -2183,7 +2183,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RedHatty">RedHatty</a></td>
             <td>2008-03-09</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>4527</td>
         </tr>
@@ -5945,7 +5945,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Katiescarlet2">Katiescarlet2</a></td>
             <td>2012-03-05</td>
-            <td></td>
+            <td>2022-12-18</td>
             <td align="center"></td>
             <td>1061</td>
         </tr>
@@ -6165,7 +6165,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RhondaDeeConn1">RhondaDeeConn1</a></td>
             <td>2016-12-07</td>
-            <td></td>
+            <td>2022-12-19</td>
             <td align="center"></td>
             <td>1000</td>
         </tr></table>

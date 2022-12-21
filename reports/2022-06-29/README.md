@@ -326,7 +326,7 @@ Found 1703 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SLYFootbalI">SLYFootbalI</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/712604355514527745">3 others</a>)&nbsp;</td>
             <td>2016-03-23</td>
-            <td></td>
+            <td>2022-12-17</td>
             <td align="center"></td>
             <td>99522</td>
         </tr>
