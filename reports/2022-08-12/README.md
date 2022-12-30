@@ -1820,7 +1820,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/renardbordelais">renardbordelais</a></td>
             <td>2021-09-08</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1340</td>
         </tr>

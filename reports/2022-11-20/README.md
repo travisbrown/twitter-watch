@@ -2995,7 +2995,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/princDjordje">princDjordje</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/533093305">4 others</a>)&nbsp;</td>
             <td>2012-03-22</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1259</td>
         </tr>

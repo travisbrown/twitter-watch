@@ -181,7 +181,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RJNewsflash">RJNewsflash</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/988524457621966848">1 other</a>)&nbsp;</td>
             <td>2018-04-23</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>48363</td>
         </tr>
@@ -907,7 +907,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoPimp777">CryptoPimp777</a></td>
             <td>2021-05-23</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>1526</td>
         </tr>

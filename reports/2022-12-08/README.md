@@ -1965,7 +1965,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HolyKaaba_LGBT">HolyKaaba_LGBT</a></td>
             <td>2022-05-25</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1142</td>
         </tr>
@@ -2086,7 +2086,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/magombe_joshua">magombe_joshua</a></td>
             <td>2017-07-20</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1088</td>
         </tr>

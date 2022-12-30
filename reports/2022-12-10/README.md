@@ -1355,7 +1355,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yoobademon">yoobademon</a></td>
             <td>2017-11-18</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>2255</td>
         </tr>
@@ -1564,7 +1564,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NiFTting">NiFTting</a></td>
             <td>2022-06-21</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1720</td>
         </tr>

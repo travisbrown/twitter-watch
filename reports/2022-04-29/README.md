@@ -579,7 +579,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RVP_0003">RVP_0003</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1453036946276577280">1 other</a>)&nbsp;</td>
             <td>2021-10-26</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>4461</td>
         </tr>

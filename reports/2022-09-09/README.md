@@ -863,7 +863,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RlcardoLima1234">RlcardoLima1234</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/382117345">1 other</a>)&nbsp;</td>
             <td>2011-09-29</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>19408</td>
         </tr>

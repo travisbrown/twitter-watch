@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/speropatria">speropatria</a></td>
             <td>2013-01-19</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>3455</td>
             <td>1188</td>
@@ -930,7 +930,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nft_papi">nft_papi</a></td>
             <td>2021-03-04</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>7964</td>
         </tr>

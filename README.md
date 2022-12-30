@@ -32,15 +32,15 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 460000
-* Total number of suspension reversals detected: 20086
-* Mean number of followers for suspended accounts: 1595.85
+* Total number of suspensions detected: 477263
+* Total number of suspension reversals detected: 21760
+* Mean number of followers for suspended accounts: 1563.82
 * Median number of followers for suspended accounts: 49.0
-* Mean age of suspended accounts (days): 1022.57
-* Median age of suspended accounts (days): 290.0
-* Total number of verified accounts suspended: 160
-* Total number of protected accounts suspended: 22748
-* Total number of suspensions for accounts previously withheld in specific countries: 31
+* Mean age of suspended accounts (days): 1026.06
+* Median age of suspended accounts (days): 296.0
+* Total number of verified accounts suspended: 161
+* Total number of protected accounts suspended: 23735
+* Total number of suspensions for accounts previously withheld in specific countries: 34
 * Total number of screen name changes detected: 966283
 
 
@@ -235,6 +235,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>227</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=491530957">
+                <img src="https://pbs.twimg.com/profile_images/1134446093566169089/o_iTNi7K_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Justice_forum">Justice_forum</a></td>
+            <td>2012-02-13</td>
+            <td>2022-12-27</td>
+            <td>36920</td>
+            <td>230</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1416678409908928513">
                 <img src="https://pbs.twimg.com/profile_images/1475008136947847168/cZG93lGn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -266,17 +277,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-05-03</td>
             <td>56659</td>
             <td>248</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1263061223341506560">
-                <img src="https://pbs.twimg.com/profile_images/1319698929248862209/gFPGWxjV_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/WargarW">WargarW</a></td>
-            <td>2020-05-20</td>
-            <td>2022-04-08</td>
-            <td>40447</td>
-            <td>250</td>
         </tr></table>
 
 ## Daily reports
@@ -290,10 +290,82 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2022-12-30/">30 December 2022</a>
+            </td>
+            <td>1059</td>
+            <td>11</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-29/">29 December 2022</a>
+            </td>
+            <td>2587</td>
+            <td>20</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-28/">28 December 2022</a>
+            </td>
+            <td>1988</td>
+            <td>21</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-27/">27 December 2022</a>
+            </td>
+            <td>1985</td>
+            <td>27</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-26/">26 December 2022</a>
+            </td>
+            <td>1977</td>
+            <td>14</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-25/">25 December 2022</a>
+            </td>
+            <td>1742</td>
+            <td>18</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-24/">24 December 2022</a>
+            </td>
+            <td>1654</td>
+            <td>13</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-23/">23 December 2022</a>
+            </td>
+            <td>1907</td>
+            <td>16</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2022-12-22/">22 December 2022</a>
+            </td>
+            <td>4656</td>
+            <td>13</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2022-12-21/">21 December 2022</a>
             </td>
-            <td>502</td>
-            <td>5</td>
+            <td>1908</td>
+            <td>15</td>
             <td>0</td>
         </tr>
         <tr>

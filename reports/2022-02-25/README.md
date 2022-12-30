@@ -927,7 +927,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/drainbrah">drainbrah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1369750467039924230">7 others</a>)&nbsp;</td>
             <td>2021-03-10</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>1060</td>
         </tr>

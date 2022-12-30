@@ -1193,7 +1193,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/winburn_kim">winburn_kim</a></td>
             <td>2018-09-22</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>5793</td>
         </tr>

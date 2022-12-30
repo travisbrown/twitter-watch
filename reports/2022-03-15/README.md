@@ -771,7 +771,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/veraizmaylova41">veraizmaylova41</a></td>
             <td>2015-05-26</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>13813</td>
         </tr>
@@ -1244,7 +1244,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChuoInvencible">ChuoInvencible</a></td>
             <td>2020-07-19</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>1853</td>
         </tr>
@@ -1277,7 +1277,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fat_barb">fat_barb</a></td>
             <td>2011-09-18</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>1786</td>
         </tr>

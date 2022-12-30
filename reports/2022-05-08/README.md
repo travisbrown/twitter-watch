@@ -1184,7 +1184,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UoKnowsBest">UoKnowsBest</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/41172619">1 other</a>)&nbsp;</td>
             <td>2009-05-19</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1411</td>
         </tr>

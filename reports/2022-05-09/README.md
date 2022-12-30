@@ -1426,7 +1426,7 @@ Found 1090 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NumbageTv">NumbageTv</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1039151272362819584">1 other</a>)&nbsp;</td>
             <td>2018-09-10</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>1844</td>
         </tr>

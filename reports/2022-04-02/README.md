@@ -915,7 +915,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/waltervet74">waltervet74</a></td>
             <td>2012-04-03</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>2356</td>
         </tr>

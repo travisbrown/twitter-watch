@@ -136,7 +136,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LibertarianGay2">LibertarianGay2</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>775</td>
             <td>34402</td>
@@ -1835,7 +1835,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrianHirsh1">BrianHirsh1</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>2766</td>
         </tr>
@@ -2891,7 +2891,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NftDocumentary">NftDocumentary</a></td>
             <td>2021-06-08</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>1049</td>
         </tr>

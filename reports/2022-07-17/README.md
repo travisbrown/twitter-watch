@@ -502,7 +502,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EddysGeist">EddysGeist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518134796253339648">1 other</a>)&nbsp;</td>
             <td>2022-04-24</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>17598</td>
         </tr>
@@ -733,7 +733,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Daoyu15">Daoyu15</a></td>
             <td>2020-05-04</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>7925</td>
         </tr>
@@ -832,7 +832,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Eddie7757">Eddie7757</a></td>
             <td>2015-09-10</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>6223</td>
         </tr>
@@ -1547,7 +1547,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GooGwaba">GooGwaba</a></td>
             <td>2013-06-12</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>2863</td>
         </tr>
@@ -1910,7 +1910,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/headlessinfidel">headlessinfidel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/595114092">1 other</a>)&nbsp;</td>
             <td>2012-05-31</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>2163</td>
         </tr>
@@ -2471,7 +2471,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Neurotica27">Neurotica27</a></td>
             <td>2017-09-21</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1501</td>
         </tr>

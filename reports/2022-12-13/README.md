@@ -623,7 +623,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CreativeMessNFT">CreativeMessNFT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/966868770328317954">1 other</a>)&nbsp;</td>
             <td>2018-02-23</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>22283</td>
         </tr>
@@ -920,7 +920,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArabCenterWDC">ArabCenterWDC</a></td>
             <td>2015-11-18</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>6541</td>
         </tr>
@@ -942,7 +942,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FannyJan123">FannyJan123</a></td>
             <td>2014-04-09</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>6377</td>
         </tr>
@@ -975,7 +975,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheKingGaston">TheKingGaston</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1416785930623410178">4 others</a>)&nbsp;</td>
             <td>2021-07-18</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>5997</td>
         </tr>
@@ -1294,7 +1294,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/positivoukraino">positivoukraino</a></td>
             <td>2019-07-10</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>3424</td>
         </tr>
@@ -1305,7 +1305,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scottlong1980">scottlong1980</a></td>
             <td>2011-01-30</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>3356</td>
         </tr>
@@ -1569,7 +1569,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nomoreleaders">nomoreleaders</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/46271030">2 others</a>)&nbsp;</td>
             <td>2009-06-11</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>2461</td>
         </tr>
@@ -1811,7 +1811,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/minniedogg">minniedogg</a></td>
             <td>2010-05-09</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1989</td>
         </tr>
@@ -2064,7 +2064,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FJUSA007">FJUSA007</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/731033884725481472">4 others</a>)&nbsp;</td>
             <td>2016-05-13</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1608</td>
         </tr>
@@ -2306,7 +2306,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/degenpunkz1">degenpunkz1</a></td>
             <td>2022-07-02</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1371</td>
         </tr>
@@ -2801,7 +2801,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shobarexx">shobarexx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/966789702845108225">1 other</a>)&nbsp;</td>
             <td>2018-02-22</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1098</td>
         </tr>

@@ -1588,7 +1588,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dear_Mr_Putin">Dear_Mr_Putin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/842398676714676228">2 others</a>)&nbsp;</td>
             <td>2017-03-16</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>25244</td>
         </tr>
@@ -1797,7 +1797,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AbbasPresidant">AbbasPresidant</a></td>
             <td>2020-08-09</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>8872</td>
         </tr>

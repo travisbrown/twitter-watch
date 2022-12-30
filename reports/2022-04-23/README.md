@@ -1272,7 +1272,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ComradeCrypto">ComradeCrypto</a></td>
             <td>2017-12-21</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>3658</td>
         </tr>

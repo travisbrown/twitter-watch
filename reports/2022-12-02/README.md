@@ -208,7 +208,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JamesYo27502669">JamesYo27502669</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>12934</td>
             <td>48370</td>
@@ -1948,7 +1948,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EpicFunnyName">EpicFunnyName</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/945859281118691329">1 other</a>)&nbsp;</td>
             <td>2017-12-27</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>4532</td>
         </tr>

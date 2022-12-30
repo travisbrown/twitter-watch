@@ -628,7 +628,7 @@ Found 480 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TryingTraveller">TryingTraveller</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/530815424">2 others</a>)&nbsp;</td>
             <td>2012-03-20</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>17650</td>
         </tr>

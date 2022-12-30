@@ -40,7 +40,7 @@ Found 77 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/author_himself">author_himself</a></td>
             <td>2022-09-27</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>35685</td>
             <td>450</td>
@@ -1754,7 +1754,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/davidlehmann09">davidlehmann09</a></td>
             <td>2011-11-23</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>4395</td>
         </tr>
@@ -2095,7 +2095,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_4kdc">_4kdc</a></td>
             <td>2014-04-27</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1504</td>
         </tr>

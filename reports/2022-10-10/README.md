@@ -732,7 +732,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClaudiaTiggs">ClaudiaTiggs</a></td>
             <td>2020-09-06</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>15556</td>
         </tr>
@@ -2162,7 +2162,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/saskatchewan_in">saskatchewan_in</a></td>
             <td>2021-01-09</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1061</td>
         </tr>

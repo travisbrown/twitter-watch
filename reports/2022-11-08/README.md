@@ -448,7 +448,7 @@ Found 52 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TrumpSuperElite">TrumpSuperElite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/466144416">3 others</a>)&nbsp;</td>
             <td>2012-01-17</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>47258</td>
             <td>63630</td>
@@ -1563,7 +1563,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BonaDeaCrypto">BonaDeaCrypto</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1427648858981605391">4 others</a>)&nbsp;</td>
             <td>2021-08-17</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>35829</td>
         </tr>
@@ -1882,7 +1882,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndersonCopperx">AndersonCopperx</a></td>
             <td>2021-09-28</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>12239</td>
         </tr>
@@ -3510,7 +3510,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wiseacre">wiseacre</a></td>
             <td>2007-04-03</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>2745</td>
         </tr>
@@ -5369,7 +5369,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nischayashok">nischayashok</a></td>
             <td>2009-12-17</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>1344</td>
         </tr>

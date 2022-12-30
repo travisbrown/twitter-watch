@@ -1343,7 +1343,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheeMayoMonkey">TheeMayoMonkey</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3614846897">2 others</a>)&nbsp;</td>
             <td>2015-09-11</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>2547</td>
         </tr>

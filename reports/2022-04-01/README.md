@@ -301,7 +301,7 @@ Found 548 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AtheistRepublic">AtheistRepublic</a></td>
             <td>2011-07-19</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>138929</td>
         </tr>

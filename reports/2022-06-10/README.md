@@ -401,7 +401,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FenixAmmunition">FenixAmmunition</a></td>
             <td>2018-01-25</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>39820</td>
         </tr>

@@ -743,7 +743,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YukonStrong">YukonStrong</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/994988859065708545">2 others</a>)&nbsp;</td>
             <td>2018-05-11</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>16584</td>
         </tr>

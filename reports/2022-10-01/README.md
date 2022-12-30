@@ -1897,7 +1897,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RuebenCogburn">RuebenCogburn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/809552569">1 other</a>)&nbsp;</td>
             <td>2012-09-07</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>1668</td>
         </tr>

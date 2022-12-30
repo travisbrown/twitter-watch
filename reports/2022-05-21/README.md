@@ -1146,7 +1146,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GBullstein">GBullstein</a></td>
             <td>2020-05-06</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>16367</td>
         </tr>
@@ -1212,7 +1212,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/loftipixels">loftipixels</a></td>
             <td>2019-09-20</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>10977</td>
         </tr>

@@ -1202,7 +1202,7 @@ Found 295 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KlausSchwabBTC">KlausSchwabBTC</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337028549983789058">4 others</a>)&nbsp;</td>
             <td>2020-12-10</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1050</td>
         </tr>

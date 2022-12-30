@@ -2290,7 +2290,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/X_ujangkemod">X_ujangkemod</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4240744999">3 others</a>)&nbsp;</td>
             <td>2015-11-15</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>1506</td>
         </tr>

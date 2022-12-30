@@ -1442,7 +1442,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JMacKenzie674">JMacKenzie674</a></td>
             <td>2022-03-27</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>5241</td>
         </tr>
@@ -2586,7 +2586,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Magnanymous1">Magnanymous1</a></td>
             <td>2012-01-22</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1316</td>
         </tr>

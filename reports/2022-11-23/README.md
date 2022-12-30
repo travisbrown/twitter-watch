@@ -208,7 +208,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MingoTango">MingoTango</a></td>
             <td>2020-08-30</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>22</td>
             <td>66122</td>
@@ -1454,7 +1454,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BabyLamb5">BabyLamb5</a></td>
             <td>2017-09-10</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>5503</td>
         </tr>

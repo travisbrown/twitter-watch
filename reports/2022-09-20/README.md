@@ -1038,7 +1038,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Quin4Trump">Quin4Trump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3083325002">4 others</a>)&nbsp;</td>
             <td>2015-03-15</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>15930</td>
         </tr>
@@ -1632,7 +1632,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rachelh1711">rachelh1711</a></td>
             <td>2014-10-19</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>3784</td>
         </tr>

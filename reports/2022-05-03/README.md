@@ -927,7 +927,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shoshido">shoshido</a></td>
             <td>2007-11-26</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>3414</td>
         </tr>

@@ -1173,7 +1173,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EWoodhouse7">EWoodhouse7</a></td>
             <td>2020-05-12</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>38297</td>
         </tr>
@@ -1206,7 +1206,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nicoletta0602">Nicoletta0602</a></td>
             <td>2017-03-22</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>26160</td>
         </tr>
@@ -1404,7 +1404,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TonyFmTampa">TonyFmTampa</a></td>
             <td>2012-05-12</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>3640</td>
         </tr>

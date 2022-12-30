@@ -956,7 +956,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zoophilestruggs">zoophilestruggs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1397365430231060482">1 other</a>)&nbsp;</td>
             <td>2021-05-26</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>9113</td>
         </tr>

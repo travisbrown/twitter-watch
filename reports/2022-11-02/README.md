@@ -172,7 +172,7 @@ Found 51 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/simpletontasted">simpletontasted</a></td>
             <td>2021-10-21</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center">🔒</td>
             <td>37</td>
             <td>11469</td>

@@ -64,7 +64,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/pioneerhoosier">pioneerhoosier</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1461055693688029185">3 others</a>)&nbsp;</td>
             <td>2021-11-17</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1330</td>
             <td>2336</td>
@@ -1341,7 +1341,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SusanLeigh11">SusanLeigh11</a></td>
             <td>2015-04-23</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>19942</td>
         </tr>
@@ -1671,7 +1671,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yourieltsonline">yourieltsonline</a></td>
             <td>2009-07-05</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>9195</td>
         </tr>
@@ -2232,7 +2232,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/The_Old_Crank">The_Old_Crank</a></td>
             <td>2022-08-28</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>3681</td>
         </tr>
@@ -2276,7 +2276,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/somersetspur">somersetspur</a></td>
             <td>2010-11-05</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>3286</td>
         </tr>

@@ -648,7 +648,7 @@ Found 507 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrSuazo915">DrSuazo915</a></td>
             <td>2020-01-04</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>15890</td>
         </tr>

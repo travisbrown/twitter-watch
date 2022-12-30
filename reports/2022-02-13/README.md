@@ -1270,7 +1270,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DisabledJourno">DisabledJourno</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1316409878353764352">11 others</a>)&nbsp;</td>
             <td>2020-10-14</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>11759</td>
         </tr>
@@ -3349,7 +3349,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VeronicaRose70">VeronicaRose70</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1138479456">1 other</a>)&nbsp;</td>
             <td>2013-02-01</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>3468</td>
         </tr>

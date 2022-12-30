@@ -3749,7 +3749,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SirByronTheGoat">SirByronTheGoat</a></td>
             <td>2021-08-17</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1179</td>
         </tr>

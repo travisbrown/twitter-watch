@@ -208,7 +208,7 @@ Found 28 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MicahWatz">MicahWatz</a></td>
             <td>2013-08-04</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>78</td>
             <td>57068</td>
@@ -268,7 +268,7 @@ Found 28 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NietzscheMeta">NietzscheMeta</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1397086587821826049">1 other</a>)&nbsp;</td>
             <td>2021-05-25</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>384</td>
             <td>81467</td>
@@ -1404,7 +1404,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hold_ShibaInu">Hold_ShibaInu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1406670578497605633">1 other</a>)&nbsp;</td>
             <td>2021-06-20</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>7178</td>
         </tr>
@@ -1800,7 +1800,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TookTheRedBean">TookTheRedBean</a></td>
             <td>2022-01-21</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>3617</td>
         </tr>
@@ -2845,7 +2845,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Trixiwin">Trixiwin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1226046081320005634">1 other</a>)&nbsp;</td>
             <td>2020-02-08</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>1542</td>
         </tr>
@@ -3241,7 +3241,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/danteharris_">danteharris_</a></td>
             <td>2013-12-22</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center">🔒</td>
             <td>1207</td>
         </tr>

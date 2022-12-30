@@ -2483,7 +2483,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FootbalILaughs">FootbalILaughs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4870660847">2 others</a>)&nbsp;</td>
             <td>2016-02-01</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>100889</td>
         </tr>

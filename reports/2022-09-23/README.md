@@ -4071,7 +4071,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DetectiveNolan">DetectiveNolan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1085576742696300545">1 other</a>)&nbsp;</td>
             <td>2019-01-16</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>

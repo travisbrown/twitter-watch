@@ -915,7 +915,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/craicreseller">craicreseller</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1002127637928726530">2 others</a>)&nbsp;</td>
             <td>2018-05-31</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>2183</td>
         </tr>

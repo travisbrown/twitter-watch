@@ -685,7 +685,7 @@ Found 515 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DesertRiver">DesertRiver</a></td>
             <td>2009-05-07</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>9727</td>
         </tr>

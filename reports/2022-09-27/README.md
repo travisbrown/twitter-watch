@@ -554,7 +554,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoshAYbear">JoshAYbear</a></td>
             <td>2019-06-19</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>3798</td>
         </tr>

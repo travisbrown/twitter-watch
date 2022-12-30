@@ -781,7 +781,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/web3swiss">web3swiss</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381083307207663620">1 other</a>)&nbsp;</td>
             <td>2021-04-11</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>45877</td>
         </tr>

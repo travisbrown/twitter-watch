@@ -1708,7 +1708,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/OhioTrump2024">OhioTrump2024</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/44382195">3 others</a>)&nbsp;</td>
             <td>2009-06-03</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>25104</td>
             <td>11341</td>
@@ -3760,7 +3760,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/h3h3productions">h3h3productions</a></td>
             <td>2013-02-16</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center">✔️</td>
             <td>2343730</td>
             <td>46638</td>
@@ -6291,7 +6291,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavidDCarpenter">DavidDCarpenter</a></td>
             <td>2009-03-11</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center">🔒</td>
             <td>9582</td>
         </tr>

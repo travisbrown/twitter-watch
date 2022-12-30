@@ -248,7 +248,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/andersonhoje">andersonhoje</a></td>
             <td>2009-07-13</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>37239</td>
         </tr>
@@ -963,7 +963,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/britishtory5000">britishtory5000</a></td>
             <td>2021-07-29</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1217</td>
         </tr>

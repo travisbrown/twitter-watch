@@ -1059,7 +1059,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BruceNgima">BruceNgima</a></td>
             <td>2013-05-14</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>2795</td>
         </tr>

@@ -2634,7 +2634,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UnschuldigerM">UnschuldigerM</a></td>
             <td>2022-05-29</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>1306</td>
         </tr>
@@ -3030,7 +3030,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jackal7783">jackal7783</a></td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>1135</td>
         </tr>

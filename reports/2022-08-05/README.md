@@ -907,7 +907,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/archaeologynews">archaeologynews</a></td>
             <td>2009-01-12</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>32478</td>
         </tr>
@@ -2348,7 +2348,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BubblesAMC">BubblesAMC</a></td>
             <td>2021-08-13</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1076</td>
         </tr>

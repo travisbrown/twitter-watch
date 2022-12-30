@@ -542,7 +542,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LimaDoc">LimaDoc</a></td>
             <td>2012-06-24</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>16346</td>
         </tr>
@@ -1455,7 +1455,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RhondaDanielso2">RhondaDanielso2</a></td>
             <td>2018-02-06</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>3619</td>
         </tr>
@@ -4557,7 +4557,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SharonT53107">SharonT53107</a></td>
             <td>2022-02-14</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1107</td>
         </tr>

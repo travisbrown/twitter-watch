@@ -943,7 +943,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GinnyVixxen">GinnyVixxen</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1147711323951828992">1 other</a>)&nbsp;</td>
             <td>2019-07-07</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>4083</td>
         </tr>
@@ -1097,7 +1097,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FocusNFT">FocusNFT</a></td>
             <td>2021-07-26</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>3638</td>
         </tr>
@@ -1900,7 +1900,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MouddyMoud">MouddyMoud</a></td>
             <td>2019-12-08</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1501</td>
         </tr>

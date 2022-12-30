@@ -825,7 +825,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Route_Crypto">Route_Crypto</a></td>
             <td>2010-04-17</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>19755</td>
         </tr>
@@ -1782,7 +1782,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrGrumpy_eth">MrGrumpy_eth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1453207424924536843">1 other</a>)&nbsp;</td>
             <td>2021-10-27</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1254</td>
         </tr>

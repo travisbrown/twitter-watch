@@ -1198,7 +1198,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heatherawwood">heatherawwood</a></td>
             <td>2011-02-22</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>2668</td>
         </tr>

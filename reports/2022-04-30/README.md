@@ -2252,7 +2252,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/danielkotzin">danielkotzin</a></td>
             <td>2013-04-29</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>31137</td>
         </tr>

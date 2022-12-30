@@ -1445,7 +1445,7 @@ Found 1591 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dougfantastic">dougfantastic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/17585438">2 others</a>)&nbsp;</td>
             <td>2008-11-24</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>2631</td>
         </tr>

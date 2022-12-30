@@ -1320,7 +1320,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/onetruepipe">onetruepipe</a></td>
             <td>2013-01-09</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1985</td>
         </tr>
@@ -1452,7 +1452,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/7BOURNEY">7BOURNEY</a></td>
             <td>2011-08-06</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1672</td>
         </tr>
@@ -1474,7 +1474,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DEUSVULTREV68">DEUSVULTREV68</a></td>
             <td>2021-02-25</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1632</td>
         </tr>

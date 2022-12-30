@@ -40,7 +40,7 @@ Found 29 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HikeMarber">HikeMarber</a></td>
             <td>2022-09-27</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>189</td>
             <td>3618</td>
@@ -797,7 +797,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HilaKleinH3">HilaKleinH3</a></td>
             <td>2014-08-16</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center">✔️</td>
             <td>947895</td>
         </tr>
@@ -907,7 +907,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ColSteveZodiac1">ColSteveZodiac1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2855354116">1 other</a>)&nbsp;</td>
             <td>2014-11-01</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>19101</td>
         </tr>
@@ -2546,7 +2546,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RibelluU">RibelluU</a></td>
             <td>2013-02-01</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>1085</td>
         </tr>

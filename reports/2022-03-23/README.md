@@ -992,7 +992,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ImJulianAssange">ImJulianAssange</a></td>
             <td>2009-01-07</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>6116</td>
         </tr>

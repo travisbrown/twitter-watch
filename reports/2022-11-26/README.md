@@ -1389,7 +1389,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bestradesigner">bestradesigner</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2374402088">5 others</a>)&nbsp;</td>
             <td>2014-03-05</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>2556</td>
         </tr>

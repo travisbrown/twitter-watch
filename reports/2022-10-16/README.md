@@ -28,7 +28,7 @@ Found 1 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/plzbepatient">plzbepatient</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/970389424457515009">1 other</a>)&nbsp;</td>
             <td>2018-03-04</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>7871</td>
             <td>1022</td>

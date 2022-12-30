@@ -371,7 +371,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Emolclause">Emolclause</a></td>
             <td>2016-11-26</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>107523</td>
         </tr>
@@ -547,7 +547,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/models_fp2_bkup">models_fp2_bkup</a></td>
             <td>2022-06-30</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>6417</td>
         </tr>
@@ -822,7 +822,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/irekpiekarski_">irekpiekarski_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/892789746061254656">2 others</a>)&nbsp;</td>
             <td>2017-08-02</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>2908</td>
         </tr>
@@ -921,7 +921,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MichaelSocialT">MichaelSocialT</a></td>
             <td>2009-10-13</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>2462</td>
         </tr>

@@ -2009,7 +2009,7 @@ Found 2400 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bs_spare">bs_spare</a></td>
             <td>2018-10-01</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>4370</td>
         </tr>

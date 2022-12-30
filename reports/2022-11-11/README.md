@@ -843,7 +843,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/klitklittredge">klitklittredge</a></td>
             <td>2020-07-31</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>36678</td>
         </tr>

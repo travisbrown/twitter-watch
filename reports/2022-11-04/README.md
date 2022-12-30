@@ -268,7 +268,7 @@ Found 23 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JudieHall9">JudieHall9</a></td>
             <td>2017-03-15</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>21010</td>
             <td>88708</td>

@@ -40,7 +40,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/msediewyatt">msediewyatt</a></td>
             <td>2014-10-23</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>6935</td>
             <td>948</td>

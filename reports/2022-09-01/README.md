@@ -40,7 +40,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/A_Guster_Buster">A_Guster_Buster</a></td>
             <td>2021-12-01</td>
-            <td></td>
+            <td>2022-12-24</td>
             <td align="center"></td>
             <td>9757</td>
             <td>643</td>
@@ -2367,7 +2367,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/donaldjmontgome">donaldjmontgome</a></td>
             <td>2012-01-28</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>1168</td>
         </tr>

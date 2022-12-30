@@ -3881,7 +3881,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OnTheGoVIP">OnTheGoVIP</a></td>
             <td>2010-08-10</td>
-            <td></td>
+            <td>2022-12-22</td>
             <td align="center"></td>
             <td>1606</td>
         </tr>
@@ -4189,7 +4189,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kcidark85">kcidark85</a></td>
             <td>2013-12-29</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1390</td>
         </tr>
@@ -4486,7 +4486,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wer4him2001">wer4him2001</a></td>
             <td>2011-01-31</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1210</td>
         </tr>

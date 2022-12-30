@@ -699,7 +699,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jikkyleaks">Jikkyleaks</a></td>
             <td>2022-03-14</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>28484</td>
         </tr>

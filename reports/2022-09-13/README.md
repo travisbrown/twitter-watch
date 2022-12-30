@@ -774,7 +774,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FetiyaMohammed_">FetiyaMohammed_</a></td>
             <td>2021-08-15</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>25118</td>
         </tr>
@@ -851,7 +851,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_Dirtie">_Dirtie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4652460076">1 other</a>)&nbsp;</td>
             <td>2015-12-30</td>
-            <td></td>
+            <td>2022-12-23</td>
             <td align="center"></td>
             <td>18876</td>
         </tr>
@@ -884,7 +884,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Andreas_3000">Andreas_3000</a></td>
             <td>2009-12-16</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>13637</td>
         </tr>

@@ -1057,7 +1057,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/andrewbostom">andrewbostom</a></td>
             <td>2013-05-28</td>
-            <td></td>
+            <td>2022-12-25</td>
             <td align="center"></td>
             <td>56596</td>
         </tr>

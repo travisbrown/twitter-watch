@@ -1573,7 +1573,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2Jjpatriot">2Jjpatriot</a></td>
             <td>2021-05-13</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>1137</td>
         </tr>

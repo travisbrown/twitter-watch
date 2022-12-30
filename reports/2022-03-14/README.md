@@ -751,7 +751,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mango_Press_">Mango_Press_</a></td>
             <td>2020-09-26</td>
-            <td></td>
+            <td>2022-12-21</td>
             <td align="center"></td>
             <td>19456</td>
         </tr>
@@ -1180,7 +1180,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RichardGittens">RichardGittens</a></td>
             <td>2008-07-16</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>2032</td>
         </tr>
@@ -1257,7 +1257,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/laage65">laage65</a></td>
             <td>2010-01-03</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1945</td>
         </tr>
