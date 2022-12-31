@@ -549,7 +549,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GeorgeFareed2">GeorgeFareed2</a></td>
             <td>2020-11-23</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>24141</td>
         </tr>
@@ -1275,7 +1275,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rinushoogstad">rinushoogstad</a></td>
             <td>2013-12-08</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>2542</td>
         </tr>

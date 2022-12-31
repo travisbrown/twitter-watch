@@ -2332,7 +2332,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/manall761">manall761</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/53713210">1 other</a>)&nbsp;</td>
             <td>2009-07-04</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1433</td>
         </tr>
@@ -2552,7 +2552,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Deerhunter656">Deerhunter656</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1539606712075919360">1 other</a>)&nbsp;</td>
             <td>2022-06-22</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1252</td>
         </tr>
@@ -2717,7 +2717,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheDizzle669">TheDizzle669</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1081</td>
         </tr>

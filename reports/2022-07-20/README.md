@@ -1518,7 +1518,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Johnaustinmenzi">Johnaustinmenzi</a></td>
             <td>2013-11-30</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1892</td>
         </tr>

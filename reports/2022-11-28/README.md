@@ -867,7 +867,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GemsOfIndology">GemsOfIndology</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/64098246">5 others</a>)&nbsp;</td>
             <td>2009-08-09</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>35560</td>
         </tr>
@@ -1835,7 +1835,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/foxgrrl">foxgrrl</a></td>
             <td>2007-09-08</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3182</td>
         </tr>

@@ -1041,7 +1041,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JayHayOfficial">JayHayOfficial</a></td>
             <td>2022-01-31</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3431</td>
         </tr>
@@ -2042,7 +2042,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nderitu_kevyn">nderitu_kevyn</a></td>
             <td>2017-10-21</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1104</td>
         </tr>

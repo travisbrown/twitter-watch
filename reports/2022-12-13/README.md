@@ -160,7 +160,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Saffroniqu3">Saffroniqu3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1301286160027836417">1 other</a>)&nbsp;</td>
             <td>2020-09-02</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>993</td>
             <td>17208</td>
@@ -634,7 +634,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RoyalTXGirl">RoyalTXGirl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/92752327">1 other</a>)&nbsp;</td>
             <td>2009-11-26</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>21184</td>
         </tr>
@@ -755,7 +755,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/citynightsmedia">citynightsmedia</a></td>
             <td>2009-10-02</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>12705</td>
         </tr>
@@ -931,7 +931,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VVSTUNNiN">VVSTUNNiN</a></td>
             <td>2011-02-16</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center">🔒</td>
             <td>6434</td>
         </tr>
@@ -1030,7 +1030,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LegalReform">LegalReform</a></td>
             <td>2008-10-20</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>5479</td>
         </tr>
@@ -1943,7 +1943,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YhUz86kudsneEPu">YhUz86kudsneEPu</a></td>
             <td>2016-12-22</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1762</td>
         </tr>
@@ -2988,7 +2988,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NoelTshiani">NoelTshiani</a></td>
             <td>2009-01-27</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1020</td>
         </tr>

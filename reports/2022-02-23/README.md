@@ -1205,7 +1205,7 @@ Found 371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/juegosnomas">juegosnomas</a></td>
             <td>2011-09-18</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1355</td>
         </tr>

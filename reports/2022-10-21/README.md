@@ -1204,7 +1204,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rico_rants">rico_rants</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/814252346972770304">4 others</a>)&nbsp;</td>
             <td>2016-12-28</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>5326</td>
         </tr>

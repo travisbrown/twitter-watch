@@ -858,7 +858,7 @@ Found 332 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/melissavivian17">melissavivian17</a></td>
             <td>2019-10-08</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2266</td>
         </tr>

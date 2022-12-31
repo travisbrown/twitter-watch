@@ -942,7 +942,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/velardedaoiz2">velardedaoiz2</a></td>
             <td>2019-09-20</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>48442</td>
         </tr>

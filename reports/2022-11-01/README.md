@@ -820,7 +820,7 @@ Found 77 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CashLoopa">CashLoopa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1065330491845459968">1 other</a>)&nbsp;</td>
             <td>2018-11-21</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>1217</td>
             <td>56939</td>

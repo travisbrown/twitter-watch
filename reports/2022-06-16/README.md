@@ -1259,7 +1259,7 @@ Found 332 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AleashaCasaret2">AleashaCasaret2</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>2439</td>
         </tr>

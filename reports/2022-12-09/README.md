@@ -244,7 +244,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SidtheCat_">SidtheCat_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1538350657513586689">1 other</a>)&nbsp;</td>
             <td>2022-06-19</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>148</td>
             <td>58020</td>
@@ -2197,7 +2197,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HB_beachbum_">HB_beachbum_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/211938200">1 other</a>)&nbsp;</td>
             <td>2010-11-04</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1277</td>
         </tr>

@@ -610,7 +610,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jadi">jadi</a></td>
             <td>2007-05-14</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>133751</td>
         </tr>

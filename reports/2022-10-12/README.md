@@ -1304,7 +1304,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FMFLILD">FMFLILD</a></td>
             <td>2009-04-30</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>7758</td>
         </tr>
@@ -2690,7 +2690,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Steven41849941">Steven41849941</a></td>
             <td>2020-03-14</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>1542</td>
         </tr>

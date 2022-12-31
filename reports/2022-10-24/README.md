@@ -807,7 +807,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LintelligentTv">LintelligentTv</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/260134310">1 other</a>)&nbsp;</td>
             <td>2011-03-03</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>45230</td>
         </tr>
@@ -1280,7 +1280,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ntheweird">ntheweird</a></td>
             <td>2007-04-24</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3273</td>
         </tr>

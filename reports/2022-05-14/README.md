@@ -1760,7 +1760,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/daniverdouw">daniverdouw</a></td>
             <td>2019-08-26</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1317</td>
         </tr>

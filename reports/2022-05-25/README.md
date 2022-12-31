@@ -2044,7 +2044,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nigam126">nigam126</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/75774690">1 other</a>)&nbsp;</td>
             <td>2009-09-20</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1420</td>
         </tr>

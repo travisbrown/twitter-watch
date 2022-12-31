@@ -40,7 +40,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/aimeeterese">aimeeterese</a></td>
             <td>2009-03-08</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>32190</td>
             <td>397</td>
@@ -64,7 +64,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/basedrespector">basedrespector</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1377649264613072897">1 other</a>)&nbsp;</td>
             <td>2021-04-01</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>377</td>
             <td>5780</td>
@@ -240,7 +240,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/traffiCARACAS">traffiCARACAS</a></td>
             <td>2009-12-07</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1663288</td>
         </tr>
@@ -262,7 +262,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lenouveauvenu">lenouveauvenu</a></td>
             <td>2021-09-19</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>236468</td>
         </tr>
@@ -383,7 +383,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NatureByAfrican">NatureByAfrican</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2775712970">1 other</a>)&nbsp;</td>
             <td>2014-08-28</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>58738</td>
         </tr>
@@ -636,7 +636,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PhilC273">PhilC273</a></td>
             <td>2012-10-11</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>10660</td>
         </tr>
@@ -801,7 +801,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/minoevee">minoevee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2401247822">1 other</a>)&nbsp;</td>
             <td>2014-03-21</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>4018</td>
         </tr>
@@ -911,7 +911,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EDC208">EDC208</a></td>
             <td>2022-01-14</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>2365</td>
         </tr>
@@ -977,7 +977,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mp3Pintyo">Mp3Pintyo</a></td>
             <td>2007-08-09</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2145</td>
         </tr>
@@ -1043,7 +1043,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coolcarchaser">coolcarchaser</a></td>
             <td>2022-06-13</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1904</td>
         </tr>
@@ -1109,7 +1109,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/homeopathy2010">homeopathy2010</a></td>
             <td>2010-01-28</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center">🔒</td>
             <td>1641</td>
         </tr>
@@ -1120,7 +1120,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_Carlos_The_Dog">_Carlos_The_Dog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1400561168440344578">1 other</a>)&nbsp;</td>
             <td>2021-06-03</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>1588</td>
         </tr>

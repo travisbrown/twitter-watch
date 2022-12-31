@@ -1061,7 +1061,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RiceKun">RiceKun</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/100603853">3 others</a>)&nbsp;</td>
             <td>2009-12-30</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>4014</td>
         </tr>
@@ -1215,7 +1215,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/many">many</a></td>
             <td>2007-03-24</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2995</td>
         </tr>

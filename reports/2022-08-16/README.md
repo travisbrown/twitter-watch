@@ -1060,7 +1060,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TexasJeff1">TexasJeff1</a></td>
             <td>2018-11-28</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>2087</td>
         </tr>

@@ -147,7 +147,7 @@ Found 1437 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SeyhanSoyluSisi">SeyhanSoyluSisi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/253199992">6 others</a>)&nbsp;</td>
             <td>2011-02-16</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>213694</td>
         </tr>

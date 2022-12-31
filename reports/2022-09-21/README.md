@@ -929,7 +929,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/senordinosaur">senordinosaur</a></td>
             <td>2010-03-22</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>19919</td>
         </tr>
@@ -2051,7 +2051,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SauloTBezerra">SauloTBezerra</a></td>
             <td>2009-11-18</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3751</td>
         </tr>

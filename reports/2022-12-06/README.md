@@ -420,7 +420,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SharksCoins">SharksCoins</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1568227771">2 others</a>)&nbsp;</td>
             <td>2013-07-04</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>128224</td>
         </tr>
@@ -508,7 +508,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/infovlogger36">infovlogger36</a></td>
             <td>2022-10-09</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>43359</td>
         </tr>
@@ -552,7 +552,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/k_bito">k_bito</a></td>
             <td>2009-12-23</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>31915</td>
         </tr>
@@ -1091,7 +1091,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alasansrohulzen">alasansrohulzen</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1493585854014832643">1 other</a>)&nbsp;</td>
             <td>2022-02-15</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3761</td>
         </tr>
@@ -1344,7 +1344,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LazyGaga10">LazyGaga10</a></td>
             <td>2020-12-03</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>2935</td>
         </tr>
@@ -2521,7 +2521,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheOnnax">TheOnnax</a></td>
             <td>2015-03-06</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1078</td>
         </tr>

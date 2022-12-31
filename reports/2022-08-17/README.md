@@ -1729,7 +1729,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ps1ack">ps1ack</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>2562</td>
         </tr>
@@ -1751,7 +1751,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Crusher696969">Crusher696969</a></td>
             <td>2022-01-15</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2463</td>
         </tr>

@@ -366,7 +366,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_Hydrochloric">_Hydrochloric</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1067068738455916545">2 others</a>)&nbsp;</td>
             <td>2018-11-26</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>19985</td>
         </tr>
@@ -608,7 +608,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/doesbud">doesbud</a></td>
             <td>2014-11-02</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>4051</td>
         </tr>

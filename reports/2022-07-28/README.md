@@ -2149,7 +2149,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/canalpuntocl">canalpuntocl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/8115702">1 other</a>)&nbsp;</td>
             <td>2007-08-11</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2924</td>
         </tr>

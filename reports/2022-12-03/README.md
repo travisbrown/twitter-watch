@@ -858,7 +858,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/carlos_jb_paz">carlos_jb_paz</a></td>
             <td>2009-09-18</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>10708</td>
         </tr>
@@ -1078,7 +1078,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SMArikat">SMArikat</a></td>
             <td>2011-02-28</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>5460</td>
         </tr>
@@ -1837,7 +1837,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0x54821BIGWIN">0x54821BIGWIN</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/70892283">2 others</a>)&nbsp;</td>
             <td>2009-09-02</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1946</td>
         </tr>
@@ -2519,7 +2519,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ph0sph0rescent">ph0sph0rescent</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/14574167">2 others</a>)&nbsp;</td>
             <td>2008-04-28</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1273</td>
         </tr>

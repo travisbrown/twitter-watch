@@ -673,7 +673,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gafr60">gafr60</a></td>
             <td>2012-07-28</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>7887</td>
         </tr>
@@ -1190,7 +1190,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Aiolias_">Aiolias_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4879303037">1 other</a>)&nbsp;</td>
             <td>2016-02-05</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>2558</td>
         </tr>
@@ -1773,7 +1773,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lucky_asfuck">lucky_asfuck</a></td>
             <td>2009-01-14</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1469</td>
         </tr>

@@ -244,7 +244,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/XtraSpor">XtraSpor</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/209177583">17 others</a>)&nbsp;</td>
             <td>2010-10-28</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>303507</td>
         </tr>
@@ -420,7 +420,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VinovinWines">VinovinWines</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/182446919">3 others</a>)&nbsp;</td>
             <td>2010-08-24</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>19302</td>
         </tr>

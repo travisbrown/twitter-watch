@@ -1165,7 +1165,7 @@ Found 812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/manyxvoices">manyxvoices</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2740736956">1 other</a>)&nbsp;</td>
             <td>2014-08-12</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1591</td>
         </tr>

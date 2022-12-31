@@ -1423,7 +1423,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/faleflix">faleflix</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4255025187">1 other</a>)&nbsp;</td>
             <td>2015-11-23</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>4140</td>
         </tr>

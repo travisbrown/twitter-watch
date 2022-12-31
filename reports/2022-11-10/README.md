@@ -1495,7 +1495,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SKeithPryor">SKeithPryor</a></td>
             <td>2013-10-07</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>12419</td>
         </tr>
@@ -1847,7 +1847,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/digitalhen">digitalhen</a></td>
             <td>2007-05-25</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center">✔️</td>
             <td>6016</td>
         </tr>
@@ -2177,7 +2177,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tetsuyan1112">tetsuyan1112</a></td>
             <td>2011-04-19</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>4067</td>
         </tr>
@@ -2507,7 +2507,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ForensicDocExam">ForensicDocExam</a></td>
             <td>2010-04-08</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2798</td>
         </tr>

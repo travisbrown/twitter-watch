@@ -1173,7 +1173,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/juanlulacala">juanlulacala</a></td>
             <td>2011-04-16</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3691</td>
         </tr>
@@ -2471,7 +2471,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/some_art_byAKJ">some_art_byAKJ</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1073530603">4 others</a>)&nbsp;</td>
             <td>2013-01-09</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1050</td>
         </tr>

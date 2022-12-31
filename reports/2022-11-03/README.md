@@ -2305,7 +2305,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LAComedyAwards">LAComedyAwards</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18383161">2 others</a>)&nbsp;</td>
             <td>2008-12-26</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1511</td>
         </tr>

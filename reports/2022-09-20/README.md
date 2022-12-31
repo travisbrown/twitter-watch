@@ -1313,7 +1313,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jcd46">jcd46</a></td>
             <td>2011-04-14</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>6480</td>
         </tr>
@@ -1544,7 +1544,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lilianrose50">Lilianrose50</a></td>
             <td>2010-05-27</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>4367</td>
         </tr>
@@ -2072,7 +2072,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MannyCortez">MannyCortez</a></td>
             <td>2009-03-20</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2479</td>
         </tr>

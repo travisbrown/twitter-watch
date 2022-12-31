@@ -1016,7 +1016,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SonofKrypton90">SonofKrypton90</a></td>
             <td>2020-01-14</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>2074</td>
         </tr>

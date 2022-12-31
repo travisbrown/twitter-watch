@@ -572,7 +572,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DowdEdward">DowdEdward</a></td>
             <td>2013-07-05</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>90873</td>
         </tr>

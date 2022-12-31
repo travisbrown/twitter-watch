@@ -1418,7 +1418,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RetnoIkaS">RetnoIkaS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/19579456">1 other</a>)&nbsp;</td>
             <td>2009-01-27</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>4547</td>
         </tr>
@@ -2210,7 +2210,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alohaupdate">alohaupdate</a></td>
             <td>2009-10-15</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2671</td>
         </tr>
@@ -5642,7 +5642,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZeitgeistOyster">ZeitgeistOyster</a></td>
             <td>2021-10-17</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1380</td>
         </tr>

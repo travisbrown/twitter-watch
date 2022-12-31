@@ -808,7 +808,7 @@ Found 882 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KLVeritas">KLVeritas</a></td>
             <td>2021-10-01</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>14574</td>
         </tr>

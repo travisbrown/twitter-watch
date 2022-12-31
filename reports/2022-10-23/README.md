@@ -1032,7 +1032,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nean">nean</a></td>
             <td>2007-04-16</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3143</td>
         </tr>
@@ -1109,7 +1109,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Reelsmatic">Reelsmatic</a></td>
             <td>2011-02-24</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2716</td>
         </tr>
@@ -1252,7 +1252,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tom1776Jeff">Tom1776Jeff</a></td>
             <td>2022-07-04</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>2135</td>
         </tr>

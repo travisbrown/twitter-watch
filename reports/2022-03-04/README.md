@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NaveOfer">NaveOfer</a></td>
             <td>2021-05-02</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>256</td>
             <td>2952</td>

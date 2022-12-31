@@ -689,7 +689,7 @@ Found 1162 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/celsoeduadvogad">celsoeduadvogad</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/159655642">1 other</a>)&nbsp;</td>
             <td>2010-06-26</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>23364</td>
         </tr>
@@ -843,7 +843,7 @@ Found 1162 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AngelaNaeth">AngelaNaeth</a></td>
             <td>2009-07-03</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>7369</td>
         </tr>
@@ -1624,7 +1624,7 @@ Found 1162 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/johngatti2">johngatti2</a></td>
             <td>2013-01-15</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1300</td>
         </tr>
@@ -1657,7 +1657,7 @@ Found 1162 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NONE_YA_BIZ">NONE_YA_BIZ</a></td>
             <td>2010-11-29</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>1259</td>
         </tr>

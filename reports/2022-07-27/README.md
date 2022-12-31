@@ -1112,7 +1112,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gok_Budun">Gok_Budun</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/106438093">2 others</a>)&nbsp;</td>
             <td>2010-01-19</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>46655</td>
         </tr>

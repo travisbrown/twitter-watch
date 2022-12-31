@@ -2138,7 +2138,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Knightkore">Knightkore</a></td>
             <td>2012-09-11</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2171</td>
         </tr>

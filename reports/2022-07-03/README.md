@@ -52,7 +52,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BronzeAgeSP">BronzeAgeSP</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1100437534365155328">1 other</a>)&nbsp;</td>
             <td>2019-02-26</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1056</td>
             <td>2451</td>

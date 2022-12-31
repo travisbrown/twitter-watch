@@ -836,7 +836,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/accidntlmystic">accidntlmystic</a></td>
             <td>2009-08-20</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>18755</td>
         </tr>
@@ -1375,7 +1375,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Timido762">Timido762</a></td>
             <td>2019-04-15</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>3994</td>
         </tr>
@@ -2101,7 +2101,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DORAYMOND28">DORAYMOND28</a></td>
             <td>2016-02-17</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>1727</td>
         </tr>

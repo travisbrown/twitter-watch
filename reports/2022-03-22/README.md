@@ -2065,7 +2065,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sidolooo">Sidolooo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3129643224">3 others</a>)&nbsp;</td>
             <td>2015-04-02</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center">🔒</td>
             <td>1353</td>
         </tr>

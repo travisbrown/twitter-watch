@@ -1094,7 +1094,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/derro13ar">derro13ar</a></td>
             <td>2009-12-16</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>10290</td>
         </tr>
@@ -1116,7 +1116,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ariesprm">ariesprm</a></td>
             <td>2010-01-17</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>9941</td>
         </tr>
@@ -1490,7 +1490,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fcprado">fcprado</a></td>
             <td>2009-06-19</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>5398</td>
         </tr>
@@ -2964,7 +2964,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mateusfjr">mateusfjr</a></td>
             <td>2007-05-29</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2585</td>
         </tr>
@@ -4471,7 +4471,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/markinho1970">markinho1970</a></td>
             <td>2009-04-20</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1409</td>
         </tr>
@@ -4790,7 +4790,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/robinistt">robinistt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3645890723">7 others</a>)&nbsp;</td>
             <td>2015-09-13</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>1270</td>
         </tr>

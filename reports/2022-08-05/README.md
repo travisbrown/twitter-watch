@@ -940,7 +940,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JesslovesMJK">JesslovesMJK</a></td>
             <td>2022-04-29</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>27965</td>
         </tr>
@@ -1226,7 +1226,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rowd63">rowd63</a></td>
             <td>2014-06-17</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>4322</td>
         </tr>
@@ -2238,7 +2238,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hawapowa_">hawapowa_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/827413622821261312">3 others</a>)&nbsp;</td>
             <td>2017-02-03</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1149</td>
         </tr>

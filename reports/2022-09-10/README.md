@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CurtainsRoast">CurtainsRoast</a></td>
             <td>2019-01-22</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>346</td>
             <td>2953</td>
@@ -689,7 +689,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MARCOPOLOTOTTI">MARCOPOLOTOTTI</a></td>
             <td>2009-05-07</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>21884</td>
         </tr>
@@ -744,7 +744,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SEGUNDOJR">SEGUNDOJR</a></td>
             <td>2009-05-03</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>19469</td>
         </tr>
@@ -799,7 +799,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rmexel">rmexel</a></td>
             <td>2009-07-12</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>14064</td>
         </tr>
@@ -810,7 +810,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Oneill60">Oneill60</a></td>
             <td>2009-07-07</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>14024</td>
         </tr>
@@ -865,7 +865,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/depijama">depijama</a></td>
             <td>2008-11-28</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>12215</td>
         </tr>
@@ -1129,7 +1129,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ULYSSESREZENDE">ULYSSESREZENDE</a></td>
             <td>2010-08-06</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>5896</td>
         </tr>
@@ -1987,7 +1987,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aurilio">aurilio</a></td>
             <td>2009-04-05</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2833</td>
         </tr>
@@ -2559,7 +2559,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ANDERSONTEDDY">ANDERSONTEDDY</a></td>
             <td>2009-04-21</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1791</td>
         </tr>

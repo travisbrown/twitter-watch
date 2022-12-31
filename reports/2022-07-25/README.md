@@ -1745,7 +1745,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/be_loved_freak">be_loved_freak</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/15603207">1 other</a>)&nbsp;</td>
             <td>2008-07-25</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3623</td>
         </tr>

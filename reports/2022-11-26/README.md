@@ -1664,7 +1664,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brianna_haag">brianna_haag</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/23826668">1 other</a>)&nbsp;</td>
             <td>2009-03-11</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1918</td>
         </tr>

@@ -1869,7 +1869,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coachsleaze">coachsleaze</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/173134925">25 others</a>)&nbsp;</td>
             <td>2010-07-31</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2743</td>
         </tr>

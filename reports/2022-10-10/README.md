@@ -40,7 +40,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/One1Samurai">One1Samurai</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1438891318088847367">1 other</a>)&nbsp;</td>
             <td>2021-09-17</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>220</td>
             <td>1259</td>

@@ -2319,7 +2319,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sexyanimegamer">sexyanimegamer</a></td>
             <td>2020-08-19</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>2454</td>
         </tr>

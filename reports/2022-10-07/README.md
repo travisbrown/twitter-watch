@@ -1831,7 +1831,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jontheharris">jontheharris</a></td>
             <td>2018-02-20</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1365</td>
         </tr>
@@ -1842,7 +1842,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VanityGenocide">VanityGenocide</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/838517089">2 others</a>)&nbsp;</td>
             <td>2012-09-21</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>1358</td>
         </tr>

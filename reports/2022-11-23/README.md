@@ -1091,7 +1091,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TopLOVETop4">TopLOVETop4</a></td>
             <td>2021-04-06</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>14914</td>
         </tr>
@@ -1157,7 +1157,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aamnamc">aamnamc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/106033087">5 others</a>)&nbsp;</td>
             <td>2010-01-18</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>11804</td>
         </tr>
@@ -1201,7 +1201,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lexfri">lexfri</a></td>
             <td>2007-02-21</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>10469</td>
         </tr>
@@ -1707,7 +1707,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Iambabakudu">Iambabakudu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/39460770">4 others</a>)&nbsp;</td>
             <td>2009-05-12</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>3697</td>
         </tr>

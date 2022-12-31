@@ -626,7 +626,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/molsjames">molsjames</a></td>
             <td>2015-12-25</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>34227</td>
         </tr>
@@ -648,7 +648,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zheosho">zheosho</a></td>
             <td>2009-11-16</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>25202</td>
         </tr>
@@ -681,7 +681,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/carloslesskiu">carloslesskiu</a></td>
             <td>2010-11-20</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>16521</td>
         </tr>

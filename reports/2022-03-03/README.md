@@ -751,7 +751,7 @@ Found 691 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/solidether">solidether</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/289037202">1 other</a>)&nbsp;</td>
             <td>2011-04-27</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>5063</td>
         </tr>
@@ -762,7 +762,7 @@ Found 691 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/psorgenfrei">psorgenfrei</a></td>
             <td>2007-04-10</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>4455</td>
         </tr>

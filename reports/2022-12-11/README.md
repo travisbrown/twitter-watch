@@ -1394,7 +1394,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Obasavvy">Obasavvy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1255127786391396357">1 other</a>)&nbsp;</td>
             <td>2020-04-28</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center">🔒</td>
             <td>1256</td>
         </tr>

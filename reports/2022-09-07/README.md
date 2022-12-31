@@ -1840,7 +1840,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Xenos_RIFS">Xenos_RIFS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/797614652">1 other</a>)&nbsp;</td>
             <td>2012-09-02</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>1154</td>
         </tr>

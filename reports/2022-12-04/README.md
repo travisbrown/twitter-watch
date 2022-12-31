@@ -939,7 +939,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoNetworkss">CryptoNetworkss</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/793151549480505344">3 others</a>)&nbsp;</td>
             <td>2016-10-31</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>4729</td>
         </tr>
@@ -2127,7 +2127,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/conflictedbg">conflictedbg</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/69936529">2 others</a>)&nbsp;</td>
             <td>2009-08-29</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1161</td>
         </tr>

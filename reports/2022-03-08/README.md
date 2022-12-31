@@ -573,7 +573,7 @@ Found 480 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VigilantFox">VigilantFox</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/191871143">1 other</a>)&nbsp;</td>
             <td>2010-09-17</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>44795</td>
         </tr>

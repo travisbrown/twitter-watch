@@ -474,7 +474,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stephanieseneff">stephanieseneff</a></td>
             <td>2011-01-07</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>26556</td>
         </tr>

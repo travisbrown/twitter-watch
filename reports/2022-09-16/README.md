@@ -1247,7 +1247,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/diegovalle_LTHM">diegovalle_LTHM</a></td>
             <td>2009-03-18</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>9586</td>
         </tr>
@@ -1533,7 +1533,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/exvivo">exvivo</a></td>
             <td>2009-03-07</td>
-            <td></td>
+            <td>2022-12-28</td>
             <td align="center"></td>
             <td>3695</td>
         </tr>

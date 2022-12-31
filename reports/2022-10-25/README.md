@@ -1931,7 +1931,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sunainaachadha">sunainaachadha</a></td>
             <td>2009-04-30</td>
-            <td></td>
+            <td>2022-12-29</td>
             <td align="center"></td>
             <td>2263</td>
         </tr>
@@ -2492,7 +2492,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/woshingtonrs">woshingtonrs</a></td>
             <td>2008-11-16</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>1296</td>
         </tr>

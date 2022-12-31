@@ -2125,7 +2125,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PalaceOfStone">PalaceOfStone</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/35875573">2 others</a>)&nbsp;</td>
             <td>2009-04-27</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>2111</td>
         </tr>

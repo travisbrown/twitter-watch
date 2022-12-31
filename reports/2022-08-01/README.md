@@ -714,7 +714,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/figuregirl774">figuregirl774</a></td>
             <td>2021-10-05</td>
-            <td></td>
+            <td>2022-12-26</td>
             <td align="center"></td>
             <td>6425</td>
         </tr>

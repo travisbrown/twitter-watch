@@ -891,7 +891,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TexasLindsay_">TexasLindsay_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/499479056">3 others</a>)&nbsp;</td>
             <td>2012-02-22</td>
-            <td></td>
+            <td>2022-12-27</td>
             <td align="center"></td>
             <td>25533</td>
         </tr>
