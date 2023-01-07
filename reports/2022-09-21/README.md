@@ -1094,7 +1094,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/paulbarret5">paulbarret5</a></td>
             <td>2016-06-08</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>12538</td>
         </tr>
@@ -1765,7 +1765,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mufcLandoFan">mufcLandoFan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/543618370">4 others</a>)&nbsp;</td>
             <td>2012-04-02</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4793</td>
         </tr>
@@ -1842,7 +1842,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HedgewitchKelly">HedgewitchKelly</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/233216276">4 others</a>)&nbsp;</td>
             <td>2011-01-02</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4508</td>
         </tr>
@@ -2106,7 +2106,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nandabatt">nandabatt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2542093570">1 other</a>)&nbsp;</td>
             <td>2014-05-12</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3651</td>
         </tr>
@@ -3272,7 +3272,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/duarteluz11">duarteluz11</a></td>
             <td>2017-03-31</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1966</td>
         </tr>
@@ -3811,7 +3811,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/QuintzoBR">QuintzoBR</a></td>
             <td>2015-03-20</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1540</td>
         </tr>

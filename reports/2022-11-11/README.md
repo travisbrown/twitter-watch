@@ -865,7 +865,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thenidhii">thenidhii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/732251997957672960">1 other</a>)&nbsp;</td>
             <td>2016-05-16</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>30325</td>
         </tr>

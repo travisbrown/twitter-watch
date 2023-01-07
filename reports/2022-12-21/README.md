@@ -833,7 +833,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SiobahnVisconti">SiobahnVisconti</a></td>
             <td>2020-01-21</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>2581</td>
         </tr>
@@ -1218,7 +1218,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/A_Shufflebotham">A_Shufflebotham</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1483</td>
         </tr>

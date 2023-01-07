@@ -1233,7 +1233,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Neon_verse_NFTs">Neon_verse_NFTs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/708702953138425857">16 others</a>)&nbsp;</td>
             <td>2016-03-12</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3932</td>
         </tr>
@@ -1321,7 +1321,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UnaiTupinambas">UnaiTupinambas</a></td>
             <td>2012-01-03</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>3514</td>
         </tr>
@@ -1365,7 +1365,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/M_artinKeown">M_artinKeown</a></td>
             <td>2012-01-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3201</td>
         </tr>
@@ -2432,7 +2432,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Blood_Hound13">Blood_Hound13</a></td>
             <td>2018-06-07</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1331</td>
         </tr>
@@ -2597,7 +2597,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LzkGaming">LzkGaming</a></td>
             <td>2016-04-02</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1118</td>
         </tr>
@@ -2828,7 +2828,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cafunelson">cafunelson</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/552691056">1 other</a>)&nbsp;</td>
             <td>2012-04-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1012</td>
         </tr></table>

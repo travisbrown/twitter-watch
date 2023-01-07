@@ -1069,7 +1069,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_vanessaAdaeze1">_vanessaAdaeze1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/760067665805373440">10 others</a>)&nbsp;</td>
             <td>2016-08-01</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>13164</td>
         </tr>

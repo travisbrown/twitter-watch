@@ -1782,7 +1782,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RestoreMthwakaz">RestoreMthwakaz</a></td>
             <td>2020-12-27</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>2255</td>
         </tr>
@@ -1958,7 +1958,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EvaElrih">EvaElrih</a></td>
             <td>2011-07-16</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1927</td>
         </tr>

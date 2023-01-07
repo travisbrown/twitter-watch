@@ -1254,7 +1254,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PrivaCat">PrivaCat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2600645750">1 other</a>)&nbsp;</td>
             <td>2014-07-02</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2426</td>
         </tr>

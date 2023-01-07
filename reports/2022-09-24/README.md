@@ -2014,7 +2014,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/keiner187">keiner187</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/998597455053836288">3 others</a>)&nbsp;</td>
             <td>2018-05-21</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1056</td>
         </tr>

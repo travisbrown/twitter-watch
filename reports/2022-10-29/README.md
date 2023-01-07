@@ -6483,7 +6483,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DenSow57">DenSow57</a></td>
             <td>2017-01-15</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>5463</td>
         </tr>
@@ -9145,7 +9145,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NancyBurridge">NancyBurridge</a></td>
             <td>2013-01-21</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3840</td>
         </tr>
@@ -11400,7 +11400,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mrscott304">mrscott304</a></td>
             <td>2012-01-17</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3147</td>
         </tr>
@@ -16427,7 +16427,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/luvindiemusic">luvindiemusic</a></td>
             <td>2013-12-08</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2357</td>
         </tr>
@@ -28252,7 +28252,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/77777rep">77777rep</a></td>
             <td>2016-12-16</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1424</td>
         </tr>
@@ -36227,7 +36227,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RastaGrand">RastaGrand</a></td>
             <td>2020-06-29</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1068</td>
         </tr>

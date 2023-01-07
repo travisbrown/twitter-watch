@@ -2361,7 +2361,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShitCoin69">ShitCoin69</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2833268018">4 others</a>)&nbsp;</td>
             <td>2014-09-26</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2077</td>
         </tr>

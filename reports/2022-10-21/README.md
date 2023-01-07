@@ -1105,7 +1105,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mehulmpt">mehulmpt</a></td>
             <td>2012-02-11</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>9151</td>
         </tr>
@@ -1391,7 +1391,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/beatredundancyb">beatredundancyb</a></td>
             <td>2012-02-11</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3373</td>
         </tr>

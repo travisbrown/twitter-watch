@@ -950,7 +950,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kai_ri_0001">kai_ri_0001</a></td>
             <td>2016-03-08</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>18365</td>
         </tr>
@@ -1764,7 +1764,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dogibobi">dogibobi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2375980414">11 others</a>)&nbsp;</td>
             <td>2014-03-02</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2708</td>
         </tr>

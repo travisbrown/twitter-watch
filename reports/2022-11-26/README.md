@@ -1015,7 +1015,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jdminiatures">jdminiatures</a></td>
             <td>2013-03-17</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>5730</td>
         </tr>
@@ -2214,7 +2214,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JesseJamesreal4">JesseJamesreal4</a></td>
             <td>2022-04-10</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1110</td>
         </tr>

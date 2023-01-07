@@ -805,7 +805,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/John_Inubook">John_Inubook</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1395815433631117313">1 other</a>)&nbsp;</td>
             <td>2021-05-21</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4441</td>
         </tr>

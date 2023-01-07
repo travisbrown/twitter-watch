@@ -1148,7 +1148,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/luchotebar">luchotebar</a></td>
             <td>2016-01-04</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>10728</td>
         </tr>
@@ -1621,7 +1621,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NTarpom">NTarpom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1136874895">1 other</a>)&nbsp;</td>
             <td>2013-01-31</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3790</td>
         </tr>
@@ -2006,7 +2006,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaEldite">DaEldite</a></td>
             <td>2013-05-22</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2681</td>
         </tr>
@@ -2292,7 +2292,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DulaAdem2015">DulaAdem2015</a></td>
             <td>2016-08-04</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2120</td>
         </tr>
@@ -2424,7 +2424,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChadaRenato">ChadaRenato</a></td>
             <td>2016-09-21</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1922</td>
         </tr>

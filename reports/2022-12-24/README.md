@@ -259,7 +259,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kingdroyalty1">kingdroyalty1</a></td>
             <td>2012-06-06</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>40620</td>
         </tr>
@@ -358,7 +358,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CalBPromo">CalBPromo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1369983102467067913">1 other</a>)&nbsp;</td>
             <td>2021-03-11</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>12847</td>
         </tr>
@@ -941,7 +941,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EdgyTnn">EdgyTnn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2716864274">3 others</a>)&nbsp;</td>
             <td>2014-08-08</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1393</td>
         </tr>
@@ -1172,7 +1172,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheOnlyJosh2">TheOnlyJosh2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/582343799">1 other</a>)&nbsp;</td>
             <td>2012-05-17</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1044</td>
         </tr>

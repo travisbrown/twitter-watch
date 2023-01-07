@@ -1394,7 +1394,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheirWarHere">TheirWarHere</a></td>
             <td>2011-10-11</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3898</td>
         </tr>

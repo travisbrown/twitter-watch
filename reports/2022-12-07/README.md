@@ -1250,7 +1250,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreeRangeChcken">FreeRangeChcken</a></td>
             <td>2015-01-03</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3409</td>
         </tr>

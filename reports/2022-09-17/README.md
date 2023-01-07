@@ -819,7 +819,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/criseliza2009">criseliza2009</a></td>
             <td>2012-08-01</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>17464</td>
         </tr>
@@ -995,7 +995,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fuknutz">Fuknutz</a></td>
             <td>2008-03-27</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>5994</td>
         </tr>

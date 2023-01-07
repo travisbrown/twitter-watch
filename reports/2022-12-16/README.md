@@ -994,7 +994,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JamesFourM">JamesFourM</a></td>
             <td>2017-01-06</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>47876</td>
         </tr>
@@ -1357,7 +1357,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bizconsultantpk">bizconsultantpk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/24841139">1 other</a>)&nbsp;</td>
             <td>2009-03-17</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>7330</td>
         </tr>
@@ -1852,7 +1852,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/passthebeano">passthebeano</a></td>
             <td>2014-07-30</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3002</td>
         </tr>
@@ -2303,7 +2303,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rmiryanti">rmiryanti</a></td>
             <td>2014-04-17</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1954</td>
         </tr>
@@ -2798,7 +2798,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PickEmLegend">PickEmLegend</a></td>
             <td>2014-03-10</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1507</td>
         </tr>

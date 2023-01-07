@@ -1705,7 +1705,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/orangeorchards">orangeorchards</a></td>
             <td>2009-04-27</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center">🔒</td>
             <td>2160</td>
         </tr>
@@ -1815,7 +1815,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/togatuskappa">togatuskappa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1477895516482465799">1 other</a>)&nbsp;</td>
             <td>2022-01-03</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2010</td>
         </tr>

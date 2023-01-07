@@ -1415,7 +1415,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SidneyBeff">SidneyBeff</a></td>
             <td>2013-10-21</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>4050</td>
         </tr>
@@ -1536,7 +1536,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThePeedz">ThePeedz</a></td>
             <td>2015-03-03</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3810</td>
         </tr>
@@ -2053,7 +2053,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sueli45717225">Sueli45717225</a></td>
             <td>2019-03-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2702</td>
         </tr>

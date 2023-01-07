@@ -436,7 +436,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HelicoptersofDC">HelicoptersofDC</a></td>
             <td>2020-01-13</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>15592</td>
         </tr>
@@ -447,7 +447,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AtheistEngineer">AtheistEngineer</a></td>
             <td>2014-07-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center">🔒</td>
             <td>14525</td>
         </tr>
@@ -557,7 +557,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AgostoAllElite">AgostoAllElite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1236765701530157057">2 others</a>)&nbsp;</td>
             <td>2020-03-08</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>7643</td>
         </tr>
@@ -1162,7 +1162,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HegelwCrmCheese">HegelwCrmCheese</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/701229127597215744">2 others</a>)&nbsp;</td>
             <td>2016-02-21</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1980</td>
         </tr>

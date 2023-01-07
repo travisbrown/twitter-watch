@@ -508,7 +508,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmantesNatacion">AmantesNatacion</a></td>
             <td>2011-08-08</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>11990</td>
         </tr>
@@ -871,7 +871,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ElleWifeSF">ElleWifeSF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/781029062">9 others</a>)&nbsp;</td>
             <td>2012-08-25</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>3902</td>
         </tr>
@@ -1377,7 +1377,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coenraadjordaan">coenraadjordaan</a></td>
             <td>2016-05-14</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1513</td>
         </tr>

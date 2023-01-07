@@ -1698,7 +1698,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dailyummah">dailyummah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2685163394">1 other</a>)&nbsp;</td>
             <td>2014-07-27</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>7602</td>
         </tr>
@@ -2050,7 +2050,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VzlaAlLimit">VzlaAlLimit</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/830961698974601218">1 other</a>)&nbsp;</td>
             <td>2017-02-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4470</td>
         </tr>
@@ -2611,7 +2611,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/garishme">garishme</a></td>
             <td>2013-10-26</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2586</td>
         </tr>
@@ -2941,7 +2941,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IrinaAntony">IrinaAntony</a></td>
             <td>2011-06-29</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2114</td>
         </tr>

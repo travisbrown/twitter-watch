@@ -1102,7 +1102,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mamun2272">mamun2272</a></td>
             <td>2014-03-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>14159</td>
         </tr>
@@ -1993,7 +1993,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClarkGaybeul">ClarkGaybeul</a></td>
             <td>2015-06-19</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2254</td>
         </tr>

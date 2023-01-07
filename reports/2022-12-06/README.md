@@ -442,7 +442,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TextoSiri">TextoSiri</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3302217784">3 others</a>)&nbsp;</td>
             <td>2015-05-28</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>104404</td>
         </tr>
@@ -486,7 +486,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/summer_sequence">summer_sequence</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2989028990">1 other</a>)&nbsp;</td>
             <td>2015-01-18</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>55026</td>
         </tr>

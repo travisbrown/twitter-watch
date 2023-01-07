@@ -2470,7 +2470,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vikingbrute">vikingbrute</a></td>
             <td>2012-10-08</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1169</td>
         </tr>

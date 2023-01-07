@@ -955,7 +955,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JackBlaine3">JackBlaine3</a></td>
             <td>2015-09-09</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>20674</td>
         </tr>
@@ -2792,7 +2792,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cindy_mm99">Cindy_mm99</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/619491396">1 other</a>)&nbsp;</td>
             <td>2012-06-26</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1309</td>
         </tr>
@@ -3012,7 +3012,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JonoBone">JonoBone</a></td>
             <td>2011-05-25</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1172</td>
         </tr>

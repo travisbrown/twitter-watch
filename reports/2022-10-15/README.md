@@ -3444,7 +3444,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/akaolizzle">akaolizzle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2181394824">2 others</a>)&nbsp;</td>
             <td>2013-11-08</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1052</td>
         </tr>

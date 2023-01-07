@@ -2338,7 +2338,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lisaduke85">lisaduke85</a></td>
             <td>2011-11-28</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1599</td>
         </tr>

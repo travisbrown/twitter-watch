@@ -1512,7 +1512,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Iderlandio74">Iderlandio74</a></td>
             <td>2016-12-20</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>5132</td>
         </tr>
@@ -1589,7 +1589,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UlissesMPereira">UlissesMPereira</a></td>
             <td>2011-10-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4741</td>
         </tr>
@@ -1886,7 +1886,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PEDROCLAUDIAEH">PEDROCLAUDIAEH</a></td>
             <td>2011-08-09</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4093</td>
         </tr>
@@ -2370,7 +2370,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlvaromoreiraV">AlvaromoreiraV</a></td>
             <td>2015-06-03</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3350</td>
         </tr>
@@ -5065,7 +5065,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ADLEZ_AP">ADLEZ_AP</a></td>
             <td>2014-07-25</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1097</td>
         </tr>

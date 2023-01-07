@@ -189,7 +189,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blaze0497">blaze0497</a></td>
             <td>2015-01-16</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>30513</td>
         </tr>
@@ -838,7 +838,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/riteaparty">riteaparty</a></td>
             <td>2010-12-08</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>5470</td>
         </tr>

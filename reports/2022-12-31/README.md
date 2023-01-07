@@ -40,7 +40,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FreeNortherner">FreeNortherner</a></td>
             <td>2013-09-17</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4406</td>
             <td>1257</td>
@@ -249,7 +249,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lee_in_Iowa">Lee_in_Iowa</a></td>
             <td>2010-05-20</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>88309</td>
         </tr>
@@ -1173,7 +1173,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WomensRightsN0W">WomensRightsN0W</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1184339117594808320">2 others</a>)&nbsp;</td>
             <td>2019-10-16</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2197</td>
         </tr>

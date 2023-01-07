@@ -454,7 +454,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/geniuslawyer">geniuslawyer</a></td>
             <td>2011-11-09</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>12017</td>
         </tr>
@@ -487,7 +487,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AseelAbhar">AseelAbhar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/836967542312878080">1 other</a>)&nbsp;</td>
             <td>2017-03-01</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>11531</td>
         </tr>
@@ -586,7 +586,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mucagcebe">Mucagcebe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/884308728186626048">3 others</a>)&nbsp;</td>
             <td>2017-07-10</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>7630</td>
         </tr>
@@ -1202,7 +1202,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/robertb44619294">robertb44619294</a></td>
             <td>2018-05-17</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1720</td>
         </tr>

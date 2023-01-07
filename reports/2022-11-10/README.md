@@ -2012,7 +2012,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heardsstan">heardsstan</a></td>
             <td>2020-08-01</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>4924</td>
         </tr>

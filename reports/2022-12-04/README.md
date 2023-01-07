@@ -356,7 +356,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BBurakBey95">BBurakBey95</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/379875162">11 others</a>)&nbsp;</td>
             <td>2011-09-25</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>46620</td>
         </tr>

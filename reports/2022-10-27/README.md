@@ -1930,7 +1930,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarxistArtist">MarxistArtist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/709159044611776513">5 others</a>)&nbsp;</td>
             <td>2016-03-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3304</td>
         </tr>

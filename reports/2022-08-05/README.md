@@ -1611,7 +1611,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Freethewzrd">Freethewzrd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2216510433">3 others</a>)&nbsp;</td>
             <td>2013-12-09</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2039</td>
         </tr>

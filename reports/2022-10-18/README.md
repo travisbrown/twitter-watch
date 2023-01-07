@@ -850,7 +850,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClimateChange_p">ClimateChange_p</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3250947120">10 others</a>)&nbsp;</td>
             <td>2015-06-20</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>17222</td>
         </tr>
@@ -2104,7 +2104,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cibaghost">Cibaghost</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3087140809">5 others</a>)&nbsp;</td>
             <td>2015-03-15</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1546</td>
         </tr>

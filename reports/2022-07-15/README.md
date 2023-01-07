@@ -1792,7 +1792,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/COVIDData3">COVIDData3</a></td>
             <td>2020-05-30</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1736</td>
         </tr>

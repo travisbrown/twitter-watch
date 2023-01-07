@@ -1395,7 +1395,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bobbyjaytucker">bobbyjaytucker</a></td>
             <td>2011-10-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>20694</td>
         </tr>
@@ -3067,7 +3067,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TampaAHA">TampaAHA</a></td>
             <td>2014-01-16</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2615</td>
         </tr>
@@ -3573,7 +3573,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/writingkat63">writingkat63</a></td>
             <td>2012-02-03</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1991</td>
         </tr>

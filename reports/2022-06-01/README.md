@@ -52,7 +52,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/worldtourblues">worldtourblues</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1015295486612291585">18 others</a>)&nbsp;</td>
             <td>2018-07-06</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4939</td>
             <td>1286</td>

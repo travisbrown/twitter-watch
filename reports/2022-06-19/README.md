@@ -1208,7 +1208,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndrewKeywort11">AndrewKeywort11</a></td>
             <td>2021-01-13</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1266</td>
         </tr>

@@ -724,7 +724,7 @@ Found 1278 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/daniellederekxo">daniellederekxo</a></td>
             <td>2016-05-25</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>129575</td>
         </tr>

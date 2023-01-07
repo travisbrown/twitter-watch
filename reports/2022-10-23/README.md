@@ -724,7 +724,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AllOnFire">AllOnFire</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/414132529">1 other</a>)&nbsp;</td>
             <td>2011-11-16</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>11425</td>
         </tr>

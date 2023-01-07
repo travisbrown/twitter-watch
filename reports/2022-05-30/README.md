@@ -721,7 +721,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Scilynt">Scilynt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/15213286">1 other</a>)&nbsp;</td>
             <td>2008-06-23</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1736</td>
         </tr>

@@ -1337,7 +1337,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GeovaniGSo">GeovaniGSo</a></td>
             <td>2014-05-21</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>6588</td>
         </tr>
@@ -1689,7 +1689,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aura_rojas">aura_rojas</a></td>
             <td>2011-11-01</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>3153</td>
         </tr>
@@ -2723,7 +2723,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zandraob1">zandraob1</a></td>
             <td>2016-05-10</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1507</td>
         </tr>
@@ -2822,7 +2822,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mimia3003">mimia3003</a></td>
             <td>2013-03-17</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1401</td>
         </tr>

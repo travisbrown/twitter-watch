@@ -911,7 +911,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BacaDawn">BacaDawn</a></td>
             <td>2014-01-28</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>5589</td>
         </tr>
@@ -1527,7 +1527,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/quirkymentoring">quirkymentoring</a></td>
             <td>2014-11-13</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1601</td>
         </tr>
@@ -1659,7 +1659,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Themi_tee">Themi_tee</a></td>
             <td>2016-11-12</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1473</td>
         </tr>
@@ -2044,7 +2044,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/redscomics">redscomics</a></td>
             <td>2013-10-31</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1023</td>
         </tr>

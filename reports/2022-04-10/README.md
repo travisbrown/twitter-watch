@@ -1058,7 +1058,7 @@ Found 746 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NarkoTri1er">NarkoTri1er</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/863473368">6 others</a>)&nbsp;</td>
             <td>2012-10-05</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2014</td>
         </tr>

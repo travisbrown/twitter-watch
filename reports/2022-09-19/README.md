@@ -1822,7 +1822,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rita_tavora">rita_tavora</a></td>
             <td>2016-03-23</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1760</td>
         </tr>

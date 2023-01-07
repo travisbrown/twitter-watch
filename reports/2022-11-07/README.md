@@ -7754,7 +7754,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2030Agenda21">2030Agenda21</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/345414571">1 other</a>)&nbsp;</td>
             <td>2011-07-30</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1064</td>
         </tr>

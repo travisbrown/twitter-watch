@@ -1273,7 +1273,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KimDeokSo">KimDeokSo</a></td>
             <td>2018-05-03</td>
-            <td></td>
+            <td>2022-12-30</td>
             <td align="center"></td>
             <td>1018</td>
         </tr></table>

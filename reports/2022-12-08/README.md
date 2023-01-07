@@ -359,7 +359,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/erdierdogan24">erdierdogan24</a></td>
             <td>2012-09-14</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>104417</td>
         </tr>
@@ -1844,7 +1844,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Criminalista_Fo">Criminalista_Fo</a></td>
             <td>2016-12-14</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1232</td>
         </tr>

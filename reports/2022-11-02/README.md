@@ -1536,7 +1536,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Climate_News_a5">Climate_News_a5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4533979039">6 others</a>)&nbsp;</td>
             <td>2015-12-12</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4702</td>
         </tr>
@@ -1547,7 +1547,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Climate_News_a4">Climate_News_a4</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4442303187">6 others</a>)&nbsp;</td>
             <td>2015-12-10</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4659</td>
         </tr>
@@ -1591,7 +1591,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Climate_News_a9">Climate_News_a9</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/790037567232024577">3 others</a>)&nbsp;</td>
             <td>2016-10-23</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4467</td>
         </tr>
@@ -1635,7 +1635,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClimateNews_a13">ClimateNews_a13</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/784381125149888513">3 others</a>)&nbsp;</td>
             <td>2016-10-07</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>4110</td>
         </tr>
@@ -2163,7 +2163,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoselynRNPhD">JoselynRNPhD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1909406492">2 others</a>)&nbsp;</td>
             <td>2013-09-26</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center">🔒</td>
             <td>1720</td>
         </tr>

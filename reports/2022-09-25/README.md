@@ -697,7 +697,7 @@ Found 1437 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ECandella">ECandella</a></td>
             <td>2012-12-26</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2700</td>
         </tr>
@@ -928,7 +928,7 @@ Found 1437 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MexRenovable">MexRenovable</a></td>
             <td>2013-11-17</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1623</td>
         </tr>

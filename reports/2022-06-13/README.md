@@ -1510,7 +1510,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chaitra_09">Chaitra_09</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/594375712">5 others</a>)&nbsp;</td>
             <td>2012-05-30</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>11733</td>
         </tr>

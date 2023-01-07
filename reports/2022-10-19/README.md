@@ -797,7 +797,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HusnuGulez">HusnuGulez</a></td>
             <td>2015-11-29</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>46532</td>
         </tr>
@@ -1754,7 +1754,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blackcabjack">blackcabjack</a></td>
             <td>2015-06-16</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2213</td>
         </tr>
@@ -1787,7 +1787,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoachBossHogge">CoachBossHogge</a></td>
             <td>2015-08-06</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>2149</td>
         </tr>

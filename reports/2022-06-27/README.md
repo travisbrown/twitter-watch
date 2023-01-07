@@ -887,7 +887,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Isaac_de_Tormes">Isaac_de_Tormes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1216835154662035457">10 others</a>)&nbsp;</td>
             <td>2020-01-13</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>8195</td>
         </tr>

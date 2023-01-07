@@ -2988,7 +2988,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sayuchen_x3">Sayuchen_x3</a></td>
             <td>2016-01-26</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1173</td>
         </tr>
@@ -3076,7 +3076,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/General_Covfefe">General_Covfefe</a></td>
             <td>2021-07-03</td>
-            <td></td>
+            <td>2022-12-31</td>
             <td align="center"></td>
             <td>1106</td>
         </tr>

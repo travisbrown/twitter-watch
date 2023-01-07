@@ -5961,7 +5961,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/madebyjoanne">madebyjoanne</a></td>
             <td>2011-08-08</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1312</td>
         </tr>
@@ -7798,7 +7798,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sydneymarie_25">sydneymarie_25</a></td>
             <td>2012-09-03</td>
-            <td></td>
+            <td>2023-01-01</td>
             <td align="center"></td>
             <td>1046</td>
         </tr>
