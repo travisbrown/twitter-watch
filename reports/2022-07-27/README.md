@@ -3719,7 +3719,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Susanroshan_">Susanroshan_</a></td>
             <td>2021-10-27</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1273</td>
         </tr>
@@ -3939,7 +3939,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kachi_martin">kachi_martin</a></td>
             <td>2022-04-13</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1109</td>
         </tr>

@@ -2897,7 +2897,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/harveytitface">harveytitface</a></td>
             <td>2021-10-28</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1197</td>
         </tr>

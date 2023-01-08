@@ -40,7 +40,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FuroridaNoMaya">FuroridaNoMaya</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1045884442349326338">1 other</a>)&nbsp;</td>
             <td>2018-09-29</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>2336</td>
             <td>1650</td>

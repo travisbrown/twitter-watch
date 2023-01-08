@@ -750,7 +750,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/evitaresquerda">evitaresquerda</a></td>
             <td>2022-03-18</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>4853</td>
         </tr>

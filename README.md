@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 491355
-* Total number of suspension reversals detected: 24672
-* Mean number of followers for suspended accounts: 1529.07
-* Median number of followers for suspended accounts: 49.0
-* Mean age of suspended accounts (days): 1021.61
-* Median age of suspended accounts (days): 298.0
+* Total number of suspensions detected: 491372
+* Total number of suspension reversals detected: 26976
+* Mean number of followers for suspended accounts: 1521.62
+* Median number of followers for suspended accounts: 48.0
+* Mean age of suspended accounts (days): 1021.41
+* Median age of suspended accounts (days): 296.0
 * Total number of verified accounts suspended: 167
-* Total number of protected accounts suspended: 24338
+* Total number of protected accounts suspended: 24339
 * Total number of suspensions for accounts previously withheld in specific countries: 34
 * Total number of screen name changes detected: 966283
 
@@ -125,17 +125,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>149</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1151913018936053760">
-                <img src="https://pbs.twimg.com/profile_images/1567704552283193345/wMLFemzm_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/jacksonhinklle">jacksonhinklle</a></td>
-            <td>2019-07-18</td>
-            <td>2022-12-31</td>
-            <td>88116</td>
-            <td>166</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1393240605828993028">
                 <img src="https://pbs.twimg.com/profile_images/1549607701851807744/Ig2Z6_ar_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -178,17 +167,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-09-01</td>
             <td>81523</td>
             <td>197</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1517417467529805826">
-                <img src="https://pbs.twimg.com/profile_images/1517457391717130240/JaAYWZhZ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/GonzaloLira1968">GonzaloLira1968</a></td>
-            <td>2022-04-22</td>
-            <td>2022-09-13</td>
-            <td>69860</td>
-            <td>204</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4764958742">
@@ -277,6 +255,28 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-05-03</td>
             <td>56659</td>
             <td>248</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1263061223341506560">
+                <img src="https://pbs.twimg.com/profile_images/1319698929248862209/gFPGWxjV_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/WargarW">WargarW</a></td>
+            <td>2020-05-20</td>
+            <td>2022-04-08</td>
+            <td>40447</td>
+            <td>250</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1458246969990733828">
+                <img src="https://pbs.twimg.com/profile_images/1458251870766518274/liDRtnDH_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/vt_kek">vt_kek</a></td>
+            <td>2021-11-10</td>
+            <td>2022-09-16</td>
+            <td>25529</td>
+            <td>272</td>
         </tr></table>
 
 ## Daily reports
@@ -292,7 +292,7 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>
                 <a href="reports/2023-01-08/"> 8 January 2023</a>
             </td>
-            <td>491</td>
+            <td>513</td>
             <td>3</td>
             <td>0</td>
         </tr>

@@ -837,7 +837,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AyPompin">AyPompin</a></td>
             <td>2011-01-08</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>7328</td>
         </tr>
@@ -2443,7 +2443,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AdamHar30455563">AdamHar30455563</a></td>
             <td>2012-05-04</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>1237</td>
         </tr>

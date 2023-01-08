@@ -1047,7 +1047,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Aja02537920">Aja02537920</a></td>
             <td>2019-10-16</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>19436</td>
         </tr>

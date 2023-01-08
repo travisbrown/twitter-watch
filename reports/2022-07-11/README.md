@@ -320,7 +320,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MeegoArt">MeegoArt</a></td>
             <td>2018-06-18</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>14471</td>
         </tr>
@@ -672,7 +672,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CyberRhinoSquad">CyberRhinoSquad</a></td>
             <td>2022-01-23</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>4177</td>
         </tr>

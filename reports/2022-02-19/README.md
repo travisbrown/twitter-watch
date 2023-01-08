@@ -1262,7 +1262,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RothielNFT">RothielNFT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1329241942178357253">1 other</a>)&nbsp;</td>
             <td>2020-11-19</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1044</td>
         </tr>

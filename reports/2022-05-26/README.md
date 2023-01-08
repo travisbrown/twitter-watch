@@ -1688,7 +1688,7 @@ Found 882 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CptAncapistan">CptAncapistan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1347650475500462080">2 others</a>)&nbsp;</td>
             <td>2021-01-08</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1006</td>
         </tr>

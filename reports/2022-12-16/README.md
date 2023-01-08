@@ -895,7 +895,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MessiLeoBrasil">MessiLeoBrasil</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/983817485345574912">1 other</a>)&nbsp;</td>
             <td>2018-04-10</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>120021</td>
         </tr>
@@ -1313,7 +1313,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RachelBrookeMS">RachelBrookeMS</a></td>
             <td>2022-05-01</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>8842</td>
         </tr>
@@ -1577,7 +1577,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brighton_tz12">brighton_tz12</a></td>
             <td>2022-01-05</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>4094</td>
         </tr>
@@ -1599,7 +1599,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Postman_DAC">Postman_DAC</a></td>
             <td>2021-09-26</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>3902</td>
         </tr>
@@ -1918,7 +1918,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pearls_imabibo">Pearls_imabibo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1051021940914380800">1 other</a>)&nbsp;</td>
             <td>2018-10-13</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2913</td>
         </tr>
@@ -2391,7 +2391,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/oilnaturesgift">oilnaturesgift</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>1854</td>
         </tr>
@@ -3095,7 +3095,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClesterRebecca">ClesterRebecca</a></td>
             <td>2020-06-06</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1352</td>
         </tr>

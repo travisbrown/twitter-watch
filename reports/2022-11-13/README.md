@@ -88,7 +88,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/jmbenson1491">jmbenson1491</a></td>
             <td>2016-04-06</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>74559</td>
             <td>27686</td>

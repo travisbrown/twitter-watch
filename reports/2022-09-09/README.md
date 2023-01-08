@@ -830,7 +830,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NinaLuz23695256">NinaLuz23695256</a></td>
             <td>2019-02-08</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>20318</td>
         </tr>
@@ -1083,7 +1083,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MachadoDarlon">MachadoDarlon</a></td>
             <td>2020-10-19</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>10405</td>
         </tr>
@@ -2711,7 +2711,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Maria67128046">Maria67128046</a></td>
             <td>2019-12-05</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2895</td>
         </tr>
@@ -3470,7 +3470,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mephistopandora">mephistopandora</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/898976551609524224">1 other</a>)&nbsp;</td>
             <td>2017-08-19</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2141</td>
         </tr>
@@ -3701,7 +3701,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cristin81495053">cristin81495053</a></td>
             <td>2019-01-30</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1916</td>
         </tr>

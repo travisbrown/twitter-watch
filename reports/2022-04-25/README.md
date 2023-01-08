@@ -3636,7 +3636,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jaIenci">jaIenci</a></td>
             <td>2020-11-13</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1773</td>
         </tr>

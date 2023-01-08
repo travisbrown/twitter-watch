@@ -271,7 +271,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarlosSimancas">CarlosSimancas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/83148068">1 other</a>)&nbsp;</td>
             <td>2009-10-17</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>48658</td>
         </tr>

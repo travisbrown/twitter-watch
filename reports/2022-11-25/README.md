@@ -614,7 +614,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gud00c">gud00c</a></td>
             <td>2016-11-05</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>128919</td>
         </tr>
@@ -845,7 +845,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OppaiPantsuu">OppaiPantsuu</a></td>
             <td>2018-09-23</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>22167</td>
         </tr>
@@ -867,7 +867,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JobSeekersClub">JobSeekersClub</a></td>
             <td>2014-07-22</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>17712</td>
         </tr>
@@ -1175,7 +1175,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mumei518">mumei518</a></td>
             <td>2021-01-05</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>9163</td>
         </tr>

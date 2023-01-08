@@ -328,7 +328,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Dehneh1">Dehneh1</a></td>
             <td>2009-05-24</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>12395</td>
             <td>88718</td>
@@ -1704,7 +1704,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ElysianKid">ElysianKid</a></td>
             <td>2022-06-13</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>8253</td>
         </tr>
@@ -1858,7 +1858,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LenkhohaoHaokip">LenkhohaoHaokip</a></td>
             <td>2020-05-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>6015</td>
         </tr>
@@ -1913,7 +1913,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DeepstateU">DeepstateU</a></td>
             <td>2017-07-31</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>5543</td>
         </tr>
@@ -3288,7 +3288,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jr_vaine">jr_vaine</a></td>
             <td>2018-11-03</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1466</td>
         </tr>

@@ -1443,7 +1443,7 @@ Found 426 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BahadirUsa">BahadirUsa</a></td>
             <td>2017-08-01</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1133</td>
         </tr>

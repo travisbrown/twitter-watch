@@ -997,7 +997,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shchengcity">shchengcity</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1393084303181971456">2 others</a>)&nbsp;</td>
             <td>2021-05-14</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>33801</td>
         </tr>
@@ -1712,7 +1712,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aimenlau">aimenlau</a></td>
             <td>2018-08-29</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>4004</td>
         </tr>
@@ -1789,7 +1789,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chefabiofornazi">chefabiofornazi</a></td>
             <td>2016-05-23</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>3711</td>
         </tr>
@@ -1844,7 +1844,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joybusisiwe9">joybusisiwe9</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1225783372649238529">2 others</a>)&nbsp;</td>
             <td>2020-02-07</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>3366</td>
         </tr>
@@ -2394,7 +2394,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dandafam112">dandafam112</a></td>
             <td>2020-08-06</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2036</td>
         </tr>
@@ -2790,7 +2790,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EdZieralski">EdZieralski</a></td>
             <td>2012-05-01</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1590</td>
         </tr>

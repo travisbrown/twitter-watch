@@ -257,7 +257,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Levi_godman">Levi_godman</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3379259710">2 others</a>)&nbsp;</td>
             <td>2015-07-16</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>38281</td>
         </tr>

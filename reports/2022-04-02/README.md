@@ -673,7 +673,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/historyrock_">historyrock_</a></td>
             <td>2021-11-30</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>8597</td>
         </tr>

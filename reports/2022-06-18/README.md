@@ -1211,7 +1211,7 @@ Found 817 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CanadaSOS1">CanadaSOS1</a></td>
             <td>2022-01-14</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>4714</td>
         </tr>

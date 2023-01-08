@@ -1688,7 +1688,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KeithCo13883613">KeithCo13883613</a></td>
             <td>2021-11-21</td>
-            <td></td>
+            <td>2023-01-05</td>
             <td align="center"></td>
             <td>2270</td>
         </tr>
@@ -3492,7 +3492,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ETBUSA">ETBUSA</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1007</td>
         </tr>

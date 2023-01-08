@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (3)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (36)](#untracked-suspensions)
+* [Untracked suspensions (40)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -64,8 +64,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 365 suspensions for untracked accounts.
-36 accounts have more than 1000 followers and are included here.
+Found 382 suspensions for untracked accounts.
+40 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -276,13 +276,24 @@ Found 365 suspensions for untracked accounts.
             <td>3346</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=350472038">
+                <img src="https://pbs.twimg.com/profile_images/1523021107061796866/zI8SmQgS_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/itsAlienReborn">itsAlienReborn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/350472038">4 others</a>)&nbsp;</td>
+            <td>2011-08-07</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2786</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1493315886228381697">
                 <img src="https://pbs.twimg.com/profile_images/1557377456671268865/8H-V3Zrw_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/DocKellyVictory">DocKellyVictory</a></td>
             <td>2022-02-14</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2569</td>
         </tr>
@@ -296,6 +307,17 @@ Found 365 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>2488</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1526505683151212544">
+                <img src="https://pbs.twimg.com/profile_images/1553154535706836994/h8Hs581r_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/_KOORGAI">_KOORGAI</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1526505683151212544">1 other</a>)&nbsp;</td>
+            <td>2022-05-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2461</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1430467294338027523">
@@ -362,6 +384,17 @@ Found 365 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1840</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1479638082337001475">
+                <img src="https://pbs.twimg.com/profile_images/1479638193137930241/u-MueKl6_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Analypalma14">Analypalma14</a></td>
+            <td>2022-01-08</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1778</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1487660958646419456">
@@ -472,4 +505,15 @@ Found 365 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1192</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1087606185488977921">
+                <img src="https://pbs.twimg.com/profile_images/1590312395087421445/bKf1zUNd_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/kshuoikai">kshuoikai</a></td>
+            <td>2019-01-22</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1062</td>
         </tr></table>

@@ -240,7 +240,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yespunjab">yespunjab</a></td>
             <td>2010-12-10</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>114092</td>
         </tr>
@@ -713,7 +713,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brendxyz">brendxyz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/829599702">2 others</a>)&nbsp;</td>
             <td>2012-09-17</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>4110</td>
         </tr>
@@ -999,7 +999,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HODLpac">HODLpac</a></td>
             <td>2019-04-11</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>2625</td>
         </tr>
@@ -1285,7 +1285,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/piqsol">piqsol</a></td>
             <td>2021-11-03</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1828</td>
         </tr>
@@ -1835,7 +1835,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CeoBlockchaiin">CeoBlockchaiin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/808267740251234304">1 other</a>)&nbsp;</td>
             <td>2016-12-12</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1187</td>
         </tr>
@@ -1967,7 +1967,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AFEDAA22">AFEDAA22</a></td>
             <td>2021-07-21</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1121</td>
         </tr>

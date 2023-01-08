@@ -579,7 +579,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/csthetruth">csthetruth</a></td>
             <td>2016-10-26</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>26903</td>
         </tr>

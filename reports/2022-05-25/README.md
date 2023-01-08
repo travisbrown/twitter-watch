@@ -1087,7 +1087,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PauloCostaOfic2">PauloCostaOfic2</a></td>
             <td>2019-09-25</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>5996</td>
         </tr>
@@ -1593,7 +1593,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JehuDominion">JehuDominion</a></td>
             <td>2017-07-10</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2067</td>
         </tr>
@@ -1604,7 +1604,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FujimiNoTalal">FujimiNoTalal</a></td>
             <td>2020-05-28</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2064</td>
         </tr>

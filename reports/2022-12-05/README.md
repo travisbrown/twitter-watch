@@ -1134,7 +1134,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DogeRanch">DogeRanch</a></td>
             <td>2021-04-20</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>5393</td>
         </tr>
@@ -1156,7 +1156,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ASF_Hossein">ASF_Hossein</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1159765424260747264">1 other</a>)&nbsp;</td>
             <td>2019-08-09</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>4902</td>
         </tr>
@@ -1354,7 +1354,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/R_E_B_L_A_K">R_E_B_L_A_K</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1145839633315401728">1 other</a>)&nbsp;</td>
             <td>2019-07-01</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>3240</td>
         </tr>
@@ -1398,7 +1398,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SHIBROCKSTAR">SHIBROCKSTAR</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1438859701727363072">1 other</a>)&nbsp;</td>
             <td>2021-09-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>3148</td>
         </tr>
@@ -1453,7 +1453,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Qbenomics">Qbenomics</a></td>
             <td>2020-12-14</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2954</td>
         </tr>
@@ -1772,7 +1772,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Johnnydoge_76">Johnnydoge_76</a></td>
             <td>2022-04-09</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2132</td>
         </tr>
@@ -1783,7 +1783,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Explorer1Crypto">Explorer1Crypto</a></td>
             <td>2022-08-23</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2102</td>
         </tr>
@@ -1805,7 +1805,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CedJackson6">CedJackson6</a></td>
             <td>2020-04-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2056</td>
         </tr>
@@ -1871,7 +1871,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DForDogedetta">DForDogedetta</a></td>
             <td>2021-07-08</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1966</td>
         </tr>
@@ -2377,7 +2377,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iRanaDushyant">iRanaDushyant</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1517072282157412352">1 other</a>)&nbsp;</td>
             <td>2022-04-21</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1368</td>
         </tr>
@@ -2630,7 +2630,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/carlea007">carlea007</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1535436314547470337">1 other</a>)&nbsp;</td>
             <td>2022-06-11</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center">🔒</td>
             <td>1103</td>
         </tr>

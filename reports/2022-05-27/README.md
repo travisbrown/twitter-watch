@@ -590,7 +590,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlackPussyHeav1">BlackPussyHeav1</a></td>
             <td>2020-01-16</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>150602</td>
         </tr>

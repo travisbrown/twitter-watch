@@ -3150,7 +3150,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/manishcs198">manishcs198</a></td>
             <td>2011-01-16</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1596</td>
         </tr>

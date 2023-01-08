@@ -919,7 +919,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/estendenciavzl">estendenciavzl</a></td>
             <td>2020-05-26</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>117424</td>
         </tr>
@@ -1106,7 +1106,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YoungCopXXX">YoungCopXXX</a></td>
             <td>2022-08-07</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>23361</td>
         </tr>
@@ -2063,7 +2063,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bodhissatva89">Bodhissatva89</a></td>
             <td>2022-01-22</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>2175</td>
         </tr>

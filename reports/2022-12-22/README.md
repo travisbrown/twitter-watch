@@ -1370,7 +1370,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pella_ika">pella_ika</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1304733782554091521">7 others</a>)&nbsp;</td>
             <td>2020-09-12</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1727</td>
         </tr>
@@ -1381,7 +1381,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ekdjclr677">Ekdjclr677</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1550515392619155458">1 other</a>)&nbsp;</td>
             <td>2022-07-22</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1722</td>
         </tr>
@@ -1557,7 +1557,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/william13920646">william13920646</a></td>
             <td>2020-04-24</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>1510</td>
         </tr>
@@ -1612,7 +1612,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pandastoresza">pandastoresza</a></td>
             <td>2022-08-04</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1477</td>
         </tr>
@@ -1711,7 +1711,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/akinnapamaskoko">akinnapamaskoko</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1256601787550666753">19 others</a>)&nbsp;</td>
             <td>2020-05-02</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1364</td>
         </tr>
@@ -2272,7 +2272,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/saawinr">saawinr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1473524456672821253">1 other</a>)&nbsp;</td>
             <td>2021-12-22</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1031</td>
         </tr>

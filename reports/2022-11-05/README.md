@@ -1216,7 +1216,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MStognieva">MStognieva</a></td>
             <td>2020-07-26</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2439</td>
         </tr>
@@ -1271,7 +1271,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TzWhyte">TzWhyte</a></td>
             <td>2020-12-11</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2340</td>
         </tr>

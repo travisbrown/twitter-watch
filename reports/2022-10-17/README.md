@@ -2130,7 +2130,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lullabyliyah">lullabyliyah</a></td>
             <td>2021-08-23</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1090</td>
         </tr>

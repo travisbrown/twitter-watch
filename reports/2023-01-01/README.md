@@ -203,7 +203,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OOCprogresismo">OOCprogresismo</a></td>
             <td>2020-10-14</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>164748</td>
         </tr>
@@ -1050,7 +1050,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/muipoy">muipoy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/237180167">4 others</a>)&nbsp;</td>
             <td>2011-01-12</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>1079</td>
         </tr>

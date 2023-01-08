@@ -1505,7 +1505,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/monty_matte">monty_matte</a></td>
             <td>2022-04-10</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1696</td>
         </tr>
@@ -1538,7 +1538,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/latone">latone</a></td>
             <td>2007-04-10</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1595</td>
         </tr>

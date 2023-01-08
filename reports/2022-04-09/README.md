@@ -662,7 +662,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DefNotDarth">DefNotDarth</a></td>
             <td>2021-02-15</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>18364</td>
         </tr>

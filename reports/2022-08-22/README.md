@@ -607,7 +607,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/7nd_Lipi">7nd_Lipi</a></td>
             <td>2021-04-23</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>27018</td>
         </tr>
@@ -1322,7 +1322,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/touketubakkari">touketubakkari</a></td>
             <td>2021-07-27</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>3669</td>
         </tr>

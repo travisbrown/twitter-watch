@@ -1433,7 +1433,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BCorgi12">BCorgi12</a></td>
             <td>2017-12-20</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1079</td>
         </tr>

@@ -974,7 +974,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarineSangram">MarineSangram</a></td>
             <td>2019-06-30</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>2340</td>
         </tr>

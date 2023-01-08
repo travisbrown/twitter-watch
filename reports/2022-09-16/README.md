@@ -256,7 +256,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheOmniLiberal">TheOmniLiberal</a></td>
             <td>2021-02-02</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>95726</td>
             <td>58691</td>

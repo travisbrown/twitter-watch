@@ -444,7 +444,7 @@ Found 1437 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_realkally">_realkally</a></td>
             <td>2020-08-20</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>9554</td>
         </tr>

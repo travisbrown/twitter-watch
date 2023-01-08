@@ -2114,7 +2114,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Eastkubaman">Eastkubaman</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1521975811397496834">3 others</a>)&nbsp;</td>
             <td>2022-05-04</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2115</td>
         </tr>
@@ -2818,7 +2818,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jahu26260681">Jahu26260681</a></td>
             <td>2020-02-24</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1200</td>
         </tr>
@@ -3104,7 +3104,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Whatsgoodiazzz">Whatsgoodiazzz</a></td>
             <td>2021-10-13</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>1022</td>
         </tr>
@@ -3126,7 +3126,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SofaAssoc">SofaAssoc</a></td>
             <td>2018-04-29</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1019</td>
         </tr>

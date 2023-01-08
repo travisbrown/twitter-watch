@@ -615,7 +615,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShoppingDeal4U">ShoppingDeal4U</a></td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>12112</td>
         </tr>

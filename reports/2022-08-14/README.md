@@ -1100,7 +1100,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheGhostOfWings">TheGhostOfWings</a></td>
             <td>2022-05-17</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>3638</td>
         </tr>

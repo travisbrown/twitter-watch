@@ -1265,7 +1265,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheTransformiss">TheTransformiss</a></td>
             <td>2020-07-07</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>19097</td>
         </tr>

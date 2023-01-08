@@ -599,7 +599,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Moeen_Ali18">Moeen_Ali18</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1525225989260857344">2 others</a>)&nbsp;</td>
             <td>2022-05-13</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>5562</td>
         </tr>

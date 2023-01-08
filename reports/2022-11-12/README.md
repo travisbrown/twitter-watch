@@ -1309,7 +1309,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Betterw05759703">Betterw05759703</a></td>
             <td>2015-09-03</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center">🔒</td>
             <td>16849</td>
         </tr>
@@ -1606,7 +1606,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chase_murder">chase_murder</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1274536555726557184">2 others</a>)&nbsp;</td>
             <td>2020-06-21</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>4155</td>
         </tr>

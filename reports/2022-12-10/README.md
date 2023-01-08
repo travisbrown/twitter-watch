@@ -728,7 +728,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StarApesNFT">StarApesNFT</a></td>
             <td>2022-04-29</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>6827</td>
         </tr>
@@ -1124,7 +1124,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GenAmjadshoaib1">GenAmjadshoaib1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1542538263109390336">4 others</a>)&nbsp;</td>
             <td>2022-06-30</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2761</td>
         </tr>
@@ -1630,7 +1630,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FelineAdvoCat">FelineAdvoCat</a></td>
             <td>2012-04-22</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1596</td>
         </tr>
@@ -2213,7 +2213,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KarimKh09841295">KarimKh09841295</a></td>
             <td>2021-11-05</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1052</td>
         </tr>

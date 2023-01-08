@@ -401,7 +401,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theamandanicole">theamandanicole</a></td>
             <td>2018-07-08</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>402533</td>
         </tr>

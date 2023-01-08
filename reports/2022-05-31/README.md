@@ -76,7 +76,7 @@ Found 17 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Bane_Pilled">Bane_Pilled</a></td>
             <td>2021-04-05</td>
-            <td></td>
+            <td>2023-01-06</td>
             <td align="center"></td>
             <td>4811</td>
             <td>1329</td>

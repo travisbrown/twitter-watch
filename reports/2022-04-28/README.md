@@ -750,7 +750,7 @@ Found 718 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jcdav">jcdav</a></td>
             <td>2008-12-18</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>2423</td>
         </tr>

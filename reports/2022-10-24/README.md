@@ -994,7 +994,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tweeterforyou2">tweeterforyou2</a></td>
             <td>2021-09-14</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>9186</td>
         </tr>
@@ -1247,7 +1247,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BRYCEY0UNG">BRYCEY0UNG</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1151295224263716864">5 others</a>)&nbsp;</td>
             <td>2019-07-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>3382</td>
         </tr>

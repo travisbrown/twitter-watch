@@ -248,7 +248,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SOULMETAVERSE">SOULMETAVERSE</a></td>
             <td>2022-03-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>55297</td>
         </tr>
@@ -479,7 +479,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IanTaylorXX">IanTaylorXX</a></td>
             <td>2021-08-06</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>5706</td>
         </tr>

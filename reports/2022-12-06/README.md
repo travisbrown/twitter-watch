@@ -316,7 +316,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BeAccountable4u">BeAccountable4u</a></td>
             <td>2012-09-05</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>3704</td>
             <td>82902</td>
@@ -574,7 +574,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lewdtim_e">Lewdtim_e</a></td>
             <td>2018-07-08</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>25964</td>
         </tr>
@@ -1586,7 +1586,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MBANZAPAULA">MBANZAPAULA</a></td>
             <td>2017-09-10</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2077</td>
         </tr>

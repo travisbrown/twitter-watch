@@ -1444,7 +1444,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NancyGo22432376">NancyGo22432376</a></td>
             <td>2020-12-10</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>8812</td>
         </tr>
@@ -1587,7 +1587,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hollywoodhandle">hollywoodhandle</a></td>
             <td>2021-09-08</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>5891</td>
         </tr>

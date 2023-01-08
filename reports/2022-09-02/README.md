@@ -2118,7 +2118,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sussy_Struggs">Sussy_Struggs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1503813504158998532">2 others</a>)&nbsp;</td>
             <td>2022-03-15</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1570</td>
         </tr>

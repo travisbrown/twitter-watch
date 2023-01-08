@@ -228,7 +228,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/4mii70">4mii70</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2603921270">5 others</a>)&nbsp;</td>
             <td>2014-07-04</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>285542</td>
         </tr>
@@ -272,7 +272,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ByRakeshSimha">ByRakeshSimha</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2152550364">1 other</a>)&nbsp;</td>
             <td>2013-10-24</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>37511</td>
         </tr>
@@ -316,7 +316,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bbbbro00008">bbbbro00008</a></td>
             <td>2022-06-23</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>28503</td>
         </tr>
@@ -404,7 +404,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/itsmeSZ">itsmeSZ</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1424845980596375563">1 other</a>)&nbsp;</td>
             <td>2021-08-09</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>14406</td>
         </tr>
@@ -503,7 +503,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/swencessi">swencessi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/288291342">2 others</a>)&nbsp;</td>
             <td>2011-04-26</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>7578</td>
         </tr>
@@ -943,7 +943,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mrstomlinstan">mrstomlinstan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/760562241280286720">2 others</a>)&nbsp;</td>
             <td>2016-08-02</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>2197</td>
         </tr>

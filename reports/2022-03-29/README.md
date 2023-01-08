@@ -1054,7 +1054,7 @@ Found 831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pierremouchan">pierremouchan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1155722705099997184">1 other</a>)&nbsp;</td>
             <td>2019-07-29</td>
-            <td></td>
+            <td>2023-01-05</td>
             <td align="center"></td>
             <td>1197</td>
         </tr>

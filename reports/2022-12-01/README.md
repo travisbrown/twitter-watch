@@ -1786,7 +1786,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IndiesiNFT">IndiesiNFT</a></td>
             <td>2022-04-22</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>6133</td>
         </tr>
@@ -1973,7 +1973,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/puen20220421">puen20220421</a></td>
             <td>2022-04-20</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>4724</td>
         </tr>
@@ -1995,7 +1995,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/colorful_2121">colorful_2121</a></td>
             <td>2022-01-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>4581</td>
         </tr>
@@ -2655,7 +2655,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/comuflauta">comuflauta</a></td>
             <td>2021-04-23</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2440</td>
         </tr>
@@ -2853,7 +2853,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JacobPa81105503">JacobPa81105503</a></td>
             <td>2021-12-27</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2155</td>
         </tr>
@@ -3359,7 +3359,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/irIgothgf">irIgothgf</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1409528527477739521">2 others</a>)&nbsp;</td>
             <td>2021-06-28</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1650</td>
         </tr>
@@ -4173,7 +4173,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EnvyTheVyne">EnvyTheVyne</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/984831314783277057">1 other</a>)&nbsp;</td>
             <td>2018-04-13</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1086</td>
         </tr>

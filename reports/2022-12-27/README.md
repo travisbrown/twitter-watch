@@ -471,7 +471,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kareenastann">Kareenastann</a></td>
             <td>2021-06-21</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>32327</td>
         </tr>
@@ -504,7 +504,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/urmila_00">urmila_00</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1483407561726767107">1 other</a>)&nbsp;</td>
             <td>2022-01-18</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>15662</td>
         </tr>
@@ -548,7 +548,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rajwa2020">rajwa2020</a></td>
             <td>2020-05-25</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>10667</td>
         </tr>
@@ -636,7 +636,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hammythetechie">hammythetechie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/184932215">10 others</a>)&nbsp;</td>
             <td>2010-08-30</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>7274</td>
         </tr>
@@ -845,7 +845,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ameliachloe583">Ameliachloe583</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1196021414421319686">6 others</a>)&nbsp;</td>
             <td>2019-11-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2837</td>
         </tr>
@@ -1109,7 +1109,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MxChukwuma">MxChukwuma</a></td>
             <td>2020-12-28</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1978</td>
         </tr>

@@ -264,7 +264,7 @@ Found 1075 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/americafirstmg">americafirstmg</a></td>
             <td>2017-08-19</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>38186</td>
         </tr>

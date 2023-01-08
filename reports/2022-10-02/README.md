@@ -1424,7 +1424,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Saintrow1981">Saintrow1981</a></td>
             <td>2021-10-25</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1642</td>
         </tr>

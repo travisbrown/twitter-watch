@@ -1602,7 +1602,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnilThala1">AnilThala1</a></td>
             <td>2019-08-10</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1646</td>
         </tr>
@@ -1888,7 +1888,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AgentBl65800546">AgentBl65800546</a></td>
             <td>2018-10-05</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1124</td>
         </tr>

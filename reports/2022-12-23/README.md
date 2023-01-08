@@ -160,7 +160,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PJENVTrucks">PJENVTrucks</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>212</td>
             <td>54164</td>
@@ -317,7 +317,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hiqutipie">Hiqutipie</a></td>
             <td>2008-10-23</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>115985</td>
         </tr>
@@ -1186,7 +1186,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CunnyClears">CunnyClears</a></td>
             <td>2022-02-28</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1403</td>
         </tr>
@@ -1296,7 +1296,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrendaRuffin13">BrendaRuffin13</a></td>
             <td>2019-05-16</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>1124</td>
         </tr>

@@ -1418,7 +1418,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/renatacalazans9">renatacalazans9</a></td>
             <td>2017-10-30</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>2083</td>
         </tr>
@@ -1682,7 +1682,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThePhenomium">ThePhenomium</a></td>
             <td>2022-05-07</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>1503</td>
         </tr>
@@ -1693,7 +1693,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nicolaouchris93">nicolaouchris93</a></td>
             <td>2021-12-14</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1483</td>
         </tr>
@@ -1880,7 +1880,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Solange96370314">Solange96370314</a></td>
             <td>2020-08-04</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1101</td>
         </tr>

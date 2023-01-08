@@ -768,7 +768,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/missqlee999">missqlee999</a></td>
             <td>2022-01-15</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>142176</td>
         </tr>
@@ -1065,7 +1065,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/havs72">havs72</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4151251876">9 others</a>)&nbsp;</td>
             <td>2015-11-09</td>
-            <td></td>
+            <td>2023-01-05</td>
             <td align="center"></td>
             <td>13533</td>
         </tr>
@@ -1142,7 +1142,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cryptotvplus">Cryptotvplus</a></td>
             <td>2018-01-30</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>10955</td>
         </tr>
@@ -1252,7 +1252,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CHAMP_OFFICIAL1">CHAMP_OFFICIAL1</a></td>
             <td>2019-12-31</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>8685</td>
         </tr>

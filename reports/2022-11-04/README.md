@@ -1445,7 +1445,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DonEford">DonEford</a></td>
             <td>2022-01-09</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>6970</td>
         </tr>

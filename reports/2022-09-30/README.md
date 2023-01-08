@@ -1692,7 +1692,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sbu_chic">Sbu_chic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1240257653470871557">1 other</a>)&nbsp;</td>
             <td>2020-03-18</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1191</td>
         </tr>

@@ -616,7 +616,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EvDiegoDuarte">EvDiegoDuarte</a></td>
             <td>2021-08-28</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>8379</td>
         </tr>
@@ -704,7 +704,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreeJaggiNow">FreeJaggiNow</a></td>
             <td>2017-11-12</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>5988</td>
         </tr>
@@ -1078,7 +1078,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RandallBenge">RandallBenge</a></td>
             <td>2014-04-25</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>2613</td>
         </tr>
@@ -1474,7 +1474,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FredFos69894092">FredFos69894092</a></td>
             <td>2022-05-08</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>1584</td>
         </tr>

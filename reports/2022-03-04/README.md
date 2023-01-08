@@ -1324,7 +1324,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/puen210926">puen210926</a></td>
             <td>2021-09-25</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>5870</td>
         </tr>

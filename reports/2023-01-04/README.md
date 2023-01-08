@@ -52,7 +52,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JeremyTate41">JeremyTate41</a></td>
             <td>2016-03-26</td>
-            <td></td>
+            <td>2023-01-05</td>
             <td align="center"></td>
             <td>43573</td>
             <td>21207</td>
@@ -477,7 +477,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/godblesstoby">godblesstoby</a></td>
             <td>2021-11-29</td>
-            <td></td>
+            <td>2023-01-05</td>
             <td align="center"></td>
             <td>9583</td>
         </tr>
@@ -906,7 +906,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mike42mike">mike42mike</a></td>
             <td>2009-11-01</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>2055</td>
         </tr>

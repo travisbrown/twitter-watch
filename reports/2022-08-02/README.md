@@ -1377,7 +1377,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TakTygodnik">TakTygodnik</a></td>
             <td>2021-05-22</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1169</td>
         </tr>

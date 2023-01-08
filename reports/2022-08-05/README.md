@@ -929,7 +929,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UndeadFoia">UndeadFoia</a></td>
             <td>2022-04-06</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>28728</td>
         </tr>
@@ -995,7 +995,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xAlphaWarriorx">xAlphaWarriorx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/972978420">2 others</a>)&nbsp;</td>
             <td>2012-11-27</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>13577</td>
         </tr>

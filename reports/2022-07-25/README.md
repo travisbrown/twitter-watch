@@ -2757,7 +2757,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LucieWestenra">LucieWestenra</a></td>
             <td>2021-03-12</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1510</td>
         </tr>
@@ -2999,7 +2999,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IMFletcherLives">IMFletcherLives</a></td>
             <td>2021-10-27</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1372</td>
         </tr>

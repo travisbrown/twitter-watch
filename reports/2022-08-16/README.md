@@ -719,7 +719,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DipendraDipzo">DipendraDipzo</a></td>
             <td>2012-05-28</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>4737</td>
         </tr>

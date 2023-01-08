@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GonzaloLira1968">GonzaloLira1968</a></td>
             <td>2022-04-22</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>69860</td>
             <td>204</td>

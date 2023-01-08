@@ -784,7 +784,7 @@ Found 624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KimPigSquash">KimPigSquash</a></td>
             <td>2011-04-12</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>11441</td>
         </tr>
@@ -828,7 +828,7 @@ Found 624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/19Phranchize">19Phranchize</a></td>
             <td>2019-05-13</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>8434</td>
         </tr>
@@ -1081,7 +1081,7 @@ Found 624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FaisalLaskani">FaisalLaskani</a></td>
             <td>2021-02-17</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1554</td>
         </tr>

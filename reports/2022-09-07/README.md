@@ -40,7 +40,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/InfraHaz">InfraHaz</a></td>
             <td>2021-02-15</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>21034</td>
             <td>467</td>

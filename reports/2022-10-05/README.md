@@ -676,7 +676,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jerry00107966">Jerry00107966</a></td>
             <td>2018-10-02</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>30666</td>
         </tr>
@@ -841,7 +841,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrownSpiderCLE">BrownSpiderCLE</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1064312738732785664">1 other</a>)&nbsp;</td>
             <td>2018-11-19</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>13655</td>
         </tr>
@@ -918,7 +918,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/redrosefaded">redrosefaded</a></td>
             <td>2020-01-21</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>9436</td>
         </tr>
@@ -951,7 +951,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vantahku">vantahku</a></td>
             <td>2020-06-29</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>8942</td>
         </tr>
@@ -984,7 +984,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/leila_rsilva">leila_rsilva</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1221986572054278144">1 other</a>)&nbsp;</td>
             <td>2020-01-28</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>8401</td>
         </tr>

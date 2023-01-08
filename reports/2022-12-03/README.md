@@ -913,7 +913,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xSmokeyETH">0xSmokeyETH</a></td>
             <td>2022-03-05</td>
-            <td></td>
+            <td>2023-01-06</td>
             <td align="center"></td>
             <td>9163</td>
         </tr>
@@ -1111,7 +1111,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HawtHeadZz_NFT">HawtHeadZz_NFT</a></td>
             <td>2022-01-26</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>5312</td>
         </tr>
@@ -1991,7 +1991,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cortado_com">cortado_com</a></td>
             <td>2009-08-30</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>1727</td>
         </tr>
@@ -2783,7 +2783,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/creator_gallery">creator_gallery</a></td>
             <td>2022-02-18</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1150</td>
         </tr>
@@ -2805,7 +2805,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NazratatReig06">NazratatReig06</a></td>
             <td>2016-03-26</td>
-            <td></td>
+            <td>2023-01-07</td>
             <td align="center"></td>
             <td>1146</td>
         </tr>
@@ -2959,7 +2959,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xMeanas">0xMeanas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1476119869921894402">1 other</a>)&nbsp;</td>
             <td>2021-12-29</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1063</td>
         </tr>

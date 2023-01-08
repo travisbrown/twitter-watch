@@ -1887,7 +1887,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gvenugopalan">gvenugopalan</a></td>
             <td>2012-09-19</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>2138</td>
         </tr>

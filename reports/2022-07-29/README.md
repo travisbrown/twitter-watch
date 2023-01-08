@@ -1538,7 +1538,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cgy_guy">cgy_guy</a></td>
             <td>2013-11-13</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>2769</td>
         </tr>

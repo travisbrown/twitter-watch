@@ -4220,7 +4220,7 @@ Found 2400 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jan6InsideJob">Jan6InsideJob</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1541919202390458369">1 other</a>)&nbsp;</td>
             <td>2022-06-28</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>1074</td>
         </tr>

@@ -752,7 +752,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JUSTcatmeme">JUSTcatmeme</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/719745008304263168">1 other</a>)&nbsp;</td>
             <td>2016-04-12</td>
-            <td></td>
+            <td>2023-01-03</td>
             <td align="center"></td>
             <td>9367</td>
         </tr>

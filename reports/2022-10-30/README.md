@@ -5764,7 +5764,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/skyler_higley">skyler_higley</a></td>
             <td>2020-05-16</td>
-            <td></td>
+            <td>2023-01-02</td>
             <td align="center"></td>
             <td>10471</td>
         </tr>

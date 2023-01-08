@@ -2155,7 +2155,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/culture_myth">culture_myth</a></td>
             <td>2022-03-22</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1593</td>
         </tr>
@@ -2408,7 +2408,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/keybrackson">keybrackson</a></td>
             <td>2021-11-15</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1255</td>
         </tr>

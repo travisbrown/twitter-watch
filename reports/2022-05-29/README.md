@@ -2017,7 +2017,7 @@ Found 710 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnnyNoChill">JohnnyNoChill</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2392068784">3 others</a>)&nbsp;</td>
             <td>2014-03-07</td>
-            <td></td>
+            <td>2023-01-04</td>
             <td align="center"></td>
             <td>1025</td>
         </tr></table>
