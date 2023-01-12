@@ -775,7 +775,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KekVerse">KekVerse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230634261176356865">3 others</a>)&nbsp;</td>
             <td>2020-02-20</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>19561</td>
         </tr>

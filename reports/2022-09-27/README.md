@@ -796,7 +796,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Zamuel42">Zamuel42</a></td>
             <td>2017-11-06</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>2285</td>
         </tr>

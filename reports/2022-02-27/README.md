@@ -491,7 +491,7 @@ Found 270 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nsquaredcrypto">nsquaredcrypto</a></td>
             <td>2018-04-10</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>18067</td>
         </tr>

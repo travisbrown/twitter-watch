@@ -1764,7 +1764,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jjstyx">jjstyx</a></td>
             <td>2009-12-13</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>6228</td>
         </tr>
@@ -1841,7 +1841,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ameruverse">ameruverse</a></td>
             <td>2022-08-16</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>5397</td>
         </tr>

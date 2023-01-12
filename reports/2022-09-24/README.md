@@ -1112,7 +1112,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SelbJim">SelbJim</a></td>
             <td>2014-10-12</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>4513</td>
         </tr>
@@ -1244,7 +1244,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TransAgnstGrmrs">TransAgnstGrmrs</a></td>
             <td>2022-09-05</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>3018</td>
         </tr>

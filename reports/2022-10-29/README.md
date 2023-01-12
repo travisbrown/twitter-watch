@@ -13358,7 +13358,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/susie_margaret">susie_margaret</a></td>
             <td>2020-08-22</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>2784</td>
         </tr>
@@ -15096,7 +15096,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/callie_raison">callie_raison</a></td>
             <td>2022-04-21</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>2508</td>
         </tr>
@@ -20431,7 +20431,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HectorRealtor">HectorRealtor</a></td>
             <td>2012-04-20</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1961</td>
         </tr>
@@ -36238,7 +36238,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kommunikate">Kommunikate</a></td>
             <td>2021-05-21</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>1068</td>
         </tr>

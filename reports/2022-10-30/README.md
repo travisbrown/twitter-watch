@@ -3244,7 +3244,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BreakingLiv">BreakingLiv</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/92642220">6 others</a>)&nbsp;</td>
             <td>2009-11-25</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>2997</td>
             <td>52158</td>
@@ -7590,7 +7590,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/watamelon23">watamelon23</a></td>
             <td>2022-07-08</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>1187</td>
         </tr>

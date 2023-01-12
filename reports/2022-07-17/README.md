@@ -359,7 +359,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pokergod12345">pokergod12345</a></td>
             <td>2016-03-08</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>24989</td>
         </tr>
@@ -2097,7 +2097,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BirdWatching0">BirdWatching0</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/350903339">1 other</a>)&nbsp;</td>
             <td>2011-08-08</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1902</td>
         </tr>

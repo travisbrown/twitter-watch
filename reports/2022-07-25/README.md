@@ -2240,7 +2240,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NeBirgitta">NeBirgitta</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1255868462532120586">1 other</a>)&nbsp;</td>
             <td>2020-04-30</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>2240</td>
         </tr>

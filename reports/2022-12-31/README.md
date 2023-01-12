@@ -557,7 +557,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coolmatteth">coolmatteth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/729572312">1 other</a>)&nbsp;</td>
             <td>2012-08-01</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>5627</td>
         </tr>
@@ -590,7 +590,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/donnaaspinall">donnaaspinall</a></td>
             <td>2009-06-05</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>4916</td>
         </tr>
@@ -1745,7 +1745,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wang_mwang">wang_mwang</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1349146522466717696">11 others</a>)&nbsp;</td>
             <td>2021-01-13</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center">🔒</td>
             <td>1332</td>
         </tr>

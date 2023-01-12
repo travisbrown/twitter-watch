@@ -1123,7 +1123,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ElcioMoreno">ElcioMoreno</a></td>
             <td>2009-06-02</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>11994</td>
         </tr>
@@ -2685,7 +2685,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TWmerda">TWmerda</a></td>
             <td>2022-02-03</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>1171</td>
         </tr>

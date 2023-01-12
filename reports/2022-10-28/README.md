@@ -40,7 +40,7 @@ Found 17 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Goodtweet_man">Goodtweet_man</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/50851012">1 other</a>)&nbsp;</td>
             <td>2009-06-26</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>25071</td>
             <td>409</td>

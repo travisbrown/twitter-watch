@@ -52,7 +52,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FupaCat69">FupaCat69</a></td>
             <td>2014-01-16</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>17</td>
             <td>10500</td>
@@ -100,7 +100,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/johnnytruulove">johnnytruulove</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1156367422456238082">1 other</a>)&nbsp;</td>
             <td>2019-07-31</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>117</td>
             <td>18773</td>
@@ -196,7 +196,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MillennialOther">MillennialOther</a></td>
             <td>2019-02-13</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>8104</td>
             <td>44016</td>

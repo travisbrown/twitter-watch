@@ -867,7 +867,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ruebenhorst">Ruebenhorst</a></td>
             <td>2018-03-04</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>9277</td>
         </tr>
@@ -1219,7 +1219,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BreatheMD">BreatheMD</a></td>
             <td>2022-04-17</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>3030</td>
         </tr>

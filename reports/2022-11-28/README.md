@@ -52,7 +52,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/modmothernature">modmothernature</a></td>
             <td>2015-10-30</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>10321</td>
             <td>13568</td>
@@ -2583,7 +2583,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UKMats">UKMats</a></td>
             <td>2013-06-03</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1535</td>
         </tr>

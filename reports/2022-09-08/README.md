@@ -3633,7 +3633,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TBerrios2">TBerrios2</a></td>
             <td>2021-02-19</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1572</td>
         </tr>

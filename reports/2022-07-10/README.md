@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/isabellarileyus">isabellarileyus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2871659160">2 others</a>)&nbsp;</td>
             <td>2014-10-22</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>82381</td>
             <td>195</td>

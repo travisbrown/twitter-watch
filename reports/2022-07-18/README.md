@@ -1515,7 +1515,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Clucky92864053">Clucky92864053</a></td>
             <td>2021-11-10</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>10125</td>
         </tr>

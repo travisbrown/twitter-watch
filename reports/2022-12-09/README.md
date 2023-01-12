@@ -745,7 +745,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/patel_patriot">patel_patriot</a></td>
             <td>2022-11-20</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>6163</td>
         </tr>

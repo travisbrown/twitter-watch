@@ -847,7 +847,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RTSG_Prism_">RTSG_Prism_</a></td>
             <td>2022-04-20</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>4338</td>
         </tr>

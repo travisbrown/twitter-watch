@@ -1061,7 +1061,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WarlordDilley">WarlordDilley</a></td>
             <td>2022-11-05</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>7228</td>
         </tr>

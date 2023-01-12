@@ -905,7 +905,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RadharamnDas">RadharamnDas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1119430820">1 other</a>)&nbsp;</td>
             <td>2013-01-25</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>43168</td>
         </tr>
@@ -1994,7 +1994,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FaDeNFT">FaDeNFT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/739975204961550336">1 other</a>)&nbsp;</td>
             <td>2016-06-07</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>1470</td>
         </tr>

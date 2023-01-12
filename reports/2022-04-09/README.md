@@ -574,7 +574,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/khaliunbuga">khaliunbuga</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2952939702">1 other</a>)&nbsp;</td>
             <td>2014-12-31</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>37936</td>
         </tr>

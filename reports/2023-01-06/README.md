@@ -136,7 +136,7 @@ Found 18 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/700LvlPolitics">700LvlPolitics</a></td>
             <td>2022-05-06</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>142</td>
             <td>37672</td>
@@ -220,7 +220,7 @@ Found 18 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/meprogrammerguy">meprogrammerguy</a></td>
             <td>2011-10-21</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>2577</td>
             <td>93039</td>
@@ -232,7 +232,7 @@ Found 18 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MH2Se7en">MH2Se7en</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/259895142">2 others</a>)&nbsp;</td>
             <td>2011-03-02</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>1322</td>
             <td>98864</td>
@@ -550,7 +550,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThomasGray1981">ThomasGray1981</a></td>
             <td>2012-07-30</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>7449</td>
         </tr>

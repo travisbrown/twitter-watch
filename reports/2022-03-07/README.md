@@ -623,7 +623,7 @@ Found 614 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/veryvirology">veryvirology</a></td>
             <td>2013-11-15</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>56347</td>
         </tr>

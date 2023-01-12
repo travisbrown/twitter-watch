@@ -28,7 +28,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Justice_forum">Justice_forum</a></td>
             <td>2012-02-13</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>36920</td>
             <td>230</td>
@@ -124,7 +124,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/properal">properal</a></td>
             <td>2014-07-10</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>859</td>
             <td>21303</td>
@@ -405,7 +405,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Titolabs_id">Titolabs_id</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2955598356">16 others</a>)&nbsp;</td>
             <td>2015-01-02</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>82697</td>
         </tr>
@@ -724,7 +724,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/donnacomenta">donnacomenta</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1304821780469682181">1 other</a>)&nbsp;</td>
             <td>2020-09-12</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center">🔒</td>
             <td>3818</td>
         </tr>

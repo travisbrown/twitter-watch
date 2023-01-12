@@ -388,7 +388,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Not_Sunner">Not_Sunner</a></td>
             <td>2022-07-23</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>1306</td>
             <td>99976</td>

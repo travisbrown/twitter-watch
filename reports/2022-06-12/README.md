@@ -2584,7 +2584,7 @@ Found 1532 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Seamusismycat">Seamusismycat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1338142099204665344">2 others</a>)&nbsp;</td>
             <td>2020-12-13</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1230</td>
         </tr>

@@ -196,7 +196,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JulioHe35441069">JulioHe35441069</a></td>
             <td>2019-04-14</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>117</td>
             <td>66986</td>
@@ -2761,7 +2761,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Diabolixx2">Diabolixx2</a></td>
             <td>2021-01-17</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1155</td>
         </tr>
@@ -2816,7 +2816,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/s5nos">s5nos</a></td>
             <td>2022-04-12</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>1146</td>
         </tr>

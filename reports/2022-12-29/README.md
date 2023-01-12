@@ -475,7 +475,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lukesophinos">lukesophinos</a></td>
             <td>2015-08-09</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>13533</td>
         </tr>

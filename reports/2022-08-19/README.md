@@ -3701,7 +3701,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kitweUG">kitweUG</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/986221399">1 other</a>)&nbsp;</td>
             <td>2012-12-03</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>1097</td>
         </tr>

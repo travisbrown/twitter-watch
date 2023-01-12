@@ -52,7 +52,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/tweettruth2me">tweettruth2me</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/266816841">3 others</a>)&nbsp;</td>
             <td>2011-03-15</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>87718</td>
             <td>14479</td>

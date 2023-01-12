@@ -100,7 +100,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Hsolo275">Hsolo275</a></td>
             <td>2022-01-10</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>235</td>
             <td>22012</td>
@@ -112,7 +112,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TalesOfZoloft">TalesOfZoloft</a></td>
             <td>2021-11-18</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>345</td>
             <td>23528</td>

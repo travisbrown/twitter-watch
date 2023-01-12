@@ -992,7 +992,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lifebiomedguru">lifebiomedguru</a></td>
             <td>2009-02-07</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>44736</td>
         </tr>
@@ -1289,7 +1289,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FugaziTruther">FugaziTruther</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1121779739658792961">1 other</a>)&nbsp;</td>
             <td>2019-04-26</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>4729</td>
         </tr>

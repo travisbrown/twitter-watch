@@ -1108,7 +1108,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PAlexanderPhD">PAlexanderPhD</a></td>
             <td>2022-01-31</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>14106</td>
         </tr>

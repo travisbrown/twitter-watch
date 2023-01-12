@@ -316,7 +316,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NotOnMyWatch000">NotOnMyWatch000</a></td>
             <td>2021-01-13</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1736</td>
             <td>47898</td>
@@ -480,7 +480,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/doplx">doplx</a></td>
             <td>2011-12-25</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>636502</td>
         </tr>

@@ -684,7 +684,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArturoVilla_">ArturoVilla_</a></td>
             <td>2015-08-04</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>35430</td>
         </tr>

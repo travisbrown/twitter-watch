@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 496671
-* Total number of suspension reversals detected: 26976
-* Mean number of followers for suspended accounts: 1516.02
+* Total number of suspensions detected: 498226
+* Total number of suspension reversals detected: 27678
+* Mean number of followers for suspended accounts: 1507.83
 * Median number of followers for suspended accounts: 48.0
-* Mean age of suspended accounts (days): 1026.06
-* Median age of suspended accounts (days): 300.0
-* Total number of verified accounts suspended: 170
-* Total number of protected accounts suspended: 24611
+* Mean age of suspended accounts (days): 1026.42
+* Median age of suspended accounts (days): 301.0
+* Total number of verified accounts suspended: 173
+* Total number of protected accounts suspended: 24710
 * Total number of suspensions for accounts previously withheld in specific countries: 34
 * Total number of screen name changes detected: 966283
 
@@ -147,17 +147,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>176</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2871659160">
-                <img src="https://pbs.twimg.com/profile_images/1540570428938264579/ZU8HOYq__normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/isabellarileyus">isabellarileyus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2871659160">2 others</a>)&nbsp;</td>
-            <td>2014-10-22</td>
-            <td>2022-07-10</td>
-            <td>82381</td>
-            <td>195</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1161154266049986560">
                 <img src="https://pbs.twimg.com/profile_images/1483494731732692999/lAEpflX2_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -213,17 +202,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>227</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=491530957">
-                <img src="https://pbs.twimg.com/profile_images/1134446093566169089/o_iTNi7K_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/Justice_forum">Justice_forum</a></td>
-            <td>2012-02-13</td>
-            <td>2022-12-27</td>
-            <td>36920</td>
-            <td>230</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1416678409908928513">
                 <img src="https://pbs.twimg.com/profile_images/1475008136947847168/cZG93lGn_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -277,6 +255,28 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-09-16</td>
             <td>25529</td>
             <td>272</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1359923836356018176">
+                <img src="https://pbs.twimg.com/profile_images/1359931150345584647/RXtonI2E_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/DeIudedShaniqwa">DeIudedShaniqwa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1359923836356018176">4 others</a>)&nbsp;</td>
+            <td>2021-02-11</td>
+            <td>2022-03-14</td>
+            <td>51795</td>
+            <td>290</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=734440531212673024">
+                <img src="https://pbs.twimg.com/profile_images/1184378107286835200/Qbu-YUy1_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/trutherbotnet">trutherbotnet</a></td>
+            <td>2016-05-22</td>
+            <td>2022-10-07</td>
+            <td>29244</td>
+            <td>292</td>
         </tr></table>
 
 ## Daily reports
@@ -290,10 +290,18 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2023-01-12/">12 January 2023</a>
+            </td>
+            <td>603</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2023-01-11/">11 January 2023</a>
             </td>
-            <td>498</td>
-            <td>3</td>
+            <td>1988</td>
+            <td>8</td>
             <td>0</td>
         </tr>
         <tr>

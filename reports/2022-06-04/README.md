@@ -1189,7 +1189,7 @@ Found 987 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShotsRangOut">ShotsRangOut</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/158286198">4 others</a>)&nbsp;</td>
             <td>2010-06-22</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>43786</td>
         </tr>

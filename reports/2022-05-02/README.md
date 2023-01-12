@@ -598,7 +598,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZelenkoZev">ZelenkoZev</a></td>
             <td>2022-04-24</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>171228</td>
         </tr>

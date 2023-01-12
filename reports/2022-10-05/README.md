@@ -687,7 +687,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CindisPLace">CindisPLace</a></td>
             <td>2018-03-07</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>24391</td>
         </tr>

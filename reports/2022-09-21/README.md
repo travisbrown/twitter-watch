@@ -984,7 +984,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SugarMAGA">SugarMAGA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1571777172">1 other</a>)&nbsp;</td>
             <td>2013-07-06</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>17036</td>
         </tr>

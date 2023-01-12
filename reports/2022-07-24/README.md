@@ -872,7 +872,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nicholas_robin">nicholas_robin</a></td>
             <td>2012-11-08</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>4299</td>
         </tr>

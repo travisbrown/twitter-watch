@@ -777,7 +777,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HaydenHewitt">HaydenHewitt</a></td>
             <td>2009-07-27</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center">✔️</td>
             <td>13430</td>
         </tr>

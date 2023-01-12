@@ -982,7 +982,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/therealvicz">therealvicz</a></td>
             <td>2009-02-18</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>3088</td>
         </tr>

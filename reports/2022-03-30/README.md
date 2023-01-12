@@ -836,7 +836,7 @@ Found 867 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NickHudsonCT">NickHudsonCT</a></td>
             <td>2018-10-26</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>63994</td>
         </tr>

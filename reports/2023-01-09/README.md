@@ -40,7 +40,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MajeurMagic">MajeurMagic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1461665602532261892">1 other</a>)&nbsp;</td>
             <td>2021-11-19</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>324</td>
             <td>18453</td>
@@ -76,7 +76,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/rocket_fuel_">rocket_fuel_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/54444048">3 others</a>)&nbsp;</td>
             <td>2009-07-07</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center">🔒</td>
             <td>1327</td>
             <td>47568</td>
@@ -192,7 +192,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoinTigerEX">CoinTigerEX</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/940933824191406080">1 other</a>)&nbsp;</td>
             <td>2017-12-13</td>
-            <td></td>
+            <td>2023-01-10</td>
             <td align="center"></td>
             <td>158678</td>
         </tr>
@@ -555,7 +555,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/marceyplay">marceyplay</a></td>
             <td>2009-04-06</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>6965</td>
         </tr>
@@ -1380,7 +1380,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ItsNikkiBullock">ItsNikkiBullock</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1031641304827129858">4 others</a>)&nbsp;</td>
             <td>2018-08-20</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1594</td>
         </tr>
@@ -1391,7 +1391,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mayabebo">mayabebo</a></td>
             <td>2010-02-14</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>1559</td>
         </tr>

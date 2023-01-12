@@ -1613,7 +1613,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PratingCoxcomb">PratingCoxcomb</a></td>
             <td>2011-12-03</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>3315</td>
         </tr>

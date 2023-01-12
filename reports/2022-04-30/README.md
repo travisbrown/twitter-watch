@@ -2714,7 +2714,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WOLVEROmusic">WOLVEROmusic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/943315825691205632">1 other</a>)&nbsp;</td>
             <td>2017-12-20</td>
-            <td></td>
+            <td>2023-01-11</td>
             <td align="center"></td>
             <td>4414</td>
         </tr>

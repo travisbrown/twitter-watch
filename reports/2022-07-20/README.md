@@ -660,7 +660,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CartlandDavid">CartlandDavid</a></td>
             <td>2022-02-01</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>15449</td>
         </tr>

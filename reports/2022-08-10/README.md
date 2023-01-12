@@ -3553,7 +3553,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Clout__Bae">Clout__Bae</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1510931376870101000">1 other</a>)&nbsp;</td>
             <td>2022-04-04</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center">🔒</td>
             <td>1057</td>
         </tr>

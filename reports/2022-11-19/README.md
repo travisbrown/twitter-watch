@@ -1270,7 +1270,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SelwynJ83641613">SelwynJ83641613</a></td>
             <td>2021-09-24</td>
-            <td></td>
+            <td>2023-01-08</td>
             <td align="center"></td>
             <td>1746</td>
         </tr>

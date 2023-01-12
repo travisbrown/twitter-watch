@@ -1418,7 +1418,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/con5radical">con5radical</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-01-09</td>
             <td align="center"></td>
             <td>1327</td>
         </tr>
