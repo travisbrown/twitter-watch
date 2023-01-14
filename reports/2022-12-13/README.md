@@ -2900,7 +2900,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ke_pizarro">ke_pizarro</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1119129343685320704">1 other</a>)&nbsp;</td>
             <td>2019-04-19</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>1052</td>
         </tr>

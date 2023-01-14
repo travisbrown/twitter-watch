@@ -28,7 +28,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/crazypuce">crazypuce</a></td>
             <td>2010-04-09</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center">🔒</td>
             <td>6374</td>
             <td>678</td>

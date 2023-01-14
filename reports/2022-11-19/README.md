@@ -335,7 +335,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Narutakun_">Narutakun_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337025246239420416">3 others</a>)&nbsp;</td>
             <td>2020-12-10</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>16855</td>
         </tr>

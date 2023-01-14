@@ -499,7 +499,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Eclare_Pure">Eclare_Pure</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1374099132382474241">1 other</a>)&nbsp;</td>
             <td>2021-03-22</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>13250</td>
         </tr>

@@ -3436,7 +3436,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xrpcrypticdad">xrpcrypticdad</a></td>
             <td>2020-11-24</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>10485</td>
         </tr>
@@ -17978,7 +17978,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/killoswald">killoswald</a></td>
             <td>2020-09-21</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>2206</td>
         </tr>
@@ -24358,7 +24358,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/paullindsay12">paullindsay12</a></td>
             <td>2012-08-31</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1653</td>
         </tr>
@@ -31453,7 +31453,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Elaine33744923">Elaine33744923</a></td>
             <td>2013-01-01</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1259</td>
         </tr>
@@ -32322,7 +32322,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mdtufayeahmed1">mdtufayeahmed1</a></td>
             <td>2020-11-24</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1216</td>
         </tr>
@@ -33917,7 +33917,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bweaver2017">bweaver2017</a></td>
             <td>2017-10-09</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>1157</td>
         </tr>

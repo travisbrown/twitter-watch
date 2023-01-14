@@ -1652,7 +1652,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmantiLeonett">AmantiLeonett</a></td>
             <td>2022-02-19</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1278</td>
         </tr>
@@ -1795,7 +1795,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlueTunnel2">BlueTunnel2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1321115544557441024">1 other</a>)&nbsp;</td>
             <td>2020-10-27</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>1041</td>
         </tr>

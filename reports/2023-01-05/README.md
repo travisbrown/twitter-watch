@@ -156,7 +156,7 @@ Found 1603 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CAkashova">CAkashova</a></td>
             <td>2019-03-04</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>187890</td>
         </tr>
@@ -959,7 +959,7 @@ Found 1603 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MotleyDs">MotleyDs</a></td>
             <td>2021-07-20</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>2075</td>
         </tr>

@@ -1331,7 +1331,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_ashchet">_ashchet</a></td>
             <td>2018-09-29</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>2673</td>
         </tr>

@@ -710,7 +710,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/decmbriswin">decmbriswin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1396549177">16 others</a>)&nbsp;</td>
             <td>2013-05-02</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>3863</td>
         </tr>

@@ -1498,7 +1498,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GaragemDigital1">GaragemDigital1</a></td>
             <td>2013-01-15</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>3011</td>
         </tr>

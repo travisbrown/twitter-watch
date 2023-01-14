@@ -1461,7 +1461,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/varianceamp">varianceamp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/819688313527234560">1 other</a>)&nbsp;</td>
             <td>2017-01-12</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>1819</td>
         </tr>

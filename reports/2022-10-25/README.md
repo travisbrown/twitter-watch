@@ -2580,7 +2580,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MenacingPatriot">MenacingPatriot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3245578423">2 others</a>)&nbsp;</td>
             <td>2015-06-15</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>1229</td>
         </tr>

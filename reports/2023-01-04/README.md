@@ -224,7 +224,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HimalayanGunz">HimalayanGunz</a></td>
             <td>2013-09-22</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>34998</td>
         </tr>
@@ -895,7 +895,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PsycheReady">PsycheReady</a></td>
             <td>2015-12-07</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>2089</td>
         </tr>

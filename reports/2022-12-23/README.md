@@ -416,7 +416,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JerryEdmon">JerryEdmon</a></td>
             <td>2010-07-15</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>37943</td>
         </tr>
@@ -1032,7 +1032,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoachingAdvice">CoachingAdvice</a></td>
             <td>2020-01-08</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1989</td>
         </tr>

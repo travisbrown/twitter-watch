@@ -1072,7 +1072,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JIX5A">JIX5A</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/979780672750542849">2 others</a>)&nbsp;</td>
             <td>2018-03-30</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>8542</td>
         </tr>

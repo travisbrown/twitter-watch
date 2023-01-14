@@ -292,7 +292,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DeedsCompleted">DeedsCompleted</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419579507196010498">1 other</a>)&nbsp;</td>
             <td>2021-07-26</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center">🔒</td>
             <td>186</td>
             <td>70180</td>

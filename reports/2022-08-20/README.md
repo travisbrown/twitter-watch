@@ -609,7 +609,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoWhale">CryptoWhale</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/234638601">2 others</a>)&nbsp;</td>
             <td>2011-01-06</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center">✔️</td>
             <td>534347</td>
         </tr>

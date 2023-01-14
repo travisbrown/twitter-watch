@@ -1448,7 +1448,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KebenaranHakiky">KebenaranHakiky</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/133277792">4 others</a>)&nbsp;</td>
             <td>2010-04-15</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1646</td>
         </tr>

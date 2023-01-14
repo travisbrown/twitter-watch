@@ -1697,7 +1697,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/arianaunext">arianaunext</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3353754875">1 other</a>)&nbsp;</td>
             <td>2015-07-01</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1863</td>
         </tr>

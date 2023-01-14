@@ -1126,7 +1126,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kayotickitchen">kayotickitchen</a></td>
             <td>2009-01-13</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>5147</td>
         </tr>

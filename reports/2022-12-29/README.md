@@ -196,7 +196,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/haveaconcern">haveaconcern</a></td>
             <td>2014-01-19</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>39164</td>
             <td>62579</td>
@@ -310,7 +310,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Michellcruz011">Michellcruz011</a></td>
             <td>2022-04-08</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>109287</td>
         </tr>

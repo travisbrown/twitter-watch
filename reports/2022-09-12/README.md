@@ -1946,7 +1946,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DLynnhagain">DLynnhagain</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>1042</td>
         </tr>

@@ -489,7 +489,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wonupootteepoot">wonupootteepoot</a></td>
             <td>2020-11-27</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>3866</td>
         </tr>

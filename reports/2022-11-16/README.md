@@ -2321,7 +2321,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Stephen43809078">Stephen43809078</a></td>
             <td>2022-07-30</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1435</td>
         </tr>

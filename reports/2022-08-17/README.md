@@ -1960,7 +1960,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JVandernite">JVandernite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518849998678597634">1 other</a>)&nbsp;</td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1994</td>
         </tr>

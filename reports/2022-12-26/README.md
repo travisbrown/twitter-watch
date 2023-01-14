@@ -700,7 +700,7 @@ Found 1670 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cantwell1822">cantwell1822</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>4184</td>
         </tr>
@@ -810,7 +810,7 @@ Found 1670 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Juiceysylva1">Juiceysylva1</a></td>
             <td>2020-04-02</td>
-            <td></td>
+            <td>2023-01-12</td>
             <td align="center"></td>
             <td>3143</td>
         </tr>

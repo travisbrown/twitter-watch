@@ -388,7 +388,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stillunwoke17">stillunwoke17</a></td>
             <td>2021-03-21</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>16285</td>
         </tr>

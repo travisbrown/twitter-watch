@@ -1348,7 +1348,7 @@ Found 841 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BackAgainPeeps">BackAgainPeeps</a></td>
             <td>2021-06-20</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>8216</td>
         </tr>

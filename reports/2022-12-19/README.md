@@ -388,7 +388,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yieldyak_">yieldyak_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1366821371880349697">1 other</a>)&nbsp;</td>
             <td>2021-03-02</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>25117</td>
         </tr>

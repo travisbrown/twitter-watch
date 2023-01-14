@@ -683,7 +683,7 @@ Found 469 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NineNewsNancy">NineNewsNancy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/454513795">9 others</a>)&nbsp;</td>
             <td>2012-01-04</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>79493</td>
         </tr>

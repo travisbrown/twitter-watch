@@ -1041,7 +1041,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VacSafety">VacSafety</a></td>
             <td>2021-10-28</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>10500</td>
         </tr>
@@ -2537,7 +2537,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MartinMcAvoy_">MartinMcAvoy_</a></td>
             <td>2021-07-17</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1803</td>
         </tr>

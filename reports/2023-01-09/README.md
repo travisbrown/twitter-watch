@@ -64,7 +64,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/busworldwide">busworldwide</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1327315251382145024">2 others</a>)&nbsp;</td>
             <td>2020-11-13</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center">🔒</td>
             <td>61</td>
             <td>40564</td>
@@ -225,7 +225,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TurkunDunyasi">TurkunDunyasi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1113882954294538241">5 others</a>)&nbsp;</td>
             <td>2019-04-04</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>97955</td>
         </tr>
@@ -236,7 +236,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/seksiludi">seksiludi</a></td>
             <td>2014-09-27</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>90001</td>
         </tr>
@@ -280,7 +280,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_OTODAD_">_OTODAD_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/43796880">4 others</a>)&nbsp;</td>
             <td>2009-06-01</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>75166</td>
         </tr>
@@ -335,7 +335,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nftloa_d">nftloa_d</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1373579808932790274">2 others</a>)&nbsp;</td>
             <td>2021-03-21</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>50754</td>
         </tr>
@@ -357,7 +357,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MetaBlind">MetaBlind</a></td>
             <td>2021-08-14</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>41215</td>
         </tr>
@@ -379,7 +379,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_Dirtie">_Dirtie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4652460076">1 other</a>)&nbsp;</td>
             <td>2015-12-30</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>18876</td>
         </tr>
@@ -423,7 +423,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sacedator">sacedator</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2413234485">1 other</a>)&nbsp;</td>
             <td>2014-03-15</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>15330</td>
         </tr>
@@ -544,7 +544,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eliana_esq">eliana_esq</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/42565382">1 other</a>)&nbsp;</td>
             <td>2009-05-26</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>7468</td>
         </tr>
@@ -599,7 +599,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SeptemberBreez2">SeptemberBreez2</a></td>
             <td>2020-05-07</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>5493</td>
         </tr>
@@ -654,7 +654,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/deathpigeon">deathpigeon</a></td>
             <td>2009-03-05</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>4660</td>
         </tr>
@@ -687,7 +687,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dori_W_823">Dori_W_823</a></td>
             <td>2022-05-28</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>4421</td>
         </tr>
@@ -962,7 +962,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stickyfrogg">stickyfrogg</a></td>
             <td>2010-01-23</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>2608</td>
         </tr>
@@ -1259,7 +1259,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lily_PolisStan">Lily_PolisStan</a></td>
             <td>2017-08-18</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1821</td>
         </tr>
@@ -1413,7 +1413,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GlobalStellar">GlobalStellar</a></td>
             <td>2022-02-10</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1552</td>
         </tr>
@@ -1600,7 +1600,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/citationxpilot">citationxpilot</a></td>
             <td>2018-11-10</td>
-            <td></td>
+            <td>2023-01-13</td>
             <td align="center"></td>
             <td>1366</td>
         </tr>
@@ -1963,7 +1963,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ValentinaLizzi4">ValentinaLizzi4</a></td>
             <td>2022-03-26</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1061</td>
         </tr>

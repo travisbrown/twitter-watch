@@ -1800,7 +1800,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lenisa_agostino">lenisa_agostino</a></td>
             <td>2017-07-06</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1199</td>
         </tr>
