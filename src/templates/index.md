@@ -1,4 +1,4 @@
-[![Rust build status](https://img.shields.io/github/workflow/status/travisbrown/twitter-watch/rust-ci.svg?label=rust)](https://github.com/travisbrown/twitter-watch/actions)
+[![Rust build status](https://img.shields.io/github/actions/workflow/status/travisbrown/twitter-watch/ci.yaml?branch=main)](https://github.com/travisbrown/twitter-watch/actions)
 
 # Twitter reports
 

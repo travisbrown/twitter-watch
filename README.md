@@ -32,15 +32,15 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 502914
+* Total number of suspensions detected: 507560
 * Total number of suspension reversals detected: 28362
-* Mean number of followers for suspended accounts: 1499.35
+* Mean number of followers for suspended accounts: 1498.05
 * Median number of followers for suspended accounts: 48.0
-* Mean age of suspended accounts (days): 1029.22
-* Median age of suspended accounts (days): 302.0
-* Total number of verified accounts suspended: 174
-* Total number of protected accounts suspended: 25066
-* Total number of suspensions for accounts previously withheld in specific countries: 35
+* Mean age of suspended accounts (days): 1032.3
+* Median age of suspended accounts (days): 305.0
+* Total number of verified accounts suspended: 176
+* Total number of protected accounts suspended: 25381
+* Total number of suspensions for accounts previously withheld in specific countries: 36
 * Total number of screen name changes detected: 966283
 
 
@@ -290,10 +290,42 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2023-01-19/">19 January 2023</a>
+            </td>
+            <td>795</td>
+            <td>1</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-01-18/">18 January 2023</a>
+            </td>
+            <td>6273</td>
+            <td>8</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-01-17/">17 January 2023</a>
+            </td>
+            <td>4417</td>
+            <td>13</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-01-16/">16 January 2023</a>
+            </td>
+            <td>2330</td>
+            <td>14</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2023-01-15/">15 January 2023</a>
             </td>
-            <td>844</td>
-            <td>6</td>
+            <td>2492</td>
+            <td>9</td>
             <td>0</td>
         </tr>
         <tr>
