@@ -1988,7 +1988,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KerryJowitt21">KerryJowitt21</a></td>
             <td>2019-11-12</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center">🔒</td>
             <td>1202</td>
         </tr>

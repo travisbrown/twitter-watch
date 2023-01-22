@@ -887,7 +887,7 @@ Found 1090 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mei_m298748">mei_m298748</a></td>
             <td>2020-03-12</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>27755</td>
         </tr>

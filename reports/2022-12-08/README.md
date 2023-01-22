@@ -2031,7 +2031,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WJakeStateFarm">WJakeStateFarm</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>1111</td>
         </tr>

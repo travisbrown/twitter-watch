@@ -88,7 +88,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LOKiii41967507">LOKiii41967507</a></td>
             <td>2019-06-08</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>1237</td>
             <td>24976</td>
@@ -503,7 +503,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaflowAbioye">DaflowAbioye</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/210859825">6 others</a>)&nbsp;</td>
             <td>2010-11-01</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>27854</td>
         </tr>
@@ -1218,7 +1218,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kbhmnTP">kbhmnTP</a></td>
             <td>2022-04-16</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>2645</td>
         </tr>

@@ -949,7 +949,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheMagusX">TheMagusX</a></td>
             <td>2009-08-11</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>3398</td>
         </tr>
@@ -1312,7 +1312,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joabybarbosa">joabybarbosa</a></td>
             <td>2015-12-17</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>1784</td>
         </tr>

@@ -28,7 +28,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AncestralVril">AncestralVril</a></td>
             <td>2022-02-28</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>17865</td>
             <td>535</td>

@@ -1692,7 +1692,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SUSMonkeyNFT">SUSMonkeyNFT</a></td>
             <td>2022-06-21</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1290</td>
         </tr>

@@ -1296,7 +1296,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnthonyMaestre_">AnthonyMaestre_</a></td>
             <td>2017-06-28</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>7050</td>
         </tr>

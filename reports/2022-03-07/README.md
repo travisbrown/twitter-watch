@@ -1074,7 +1074,7 @@ Found 614 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaveLloyd1234">DaveLloyd1234</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/172660735">1 other</a>)&nbsp;</td>
             <td>2010-07-30</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>2179</td>
         </tr>

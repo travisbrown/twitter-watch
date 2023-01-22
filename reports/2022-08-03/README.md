@@ -1539,7 +1539,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nyc_data_geek">nyc_data_geek</a></td>
             <td>2017-10-28</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>2831</td>
         </tr>

@@ -738,7 +738,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GodPenuel">GodPenuel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/81063018">2 others</a>)&nbsp;</td>
             <td>2009-10-09</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>24463</td>
         </tr>

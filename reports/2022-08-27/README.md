@@ -1040,7 +1040,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/haynes_wiley">haynes_wiley</a></td>
             <td>2020-05-28</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>4231</td>
         </tr>

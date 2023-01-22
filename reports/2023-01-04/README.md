@@ -433,7 +433,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnEDavies">JohnEDavies</a></td>
             <td>2009-11-27</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>12008</td>
         </tr>
@@ -796,7 +796,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FutCommissioner">FutCommissioner</a></td>
             <td>2022-05-03</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2550</td>
         </tr>
@@ -862,7 +862,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JCxrry">JCxrry</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1012054648931446789">1 other</a>)&nbsp;</td>
             <td>2018-06-27</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>2244</td>
         </tr>
@@ -1456,7 +1456,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rebellious_Sons">Rebellious_Sons</a></td>
             <td>2021-09-04</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1081</td>
         </tr>

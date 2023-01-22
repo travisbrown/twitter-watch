@@ -160,7 +160,7 @@ Found 17 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JamesRotep1">JamesRotep1</a></td>
             <td>2022-04-11</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>26</td>
             <td>11125</td>
@@ -1550,7 +1550,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JCDeardeuff">JCDeardeuff</a></td>
             <td>2009-12-15</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>2753</td>
         </tr>

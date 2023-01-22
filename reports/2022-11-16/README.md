@@ -2101,7 +2101,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Napalism">Napalism</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/242692276">4 others</a>)&nbsp;</td>
             <td>2011-01-25</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1811</td>
         </tr>

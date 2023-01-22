@@ -2226,7 +2226,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SophiaTara88">SophiaTara88</a></td>
             <td>2009-04-21</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>3682</td>
         </tr>
@@ -3040,7 +3040,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Swaggercat2">Swaggercat2</a></td>
             <td>2019-01-19</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>1958</td>
         </tr>

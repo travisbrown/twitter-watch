@@ -761,7 +761,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WARDRAWS_Art">WARDRAWS_Art</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2559232309">1 other</a>)&nbsp;</td>
             <td>2014-06-10</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>23019</td>
         </tr>

@@ -1227,7 +1227,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nalutece">nalutece</a></td>
             <td>2020-07-10</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2411</td>
         </tr>

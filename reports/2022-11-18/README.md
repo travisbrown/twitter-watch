@@ -1732,7 +1732,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JDursoCap">JDursoCap</a></td>
             <td>2016-04-09</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>2080</td>
         </tr>

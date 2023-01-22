@@ -136,7 +136,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/_RoscoeSteele">_RoscoeSteele</a></td>
             <td>2022-01-12</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>85</td>
             <td>60070</td>
@@ -919,7 +919,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zeusrodrigues">zeusrodrigues</a></td>
             <td>2011-09-12</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1470</td>
         </tr>

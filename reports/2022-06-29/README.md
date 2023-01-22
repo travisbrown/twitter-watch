@@ -1382,7 +1382,7 @@ Found 1703 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TATBUILT003">TATBUILT003</a></td>
             <td>2010-11-06</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>1363</td>
         </tr>

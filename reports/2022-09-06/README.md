@@ -794,7 +794,7 @@ Found 374 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TenV56">TenV56</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1398760726467121156">1 other</a>)&nbsp;</td>
             <td>2021-05-29</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1525</td>
         </tr>

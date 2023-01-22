@@ -948,7 +948,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nealbrimhall">nealbrimhall</a></td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>3577</td>
         </tr>
@@ -981,7 +981,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/schmidt_zach">schmidt_zach</a></td>
             <td>2009-05-25</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>3181</td>
         </tr>

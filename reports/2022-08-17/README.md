@@ -794,7 +794,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ScoonTv">ScoonTv</a></td>
             <td>2019-08-31</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>29902</td>
         </tr>
@@ -1190,7 +1190,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CampeloNilton">CampeloNilton</a></td>
             <td>2018-06-02</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>5343</td>
         </tr>
@@ -1784,7 +1784,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DogsAreBtr">DogsAreBtr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1436315730862092322">3 others</a>)&nbsp;</td>
             <td>2021-09-10</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2402</td>
         </tr>

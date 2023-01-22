@@ -568,7 +568,7 @@ Found 51 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Victor62068092">Victor62068092</a></td>
             <td>2020-07-06</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>127</td>
             <td>77392</td>
@@ -1382,7 +1382,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_blonde_moment">_blonde_moment</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>11400</td>
         </tr>
@@ -1404,7 +1404,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Flash_holl">Flash_holl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3434308761">2 others</a>)&nbsp;</td>
             <td>2015-08-21</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>10306</td>
         </tr>

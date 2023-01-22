@@ -913,7 +913,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jjcouey">jjcouey</a></td>
             <td>2018-10-09</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>9520</td>
         </tr>

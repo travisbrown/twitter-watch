@@ -1073,7 +1073,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/srqstockpicker">srqstockpicker</a></td>
             <td>2009-04-13</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>3606</td>
         </tr>
@@ -1777,7 +1777,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RZam2888">RZam2888</a></td>
             <td>2012-10-22</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1851</td>
         </tr>
@@ -2734,7 +2734,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HbioTohc">HbioTohc</a></td>
             <td>2014-09-29</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1163</td>
         </tr>
@@ -2943,7 +2943,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TraderNewsFeed">TraderNewsFeed</a></td>
             <td>2011-03-22</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>1035</td>
         </tr>

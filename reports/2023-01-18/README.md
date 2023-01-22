@@ -64,7 +64,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/andymor60921215">andymor60921215</a></td>
             <td>2020-07-06</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>69</td>
             <td>27269</td>
@@ -1651,7 +1651,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/angus_">angus_</a></td>
             <td>2008-04-27</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>1102</td>
         </tr>

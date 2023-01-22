@@ -933,7 +933,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DougShootsStr8">DougShootsStr8</a></td>
             <td>2013-08-07</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>5394</td>
         </tr>

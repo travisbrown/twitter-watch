@@ -1899,7 +1899,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/K_the_Stoic">K_the_Stoic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/890648414932922370">1 other</a>)&nbsp;</td>
             <td>2017-07-27</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>1312</td>
         </tr>

@@ -2365,7 +2365,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Red_Awakening">Red_Awakening</a></td>
             <td>2021-06-21</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1826</td>
         </tr>

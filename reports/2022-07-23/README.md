@@ -28,7 +28,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ConservOmatic">ConservOmatic</a></td>
             <td>2021-05-25</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>17833</td>
             <td>585</td>

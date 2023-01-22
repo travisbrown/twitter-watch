@@ -980,7 +980,7 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Landstute">Landstute</a></td>
             <td>2022-05-22</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>4265</td>
         </tr>

@@ -761,7 +761,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mather2Mather">Mather2Mather</a></td>
             <td>2022-01-04</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2724</td>
         </tr>
@@ -981,7 +981,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ruthianway">Ruthianway</a></td>
             <td>2009-03-25</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>2014</td>
         </tr>

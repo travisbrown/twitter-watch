@@ -1679,7 +1679,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Joshua_M_Hump">Joshua_M_Hump</a></td>
             <td>2021-08-04</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>3428</td>
         </tr>

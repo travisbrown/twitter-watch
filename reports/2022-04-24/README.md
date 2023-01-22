@@ -2297,7 +2297,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrDrmaurobassi">DrDrmaurobassi</a></td>
             <td>2014-12-09</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>2497</td>
         </tr>
@@ -3023,7 +3023,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mrthalidomider">mrthalidomider</a></td>
             <td>2011-02-22</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>1574</td>
         </tr>

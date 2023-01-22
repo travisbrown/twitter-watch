@@ -1149,7 +1149,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IbtissameBetty">IbtissameBetty</a></td>
             <td>2009-11-22</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>11381</td>
         </tr>
@@ -1413,7 +1413,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SachinS50175882">SachinS50175882</a></td>
             <td>2021-09-20</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>7434</td>
         </tr>
@@ -2161,7 +2161,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HarrySt40119817">HarrySt40119817</a></td>
             <td>2019-05-20</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>3540</td>
         </tr>

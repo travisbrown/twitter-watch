@@ -5983,7 +5983,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/manlygraphite1">manlygraphite1</a></td>
             <td>2019-07-04</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>1309</td>
         </tr>

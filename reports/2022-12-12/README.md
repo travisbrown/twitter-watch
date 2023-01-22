@@ -1230,7 +1230,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wildassroblox">wildassroblox</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1483961512041455617">1 other</a>)&nbsp;</td>
             <td>2022-01-20</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2776</td>
         </tr>
@@ -2231,7 +2231,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/skagirl77">skagirl77</a></td>
             <td>2022-03-31</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1130</td>
         </tr>

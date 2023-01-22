@@ -1219,7 +1219,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChessAnimal">ChessAnimal</a></td>
             <td>2009-01-06</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>9425</td>
         </tr>

@@ -689,7 +689,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AragneSpicy">AragneSpicy</a></td>
             <td>2015-10-01</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>39084</td>
         </tr>

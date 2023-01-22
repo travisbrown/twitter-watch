@@ -1170,7 +1170,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lanee_lucy">lanee_lucy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1387029329977151490">1 other</a>)&nbsp;</td>
             <td>2021-04-27</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1223</td>
         </tr>

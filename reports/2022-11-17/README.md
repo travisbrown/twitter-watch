@@ -1915,7 +1915,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RICARDONIGRO">RICARDONIGRO</a></td>
             <td>2009-06-22</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center">🔒</td>
             <td>2775</td>
         </tr>
@@ -2641,7 +2641,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_k_i_n_k_a">_k_i_n_k_a</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/323501367">3 others</a>)&nbsp;</td>
             <td>2011-06-24</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1739</td>
         </tr>
@@ -3708,7 +3708,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fri_day_6">fri_day_6</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1169305962336800768">3 others</a>)&nbsp;</td>
             <td>2019-09-04</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1181</td>
         </tr>

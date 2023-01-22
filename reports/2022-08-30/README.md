@@ -907,7 +907,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PeppersMonique">PeppersMonique</a></td>
             <td>2021-11-06</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>4942</td>
         </tr>
@@ -1028,7 +1028,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SusanFourtane">SusanFourtane</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/221333493">1 other</a>)&nbsp;</td>
             <td>2010-11-30</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>4372</td>
         </tr>
@@ -2260,7 +2260,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DuanJon1483">DuanJon1483</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1436371021066604544">1 other</a>)&nbsp;</td>
             <td>2021-09-10</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1121</td>
         </tr>

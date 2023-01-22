@@ -958,7 +958,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_Slice0fLife_">_Slice0fLife_</a></td>
             <td>2013-12-04</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2321</td>
         </tr>
@@ -1530,7 +1530,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SteveSimonovic">SteveSimonovic</a></td>
             <td>2013-12-09</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1255</td>
         </tr>

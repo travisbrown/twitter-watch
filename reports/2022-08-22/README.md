@@ -2631,7 +2631,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bigmanishkumar">bigmanishkumar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1523182200329412608">6 others</a>)&nbsp;</td>
             <td>2022-05-08</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1122</td>
         </tr>

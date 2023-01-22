@@ -1285,7 +1285,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jayrok35">jayrok35</a></td>
             <td>2011-01-08</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>2908</td>
         </tr>

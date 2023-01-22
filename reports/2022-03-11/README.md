@@ -874,7 +874,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShannonJoyRadio">ShannonJoyRadio</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/26040780">2 others</a>)&nbsp;</td>
             <td>2009-03-23</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>15207</td>
         </tr>

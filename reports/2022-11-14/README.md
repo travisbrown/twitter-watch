@@ -400,7 +400,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/hammybone12">hammybone12</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/393058869">3 others</a>)&nbsp;</td>
             <td>2011-10-17</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1122</td>
             <td>53854</td>
@@ -1676,7 +1676,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ItaloMarsinho">ItaloMarsinho</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1239564082128306179">4 others</a>)&nbsp;</td>
             <td>2020-03-16</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>15865</td>
         </tr>
@@ -1742,7 +1742,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/primenewspr">primenewspr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/976636879">4 others</a>)&nbsp;</td>
             <td>2012-11-28</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>10958</td>
         </tr>
@@ -1984,7 +1984,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Eruma_27">Eruma_27</a></td>
             <td>2018-07-03</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>4396</td>
         </tr>
@@ -2292,7 +2292,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shiftmathew">shiftmathew</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1360858794876633093">1 other</a>)&nbsp;</td>
             <td>2021-02-14</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2678</td>
         </tr>

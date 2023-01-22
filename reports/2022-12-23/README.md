@@ -647,7 +647,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KabeloMahoro">KabeloMahoro</a></td>
             <td>2020-02-13</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>9611</td>
         </tr>

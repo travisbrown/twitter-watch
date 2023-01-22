@@ -184,7 +184,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/EverydayFinance">EverydayFinance</a></td>
             <td>2008-05-21</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>6873</td>
             <td>43515</td>
@@ -288,7 +288,7 @@ Found 1645 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DhakaTribune">DhakaTribune</a></td>
             <td>2012-08-14</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>461230</td>
         </tr>

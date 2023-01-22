@@ -1776,7 +1776,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/laire">laire</a></td>
             <td>2009-03-11</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>4059</td>
         </tr>

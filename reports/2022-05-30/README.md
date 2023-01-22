@@ -688,7 +688,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Carlos38305595">Carlos38305595</a></td>
             <td>2019-12-10</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1815</td>
         </tr>

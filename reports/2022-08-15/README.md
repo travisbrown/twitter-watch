@@ -1959,7 +1959,7 @@ Found 1105 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theHellen_">theHellen_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2180655666">7 others</a>)&nbsp;</td>
             <td>2013-11-07</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>1507</td>
         </tr>

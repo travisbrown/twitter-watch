@@ -244,7 +244,7 @@ Found 754 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bert7058">Bert7058</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/30604083">2 others</a>)&nbsp;</td>
             <td>2009-04-12</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>34631</td>
         </tr>

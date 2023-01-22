@@ -3755,7 +3755,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nuckingfutz33">nuckingfutz33</a></td>
             <td>2010-10-22</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>1055</td>
         </tr>

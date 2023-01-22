@@ -28,7 +28,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ananonmaly">ananonmaly</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1413255025837547526">2 others</a>)&nbsp;</td>
             <td>2021-07-08</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>365</td>
             <td>1353</td>

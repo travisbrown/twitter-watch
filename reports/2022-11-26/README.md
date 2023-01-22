@@ -1246,7 +1246,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lord_rony">lord_rony</a></td>
             <td>2022-04-07</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>3539</td>
         </tr>

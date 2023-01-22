@@ -328,7 +328,7 @@ Found 43 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JNewellUSArmy">JNewellUSArmy</a></td>
             <td>2010-08-27</td>
-            <td></td>
+            <td>2023-01-14</td>
             <td align="center"></td>
             <td>1436</td>
             <td>51884</td>
@@ -1631,7 +1631,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MacriJoyce">MacriJoyce</a></td>
             <td>2015-02-07</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>2059</td>
         </tr>

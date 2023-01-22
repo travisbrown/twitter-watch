@@ -112,7 +112,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Lrn2History">Lrn2History</a></td>
             <td>2012-05-27</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>220</td>
             <td>55194</td>
@@ -237,7 +237,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/videoschapado">videoschapado</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1555015461150117889">1 other</a>)&nbsp;</td>
             <td>2022-08-04</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>120734</td>
         </tr>
@@ -1216,7 +1216,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thekidaw">thekidaw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3129779309">14 others</a>)&nbsp;</td>
             <td>2015-03-30</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center">🔒</td>
             <td>2014</td>
         </tr>
@@ -1909,7 +1909,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/princepetersonm">princepetersonm</a></td>
             <td>2011-02-04</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>1218</td>
         </tr>

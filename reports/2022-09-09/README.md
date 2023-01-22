@@ -742,7 +742,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/total_woke_">total_woke_</a></td>
             <td>2021-08-02</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>46437</td>
         </tr>
@@ -786,7 +786,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/grisasexual">grisasexual</a></td>
             <td>2018-06-25</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>26838</td>
         </tr>

@@ -2042,7 +2042,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/derimboe666">derimboe666</a></td>
             <td>2021-12-18</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1453</td>
         </tr>

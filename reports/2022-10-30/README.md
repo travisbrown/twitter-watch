@@ -5577,7 +5577,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/annabiishiki_32">annabiishiki_32</a></td>
             <td>2020-09-09</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>23802</td>
         </tr>

@@ -88,7 +88,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/therealfoxNY">therealfoxNY</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1556652598081556482">1 other</a>)&nbsp;</td>
             <td>2022-08-08</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>3211</td>
             <td>6463</td>

@@ -1187,7 +1187,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BTCcatalog">BTCcatalog</a></td>
             <td>2012-11-25</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>2862</td>
         </tr>
@@ -1605,7 +1605,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GetKeef">GetKeef</a></td>
             <td>2008-10-01</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>1553</td>
         </tr>

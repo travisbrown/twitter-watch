@@ -1341,7 +1341,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HallieBenny">HallieBenny</a></td>
             <td>2011-03-09</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>1039</td>
         </tr>

@@ -1378,7 +1378,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BartInTheCar">BartInTheCar</a></td>
             <td>2021-11-27</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>34977</td>
         </tr>

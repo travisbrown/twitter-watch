@@ -922,7 +922,7 @@ Found 831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uulas_b">uulas_b</a></td>
             <td>2022-01-30</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>1664</td>
         </tr>

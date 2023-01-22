@@ -1082,7 +1082,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theLGBgroup">theLGBgroup</a></td>
             <td>2022-03-09</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>5923</td>
         </tr>
@@ -2314,7 +2314,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tylerinvegas20">tylerinvegas20</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/551567950">11 others</a>)&nbsp;</td>
             <td>2012-04-12</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1219</td>
         </tr>

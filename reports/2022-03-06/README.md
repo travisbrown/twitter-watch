@@ -1193,7 +1193,7 @@ Found 528 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ricardocwb1977">Ricardocwb1977</a></td>
             <td>2013-06-17</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1009</td>
         </tr></table>

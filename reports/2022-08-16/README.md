@@ -532,7 +532,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZahraniAbidi">ZahraniAbidi</a></td>
             <td>2014-11-05</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>25681</td>
         </tr>

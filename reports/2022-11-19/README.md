@@ -588,7 +588,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Aracelly_Gomez1">Aracelly_Gomez1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1369921725656309763">2 others</a>)&nbsp;</td>
             <td>2021-03-11</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>5118</td>
         </tr>

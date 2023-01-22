@@ -4056,7 +4056,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CASAFINA">CASAFINA</a></td>
             <td>2010-01-14</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>4219</td>
         </tr>

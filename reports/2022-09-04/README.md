@@ -836,7 +836,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RickyRavelo">RickyRavelo</a></td>
             <td>2014-02-25</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>4367</td>
         </tr>
@@ -1100,7 +1100,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lepton939">lepton939</a></td>
             <td>2009-03-14</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>2297</td>
         </tr>

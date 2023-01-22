@@ -1635,7 +1635,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/beatcop4life">beatcop4life</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1125967157320306688">1 other</a>)&nbsp;</td>
             <td>2019-05-08</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>3044</td>
         </tr>

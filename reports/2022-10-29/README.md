@@ -112,7 +112,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ZoomerEagle">ZoomerEagle</a></td>
             <td>2021-12-29</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>356</td>
             <td>4435</td>
@@ -16119,7 +16119,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2AERICJTRACY">2AERICJTRACY</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1037463531724197888">1 other</a>)&nbsp;</td>
             <td>2018-09-05</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>2389</td>
         </tr>
@@ -27383,7 +27383,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MiFaust">MiFaust</a></td>
             <td>2017-10-13</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>1474</td>
         </tr>
@@ -28439,7 +28439,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0000Rain">0000Rain</a></td>
             <td>2012-11-19</td>
-            <td></td>
+            <td>2023-01-16</td>
             <td align="center"></td>
             <td>1414</td>
         </tr>
@@ -29902,7 +29902,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/themediumz">themediumz</a></td>
             <td>2020-02-05</td>
-            <td></td>
+            <td>2023-01-20</td>
             <td align="center"></td>
             <td>1335</td>
         </tr>
@@ -31695,7 +31695,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/waiting4theshow">waiting4theshow</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1243356613496451073">1 other</a>)&nbsp;</td>
             <td>2020-03-27</td>
-            <td></td>
+            <td>2023-01-17</td>
             <td align="center"></td>
             <td>1249</td>
         </tr>

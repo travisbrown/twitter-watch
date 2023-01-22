@@ -1490,7 +1490,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JonGowess">JonGowess</a></td>
             <td>2020-03-25</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>3023</td>
         </tr>
@@ -1985,7 +1985,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heltondealmeid1">heltondealmeid1</a></td>
             <td>2018-11-16</td>
-            <td></td>
+            <td>2023-01-19</td>
             <td align="center"></td>
             <td>1518</td>
         </tr>

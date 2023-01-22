@@ -4746,7 +4746,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AtlantaLiberal">AtlantaLiberal</a></td>
             <td>2018-10-01</td>
-            <td></td>
+            <td>2023-01-15</td>
             <td align="center"></td>
             <td>2451</td>
         </tr>

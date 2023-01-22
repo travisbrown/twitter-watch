@@ -952,7 +952,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FKASerioJosh">FKASerioJosh</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1065374197193555968">1 other</a>)&nbsp;</td>
             <td>2018-11-21</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>6401</td>
         </tr>

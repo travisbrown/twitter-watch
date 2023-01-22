@@ -652,7 +652,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Edgarcialonso">Edgarcialonso</a></td>
             <td>2008-02-03</td>
-            <td></td>
+            <td>2023-01-18</td>
             <td align="center"></td>
             <td>3422</td>
         </tr>

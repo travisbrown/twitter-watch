@@ -294,7 +294,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AaronRockxxx">AaronRockxxx</a></td>
             <td>2017-11-24</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>30334</td>
         </tr>
