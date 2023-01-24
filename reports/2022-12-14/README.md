@@ -1598,7 +1598,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CascadianZone">CascadianZone</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1355699393681219588">1 other</a>)&nbsp;</td>
             <td>2021-01-31</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>2119</td>
         </tr>

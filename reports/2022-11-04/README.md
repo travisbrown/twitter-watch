@@ -1148,7 +1148,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaudFrainklen">MaudFrainklen</a></td>
             <td>2021-10-05</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>24555</td>
         </tr>

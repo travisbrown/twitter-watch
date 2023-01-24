@@ -928,7 +928,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nerdy_Addict">Nerdy_Addict</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1052953940361383937">2 others</a>)&nbsp;</td>
             <td>2018-10-18</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>22588</td>
         </tr>

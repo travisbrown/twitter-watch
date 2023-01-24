@@ -2120,7 +2120,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Reiner_Rocky">Reiner_Rocky</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1197545291588734978">1 other</a>)&nbsp;</td>
             <td>2019-11-21</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1771</td>
         </tr>

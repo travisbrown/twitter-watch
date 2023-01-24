@@ -1384,7 +1384,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/far_var_din">far_var_din</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/918965942104870913">3 others</a>)&nbsp;</td>
             <td>2017-10-13</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>1731</td>
         </tr>

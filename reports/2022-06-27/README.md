@@ -1547,7 +1547,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MalachiOfficia7">MalachiOfficia7</a></td>
             <td>2022-01-15</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>1125</td>
         </tr>

@@ -922,7 +922,7 @@ Found 781 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UrOniMommies">UrOniMommies</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1243270795918479372">15 others</a>)&nbsp;</td>
             <td>2020-03-26</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>3030</td>
         </tr>

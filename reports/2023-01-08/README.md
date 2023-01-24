@@ -1390,7 +1390,7 @@ Found 1538 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BadasSalmaniac">BadasSalmaniac</a></td>
             <td>2022-09-11</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1152</td>
         </tr>

@@ -7594,7 +7594,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RLeeKeen">RLeeKeen</a></td>
             <td>2013-11-24</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>4684</td>
         </tr>
@@ -22488,7 +22488,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SpikerUSA">SpikerUSA</a></td>
             <td>2016-12-01</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1796</td>
         </tr>
@@ -29319,7 +29319,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mytjany">Mytjany</a></td>
             <td>2017-01-22</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1368</td>
         </tr>
@@ -37822,7 +37822,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1AmericanWolf">1AmericanWolf</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/726886865081655296">1 other</a>)&nbsp;</td>
             <td>2016-05-01</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>1007</td>
         </tr>

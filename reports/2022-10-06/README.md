@@ -2436,7 +2436,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dacicus22">dacicus22</a></td>
             <td>2022-01-30</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>1373</td>
         </tr>

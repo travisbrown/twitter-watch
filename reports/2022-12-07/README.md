@@ -700,7 +700,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/soytatireal">soytatireal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1452304639332859925">4 others</a>)&nbsp;</td>
             <td>2021-10-24</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>11448</td>
         </tr>

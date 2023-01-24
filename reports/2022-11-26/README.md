@@ -1081,7 +1081,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/justacutemom">justacutemom</a></td>
             <td>2022-06-01</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>5162</td>
         </tr>

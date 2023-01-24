@@ -1622,7 +1622,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/futboltoni_">futboltoni_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2895018293">7 others</a>)&nbsp;</td>
             <td>2014-11-27</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>2323</td>
         </tr>

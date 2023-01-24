@@ -256,7 +256,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MissWendyWood">MissWendyWood</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18185401">2 others</a>)&nbsp;</td>
             <td>2008-12-17</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>3676</td>
             <td>77444</td>

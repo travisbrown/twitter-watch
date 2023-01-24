@@ -1848,7 +1848,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jinglebts">jinglebts</a></td>
             <td>2010-06-12</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1944</td>
         </tr>

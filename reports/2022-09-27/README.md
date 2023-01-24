@@ -642,7 +642,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DyanPreeti">DyanPreeti</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/923591869950578688">1 other</a>)&nbsp;</td>
             <td>2017-10-26</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>3144</td>
         </tr>

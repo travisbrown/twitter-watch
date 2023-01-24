@@ -124,7 +124,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PA_Imperator">PA_Imperator</a></td>
             <td>2022-07-20</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>707</td>
             <td>66643</td>

@@ -300,7 +300,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Karma_Rx">Karma_Rx</a></td>
             <td>2015-04-22</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>817807</td>
         </tr>
@@ -1334,7 +1334,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DallasMaloca">DallasMaloca</a></td>
             <td>2022-01-20</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>1274</td>
         </tr>

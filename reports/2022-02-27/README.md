@@ -810,7 +810,7 @@ Found 270 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ImmaKKKmember">ImmaKKKmember</a></td>
             <td>2021-10-09</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1669</td>
         </tr>

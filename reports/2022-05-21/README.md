@@ -1740,7 +1740,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Made4Canada">Made4Canada</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/811372866">2 others</a>)&nbsp;</td>
             <td>2012-09-08</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1972</td>
         </tr>

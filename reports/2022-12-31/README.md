@@ -160,7 +160,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/STEVENF65467205">STEVENF65467205</a></td>
             <td>2019-08-06</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>591</td>
             <td>74960</td>

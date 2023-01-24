@@ -2707,7 +2707,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Winning_TV2">Winning_TV2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/22261699">2 others</a>)&nbsp;</td>
             <td>2009-02-28</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1771</td>
         </tr>

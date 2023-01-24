@@ -1018,7 +1018,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/9jaQuin">9jaQuin</a></td>
             <td>2010-08-04</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>6239</td>
         </tr>

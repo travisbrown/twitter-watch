@@ -1056,7 +1056,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/crutterbear">crutterbear</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/22911677">1 other</a>)&nbsp;</td>
             <td>2009-03-05</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1303</td>
         </tr>

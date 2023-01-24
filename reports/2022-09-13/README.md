@@ -2226,7 +2226,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AR15owl">AR15owl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/215536395">1 other</a>)&nbsp;</td>
             <td>2010-11-14</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>1333</td>
         </tr>

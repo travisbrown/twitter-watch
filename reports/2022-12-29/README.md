@@ -574,7 +574,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoCam22">CryptoCam22</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/165568625">1 other</a>)&nbsp;</td>
             <td>2010-07-11</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>8899</td>
         </tr>
@@ -970,7 +970,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlackJesus47">BlackJesus47</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1335647435184541702">2 others</a>)&nbsp;</td>
             <td>2020-12-06</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>2972</td>
         </tr>

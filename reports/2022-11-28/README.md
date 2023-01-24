@@ -911,7 +911,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aleryuce">aleryuce</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2951928946">2 others</a>)&nbsp;</td>
             <td>2014-12-30</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>26565</td>
         </tr>

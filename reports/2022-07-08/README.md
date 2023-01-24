@@ -1726,7 +1726,7 @@ Found 698 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JDMixon">JDMixon</a></td>
             <td>2011-04-18</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>1110</td>
         </tr>

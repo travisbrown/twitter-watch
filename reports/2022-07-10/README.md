@@ -785,7 +785,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sosoe1992">Sosoe1992</a></td>
             <td>2017-05-30</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>15984</td>
         </tr>

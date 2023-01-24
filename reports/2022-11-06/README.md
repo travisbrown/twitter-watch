@@ -4706,7 +4706,7 @@ Found 1823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DazzaGB">DazzaGB</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1270024206135296001">1 other</a>)&nbsp;</td>
             <td>2020-06-08</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>2371</td>
         </tr>

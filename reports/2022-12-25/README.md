@@ -726,7 +726,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/F4STFATI">F4STFATI</a></td>
             <td>2017-08-27</td>
-            <td></td>
+            <td>2023-01-21</td>
             <td align="center"></td>
             <td>5459</td>
         </tr>

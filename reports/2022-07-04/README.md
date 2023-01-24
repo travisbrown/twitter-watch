@@ -1403,7 +1403,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TREVORGTAV_">TREVORGTAV_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1200599931817545729">5 others</a>)&nbsp;</td>
             <td>2019-11-30</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>1758</td>
         </tr>

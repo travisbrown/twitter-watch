@@ -2163,7 +2163,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alvin_dayo">alvin_dayo</a></td>
             <td>2010-11-10</td>
-            <td></td>
+            <td>2023-01-22</td>
             <td align="center"></td>
             <td>2419</td>
         </tr>
