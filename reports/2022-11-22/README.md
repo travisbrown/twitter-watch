@@ -400,7 +400,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/rfbuckey">rfbuckey</a></td>
             <td>2016-02-13</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>494</td>
             <td>90558</td>

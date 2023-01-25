@@ -1103,7 +1103,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sassychickie">Sassychickie</a></td>
             <td>2019-12-10</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>65786</td>
         </tr>

@@ -610,7 +610,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alissa_yu_xo">Alissa_yu_xo</a></td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center">🔒</td>
             <td>299743</td>
         </tr>

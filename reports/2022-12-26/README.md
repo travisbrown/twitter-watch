@@ -172,7 +172,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/J4CKH3CK">J4CKH3CK</a></td>
             <td>2012-11-30</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>87</td>
             <td>88377</td>

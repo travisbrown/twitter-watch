@@ -1810,7 +1810,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeromearmstrong">jeromearmstrong</a></td>
             <td>2007-10-26</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>2377</td>
         </tr>

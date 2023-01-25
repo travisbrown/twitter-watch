@@ -148,7 +148,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/VitDBro1">VitDBro1</a></td>
             <td>2021-02-23</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1727</td>
             <td>51392</td>

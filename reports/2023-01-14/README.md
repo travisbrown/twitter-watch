@@ -230,7 +230,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CampendonkP">CampendonkP</a></td>
             <td>2021-04-04</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>6818</td>
         </tr>
@@ -384,7 +384,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lindie_Mthembu">Lindie_Mthembu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1132224873982550016">1 other</a>)&nbsp;</td>
             <td>2019-05-25</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>3341</td>
         </tr>
@@ -703,7 +703,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Xrp3Aussie">Xrp3Aussie</a></td>
             <td>2021-12-21</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1932</td>
         </tr>
@@ -813,7 +813,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Heart_Beacon">Heart_Beacon</a></td>
             <td>2009-04-11</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1599</td>
         </tr>
@@ -879,7 +879,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EdwinPaz2019">EdwinPaz2019</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1111419374290829312">1 other</a>)&nbsp;</td>
             <td>2019-03-29</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1529</td>
         </tr>
@@ -890,7 +890,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ms_samimi">Ms_samimi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2885726638">2 others</a>)&nbsp;</td>
             <td>2014-11-20</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1504</td>
         </tr>
@@ -1000,7 +1000,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JimMissall">JimMissall</a></td>
             <td>2014-01-26</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1326</td>
         </tr>
@@ -1022,7 +1022,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pia_brolin">pia_brolin</a></td>
             <td>2017-12-05</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1247</td>
         </tr>
@@ -1077,7 +1077,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/skizzm64">skizzm64</a></td>
             <td>2022-01-06</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1216</td>
         </tr>
@@ -1297,7 +1297,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TshegoAmg">TshegoAmg</a></td>
             <td>2020-08-15</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1060</td>
         </tr>
@@ -1341,7 +1341,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AllanS27">AllanS27</a></td>
             <td>2009-08-15</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1029</td>
         </tr>
@@ -1352,7 +1352,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mpriolli">mpriolli</a></td>
             <td>2012-01-19</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1023</td>
         </tr>

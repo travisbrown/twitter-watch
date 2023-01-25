@@ -535,7 +535,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ybwitwaves">ybwitwaves</a></td>
             <td>2021-09-18</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>7816</td>
         </tr>

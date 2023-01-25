@@ -1840,7 +1840,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AdamNutter">AdamNutter</a></td>
             <td>2012-11-22</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>2349</td>
         </tr>

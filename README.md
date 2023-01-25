@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 515325
-* Total number of suspension reversals detected: 31762
-* Mean number of followers for suspended accounts: 1484.52
-* Median number of followers for suspended accounts: 48.0
-* Mean age of suspended accounts (days): 1029.8
-* Median age of suspended accounts (days): 305.0
-* Total number of verified accounts suspended: 176
-* Total number of protected accounts suspended: 25779
+* Total number of suspensions detected: 519500
+* Total number of suspension reversals detected: 32709
+* Mean number of followers for suspended accounts: 1473.11
+* Median number of followers for suspended accounts: 47.0
+* Mean age of suspended accounts (days): 1025.37
+* Median age of suspended accounts (days): 303.0
+* Total number of verified accounts suspended: 178
+* Total number of protected accounts suspended: 25989
 * Total number of suspensions for accounts previously withheld in specific countries: 38
 * Total number of screen name changes detected: 966283
 
@@ -92,39 +92,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>58</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=2244134066">
-                <img src="https://pbs.twimg.com/profile_images/378800000867032148/JdKa3H8o_normal.jpeg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/clif_high">clif_high</a></td>
-            <td>2013-12-13</td>
-            <td>2022-03-30</td>
-            <td>105607</td>
-            <td>107</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=548258435">
-                <img src="https://pbs.twimg.com/profile_images/1481021073181265922/TBVzFzJZ_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/wigger">wigger</a></td>
-            <td>2012-04-08</td>
-            <td>2022-04-30</td>
-            <td>99749</td>
-            <td>145</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1435906191373180933">
-                <img src="https://pbs.twimg.com/profile_images/1435910607509680129/DPULcW_5_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/RealPepeEscobar">RealPepeEscobar</a></td>
-            <td>2021-09-09</td>
-            <td>2022-04-13</td>
-            <td>78570</td>
-            <td>149</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1393240605828993028">
                 <img src="https://pbs.twimg.com/profile_images/1549607701851807744/Ig2Z6_ar_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -167,17 +134,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-09-02</td>
             <td>70298</td>
             <td>207</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1153042794375712770">
-                <img src="https://pbs.twimg.com/profile_images/1520223898285002752/lpxCWbcc_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/HowleyReporter">HowleyReporter</a></td>
-            <td>2019-07-21</td>
-            <td>2022-05-06</td>
-            <td>74933</td>
-            <td>215</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1057187257558413312">
@@ -277,6 +233,50 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-10-07</td>
             <td>29244</td>
             <td>292</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1239529100043313152">
+                <img src="https://pbs.twimg.com/profile_images/1405364006475296773/0i4RCEH5_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/LivingScribe">LivingScribe</a></td>
+            <td>2020-03-16</td>
+            <td>2022-10-28</td>
+            <td>38907</td>
+            <td>302</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=704181782921486336">
+                <img src="https://pbs.twimg.com/profile_images/704877795944566784/cpl0DmGS_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/roadtoserfdom3">roadtoserfdom3</a></td>
+            <td>2016-02-29</td>
+            <td>2022-08-10</td>
+            <td>36738</td>
+            <td>314</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1515796842532978688">
+                <img src="https://pbs.twimg.com/profile_images/1519462793644290048/V6IVOr99_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/PapiTrumpo__">PapiTrumpo__</a></td>
+            <td>2022-04-17</td>
+            <td>2022-05-03</td>
+            <td>40225</td>
+            <td>319</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1562873560351133701">
+                <img src="https://pbs.twimg.com/profile_images/1582986889258184704/-cjknLkr_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ArtCali818">ArtCali818</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1562873560351133701">1 other</a>)&nbsp;</td>
+            <td>2022-08-25</td>
+            <td>2022-11-01</td>
+            <td>47058</td>
+            <td>325</td>
         </tr></table>
 
 ## Daily reports
@@ -290,10 +290,18 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2023-01-25/">25 January 2023</a>
+            </td>
+            <td>1457</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2023-01-24/">24 January 2023</a>
             </td>
-            <td>642</td>
-            <td>0</td>
+            <td>5504</td>
+            <td>4</td>
             <td>0</td>
         </tr>
         <tr>

@@ -297,7 +297,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HallyuWebsite">HallyuWebsite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/19875548">1 other</a>)&nbsp;</td>
             <td>2009-02-01</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>126325</td>
         </tr>
@@ -363,7 +363,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TruNews">TruNews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/129019194">1 other</a>)&nbsp;</td>
             <td>2010-04-02</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>61133</td>
         </tr>

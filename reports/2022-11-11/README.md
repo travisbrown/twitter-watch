@@ -112,7 +112,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/poetWOAgun">poetWOAgun</a></td>
             <td>2017-01-20</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>42090</td>
             <td>6965</td>

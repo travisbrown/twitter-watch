@@ -2807,7 +2807,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/polish_man23">polish_man23</a></td>
             <td>2012-03-12</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1077</td>
         </tr>

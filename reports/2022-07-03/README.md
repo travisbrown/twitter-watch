@@ -4782,7 +4782,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aldirgsf">aldirgsf</a></td>
             <td>2011-11-15</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>2525</td>
         </tr>
@@ -5013,7 +5013,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HinduResponse">HinduResponse</a></td>
             <td>2020-09-30</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>2305</td>
         </tr>

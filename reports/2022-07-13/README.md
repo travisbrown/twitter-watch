@@ -248,7 +248,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Daminous_Purity">Daminous_Purity</a></td>
             <td>2009-12-28</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>357804</td>
         </tr>
@@ -567,7 +567,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Polulis">Polulis</a></td>
             <td>2015-02-21</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>9856</td>
         </tr>
@@ -1304,7 +1304,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/checkthls">checkthls</a></td>
             <td>2014-02-04</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>2681</td>
         </tr>

@@ -2152,7 +2152,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavidWolf777">DavidWolf777</a></td>
             <td>2015-09-10</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>2051</td>
         </tr>

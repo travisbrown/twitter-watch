@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/clif_high">clif_high</a></td>
             <td>2013-12-13</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>105607</td>
             <td>107</td>

@@ -432,7 +432,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HuntingTheLiars">HuntingTheLiars</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/932764814">10 others</a>)&nbsp;</td>
             <td>2012-11-07</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>80879</td>
         </tr>

@@ -884,7 +884,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Go1DenUpdates">Go1DenUpdates</a></td>
             <td>2012-06-12</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>202247</td>
         </tr>

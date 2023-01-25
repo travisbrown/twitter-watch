@@ -847,7 +847,7 @@ Found 620 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LawrenceSellin">LawrenceSellin</a></td>
             <td>2016-08-05</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>80214</td>
         </tr>

@@ -40,7 +40,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HowleyReporter">HowleyReporter</a></td>
             <td>2019-07-21</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>74933</td>
             <td>215</td>
@@ -686,7 +686,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mamur">mamur</a></td>
             <td>2009-02-26</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>56697</td>
         </tr>
@@ -2446,7 +2446,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bleached_addict">Bleached_addict</a></td>
             <td>2022-03-19</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1078</td>
         </tr>

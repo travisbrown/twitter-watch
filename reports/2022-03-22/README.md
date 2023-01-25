@@ -1020,7 +1020,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lewdbunboi">lewdbunboi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4062609252">1 other</a>)&nbsp;</td>
             <td>2015-10-29</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>18520</td>
         </tr>

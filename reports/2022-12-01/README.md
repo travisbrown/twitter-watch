@@ -400,7 +400,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SethGilligan">SethGilligan</a></td>
             <td>2020-12-19</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>176</td>
             <td>92008</td>

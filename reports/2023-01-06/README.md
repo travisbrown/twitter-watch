@@ -484,7 +484,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HeartyHomies">HeartyHomies</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1274172963265241088">2 others</a>)&nbsp;</td>
             <td>2020-06-20</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>11782</td>
         </tr>

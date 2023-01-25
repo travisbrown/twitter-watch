@@ -758,7 +758,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JosPastr">JosPastr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/497825722">1 other</a>)&nbsp;</td>
             <td>2012-02-20</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>230530</td>
         </tr>

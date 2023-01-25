@@ -1241,7 +1241,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Snookerfan332">Snookerfan332</a></td>
             <td>2021-12-06</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>8877</td>
         </tr>

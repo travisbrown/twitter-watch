@@ -529,7 +529,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fanzy">fanzy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/254617618">1 other</a>)&nbsp;</td>
             <td>2011-02-19</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>18170</td>
         </tr>
@@ -595,7 +595,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DianacBiggs">DianacBiggs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/20681763">1 other</a>)&nbsp;</td>
             <td>2009-02-12</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center">✔️</td>
             <td>13580</td>
         </tr>
@@ -870,7 +870,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/peak_transit">peak_transit</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1115738399221014528">2 others</a>)&nbsp;</td>
             <td>2019-04-09</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>4181</td>
         </tr>
@@ -2058,7 +2058,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeadsBowsGems">BeadsBowsGems</a></td>
             <td>2021-09-09</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1176</td>
         </tr>

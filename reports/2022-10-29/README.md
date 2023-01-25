@@ -4976,7 +4976,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VaccineIn">VaccineIn</a></td>
             <td>2021-07-13</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>7108</td>
         </tr>
@@ -9002,7 +9002,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rhonda17071468">Rhonda17071468</a></td>
             <td>2018-02-03</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>3883</td>
         </tr>
@@ -35105,7 +35105,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GmGlenna21">GmGlenna21</a></td>
             <td>2013-03-18</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1112</td>
         </tr>

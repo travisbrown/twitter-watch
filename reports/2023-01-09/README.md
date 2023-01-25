@@ -1468,7 +1468,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brian_gichana9">brian_gichana9</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/843848860321636354">1 other</a>)&nbsp;</td>
             <td>2017-03-20</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1478</td>
         </tr>

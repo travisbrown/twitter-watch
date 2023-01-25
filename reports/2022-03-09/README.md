@@ -1552,7 +1552,7 @@ Found 772 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EntropyMagus">EntropyMagus</a></td>
             <td>2019-02-16</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1391</td>
         </tr>

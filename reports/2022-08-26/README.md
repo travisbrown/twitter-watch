@@ -964,7 +964,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sallelorier">sallelorier</a></td>
             <td>2011-11-09</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>89977</td>
         </tr>
@@ -3131,7 +3131,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlsoGoldberg">AlsoGoldberg</a></td>
             <td>2021-05-24</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1856</td>
         </tr>

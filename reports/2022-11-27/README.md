@@ -1487,7 +1487,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JInsulinResist">JInsulinResist</a></td>
             <td>2016-09-01</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>2172</td>
         </tr>

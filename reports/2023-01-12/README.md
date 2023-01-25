@@ -285,7 +285,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealScottRitter">RealScottRitter</a></td>
             <td>2018-07-15</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>88104</td>
         </tr>
@@ -428,7 +428,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/babygunk">babygunk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1043221814">2 others</a>)&nbsp;</td>
             <td>2012-12-28</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>15067</td>
         </tr>
@@ -439,7 +439,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Zakani1Seyed">Zakani1Seyed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4873031667">3 others</a>)&nbsp;</td>
             <td>2016-02-03</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>15005</td>
         </tr>
@@ -582,7 +582,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/printer_brrr">printer_brrr</a></td>
             <td>2021-06-04</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>9918</td>
         </tr>
@@ -813,7 +813,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dabulls629">dabulls629</a></td>
             <td>2013-01-24</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>5323</td>
         </tr>
@@ -1616,7 +1616,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Barziz_">Barziz_</a></td>
             <td>2021-04-17</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1982</td>
         </tr>
@@ -1814,7 +1814,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PossBeans">PossBeans</a></td>
             <td>2022-03-29</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1609</td>
         </tr>

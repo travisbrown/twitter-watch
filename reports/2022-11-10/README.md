@@ -292,7 +292,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/imjdsharp">imjdsharp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/249420175">3 others</a>)&nbsp;</td>
             <td>2011-02-09</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>33936</td>
             <td>81007</td>

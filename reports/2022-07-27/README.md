@@ -914,7 +914,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/McKaylaRoseRed">McKaylaRoseRed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1128475843557249027">2 others</a>)&nbsp;</td>
             <td>2019-05-15</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>101084</td>
         </tr>

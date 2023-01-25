@@ -208,7 +208,7 @@ Found 21 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/athinaters">athinaters</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1402754529171591172">3 others</a>)&nbsp;</td>
             <td>2021-06-09</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center">🔒</td>
             <td>102</td>
             <td>63021</td>

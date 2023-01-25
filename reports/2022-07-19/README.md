@@ -704,7 +704,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bourgeoisalien">bourgeoisalien</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2396910715">1 other</a>)&nbsp;</td>
             <td>2014-03-18</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>75309</td>
         </tr>
@@ -1815,7 +1815,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArtKen">ArtKen</a></td>
             <td>2013-12-22</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1912</td>
         </tr>

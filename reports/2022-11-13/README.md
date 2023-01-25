@@ -76,7 +76,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AnnaApp91838450">AnnaApp91838450</a></td>
             <td>2016-05-21</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>78166</td>
             <td>26737</td>

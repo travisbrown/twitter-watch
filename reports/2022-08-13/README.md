@@ -771,7 +771,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EstulinDaniel">EstulinDaniel</a></td>
             <td>2013-12-11</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>86434</td>
         </tr>

@@ -835,7 +835,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pez1963">pez1963</a></td>
             <td>2009-06-30</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>24540</td>
         </tr>

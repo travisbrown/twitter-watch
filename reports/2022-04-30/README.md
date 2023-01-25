@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/wigger">wigger</a></td>
             <td>2012-04-08</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>99749</td>
             <td>145</td>

@@ -391,7 +391,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DominaMagdalena">DominaMagdalena</a></td>
             <td>2018-10-15</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>3260</td>
         </tr>
@@ -490,7 +490,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cm_mduu">cm_mduu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/549204624">3 others</a>)&nbsp;</td>
             <td>2012-04-09</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>2272</td>
         </tr>
@@ -512,7 +512,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hereforthezoo">hereforthezoo</a></td>
             <td>2021-12-03</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>2163</td>
         </tr>
@@ -556,7 +556,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/paul_rukesha">paul_rukesha</a></td>
             <td>2018-11-01</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>1850</td>
         </tr>
@@ -600,7 +600,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/helgagi98">helgagi98</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/70980631">1 other</a>)&nbsp;</td>
             <td>2009-09-02</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1548</td>
         </tr>
@@ -666,7 +666,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DerrickOkell">DerrickOkell</a></td>
             <td>2017-07-28</td>
-            <td></td>
+            <td>2023-01-23</td>
             <td align="center"></td>
             <td>1317</td>
         </tr>

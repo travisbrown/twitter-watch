@@ -600,7 +600,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EveNewtonJobs">EveNewtonJobs</a></td>
             <td>2008-09-09</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>53513</td>
         </tr>

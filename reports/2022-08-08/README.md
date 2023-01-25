@@ -690,7 +690,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amazingatheist">amazingatheist</a></td>
             <td>2009-01-07</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>98339</td>
         </tr>

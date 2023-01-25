@@ -40,7 +40,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RealPepeEscobar">RealPepeEscobar</a></td>
             <td>2021-09-09</td>
-            <td></td>
+            <td>2023-01-24</td>
             <td align="center"></td>
             <td>78570</td>
             <td>149</td>
