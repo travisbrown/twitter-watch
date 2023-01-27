@@ -269,7 +269,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EstadoDAlarmaTV">EstadoDAlarmaTV</a></td>
             <td>2020-01-27</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>97243</td>
         </tr>
@@ -577,7 +577,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KathiAngelone">KathiAngelone</a></td>
             <td>2017-01-07</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>24405</td>
         </tr>
@@ -1523,7 +1523,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Freecanuck1">Freecanuck1</a></td>
             <td>2018-03-09</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>6826</td>
         </tr>

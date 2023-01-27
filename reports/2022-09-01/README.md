@@ -816,7 +816,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RyanShead">RyanShead</a></td>
             <td>2012-08-30</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>47807</td>
         </tr>

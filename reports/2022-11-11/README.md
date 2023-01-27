@@ -1217,7 +1217,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/van00sa">van00sa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1513110538770919429">1 other</a>)&nbsp;</td>
             <td>2022-04-10</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>5230</td>
         </tr>

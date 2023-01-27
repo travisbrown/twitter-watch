@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/critica18495985">critica18495985</a></td>
             <td>2019-04-01</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>37203</td>
             <td>332</td>

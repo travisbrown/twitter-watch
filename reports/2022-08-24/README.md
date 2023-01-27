@@ -747,7 +747,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArianaDMichaels">ArianaDMichaels</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/26137474">3 others</a>)&nbsp;</td>
             <td>2009-03-24</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>52474</td>
         </tr>
@@ -758,7 +758,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/niveakalmar">niveakalmar</a></td>
             <td>2009-04-23</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>49176</td>
         </tr>
@@ -813,7 +813,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pir8gold">pir8gold</a></td>
             <td>2009-02-24</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>31984</td>
         </tr>

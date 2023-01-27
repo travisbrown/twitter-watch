@@ -837,7 +837,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dao_duck">dao_duck</a></td>
             <td>2020-08-12</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>120773</td>
         </tr>

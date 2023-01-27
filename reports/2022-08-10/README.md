@@ -28,7 +28,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/roadtoserfdom3">roadtoserfdom3</a></td>
             <td>2016-02-29</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>36738</td>
             <td>314</td>
@@ -715,7 +715,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StephenGlahn">StephenGlahn</a></td>
             <td>2014-06-17</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>53509</td>
         </tr>
@@ -1848,7 +1848,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BenFranklin001">BenFranklin001</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/465917892">1 other</a>)&nbsp;</td>
             <td>2012-01-16</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>2696</td>
         </tr>

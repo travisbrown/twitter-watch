@@ -546,7 +546,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlondePatriot3">BlondePatriot3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/230548922">1 other</a>)&nbsp;</td>
             <td>2010-12-25</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>40843</td>
         </tr>

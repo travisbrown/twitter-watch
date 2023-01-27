@@ -960,7 +960,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/marcelostrindad">marcelostrindad</a></td>
             <td>2009-07-18</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center">🔒</td>
             <td>4278</td>
         </tr>

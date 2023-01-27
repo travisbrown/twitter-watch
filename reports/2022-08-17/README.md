@@ -816,7 +816,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/whatley_brady">whatley_brady</a></td>
             <td>2014-06-19</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>26444</td>
         </tr>
@@ -1366,7 +1366,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/puertoinforma">puertoinforma</a></td>
             <td>2016-06-05</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>4004</td>
         </tr>

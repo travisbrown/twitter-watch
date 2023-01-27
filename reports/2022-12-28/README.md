@@ -1026,7 +1026,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bigfoxa">Bigfoxa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/748565709584728065">1 other</a>)&nbsp;</td>
             <td>2016-06-30</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1756</td>
         </tr>

@@ -645,7 +645,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/insiliconot">insiliconot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1368261032066621588">1 other</a>)&nbsp;</td>
             <td>2021-03-06</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center">🔒</td>
             <td>58506</td>
         </tr>

@@ -601,7 +601,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/klralms">klralms</a></td>
             <td>2016-10-21</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>33405</td>
         </tr>
@@ -3593,7 +3593,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gcbind">gcbind</a></td>
             <td>2010-04-06</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1112</td>
         </tr>

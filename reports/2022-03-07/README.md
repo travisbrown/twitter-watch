@@ -997,7 +997,7 @@ Found 614 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChrisFalconer16">ChrisFalconer16</a></td>
             <td>2020-06-07</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>2774</td>
         </tr>

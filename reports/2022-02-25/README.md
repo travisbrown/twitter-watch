@@ -520,7 +520,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Knowcoinery">Knowcoinery</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2366303126">1 other</a>)&nbsp;</td>
             <td>2014-03-01</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>14181</td>
         </tr>

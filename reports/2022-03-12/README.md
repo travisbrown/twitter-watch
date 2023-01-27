@@ -565,7 +565,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NotAlexSheppard">NotAlexSheppard</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1347704593438879745">1 other</a>)&nbsp;</td>
             <td>2021-01-09</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>66185</td>
         </tr>

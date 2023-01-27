@@ -283,7 +283,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thesalvare">thesalvare</a></td>
             <td>2017-11-19</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>4205</td>
         </tr>

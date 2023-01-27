@@ -608,7 +608,7 @@ Found 691 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/USBornNRaised">USBornNRaised</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/32598110">3 others</a>)&nbsp;</td>
             <td>2009-04-17</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>29290</td>
         </tr>

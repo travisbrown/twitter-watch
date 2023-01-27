@@ -1251,7 +1251,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/beyouonlybetter">beyouonlybetter</a></td>
             <td>2009-12-01</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>43676</td>
         </tr>
@@ -2637,7 +2637,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BooksysBack">BooksysBack</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1164385252816633857">1 other</a>)&nbsp;</td>
             <td>2019-08-22</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1782</td>
         </tr>

@@ -732,7 +732,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/soulstray">soulstray</a></td>
             <td>2009-11-22</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>44507</td>
         </tr>

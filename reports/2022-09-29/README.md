@@ -667,7 +667,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sammi_Slammy">Sammi_Slammy</a></td>
             <td>2018-01-05</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>66895</td>
         </tr>

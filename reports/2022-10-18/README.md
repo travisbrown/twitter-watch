@@ -641,7 +641,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IGNWTF">IGNWTF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1266408650089861122">1 other</a>)&nbsp;</td>
             <td>2020-05-29</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>44164</td>
         </tr>

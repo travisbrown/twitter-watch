@@ -627,7 +627,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Domenietzsche">Domenietzsche</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/233735111">2 others</a>)&nbsp;</td>
             <td>2011-01-04</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>67294</td>
         </tr>
@@ -693,7 +693,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PMgeezer">PMgeezer</a></td>
             <td>2009-05-13</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>25529</td>
         </tr>
@@ -704,7 +704,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OmahaSpeak">OmahaSpeak</a></td>
             <td>2017-03-25</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>23995</td>
         </tr>
@@ -715,7 +715,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DCjusticeseeker">DCjusticeseeker</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/755889405362049024">2 others</a>)&nbsp;</td>
             <td>2016-07-20</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>22400</td>
         </tr>

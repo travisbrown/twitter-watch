@@ -1058,7 +1058,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheMistressB">TheMistressB</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/176587092">1 other</a>)&nbsp;</td>
             <td>2010-08-09</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>35611</td>
         </tr>

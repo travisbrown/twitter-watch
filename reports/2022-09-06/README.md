@@ -453,7 +453,7 @@ Found 374 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StanleyCohenLaw">StanleyCohenLaw</a></td>
             <td>2012-06-14</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>40014</td>
         </tr>

@@ -261,7 +261,7 @@ Found 409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Road2ParadiseAZ">Road2ParadiseAZ</a></td>
             <td>2010-10-22</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>99037</td>
         </tr>
@@ -316,7 +316,7 @@ Found 409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KHerriage">KHerriage</a></td>
             <td>2009-03-04</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>39119</td>
         </tr>

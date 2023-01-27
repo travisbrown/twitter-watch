@@ -88,7 +88,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/babraham1988">babraham1988</a></td>
             <td>2013-12-16</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1069</td>
             <td>89424</td>
@@ -320,7 +320,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PGATUOR">PGATUOR</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1201697720936861697">1 other</a>)&nbsp;</td>
             <td>2019-12-03</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>29266</td>
         </tr>
@@ -606,7 +606,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sardar9999">sardar9999</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3321123552">2 others</a>)&nbsp;</td>
             <td>2015-08-20</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>3248</td>
         </tr>
@@ -639,7 +639,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RikkiPeters14">RikkiPeters14</a></td>
             <td>2021-12-20</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>3169</td>
         </tr>
@@ -1552,7 +1552,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/orange29555">orange29555</a></td>
             <td>2022-02-20</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1216</td>
         </tr>
@@ -1805,7 +1805,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ALBADWYE">ALBADWYE</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/122899160">2 others</a>)&nbsp;</td>
             <td>2010-03-14</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1002</td>
         </tr></table>

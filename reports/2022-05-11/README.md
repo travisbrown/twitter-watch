@@ -929,7 +929,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jem_jemssi">jem_jemssi</a></td>
             <td>2018-08-01</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>442177</td>
         </tr>

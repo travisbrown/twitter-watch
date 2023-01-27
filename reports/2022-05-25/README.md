@@ -713,7 +713,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FmMosca">FmMosca</a></td>
             <td>2013-04-17</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>47010</td>
         </tr>
@@ -746,7 +746,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dayana2___">Dayana2___</a></td>
             <td>2022-05-01</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>28276</td>
         </tr>

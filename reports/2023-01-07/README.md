@@ -1712,7 +1712,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pittfetal">pittfetal</a></td>
             <td>2022-01-22</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1207</td>
         </tr>

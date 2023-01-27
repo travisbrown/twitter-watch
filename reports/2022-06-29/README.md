@@ -1580,7 +1580,7 @@ Found 1703 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Skookarchist">Skookarchist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1862091">2 others</a>)&nbsp;</td>
             <td>2007-03-22</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center">🔒</td>
             <td>1167</td>
         </tr>

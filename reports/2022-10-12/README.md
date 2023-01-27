@@ -2085,7 +2085,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mhaktr">mhaktr</a></td>
             <td>2021-08-07</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>2127</td>
         </tr>

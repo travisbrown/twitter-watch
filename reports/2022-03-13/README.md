@@ -568,7 +568,7 @@ Found 519 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/surlyrevenant">surlyrevenant</a></td>
             <td>2011-10-13</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>3397</td>
         </tr>

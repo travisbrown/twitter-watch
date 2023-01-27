@@ -680,7 +680,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VictorSinclair3">VictorSinclair3</a></td>
             <td>2013-06-20</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>56080</td>
         </tr>
@@ -702,7 +702,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jaredctate">jaredctate</a></td>
             <td>2011-01-05</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>37540</td>
         </tr>

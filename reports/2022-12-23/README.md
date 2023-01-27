@@ -999,7 +999,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MenyaraC">MenyaraC</a></td>
             <td>2017-01-02</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>2110</td>
         </tr>

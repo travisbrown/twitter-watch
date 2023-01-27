@@ -852,7 +852,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JefftheDrunk1">JefftheDrunk1</a></td>
             <td>2011-03-07</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>60420</td>
         </tr>

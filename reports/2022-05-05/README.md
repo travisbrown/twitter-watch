@@ -1574,7 +1574,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YourAuntieMame">YourAuntieMame</a></td>
             <td>2017-11-07</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>21656</td>
         </tr>

@@ -64,7 +64,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KatATrotter">KatATrotter</a></td>
             <td>2021-06-19</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>857</td>
             <td>51123</td>
@@ -441,7 +441,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndrewF27693292">AndrewF27693292</a></td>
             <td>2018-12-29</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>13556</td>
         </tr>
@@ -628,7 +628,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sito0625">sito0625</a></td>
             <td>2017-07-01</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>7578</td>
         </tr>
@@ -1266,7 +1266,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndyGreensky">AndyGreensky</a></td>
             <td>2020-06-29</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1392</td>
         </tr>

@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MAGA__Patriot">MAGA__Patriot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3436761485">2 others</a>)&nbsp;</td>
             <td>2015-08-23</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>37660</td>
             <td>372</td>

@@ -332,7 +332,7 @@ Found 1603 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/The25thNigga">The25thNigga</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1301774827603320832">2 others</a>)&nbsp;</td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>25082</td>
         </tr>

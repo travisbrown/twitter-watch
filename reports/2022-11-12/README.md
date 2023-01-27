@@ -112,7 +112,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/species_x">species_x</a></td>
             <td>2009-05-05</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>22743</td>
             <td>40260</td>

@@ -1046,7 +1046,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theadrianarusso">theadrianarusso</a></td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center">🔒</td>
             <td>6326</td>
         </tr>

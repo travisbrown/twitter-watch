@@ -447,7 +447,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FerryNLangelo">FerryNLangelo</a></td>
             <td>2010-05-24</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>8130</td>
         </tr>
@@ -1096,7 +1096,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fraserclan2022">fraserclan2022</a></td>
             <td>2022-04-28</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>2325</td>
         </tr>

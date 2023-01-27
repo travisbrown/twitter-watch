@@ -112,7 +112,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NancynChuck">NancynChuck</a></td>
             <td>2022-02-19</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>21</td>
             <td>28986</td>
@@ -1563,7 +1563,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/K1ng_Aw3som3">K1ng_Aw3som3</a></td>
             <td>2010-01-20</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center">🔒</td>
             <td>1876</td>
         </tr>
@@ -1607,7 +1607,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SailorDale">SailorDale</a></td>
             <td>2009-09-15</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1760</td>
         </tr>

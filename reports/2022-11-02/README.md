@@ -1371,7 +1371,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vibesbellah">vibesbellah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/753953747215216641">1 other</a>)&nbsp;</td>
             <td>2016-07-15</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>11448</td>
         </tr>

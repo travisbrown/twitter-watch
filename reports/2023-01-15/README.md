@@ -387,7 +387,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/twittchatty">twittchatty</a></td>
             <td>2011-03-01</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>4065</td>
         </tr>
@@ -893,7 +893,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rostam010">Rostam010</a></td>
             <td>2022-04-24</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>2234</td>
         </tr>
@@ -1102,7 +1102,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/becejones">becejones</a></td>
             <td>2016-10-30</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1956</td>
         </tr>
@@ -1685,7 +1685,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jihadj0e">jihadj0e</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/44841294">1 other</a>)&nbsp;</td>
             <td>2009-06-05</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1331</td>
         </tr>
@@ -1927,7 +1927,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LadyJoAnn9">LadyJoAnn9</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381327255855587333">1 other</a>)&nbsp;</td>
             <td>2021-04-11</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1154</td>
         </tr>
@@ -1960,7 +1960,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tirwynhassan">tirwynhassan</a></td>
             <td>2017-08-06</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1142</td>
         </tr>
@@ -2136,7 +2136,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AssetsFin">AssetsFin</a></td>
             <td>2022-06-21</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>1038</td>
         </tr>

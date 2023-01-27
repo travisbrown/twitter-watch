@@ -247,7 +247,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cryptotex13">cryptotex13</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/17202389">1 other</a>)&nbsp;</td>
             <td>2008-11-06</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>53332</td>
         </tr>

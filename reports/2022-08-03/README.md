@@ -2034,7 +2034,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PerrugazoNjoyer">PerrugazoNjoyer</a></td>
             <td>2021-05-29</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>1719</td>
         </tr>

@@ -741,7 +741,7 @@ Found 690 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_MEGASASUKE">_MEGASASUKE</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1177618721080315904">1 other</a>)&nbsp;</td>
             <td>2019-09-27</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>10338</td>
         </tr>

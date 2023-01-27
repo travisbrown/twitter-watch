@@ -1006,7 +1006,7 @@ Found 332 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sammajammaz">sammajammaz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/50134348">3 others</a>)&nbsp;</td>
             <td>2009-06-23</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>55453</td>
         </tr>

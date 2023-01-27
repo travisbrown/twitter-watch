@@ -813,7 +813,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/marybethpf">marybethpf</a></td>
             <td>2009-05-11</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>37113</td>
         </tr>
@@ -967,7 +967,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BankableInsight">BankableInsight</a></td>
             <td>2013-08-08</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>14898</td>
         </tr>

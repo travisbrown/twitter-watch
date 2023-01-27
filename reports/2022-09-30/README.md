@@ -592,7 +592,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Neves_ua">Neves_ua</a></td>
             <td>2009-08-12</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>9253</td>
         </tr>

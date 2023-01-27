@@ -583,7 +583,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TiffanyStarrXXX">TiffanyStarrXXX</a></td>
             <td>2011-07-29</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>54820</td>
         </tr>

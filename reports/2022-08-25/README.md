@@ -492,7 +492,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IAMLLUCIANA">IAMLLUCIANA</a></td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>97699</td>
         </tr>

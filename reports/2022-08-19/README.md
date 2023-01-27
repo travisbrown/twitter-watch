@@ -2106,7 +2106,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NidaKirmany">NidaKirmany</a></td>
             <td>2022-03-24</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>3154</td>
         </tr>

@@ -1181,7 +1181,7 @@ Found 1813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CommodusJTrump">CommodusJTrump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/833813080006090752">1 other</a>)&nbsp;</td>
             <td>2017-02-20</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>31472</td>
         </tr>

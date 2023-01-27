@@ -1704,7 +1704,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SilvanaSMoraes">SilvanaSMoraes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1249020427059552257">2 others</a>)&nbsp;</td>
             <td>2020-04-11</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>3361</td>
         </tr>

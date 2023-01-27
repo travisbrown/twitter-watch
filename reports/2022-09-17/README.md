@@ -654,7 +654,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CerebralWisdom">CerebralWisdom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/366721494">1 other</a>)&nbsp;</td>
             <td>2011-09-02</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>52247</td>
         </tr>

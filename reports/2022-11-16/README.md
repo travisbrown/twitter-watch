@@ -2222,7 +2222,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sefarad2014">sefarad2014</a></td>
             <td>2014-07-26</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>1517</td>
         </tr>

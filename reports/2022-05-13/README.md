@@ -971,7 +971,7 @@ Found 1024 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OTURISK">OTURISK</a></td>
             <td>2009-03-13</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>46449</td>
         </tr>

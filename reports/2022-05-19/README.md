@@ -1161,7 +1161,7 @@ Found 841 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LATiffani1">LATiffani1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/385142016">2 others</a>)&nbsp;</td>
             <td>2011-10-04</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>40203</td>
         </tr>

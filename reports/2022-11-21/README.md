@@ -64,7 +64,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RealDante12">RealDante12</a></td>
             <td>2022-04-24</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>46191</td>
             <td>13526</td>

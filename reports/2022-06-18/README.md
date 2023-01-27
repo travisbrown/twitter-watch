@@ -1057,7 +1057,7 @@ Found 817 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GBHxbt">GBHxbt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1181174960661893120">19 others</a>)&nbsp;</td>
             <td>2019-10-07</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>38922</td>
         </tr>

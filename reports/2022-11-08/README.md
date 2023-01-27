@@ -220,7 +220,7 @@ Found 52 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Scott_4Trump">Scott_4Trump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/196769365">1 other</a>)&nbsp;</td>
             <td>2010-09-29</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>26709</td>
             <td>32914</td>

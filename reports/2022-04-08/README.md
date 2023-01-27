@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WargarW">WargarW</a></td>
             <td>2020-05-20</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>40447</td>
             <td>250</td>

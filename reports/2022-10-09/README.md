@@ -612,7 +612,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PebbleNewsCAN">PebbleNewsCAN</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1386521472580177920">3 others</a>)&nbsp;</td>
             <td>2021-04-26</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>66288</td>
         </tr>

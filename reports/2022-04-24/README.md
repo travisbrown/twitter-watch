@@ -834,7 +834,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stacy_redvirgo">stacy_redvirgo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3093551696">2 others</a>)&nbsp;</td>
             <td>2015-03-17</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>20955</td>
         </tr>

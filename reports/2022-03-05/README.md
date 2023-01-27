@@ -604,7 +604,7 @@ Found 507 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/azsweetheart013">azsweetheart013</a></td>
             <td>2012-04-15</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>41050</td>
         </tr>

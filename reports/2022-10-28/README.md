@@ -28,7 +28,7 @@ Found 17 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LivingScribe">LivingScribe</a></td>
             <td>2020-03-16</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>38907</td>
             <td>302</td>
@@ -4013,7 +4013,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cynaminngirl">cynaminngirl</a></td>
             <td>2011-03-27</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>1521</td>
         </tr>

@@ -1327,7 +1327,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Raven5869">Raven5869</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>1588</td>
         </tr>

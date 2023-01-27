@@ -1480,7 +1480,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/loudthorpe">loudthorpe</a></td>
             <td>2015-08-10</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>41923</td>
         </tr>

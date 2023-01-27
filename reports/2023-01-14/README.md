@@ -1319,7 +1319,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sarwarsakhi13">sarwarsakhi13</a></td>
             <td>2019-10-04</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1053</td>
         </tr>

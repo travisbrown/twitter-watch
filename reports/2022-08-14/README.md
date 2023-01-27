@@ -825,7 +825,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrVivianLee">DrVivianLee</a></td>
             <td>2008-12-15</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>15297</td>
         </tr>

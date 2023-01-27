@@ -447,7 +447,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/micheleboldrin">micheleboldrin</a></td>
             <td>2009-07-04</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>60738</td>
         </tr>

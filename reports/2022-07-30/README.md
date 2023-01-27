@@ -278,7 +278,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tanguy_france">tanguy_france</a></td>
             <td>2019-04-04</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>50002</td>
         </tr>

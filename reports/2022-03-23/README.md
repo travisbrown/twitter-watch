@@ -618,7 +618,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealPatriot56">RealPatriot56</a></td>
             <td>2021-01-01</td>
-            <td></td>
+            <td>2023-01-26</td>
             <td align="center"></td>
             <td>41439</td>
         </tr>

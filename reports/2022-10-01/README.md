@@ -918,7 +918,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HeadlineZooo">HeadlineZooo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/80152429">1 other</a>)&nbsp;</td>
             <td>2009-10-05</td>
-            <td></td>
+            <td>2023-01-25</td>
             <td align="center"></td>
             <td>57376</td>
         </tr>
