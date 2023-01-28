@@ -631,7 +631,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeingJWood">BeingJWood</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/965694944567611394">1 other</a>)&nbsp;</td>
             <td>2018-02-19</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>44396</td>
         </tr>

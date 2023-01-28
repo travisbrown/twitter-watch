@@ -886,7 +886,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DanDirtyUK">DanDirtyUK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1014514462483714051">2 others</a>)&nbsp;</td>
             <td>2018-07-04</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>27553</td>
         </tr>

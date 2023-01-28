@@ -554,7 +554,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2Reason0225">2Reason0225</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/960205876421373954">1 other</a>)&nbsp;</td>
             <td>2018-02-04</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>15057</td>
         </tr>

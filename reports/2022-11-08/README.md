@@ -1585,7 +1585,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheBiggIdea">TheBiggIdea</a></td>
             <td>2010-01-08</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>34231</td>
         </tr>
@@ -2520,7 +2520,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/algurain">algurain</a></td>
             <td>2011-02-28</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>5491</td>
         </tr>
@@ -3037,7 +3037,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/djcostasilva">djcostasilva</a></td>
             <td>2010-11-28</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>3695</td>
         </tr>

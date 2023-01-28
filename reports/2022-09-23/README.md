@@ -2861,7 +2861,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TejasSoni18">TejasSoni18</a></td>
             <td>2014-05-30</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1895</td>
         </tr>

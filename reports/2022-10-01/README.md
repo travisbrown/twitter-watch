@@ -1017,7 +1017,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RektUSD">RektUSD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/884803702820708353">2 others</a>)&nbsp;</td>
             <td>2017-07-11</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>17639</td>
         </tr>

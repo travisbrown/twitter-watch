@@ -204,7 +204,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JaggerMickOZ">JaggerMickOZ</a></td>
             <td>2014-01-13</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>23637</td>
         </tr>
@@ -259,7 +259,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoL3g3nd">CryptoL3g3nd</a></td>
             <td>2021-01-18</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>17149</td>
         </tr>

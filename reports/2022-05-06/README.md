@@ -840,7 +840,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SweetFreedom29">SweetFreedom29</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/314243234">2 others</a>)&nbsp;</td>
             <td>2011-06-09</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>21636</td>
         </tr>

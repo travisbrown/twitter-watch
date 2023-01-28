@@ -2186,7 +2186,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eldipypapaok">eldipypapaok</a></td>
             <td>2020-08-29</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>94674</td>
         </tr>
@@ -2318,7 +2318,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GHOSTDATA_">GHOSTDATA_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1842034500">2 others</a>)&nbsp;</td>
             <td>2013-09-09</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>18791</td>
         </tr>

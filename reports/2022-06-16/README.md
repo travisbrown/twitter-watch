@@ -52,7 +52,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BRebellion777">BRebellion777</a></td>
             <td>2020-07-08</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>23716</td>
             <td>495</td>

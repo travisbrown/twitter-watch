@@ -208,7 +208,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Mr_Pinko">Mr_Pinko</a></td>
             <td>2009-12-03</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>17492</td>
             <td>16590</td>
@@ -2049,7 +2049,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HermesTrading1">HermesTrading1</a></td>
             <td>2021-05-20</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>3097</td>
         </tr>

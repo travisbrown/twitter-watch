@@ -1466,7 +1466,7 @@ Found 1024 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hypnomedusa">hypnomedusa</a></td>
             <td>2022-03-24</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>2305</td>
         </tr>

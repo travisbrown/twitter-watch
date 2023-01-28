@@ -983,7 +983,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KathyConWom">KathyConWom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/301326338">1 other</a>)&nbsp;</td>
             <td>2011-05-19</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>31628</td>
         </tr>

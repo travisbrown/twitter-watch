@@ -479,7 +479,7 @@ Found 633 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FuVaccines3438">FuVaccines3438</a></td>
             <td>2021-10-03</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>30710</td>
         </tr>

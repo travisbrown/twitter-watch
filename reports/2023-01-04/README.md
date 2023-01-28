@@ -1269,7 +1269,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mypubgaccount12">mypubgaccount12</a></td>
             <td>2020-04-17</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1332</td>
         </tr>

@@ -2213,7 +2213,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClassensCynthia">ClassensCynthia</a></td>
             <td>2022-04-01</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1910</td>
         </tr>

@@ -815,7 +815,7 @@ Found 469 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KennethWPratt">KennethWPratt</a></td>
             <td>2012-05-16</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>6055</td>
         </tr>

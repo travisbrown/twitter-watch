@@ -1122,7 +1122,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AishathMuna18">AishathMuna18</a></td>
             <td>2019-08-30</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2353</td>
         </tr>

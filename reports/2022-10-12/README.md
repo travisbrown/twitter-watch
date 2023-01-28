@@ -1029,7 +1029,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tippity">tippity</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3371078229">2 others</a>)&nbsp;</td>
             <td>2015-07-11</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>30796</td>
         </tr>

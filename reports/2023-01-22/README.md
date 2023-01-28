@@ -172,7 +172,7 @@ Found 1059 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HenryPomchi">HenryPomchi</a></td>
             <td>2020-12-10</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>10252</td>
         </tr>

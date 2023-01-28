@@ -931,7 +931,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RosaleeAdams">RosaleeAdams</a></td>
             <td>2012-01-16</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>15370</td>
         </tr>

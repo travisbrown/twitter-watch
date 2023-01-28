@@ -832,7 +832,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaryCali007">MaryCali007</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/946489993513467904">2 others</a>)&nbsp;</td>
             <td>2017-12-28</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>28093</td>
         </tr>

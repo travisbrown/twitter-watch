@@ -1552,7 +1552,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StaffEditorial">StaffEditorial</a></td>
             <td>2021-07-18</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>22844</td>
         </tr>

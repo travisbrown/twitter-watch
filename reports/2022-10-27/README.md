@@ -962,7 +962,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rubensvaz">rubensvaz</a></td>
             <td>2010-09-09</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>30852</td>
         </tr>

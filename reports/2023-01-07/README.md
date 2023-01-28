@@ -315,7 +315,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shibafame">shibafame</a></td>
             <td>2020-08-26</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>26867</td>
         </tr>
@@ -1756,7 +1756,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FlexibleForce">FlexibleForce</a></td>
             <td>2013-07-13</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1197</td>
         </tr>

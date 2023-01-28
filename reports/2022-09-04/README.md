@@ -671,7 +671,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DempMcgee">DempMcgee</a></td>
             <td>2017-07-29</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>25359</td>
         </tr>

@@ -2877,7 +2877,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Head4Sale">Head4Sale</a></td>
             <td>2019-08-16</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>34182</td>
         </tr>

@@ -981,7 +981,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/janiedelaney">janiedelaney</a></td>
             <td>2008-12-03</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>6948</td>
         </tr>

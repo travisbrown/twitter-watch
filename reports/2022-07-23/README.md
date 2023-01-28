@@ -1772,7 +1772,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hypnofix">Hypnofix</a></td>
             <td>2009-03-22</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1574</td>
         </tr>

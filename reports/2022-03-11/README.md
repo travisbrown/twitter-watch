@@ -808,7 +808,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CathyCathyFox">CathyCathyFox</a></td>
             <td>2015-01-20</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>19477</td>
         </tr>

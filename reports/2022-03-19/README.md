@@ -568,7 +568,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SandraWeeden">SandraWeeden</a></td>
             <td>2013-05-26</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>31915</td>
         </tr>

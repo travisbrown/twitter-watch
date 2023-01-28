@@ -745,7 +745,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/leandroacastro">leandroacastro</a></td>
             <td>2011-02-23</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>33898</td>
         </tr>

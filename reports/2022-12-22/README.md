@@ -248,7 +248,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AconteceCaralho">AconteceCaralho</a></td>
             <td>2018-01-07</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>100738</td>
         </tr>

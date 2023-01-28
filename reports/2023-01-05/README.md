@@ -1399,7 +1399,7 @@ Found 1603 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Klever_Preacher">Klever_Preacher</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/838146405659201537">3 others</a>)&nbsp;</td>
             <td>2017-03-04</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1137</td>
         </tr>

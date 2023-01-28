@@ -788,7 +788,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/babalon_elf">babalon_elf</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/192368875">2 others</a>)&nbsp;</td>
             <td>2010-09-18</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>22541</td>
         </tr>

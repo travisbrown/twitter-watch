@@ -1254,7 +1254,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KaganKaraman">KaganKaraman</a></td>
             <td>2010-01-31</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>20726</td>
         </tr>

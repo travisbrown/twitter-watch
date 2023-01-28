@@ -2747,7 +2747,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GreatGameIndia">GreatGameIndia</a></td>
             <td>2014-04-02</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>26773</td>
         </tr>
@@ -2791,7 +2791,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brsemcomunas">brsemcomunas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/153068983">1 other</a>)&nbsp;</td>
             <td>2010-06-07</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>24238</td>
         </tr>

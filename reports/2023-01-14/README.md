@@ -263,7 +263,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jonathan_t19">jonathan_t19</a></td>
             <td>2020-06-06</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>5447</td>
         </tr>
@@ -582,7 +582,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DahlgreenNick">DahlgreenNick</a></td>
             <td>2021-04-06</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2408</td>
         </tr>

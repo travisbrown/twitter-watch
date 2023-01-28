@@ -361,7 +361,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jesusdersupajew">jesusdersupajew</a></td>
             <td>2021-05-24</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>30127</td>
         </tr>
@@ -790,7 +790,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/moreno_ludivina">moreno_ludivina</a></td>
             <td>2013-06-28</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>5966</td>
         </tr>
@@ -1571,7 +1571,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Wifeytothebest">Wifeytothebest</a></td>
             <td>2022-01-09</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2308</td>
         </tr>

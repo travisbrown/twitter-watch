@@ -710,7 +710,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xfischer">xfischer</a></td>
             <td>2009-06-24</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>27876</td>
         </tr>
@@ -721,7 +721,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cSEXI4">cSEXI4</a></td>
             <td>2021-08-31</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>25664</td>
         </tr>

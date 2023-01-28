@@ -1253,7 +1253,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BorjeMelin">BorjeMelin</a></td>
             <td>2011-12-19</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>24777</td>
         </tr>

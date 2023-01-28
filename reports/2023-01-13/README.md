@@ -2255,7 +2255,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/himajin3254">himajin3254</a></td>
             <td>2011-05-29</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1035</td>
         </tr>

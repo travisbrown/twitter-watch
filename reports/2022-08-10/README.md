@@ -759,7 +759,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/guillermoTM1959">guillermoTM1959</a></td>
             <td>2022-03-16</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>41386</td>
         </tr>
@@ -979,7 +979,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RantReaper">RantReaper</a></td>
             <td>2012-08-10</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>18364</td>
         </tr>
@@ -2233,7 +2233,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LauralineHolst2">LauralineHolst2</a></td>
             <td>2017-11-06</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1999</td>
         </tr>

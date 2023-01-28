@@ -724,7 +724,7 @@ Found 417 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rob_Noorollah">Rob_Noorollah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1198280137315274752">5 others</a>)&nbsp;</td>
             <td>2019-11-23</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>17315</td>
         </tr>

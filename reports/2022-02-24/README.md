@@ -565,7 +565,7 @@ Found 272 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BF6NEPats">BF6NEPats</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1703915882">2 others</a>)&nbsp;</td>
             <td>2013-08-27</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>32075</td>
         </tr>

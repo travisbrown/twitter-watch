@@ -469,7 +469,7 @@ Found 270 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RedCollie1">RedCollie1</a></td>
             <td>2018-12-06</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>28163</td>
         </tr>

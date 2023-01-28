@@ -1945,7 +1945,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ajile_in">ajile_in</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/65858393">1 other</a>)&nbsp;</td>
             <td>2009-08-15</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1131</td>
         </tr>

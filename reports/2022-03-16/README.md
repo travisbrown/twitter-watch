@@ -370,7 +370,7 @@ Found 1139 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnEkdahl">JohnEkdahl</a></td>
             <td>2009-01-22</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>30537</td>
         </tr>

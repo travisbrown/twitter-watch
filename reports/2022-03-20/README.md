@@ -704,7 +704,7 @@ Found 706 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CIG_KingJames">CIG_KingJames</a></td>
             <td>2018-08-05</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>14791</td>
         </tr>

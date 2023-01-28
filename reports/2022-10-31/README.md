@@ -364,7 +364,7 @@ Found 54 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KaymakliJuniper">KaymakliJuniper</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/19887840">1 other</a>)&nbsp;</td>
             <td>2009-02-02</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>761</td>
             <td>41975</td>

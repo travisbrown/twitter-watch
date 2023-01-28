@@ -348,7 +348,7 @@ Found 635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sandra8301">sandra8301</a></td>
             <td>2012-10-17</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>20314</td>
         </tr>

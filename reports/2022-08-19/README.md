@@ -1028,7 +1028,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fantasticlegs">fantasticlegs</a></td>
             <td>2009-07-31</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>15748</td>
         </tr>

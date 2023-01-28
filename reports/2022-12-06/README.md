@@ -40,7 +40,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CourageHabit">CourageHabit</a></td>
             <td>2022-03-16</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>8552</td>
             <td>970</td>

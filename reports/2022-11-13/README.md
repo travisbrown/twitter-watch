@@ -291,7 +291,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/5Strat">5Strat</a></td>
             <td>2016-06-27</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>17444</td>
         </tr>

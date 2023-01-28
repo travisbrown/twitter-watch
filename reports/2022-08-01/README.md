@@ -560,7 +560,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Genesis33K">Genesis33K</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/700661366064095232">1 other</a>)&nbsp;</td>
             <td>2016-02-19</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>16977</td>
         </tr>

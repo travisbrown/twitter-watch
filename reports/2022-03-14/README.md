@@ -707,7 +707,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bette_oh">bette_oh</a></td>
             <td>2020-09-29</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>30413</td>
         </tr>

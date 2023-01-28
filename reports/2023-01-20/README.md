@@ -391,7 +391,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StarAppleInc">StarAppleInc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/766476225829335041">1 other</a>)&nbsp;</td>
             <td>2016-08-19</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>21376</td>
         </tr>
@@ -1172,7 +1172,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DegenCAT_">DegenCAT_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1495799834468573191">4 others</a>)&nbsp;</td>
             <td>2022-02-21</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>2195</td>
         </tr>
@@ -1502,7 +1502,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Westernwold1">Westernwold1</a></td>
             <td>2020-07-19</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1684</td>
         </tr>

@@ -40,7 +40,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Philosophi_Cat">Philosophi_Cat</a></td>
             <td>2017-03-03</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>17984</td>
             <td>556</td>
@@ -293,7 +293,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/deNutrients">deNutrients</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/400469021">1 other</a>)&nbsp;</td>
             <td>2011-10-29</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>27775</td>
         </tr>
@@ -315,7 +315,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DJcalligraphy">DJcalligraphy</a></td>
             <td>2011-03-10</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>21459</td>
         </tr>

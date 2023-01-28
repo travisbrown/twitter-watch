@@ -896,7 +896,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MDinCanada">MDinCanada</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/721487027401789441">1 other</a>)&nbsp;</td>
             <td>2016-04-16</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>33459</td>
         </tr>
@@ -1974,7 +1974,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TooCrypToQuit">TooCrypToQuit</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1370167748592955392">1 other</a>)&nbsp;</td>
             <td>2021-03-12</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1449</td>
         </tr>

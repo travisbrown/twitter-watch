@@ -392,7 +392,7 @@ Found 519 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/u2biker">u2biker</a></td>
             <td>2009-06-21</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>19329</td>
         </tr>

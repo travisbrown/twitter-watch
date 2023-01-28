@@ -503,7 +503,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ghost_wales">ghost_wales</a></td>
             <td>2019-09-12</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>25766</td>
         </tr>

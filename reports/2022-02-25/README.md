@@ -531,7 +531,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WarClandestine">WarClandestine</a></td>
             <td>2020-10-06</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>13414</td>
         </tr>

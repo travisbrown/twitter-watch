@@ -1022,7 +1022,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Doctor_Iver">Doctor_Iver</a></td>
             <td>2021-10-30</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>3370</td>
         </tr>
@@ -2111,7 +2111,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LiiAssiis">LiiAssiis</a></td>
             <td>2016-06-06</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1281</td>
         </tr>

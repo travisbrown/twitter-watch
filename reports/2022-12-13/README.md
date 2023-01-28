@@ -1173,7 +1173,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UncleObama_">UncleObama_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/88729438">7 others</a>)&nbsp;</td>
             <td>2009-11-09</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>3982</td>
         </tr>

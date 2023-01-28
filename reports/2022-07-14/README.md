@@ -1102,7 +1102,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FrankGrimes_Jr">FrankGrimes_Jr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/900819727">1 other</a>)&nbsp;</td>
             <td>2012-10-23</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>24365</td>
         </tr>

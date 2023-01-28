@@ -802,7 +802,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IndyBeginsAt220">IndyBeginsAt220</a></td>
             <td>2020-12-11</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>23287</td>
         </tr>
@@ -813,7 +813,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kmita3">kmita3</a></td>
             <td>2009-06-20</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>21568</td>
         </tr>

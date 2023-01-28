@@ -835,7 +835,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MENA_Conflict">MENA_Conflict</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2844662736">1 other</a>)&nbsp;</td>
             <td>2014-10-07</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>27893</td>
         </tr>

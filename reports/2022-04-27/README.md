@@ -2055,7 +2055,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pittsburgbitch">Pittsburgbitch</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1110940557117980678">2 others</a>)&nbsp;</td>
             <td>2019-03-27</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>16107</td>
         </tr>

@@ -6126,7 +6126,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jdkitkat129">jdkitkat129</a></td>
             <td>2014-11-04</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>16760</td>
         </tr>

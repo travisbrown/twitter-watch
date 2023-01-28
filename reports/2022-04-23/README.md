@@ -832,7 +832,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kernaghanscott5">kernaghanscott5</a></td>
             <td>2018-06-14</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>21748</td>
         </tr>
@@ -1888,7 +1888,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nftEnthusiast0x">nftEnthusiast0x</a></td>
             <td>2022-01-17</td>
-            <td></td>
+            <td>2023-01-27</td>
             <td align="center"></td>
             <td>1891</td>
         </tr>

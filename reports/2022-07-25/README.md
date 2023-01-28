@@ -942,7 +942,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/traveler002">traveler002</a></td>
             <td>2009-04-30</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>14652</td>
         </tr>
