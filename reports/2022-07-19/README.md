@@ -1958,7 +1958,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DonTesticoli">DonTesticoli</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1346670098254331912">2 others</a>)&nbsp;</td>
             <td>2021-01-06</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1695</td>
         </tr>

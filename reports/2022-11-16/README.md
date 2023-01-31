@@ -891,7 +891,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/itiraflarburada">itiraflarburada</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/228489376">2 others</a>)&nbsp;</td>
             <td>2010-12-19</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>222547</td>
         </tr>

@@ -151,7 +151,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ferranismo11FCB">Ferranismo11FCB</a></td>
             <td>2021-12-29</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>16825</td>
         </tr>

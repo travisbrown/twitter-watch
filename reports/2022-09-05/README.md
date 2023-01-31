@@ -468,7 +468,7 @@ Found 926 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RobPowellWFC">RobPowellWFC</a></td>
             <td>2011-11-04</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>25761</td>
         </tr>

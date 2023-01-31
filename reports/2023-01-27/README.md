@@ -328,7 +328,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sgt_4Ever">Sgt_4Ever</a></td>
             <td>2021-01-21</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>5236</td>
         </tr>

@@ -167,7 +167,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sugabelly">sugabelly</a></td>
             <td>2008-08-06</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center">✔️</td>
             <td>34118</td>
         </tr>

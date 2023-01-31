@@ -647,7 +647,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Football_TaIk">Football_TaIk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2263368610">1 other</a>)&nbsp;</td>
             <td>2014-01-05</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>268291</td>
         </tr>

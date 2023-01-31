@@ -683,7 +683,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AussieVal10">AussieVal10</a></td>
             <td>2021-06-03</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>25634</td>
         </tr>

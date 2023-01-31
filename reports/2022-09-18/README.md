@@ -537,7 +537,7 @@ Found 2631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ajapinhaofi">ajapinhaofi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1345917259257155585">5 others</a>)&nbsp;</td>
             <td>2021-01-04</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>69639</td>
         </tr>

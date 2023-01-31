@@ -780,7 +780,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ManilaMax1">ManilaMax1</a></td>
             <td>2015-05-09</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>23628</td>
         </tr>

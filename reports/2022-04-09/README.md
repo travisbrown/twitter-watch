@@ -618,7 +618,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/themood2020">themood2020</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1183451662058479621">1 other</a>)&nbsp;</td>
             <td>2019-10-13</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>23035</td>
         </tr>

@@ -929,7 +929,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bhenrik01">bhenrik01</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/248750897">6 others</a>)&nbsp;</td>
             <td>2011-02-07</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2730</td>
         </tr>

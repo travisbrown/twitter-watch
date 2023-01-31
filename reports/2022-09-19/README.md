@@ -612,7 +612,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/d1Vinman">d1Vinman</a></td>
             <td>2009-11-30</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>46638</td>
         </tr>

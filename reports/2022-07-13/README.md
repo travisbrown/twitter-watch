@@ -809,7 +809,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NataliaZenda">NataliaZenda</a></td>
             <td>2013-01-24</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>5504</td>
         </tr>

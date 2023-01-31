@@ -40,7 +40,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/thoughtsofavet">thoughtsofavet</a></td>
             <td>2016-04-12</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>514</td>
             <td>28590</td>
@@ -100,7 +100,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Gatabyte">Gatabyte</a></td>
             <td>2022-09-19</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>66</td>
             <td>87540</td>
@@ -661,7 +661,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vlb55jr">vlb55jr</a></td>
             <td>2012-03-04</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>7078</td>
         </tr>
@@ -793,7 +793,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavidShanz">DavidShanz</a></td>
             <td>2014-07-29</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>4541</td>
         </tr>
@@ -837,7 +837,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/The_Quigstir78">The_Quigstir78</a></td>
             <td>2017-12-31</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>4210</td>
         </tr>
@@ -903,7 +903,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MercyOnMe777">MercyOnMe777</a></td>
             <td>2022-08-14</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2790</td>
         </tr>
@@ -914,7 +914,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EddieLi20783973">EddieLi20783973</a></td>
             <td>2021-10-21</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2713</td>
         </tr>
@@ -947,7 +947,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WildBill2u2">WildBill2u2</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2565</td>
         </tr>
@@ -991,7 +991,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThrowingStonz">ThrowingStonz</a></td>
             <td>2009-08-18</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>2280</td>
         </tr>
@@ -1145,7 +1145,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TeriCBrownUGA">TeriCBrownUGA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/16478261">1 other</a>)&nbsp;</td>
             <td>2008-09-27</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1702</td>
         </tr>
@@ -1178,7 +1178,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WalterHattox">WalterHattox</a></td>
             <td>2008-08-14</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1624</td>
         </tr>
@@ -1244,7 +1244,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lisaf104Lisaf">Lisaf104Lisaf</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1434</td>
         </tr>

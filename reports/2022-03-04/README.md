@@ -2028,7 +2028,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DjDanStarboy">DjDanStarboy</a></td>
             <td>2014-02-03</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1109</td>
         </tr>

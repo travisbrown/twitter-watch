@@ -322,7 +322,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/louieesqueda1">louieesqueda1</a></td>
             <td>2018-09-26</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>17268</td>
         </tr>

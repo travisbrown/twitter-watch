@@ -2000,7 +2000,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/samylovesbags">samylovesbags</a></td>
             <td>2015-07-03</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>7051</td>
         </tr>

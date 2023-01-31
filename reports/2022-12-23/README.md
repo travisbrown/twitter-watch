@@ -581,7 +581,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AncientWisdomio">AncientWisdomio</a></td>
             <td>2021-11-18</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>12600</td>
         </tr>

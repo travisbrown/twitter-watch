@@ -237,7 +237,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gurillaapp">gurillaapp</a></td>
             <td>2014-06-07</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>19978</td>
         </tr>

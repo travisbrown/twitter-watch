@@ -844,7 +844,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZenCollares">ZenCollares</a></td>
             <td>2020-03-11</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>22767</td>
         </tr>

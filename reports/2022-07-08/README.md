@@ -1000,7 +1000,7 @@ Found 698 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/__bee_kay__">__bee_kay__</a></td>
             <td>2021-12-02</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>8313</td>
         </tr>

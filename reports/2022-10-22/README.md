@@ -702,7 +702,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/naughtywriter2">naughtywriter2</a></td>
             <td>2012-05-31</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>23184</td>
         </tr>

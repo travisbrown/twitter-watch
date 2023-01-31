@@ -782,7 +782,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KarafuruNFT">KarafuruNFT</a></td>
             <td>2022-01-05</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>297616</td>
         </tr>

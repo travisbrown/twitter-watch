@@ -625,7 +625,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YaleIMed">YaleIMed</a></td>
             <td>2018-10-02</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>9168</td>
         </tr>
@@ -1835,7 +1835,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TechPidgin1">TechPidgin1</a></td>
             <td>2022-04-19</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1835</td>
         </tr>

@@ -1168,7 +1168,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeffreymadwisc">jeffreymadwisc</a></td>
             <td>2011-04-07</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>15268</td>
         </tr>

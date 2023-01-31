@@ -1614,7 +1614,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CSaltroad1">CSaltroad1</a></td>
             <td>2015-03-09</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1080</td>
         </tr>

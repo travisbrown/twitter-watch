@@ -491,7 +491,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pearl_sage">pearl_sage</a></td>
             <td>2017-03-23</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>81542</td>
         </tr>

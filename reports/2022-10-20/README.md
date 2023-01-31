@@ -3024,7 +3024,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AdoptaVida">AdoptaVida</a></td>
             <td>2012-08-28</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>2107</td>
         </tr>

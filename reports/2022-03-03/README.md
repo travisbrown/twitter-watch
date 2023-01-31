@@ -619,7 +619,7 @@ Found 691 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wokeflix_">wokeflix_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1099056786013712385">1 other</a>)&nbsp;</td>
             <td>2019-02-22</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>27444</td>
         </tr>

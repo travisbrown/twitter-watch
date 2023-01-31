@@ -31321,7 +31321,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CA_Trump">CA_Trump</a></td>
             <td>2016-09-13</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1267</td>
         </tr>
@@ -33378,7 +33378,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClifftonDennis">ClifftonDennis</a></td>
             <td>2018-11-05</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>1178</td>
         </tr>

@@ -858,7 +858,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GlauRaf4">GlauRaf4</a></td>
             <td>2017-06-19</td>
-            <td></td>
+            <td>2023-01-28</td>
             <td align="center"></td>
             <td>28279</td>
         </tr>
