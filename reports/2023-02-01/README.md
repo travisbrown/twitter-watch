@@ -2,7 +2,7 @@
 
 * [Tracked suspensions (1)](#tracked-suspensions)
 * [Tracked screen name changes (0)](#tracked-screen-name-changes)
-* [Untracked suspensions (13)](#untracked-suspensions)
+* [Untracked suspensions (18)](#untracked-suspensions)
 
 Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
 
@@ -40,8 +40,8 @@ Found 0 screen name changes for tracked accounts.
 
 ### Untracked suspensions
 
-Found 740 suspensions for untracked accounts.
-13 accounts have more than 1000 followers and are included here.
+Found 1154 suspensions for untracked accounts.
+18 accounts have more than 1000 followers and are included here.
   ✔️ indicates that the account was verified and 🔒 that it was locked.
 
 <table>
@@ -74,6 +74,17 @@ Found 740 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>44446</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1396852472522608642">
+                <img src="https://pbs.twimg.com/profile_images/1534191877276241922/rNczVOqw_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/jesusdersupajew">jesusdersupajew</a></td>
+            <td>2021-05-24</td>
+            <td></td>
+            <td align="center"></td>
+            <td>30127</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1531307881483542529">
@@ -109,6 +120,17 @@ Found 740 suspensions for untracked accounts.
             <td>6184</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1716518112">
+                <img src="https://pbs.twimg.com/profile_images/1598348767274606593/HOHEriNP_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/VlnDieselfans">VlnDieselfans</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1716518112">2 others</a>)&nbsp;</td>
+            <td>2013-08-31</td>
+            <td></td>
+            <td align="center"></td>
+            <td>3719</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1411347418923294724">
                 <img src="https://pbs.twimg.com/profile_images/1566078605679017984/lDoM33Xj_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -140,6 +162,39 @@ Found 740 suspensions for untracked accounts.
             <td></td>
             <td align="center"></td>
             <td>1629</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1492377653273571329">
+                <img src="https://pbs.twimg.com/profile_images/1591243218020364288/8hdhyDQ9_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/0xchezzw1n">0xchezzw1n</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1492377653273571329">3 others</a>)&nbsp;</td>
+            <td>2022-02-12</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1455</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=2416492818">
+                <img src="https://pbs.twimg.com/profile_images/1555802649047445504/L31bZZIZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/406to206_EQ">406to206_EQ</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2416492818">2 others</a>)&nbsp;</td>
+            <td>2014-03-28</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1438</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1502985820185190405">
+                <img src="https://pbs.twimg.com/profile_images/1502988094789799938/fTZhoeSZ_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Queencayna">Queencayna</a></td>
+            <td>2022-03-13</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1222</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1282107284630323202">
