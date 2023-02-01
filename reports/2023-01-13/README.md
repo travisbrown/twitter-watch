@@ -825,7 +825,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/raecreateart">raecreateart</a></td>
             <td>2017-09-29</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>3327</td>
         </tr>
@@ -836,7 +836,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stanleytheape">stanleytheape</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1395547734086717441">1 other</a>)&nbsp;</td>
             <td>2021-05-21</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>3317</td>
         </tr>
@@ -1353,7 +1353,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bonddxb">bonddxb</a></td>
             <td>2008-06-17</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1850</td>
         </tr>
@@ -1683,7 +1683,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TokToksocialfi">TokToksocialfi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1314576642086330368">2 others</a>)&nbsp;</td>
             <td>2020-10-09</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1444</td>
         </tr>
@@ -1804,7 +1804,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/desicryptogal">desicryptogal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/269346998">1 other</a>)&nbsp;</td>
             <td>2011-03-20</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1363</td>
         </tr>
@@ -1826,7 +1826,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FakiegrandeShit">FakiegrandeShit</a></td>
             <td>2017-08-15</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1347</td>
         </tr>

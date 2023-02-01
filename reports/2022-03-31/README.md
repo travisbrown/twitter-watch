@@ -926,7 +926,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Friendbearx">Friendbearx</a></td>
             <td>2019-01-30</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>3253</td>
         </tr>

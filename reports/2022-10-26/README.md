@@ -2011,7 +2011,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CaporalGroulx">CaporalGroulx</a></td>
             <td>2012-12-31</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1518</td>
         </tr>

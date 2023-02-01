@@ -851,7 +851,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brunaffabiao">brunaffabiao</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/366720191">1 other</a>)&nbsp;</td>
             <td>2011-09-02</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>3191</td>
         </tr>

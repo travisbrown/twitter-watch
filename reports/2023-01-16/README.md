@@ -1393,7 +1393,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tluisito007">Tluisito007</a></td>
             <td>2019-08-23</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1156</td>
         </tr>
@@ -1459,7 +1459,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/confusedteacups">confusedteacups</a></td>
             <td>2021-10-20</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1047</td>
         </tr>

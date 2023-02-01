@@ -751,7 +751,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RedLion_First">RedLion_First</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1062861050763198467">1 other</a>)&nbsp;</td>
             <td>2018-11-15</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>21230</td>
         </tr>

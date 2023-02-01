@@ -2066,7 +2066,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LaughiFunny">LaughiFunny</a></td>
             <td>2014-04-20</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>6653</td>
         </tr>

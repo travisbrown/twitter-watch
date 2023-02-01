@@ -1044,7 +1044,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sajuroy_">sajuroy_</a></td>
             <td>2022-09-11</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1236</td>
         </tr>

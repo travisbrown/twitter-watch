@@ -1151,7 +1151,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CollarLabs">CollarLabs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/902041791842660353">3 others</a>)&nbsp;</td>
             <td>2017-08-28</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>4106</td>
         </tr>

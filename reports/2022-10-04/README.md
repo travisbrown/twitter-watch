@@ -655,7 +655,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IleneMann20">IleneMann20</a></td>
             <td>2019-04-29</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>25209</td>
         </tr>
@@ -666,7 +666,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Aniston86911941">Aniston86911941</a></td>
             <td>2019-03-06</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>23150</td>
         </tr>

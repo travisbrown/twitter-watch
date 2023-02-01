@@ -2415,7 +2415,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Souza01adv">Souza01adv</a></td>
             <td>2022-08-31</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1360</td>
         </tr>

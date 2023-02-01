@@ -2342,7 +2342,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoLINKlady">CryptoLINKlady</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1072943313274224640">2 others</a>)&nbsp;</td>
             <td>2018-12-12</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>2565</td>
         </tr>

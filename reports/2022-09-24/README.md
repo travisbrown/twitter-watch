@@ -727,7 +727,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chbrkr">chbrkr</a></td>
             <td>2009-06-15</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>24818</td>
         </tr>

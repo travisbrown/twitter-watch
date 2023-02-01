@@ -608,7 +608,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rozkez67">Rozkez67</a></td>
             <td>2014-08-12</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>24856</td>
         </tr>
@@ -1147,7 +1147,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SimonNotFloyd">SimonNotFloyd</a></td>
             <td>2021-09-13</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>2475</td>
         </tr>

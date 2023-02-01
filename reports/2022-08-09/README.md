@@ -749,7 +749,7 @@ Found 391 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnatolyVlasov87">AnatolyVlasov87</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2514828871">3 others</a>)&nbsp;</td>
             <td>2014-05-22</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>20699</td>
         </tr>

@@ -792,7 +792,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OloriMaya">OloriMaya</a></td>
             <td>2022-01-08</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>12234</td>
         </tr>

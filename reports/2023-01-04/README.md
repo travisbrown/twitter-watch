@@ -664,7 +664,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/skjsaurabh">skjsaurabh</a></td>
             <td>2009-10-16</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>3444</td>
         </tr>
@@ -741,7 +741,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/love_ariya777">love_ariya777</a></td>
             <td>2018-03-16</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>2949</td>
         </tr>

@@ -809,7 +809,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/metaboom_nft">metaboom_nft</a></td>
             <td>2021-09-22</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>4268</td>
         </tr>

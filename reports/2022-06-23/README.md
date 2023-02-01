@@ -248,7 +248,7 @@ Found 1499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ProfHoax__">ProfHoax__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/309985367">1 other</a>)&nbsp;</td>
             <td>2011-06-03</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>25769</td>
         </tr>

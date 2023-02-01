@@ -1261,7 +1261,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/th3g00gawd">th3g00gawd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1302020401023913984">4 others</a>)&nbsp;</td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1825</td>
         </tr>

@@ -282,7 +282,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WokeAnimal">WokeAnimal</a></td>
             <td>2019-11-18</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>30709</td>
         </tr>
@@ -447,7 +447,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/STEFisDOPE_">STEFisDOPE_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1301820938">3 others</a>)&nbsp;</td>
             <td>2013-03-26</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>8790</td>
         </tr>

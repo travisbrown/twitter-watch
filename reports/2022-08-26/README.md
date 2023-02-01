@@ -1217,7 +1217,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnWight1">JohnWight1</a></td>
             <td>2011-06-08</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>22477</td>
         </tr>

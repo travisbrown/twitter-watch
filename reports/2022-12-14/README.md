@@ -960,7 +960,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrTalAbdulrazaq">DrTalAbdulrazaq</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/292898259">2 others</a>)&nbsp;</td>
             <td>2011-05-04</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>8982</td>
         </tr>

@@ -2279,7 +2279,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/faddybaton">faddybaton</a></td>
             <td>2021-11-12</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1006</td>
         </tr></table>

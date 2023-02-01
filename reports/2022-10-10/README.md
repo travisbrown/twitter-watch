@@ -611,7 +611,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AtariTexas">AtariTexas</a></td>
             <td>2012-05-02</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>35840</td>
         </tr>
@@ -1777,7 +1777,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EfremMol">EfremMol</a></td>
             <td>2020-05-08</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1498</td>
         </tr>

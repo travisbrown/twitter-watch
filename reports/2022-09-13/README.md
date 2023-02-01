@@ -829,7 +829,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/demi_dzn">demi_dzn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1450405553755328512">1 other</a>)&nbsp;</td>
             <td>2021-10-19</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>21223</td>
         </tr>

@@ -1116,7 +1116,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GuyWald1974">GuyWald1974</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/756598309247131648">1 other</a>)&nbsp;</td>
             <td>2016-07-22</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1490</td>
         </tr>

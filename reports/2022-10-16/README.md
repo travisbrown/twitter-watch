@@ -573,7 +573,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sachya2002">sachya2002</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1292538672">1 other</a>)&nbsp;</td>
             <td>2013-03-23</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>36507</td>
         </tr>

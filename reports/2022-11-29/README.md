@@ -2966,7 +2966,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/studiofailurez">studiofailurez</a></td>
             <td>2022-10-28</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1448</td>
         </tr>

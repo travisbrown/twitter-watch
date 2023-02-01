@@ -1073,7 +1073,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NETINHOOFICIAL3">NETINHOOFICIAL3</a></td>
             <td>2019-03-08</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>60196</td>
         </tr>

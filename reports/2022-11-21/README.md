@@ -927,7 +927,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mark_giangreco">mark_giangreco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/415243401">1 other</a>)&nbsp;</td>
             <td>2011-11-18</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>35172</td>
         </tr>

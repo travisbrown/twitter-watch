@@ -1123,7 +1123,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AptosAssassin0x">AptosAssassin0x</a></td>
             <td>2022-10-24</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1793</td>
         </tr>
@@ -1640,7 +1640,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarissaReneaum">MarissaReneaum</a></td>
             <td>2015-02-10</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1146</td>
         </tr>

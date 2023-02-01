@@ -1547,7 +1547,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bigbangaptos">bigbangaptos</a></td>
             <td>2022-02-15</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1860</td>
         </tr>
@@ -2031,7 +2031,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UpTrend_7">UpTrend_7</a></td>
             <td>2017-01-05</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1188</td>
         </tr>

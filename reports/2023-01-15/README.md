@@ -618,7 +618,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TAlasari">TAlasari</a></td>
             <td>2014-02-16</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>2881</td>
         </tr>
@@ -1234,7 +1234,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tinicho06">tinicho06</a></td>
             <td>2017-01-14</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1762</td>
         </tr>
@@ -1311,7 +1311,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Deventer61">Deventer61</a></td>
             <td>2011-04-17</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1652</td>
         </tr>
@@ -1531,7 +1531,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Melkamu89773445">Melkamu89773445</a></td>
             <td>2021-02-05</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1435</td>
         </tr>
@@ -1586,7 +1586,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/naseermobashir">naseermobashir</a></td>
             <td>2013-11-17</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1418</td>
         </tr>
@@ -1861,7 +1861,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/noneofurconcrn">noneofurconcrn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/48939775">2 others</a>)&nbsp;</td>
             <td>2009-06-20</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1199</td>
         </tr>
@@ -2037,7 +2037,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Morgii56747209">Morgii56747209</a></td>
             <td>2021-01-03</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1099</td>
         </tr>

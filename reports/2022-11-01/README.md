@@ -1545,7 +1545,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/damadanoite14">damadanoite14</a></td>
             <td>2014-10-22</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>21478</td>
         </tr>

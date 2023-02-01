@@ -3103,7 +3103,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gldn_gd">gldn_gd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/322284283">3 others</a>)&nbsp;</td>
             <td>2011-06-22</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>1480</td>
         </tr>
@@ -3620,7 +3620,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Resistance_313">Resistance_313</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/127056579">1 other</a>)&nbsp;</td>
             <td>2010-03-27</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>1208</td>
         </tr>

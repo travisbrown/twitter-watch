@@ -654,7 +654,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/emoriiisp">emoriiisp</a></td>
             <td>2020-10-11</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>134633</td>
         </tr>
@@ -753,7 +753,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PrincessIkigaii">PrincessIkigaii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/870704187977326592">1 other</a>)&nbsp;</td>
             <td>2017-06-02</td>
-            <td></td>
+            <td>2023-01-30</td>
             <td align="center"></td>
             <td>49177</td>
         </tr>

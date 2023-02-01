@@ -446,7 +446,7 @@ Found 926 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NotFun22">NotFun22</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1336706004541706245">2 others</a>)&nbsp;</td>
             <td>2020-12-09</td>
-            <td></td>
+            <td>2023-01-29</td>
             <td align="center"></td>
             <td>33559</td>
         </tr>
