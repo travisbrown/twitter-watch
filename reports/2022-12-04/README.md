@@ -52,7 +52,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/8r41ndr0p">8r41ndr0p</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1443934291109588995">1 other</a>)&nbsp;</td>
             <td>2021-10-01</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>397</td>
             <td>14580</td>

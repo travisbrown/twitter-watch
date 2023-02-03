@@ -28,7 +28,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GitNigel">GitNigel</a></td>
             <td>2021-02-08</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>6400</td>
             <td>1091</td>

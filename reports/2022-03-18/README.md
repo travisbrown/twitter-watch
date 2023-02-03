@@ -705,7 +705,7 @@ Found 469 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoralTeresa">CoralTeresa</a></td>
             <td>2011-04-08</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>32902</td>
         </tr>

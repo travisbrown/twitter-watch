@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BVodkasoda">BVodkasoda</a></td>
             <td>2021-01-12</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1880</td>
             <td>9008</td>
@@ -52,7 +52,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/The_Purple_Haze">The_Purple_Haze</a></td>
             <td>2016-12-16</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>254</td>
             <td>35461</td>
@@ -140,7 +140,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BismeenDr">BismeenDr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3190202213">1 other</a>)&nbsp;</td>
             <td>2015-04-21</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>17154</td>
         </tr>

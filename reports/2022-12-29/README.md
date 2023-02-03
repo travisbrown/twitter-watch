@@ -76,7 +76,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/kerberospanzer">kerberospanzer</a></td>
             <td>2009-06-02</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1232</td>
             <td>19876</td>

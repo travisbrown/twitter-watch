@@ -735,7 +735,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kijana002">kijana002</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1495112439943344131">2 others</a>)&nbsp;</td>
             <td>2022-02-19</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>15512</td>
         </tr>

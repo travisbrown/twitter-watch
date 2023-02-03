@@ -369,7 +369,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AJStein">AJStein</a></td>
             <td>2017-01-24</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>3443</td>
         </tr>

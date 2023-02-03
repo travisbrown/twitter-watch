@@ -1120,7 +1120,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JKonopo">JKonopo</a></td>
             <td>2015-10-31</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>3316</td>
         </tr>

@@ -1831,7 +1831,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/saizokirigaku">saizokirigaku</a></td>
             <td>2020-10-12</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1311</td>
         </tr>

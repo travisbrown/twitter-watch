@@ -280,7 +280,7 @@ Found 29 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Bumpyuma">Bumpyuma</a></td>
             <td>2016-02-25</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>631</td>
             <td>60896</td>
@@ -2634,7 +2634,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RobertHill1776">RobertHill1776</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1060</td>
         </tr>

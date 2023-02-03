@@ -789,7 +789,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DigitalNorth3D">DigitalNorth3D</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3254883228">1 other</a>)&nbsp;</td>
             <td>2015-06-24</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>24753</td>
         </tr>

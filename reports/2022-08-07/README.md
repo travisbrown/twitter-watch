@@ -1351,7 +1351,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Youallgotduped">Youallgotduped</a></td>
             <td>2022-04-19</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>4805</td>
         </tr>

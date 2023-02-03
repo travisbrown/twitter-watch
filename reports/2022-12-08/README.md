@@ -1503,7 +1503,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hobk_halak">hobk_halak</a></td>
             <td>2012-08-13</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1635</td>
         </tr>

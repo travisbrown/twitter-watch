@@ -363,7 +363,7 @@ Found 1075 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/slavaURSS">slavaURSS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1246809092250841094">2 others</a>)&nbsp;</td>
             <td>2020-04-05</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>10957</td>
         </tr>

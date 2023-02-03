@@ -2281,7 +2281,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zurain">zurain</a></td>
             <td>2008-07-15</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>2135</td>
         </tr>

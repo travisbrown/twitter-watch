@@ -350,7 +350,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TRINITY_GAMES">TRINITY_GAMES</a></td>
             <td>2011-10-06</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>4700</td>
         </tr>
@@ -900,7 +900,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheBatboy11">TheBatboy11</a></td>
             <td>2017-11-05</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1249</td>
         </tr>

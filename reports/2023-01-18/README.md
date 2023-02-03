@@ -1035,7 +1035,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vexpy_aptos">vexpy_aptos</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1460691230443118596">1 other</a>)&nbsp;</td>
             <td>2021-11-16</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>1984</td>
         </tr>
@@ -1508,7 +1508,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BigFredNinety5">BigFredNinety5</a></td>
             <td>2022-03-31</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>1319</td>
         </tr>

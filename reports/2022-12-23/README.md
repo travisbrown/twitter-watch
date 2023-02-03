@@ -172,7 +172,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/astrodude78574">astrodude78574</a></td>
             <td>2021-09-17</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>2724</td>
             <td>56360</td>

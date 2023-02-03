@@ -446,7 +446,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jackjackparrr">jackjackparrr</a></td>
             <td>2018-06-26</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>7024</td>
         </tr>

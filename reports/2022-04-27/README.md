@@ -2033,7 +2033,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnaPaulaFranke">AnaPaulaFranke</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/130568323">1 other</a>)&nbsp;</td>
             <td>2010-04-07</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>23853</td>
         </tr>

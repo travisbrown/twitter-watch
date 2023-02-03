@@ -2022,7 +2022,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JojoNewf">JojoNewf</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/971116932169478144">1 other</a>)&nbsp;</td>
             <td>2018-03-06</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>1514</td>
         </tr>

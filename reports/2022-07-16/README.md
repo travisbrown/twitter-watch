@@ -5406,7 +5406,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chalice_Alpha">Chalice_Alpha</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/928092260">2 others</a>)&nbsp;</td>
             <td>2012-11-05</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1292</td>
         </tr>

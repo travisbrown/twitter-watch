@@ -936,7 +936,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brian14930998">brian14930998</a></td>
             <td>2020-01-12</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>5106</td>
         </tr>

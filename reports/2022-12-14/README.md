@@ -2269,7 +2269,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/felipejayme">felipejayme</a></td>
             <td>2010-12-30</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1227</td>
         </tr>

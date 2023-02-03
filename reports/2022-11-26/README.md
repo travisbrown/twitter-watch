@@ -1631,7 +1631,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gary35218119">Gary35218119</a></td>
             <td>2018-05-28</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1969</td>
         </tr>
@@ -2093,7 +2093,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EViking77">EViking77</a></td>
             <td>2016-09-29</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1244</td>
         </tr>

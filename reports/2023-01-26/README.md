@@ -370,7 +370,7 @@ Found 2160 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cocolla_">Cocolla_</a></td>
             <td>2019-11-18</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>3762</td>
         </tr>

@@ -1075,7 +1075,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nachodonUST">nachodonUST</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1380663671517454337">1 other</a>)&nbsp;</td>
             <td>2021-04-09</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>2647</td>
         </tr>

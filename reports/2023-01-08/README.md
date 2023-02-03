@@ -124,7 +124,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TorqueNutzRight">TorqueNutzRight</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/113359418">1 other</a>)&nbsp;</td>
             <td>2010-02-11</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>954</td>
             <td>79506</td>

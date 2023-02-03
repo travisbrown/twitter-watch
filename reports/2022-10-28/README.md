@@ -1890,7 +1890,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NNMChris">NNMChris</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1262738185152430083">3 others</a>)&nbsp;</td>
             <td>2020-05-19</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>7444</td>
         </tr>

@@ -237,7 +237,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nhlamulo_Mlabya">Nhlamulo_Mlabya</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/929204369526009856">6 others</a>)&nbsp;</td>
             <td>2017-11-11</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>37363</td>
         </tr>

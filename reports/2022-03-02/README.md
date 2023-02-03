@@ -846,7 +846,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PuntaLeyend">PuntaLeyend</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1332060152359489545">1 other</a>)&nbsp;</td>
             <td>2020-11-26</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>27787</td>
         </tr>

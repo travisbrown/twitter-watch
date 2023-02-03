@@ -670,7 +670,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heyitsnatalie00">heyitsnatalie00</a></td>
             <td>2015-04-09</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>2113</td>
         </tr>

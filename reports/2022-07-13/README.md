@@ -1161,7 +1161,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/baileyblows">baileyblows</a></td>
             <td>2021-11-02</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>3132</td>
         </tr>

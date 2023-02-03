@@ -3591,7 +3591,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/we_arent_here">we_arent_here</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/304503454">2 others</a>)&nbsp;</td>
             <td>2011-05-24</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1130</td>
         </tr>

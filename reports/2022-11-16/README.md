@@ -1210,7 +1210,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Camille_Dyalan">Camille_Dyalan</a></td>
             <td>2021-08-28</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>8870</td>
         </tr>

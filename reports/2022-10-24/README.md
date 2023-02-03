@@ -730,7 +730,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cbngov_akin1">cbngov_akin1</a></td>
             <td>2012-01-23</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>84325</td>
         </tr>

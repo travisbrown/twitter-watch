@@ -940,7 +940,7 @@ Found 882 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GolemBased">GolemBased</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1430396749441548288">2 others</a>)&nbsp;</td>
             <td>2021-08-25</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>4933</td>
         </tr>

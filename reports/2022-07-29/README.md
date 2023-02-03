@@ -28,7 +28,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/reallouiehuey">reallouiehuey</a></td>
             <td>2019-08-22</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>14189</td>
             <td>570</td>
@@ -1131,7 +1131,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BONFIMRUBENS">BONFIMRUBENS</a></td>
             <td>2010-01-30</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>5326</td>
         </tr>

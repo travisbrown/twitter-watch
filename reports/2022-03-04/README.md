@@ -1544,7 +1544,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArthurMorenas">ArthurMorenas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/301843600">1 other</a>)&nbsp;</td>
             <td>2011-05-20</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>3678</td>
         </tr>

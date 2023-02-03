@@ -1192,7 +1192,7 @@ Found 1813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/abdelrahmanw">abdelrahmanw</a></td>
             <td>2009-07-02</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>25395</td>
         </tr>

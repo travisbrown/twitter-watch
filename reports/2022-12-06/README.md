@@ -244,7 +244,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/fatradgie">fatradgie</a></td>
             <td>2020-12-06</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>710</td>
             <td>58206</td>

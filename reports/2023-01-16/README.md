@@ -1360,7 +1360,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IpayeGbolahan">IpayeGbolahan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1413744770">1 other</a>)&nbsp;</td>
             <td>2013-05-08</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>1168</td>
         </tr>

@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TKvasir">TKvasir</a></td>
             <td>2020-04-04</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>175</td>
             <td>38565</td>

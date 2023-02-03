@@ -1838,7 +1838,7 @@ Found 1105 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/erciolc">erciolc</a></td>
             <td>2021-11-01</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1602</td>
         </tr>

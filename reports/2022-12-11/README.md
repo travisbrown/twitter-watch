@@ -877,7 +877,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IsiahMoyo">IsiahMoyo</a></td>
             <td>2019-08-21</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>2584</td>
         </tr>

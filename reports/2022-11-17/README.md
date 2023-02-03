@@ -969,7 +969,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ying18474850">ying18474850</a></td>
             <td>2020-11-02</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>16340</td>
         </tr>
@@ -3587,7 +3587,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NaqNab">NaqNab</a></td>
             <td>2021-08-18</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1225</td>
         </tr>

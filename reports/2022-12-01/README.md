@@ -1324,7 +1324,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wlshblvd">wlshblvd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/84855892">1 other</a>)&nbsp;</td>
             <td>2009-10-24</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center"></td>
             <td>18797</td>
         </tr>
@@ -3678,7 +3678,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cyber_ATO">Cyber_ATO</a></td>
             <td>2015-07-20</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>1375</td>
         </tr>

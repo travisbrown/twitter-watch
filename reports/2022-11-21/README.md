@@ -184,7 +184,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Donnie_00">Donnie_00</a></td>
             <td>2011-03-05</td>
-            <td></td>
+            <td>2023-02-01</td>
             <td align="center"></td>
             <td>610</td>
             <td>56253</td>

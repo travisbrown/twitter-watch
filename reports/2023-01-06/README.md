@@ -319,7 +319,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlexaDatt">AlexaDatt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/17567831">1 other</a>)&nbsp;</td>
             <td>2008-11-23</td>
-            <td></td>
+            <td>2023-01-31</td>
             <td align="center">✔️</td>
             <td>45164</td>
         </tr>
