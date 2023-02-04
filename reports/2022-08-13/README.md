@@ -2542,7 +2542,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OldBurningWitch">OldBurningWitch</a></td>
             <td>2022-01-27</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1391</td>
         </tr>

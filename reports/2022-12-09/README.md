@@ -2010,7 +2010,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JamesDRichard3">JamesDRichard3</a></td>
             <td>2020-05-07</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1362</td>
         </tr>

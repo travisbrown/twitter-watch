@@ -1520,7 +1520,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrentTaylorFnAc">TrentTaylorFnAc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/718210829087154176">1 other</a>)&nbsp;</td>
             <td>2016-04-07</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1318</td>
         </tr>

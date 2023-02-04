@@ -606,7 +606,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ajaaare">Ajaaare</a></td>
             <td>2012-05-10</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>3836</td>
         </tr>
@@ -617,7 +617,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RitouRouge">RitouRouge</a></td>
             <td>2015-08-06</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>3643</td>
         </tr>
@@ -804,7 +804,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VelekeRick">VelekeRick</a></td>
             <td>2017-03-24</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>3001</td>
         </tr>
@@ -969,7 +969,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/morris0731">morris0731</a></td>
             <td>2017-05-29</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>2462</td>
         </tr>
@@ -1640,7 +1640,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZachMacieI">ZachMacieI</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1741097036">1 other</a>)&nbsp;</td>
             <td>2013-09-07</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>
@@ -1728,7 +1728,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vitohughes512">vitohughes512</a></td>
             <td>2011-06-13</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1152</td>
         </tr>

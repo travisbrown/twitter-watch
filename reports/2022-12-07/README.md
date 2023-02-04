@@ -136,7 +136,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dvgca">dvgca</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/862332005983432704">1 other</a>)&nbsp;</td>
             <td>2017-05-10</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>323</td>
             <td>12500</td>
@@ -1382,7 +1382,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JerseyFinFan">JerseyFinFan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/474687090">4 others</a>)&nbsp;</td>
             <td>2012-01-26</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>2666</td>
         </tr>

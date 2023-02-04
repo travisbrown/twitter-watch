@@ -2385,7 +2385,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/35th_potus">35th_potus</a></td>
             <td>2017-02-04</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1427</td>
         </tr>

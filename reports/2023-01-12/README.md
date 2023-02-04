@@ -1253,7 +1253,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlitzVelvet">BlitzVelvet</a></td>
             <td>2021-03-26</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>2869</td>
         </tr>

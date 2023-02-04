@@ -1970,7 +1970,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/claremkeogh">claremkeogh</a></td>
             <td>2011-01-06</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1801</td>
         </tr>

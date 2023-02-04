@@ -250,7 +250,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LazyDavidOnYT">LazyDavidOnYT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764439795368165376">12 others</a>)&nbsp;</td>
             <td>2016-08-13</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>5555</td>
         </tr>

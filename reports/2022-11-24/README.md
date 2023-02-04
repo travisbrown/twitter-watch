@@ -2314,7 +2314,7 @@ Found 2137 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Speakfreely63">Speakfreely63</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1788</td>
         </tr>

@@ -641,7 +641,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NPwesident">NPwesident</a></td>
             <td>2021-01-20</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>3950</td>
         </tr>

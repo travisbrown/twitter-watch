@@ -1423,7 +1423,7 @@ Found 1538 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jamelsaifi1">Jamelsaifi1</a></td>
             <td>2017-10-15</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1136</td>
         </tr>

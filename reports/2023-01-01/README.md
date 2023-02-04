@@ -544,7 +544,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lukenbachr">lukenbachr</a></td>
             <td>2009-04-05</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>3314</td>
         </tr>

@@ -406,7 +406,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LisaWooly">LisaWooly</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>3130</td>
         </tr>
@@ -1033,7 +1033,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Saifi_hu_yar">Saifi_hu_yar</a></td>
             <td>2018-06-08</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1247</td>
         </tr>

@@ -1202,7 +1202,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EsterBolsonaro">EsterBolsonaro</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1439299788160315401">2 others</a>)&nbsp;</td>
             <td>2021-09-18</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>25260</td>
         </tr>

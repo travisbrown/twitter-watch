@@ -1189,7 +1189,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/love4all_ktk">love4all_ktk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/240150057">1 other</a>)&nbsp;</td>
             <td>2011-01-19</td>
-            <td></td>
+            <td>2023-02-02</td>
             <td align="center"></td>
             <td>1534</td>
         </tr>

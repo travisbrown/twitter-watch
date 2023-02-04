@@ -136,7 +136,7 @@ Found 32 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/YupItsMeElaine">YupItsMeElaine</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1158910502254366720">1 other</a>)&nbsp;</td>
             <td>2019-08-07</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>1361</td>
             <td>25994</td>
