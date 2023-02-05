@@ -462,7 +462,7 @@ Found 2928 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrMoyoEth">MrMoyoEth</a></td>
             <td>2021-07-01</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>1227</td>
         </tr>

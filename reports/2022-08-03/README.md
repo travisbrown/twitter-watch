@@ -1154,7 +1154,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReDesconfiado">ReDesconfiado</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2155677422">3 others</a>)&nbsp;</td>
             <td>2013-10-25</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>5337</td>
         </tr>

@@ -942,7 +942,7 @@ Found 3274 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chan_chinese">chan_chinese</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/500335127">1 other</a>)&nbsp;</td>
             <td>2012-02-23</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>1036</td>
         </tr>

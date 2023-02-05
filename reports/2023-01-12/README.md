@@ -2177,7 +2177,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Strictly3Sports">Strictly3Sports</a></td>
             <td>2021-04-01</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>

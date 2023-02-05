@@ -2329,7 +2329,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bemannico">Bemannico</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/747458174739845120">2 others</a>)&nbsp;</td>
             <td>2016-06-27</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>17902</td>
         </tr>

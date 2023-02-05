@@ -1639,7 +1639,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Primera_Linea_">Primera_Linea_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1155805460085317632">1 other</a>)&nbsp;</td>
             <td>2019-07-29</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>3350</td>
         </tr>

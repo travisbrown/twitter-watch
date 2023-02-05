@@ -481,7 +481,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stadoanarquista">stadoanarquista</a></td>
             <td>2009-01-14</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>9092</td>
         </tr>

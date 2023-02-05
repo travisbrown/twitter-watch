@@ -1227,7 +1227,7 @@ Found 709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TomasFSanchez">TomasFSanchez</a></td>
             <td>2013-12-26</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>1093</td>
         </tr>

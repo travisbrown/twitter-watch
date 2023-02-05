@@ -1718,7 +1718,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/772Lovve">772Lovve</a></td>
             <td>2022-04-15</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>1016</td>
         </tr>

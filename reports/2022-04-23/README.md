@@ -2262,7 +2262,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nezuko48442084">nezuko48442084</a></td>
             <td>2021-04-22</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>1198</td>
         </tr>

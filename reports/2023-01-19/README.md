@@ -1813,7 +1813,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/munna_mook">munna_mook</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/181855573">18 others</a>)&nbsp;</td>
             <td>2010-08-23</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>1852</td>
         </tr>

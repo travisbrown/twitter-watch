@@ -220,7 +220,7 @@ Found 18 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TaxiCrabb">TaxiCrabb</a></td>
             <td>2011-03-07</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>2591</td>
             <td>94308</td>

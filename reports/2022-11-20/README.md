@@ -52,7 +52,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/theworlds3nd">theworlds3nd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1301431687528710144">2 others</a>)&nbsp;</td>
             <td>2020-09-03</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>742</td>
             <td>1759</td>

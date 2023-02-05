@@ -342,7 +342,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DeissyTM">DeissyTM</a></td>
             <td>2022-09-13</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>20978</td>
         </tr>

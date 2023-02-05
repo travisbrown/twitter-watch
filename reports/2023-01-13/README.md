@@ -1276,7 +1276,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gartherly">gartherly</a></td>
             <td>2010-10-06</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>2075</td>
         </tr>
@@ -1837,7 +1837,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FirmayeDemeke">FirmayeDemeke</a></td>
             <td>2022-06-04</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>1337</td>
         </tr>

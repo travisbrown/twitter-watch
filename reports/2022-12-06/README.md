@@ -2279,7 +2279,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jsirwin67">jsirwin67</a></td>
             <td>2011-02-05</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center">🔒</td>
             <td>1271</td>
         </tr>

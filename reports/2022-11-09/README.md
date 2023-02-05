@@ -1309,7 +1309,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PUNKYTHESINGER">PUNKYTHESINGER</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/20899104">1 other</a>)&nbsp;</td>
             <td>2009-02-15</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>14527</td>
         </tr>

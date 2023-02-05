@@ -566,7 +566,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SDillingh1">SDillingh1</a></td>
             <td>2019-08-16</td>
-            <td></td>
+            <td>2023-02-03</td>
             <td align="center"></td>
             <td>2370</td>
         </tr>
