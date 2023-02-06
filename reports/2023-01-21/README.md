@@ -40,7 +40,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Atlanta4844">Atlanta4844</a></td>
             <td>2012-11-15</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center">🔒</td>
             <td>0</td>
             <td>57731</td>

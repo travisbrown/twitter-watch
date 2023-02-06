@@ -950,7 +950,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PabloLucini3">PabloLucini3</a></td>
             <td>2020-05-06</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>12333</td>
         </tr>

@@ -783,7 +783,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lamiabentnora">lamiabentnora</a></td>
             <td>2020-07-16</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>2450</td>
         </tr>

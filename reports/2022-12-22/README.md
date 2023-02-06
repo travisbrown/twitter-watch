@@ -1964,7 +1964,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/preetyxomuch">preetyxomuch</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1236367488415223808">8 others</a>)&nbsp;</td>
             <td>2020-03-07</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>1183</td>
         </tr>

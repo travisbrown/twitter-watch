@@ -991,7 +991,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/killedbygoogle">killedbygoogle</a></td>
             <td>2018-09-16</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>25951</td>
         </tr>

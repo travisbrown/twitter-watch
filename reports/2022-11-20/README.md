@@ -3149,7 +3149,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pastar_nak">Pastar_nak</a></td>
             <td>2016-12-20</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>1096</td>
         </tr>

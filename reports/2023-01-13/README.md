@@ -1309,7 +1309,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dijafvu">dijafvu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1204656497029873664">4 others</a>)&nbsp;</td>
             <td>2019-12-11</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>2001</td>
         </tr>

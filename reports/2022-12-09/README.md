@@ -635,7 +635,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheSocialistDad">TheSocialistDad</a></td>
             <td>2020-01-15</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>9955</td>
         </tr>

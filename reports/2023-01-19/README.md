@@ -1923,7 +1923,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KillswitchNb">KillswitchNb</a></td>
             <td>2019-10-12</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>1743</td>
         </tr>

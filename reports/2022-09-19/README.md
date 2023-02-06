@@ -810,7 +810,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/redneckgeisha">redneckgeisha</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1449551790396035073">3 others</a>)&nbsp;</td>
             <td>2021-10-17</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>11897</td>
         </tr>

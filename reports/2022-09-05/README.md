@@ -1062,7 +1062,7 @@ Found 926 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Owaselangenii">Owaselangenii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/951750540">2 others</a>)&nbsp;</td>
             <td>2012-11-16</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>2089</td>
         </tr>

@@ -1647,7 +1647,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/skalvord">skalvord</a></td>
             <td>2013-10-17</td>
-            <td></td>
+            <td>2023-02-04</td>
             <td align="center"></td>
             <td>1226</td>
         </tr>

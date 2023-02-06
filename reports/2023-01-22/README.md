@@ -106,7 +106,7 @@ Found 1059 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CobusPotgieter">CobusPotgieter</a></td>
             <td>2009-04-06</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>41896</td>
         </tr>
