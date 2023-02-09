@@ -328,7 +328,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NahBabeeNah">NahBabeeNah</a></td>
             <td>2022-02-13</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>33999</td>
             <td>34397</td>

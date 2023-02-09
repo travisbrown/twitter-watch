@@ -1618,7 +1618,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iam_angelraf">iam_angelraf</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/539530326">2 others</a>)&nbsp;</td>
             <td>2012-03-28</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1155</td>
         </tr>

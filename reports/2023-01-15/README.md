@@ -453,7 +453,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bensegzy">Bensegzy</a></td>
             <td>2010-12-03</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3397</td>
         </tr>
@@ -1982,7 +1982,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SHL_eth">SHL_eth</a></td>
             <td>2022-01-21</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1123</td>
         </tr>

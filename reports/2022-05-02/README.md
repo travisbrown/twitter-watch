@@ -1027,7 +1027,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/freeairdropID">freeairdropID</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/631576960">1 other</a>)&nbsp;</td>
             <td>2012-07-10</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>2770</td>
         </tr>
@@ -1302,7 +1302,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/annalbert13">annalbert13</a></td>
             <td>2011-04-22</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1578</td>
         </tr>
@@ -1456,7 +1456,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shrimplover1068">shrimplover1068</a></td>
             <td>2016-03-30</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1187</td>
         </tr>

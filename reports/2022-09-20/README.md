@@ -3370,7 +3370,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alan64366024">alan64366024</a></td>
             <td>2019-09-01</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1121</td>
         </tr>
@@ -3502,7 +3502,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OrenthalTrump">OrenthalTrump</a></td>
             <td>2019-02-28</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1075</td>
         </tr>

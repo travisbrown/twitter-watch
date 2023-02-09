@@ -1053,7 +1053,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/loopplatform">loopplatform</a></td>
             <td>2022-04-19</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>3801</td>
         </tr>

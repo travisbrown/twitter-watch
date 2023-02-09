@@ -828,7 +828,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sallytca">sallytca</a></td>
             <td>2011-10-02</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4640</td>
         </tr>
@@ -1081,7 +1081,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pizdapalace">pizdapalace</a></td>
             <td>2013-10-06</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2541</td>
         </tr>
@@ -1367,7 +1367,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PHENTZ3">PHENTZ3</a></td>
             <td>2014-08-18</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1514</td>
         </tr>

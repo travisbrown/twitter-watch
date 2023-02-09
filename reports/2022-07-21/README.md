@@ -40,7 +40,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/mervinxavierjqh">mervinxavierjqh</a></td>
             <td>2015-09-13</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1889</td>
             <td>1084</td>
@@ -595,7 +595,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pyrmontvillage">pyrmontvillage</a></td>
             <td>2008-04-23</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>14241</td>
         </tr>
@@ -672,7 +672,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MR_PUNJABI">MR_PUNJABI</a></td>
             <td>2008-06-12</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>11947</td>
         </tr>

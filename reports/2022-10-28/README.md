@@ -2495,7 +2495,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RokerGlasses">RokerGlasses</a></td>
             <td>2020-01-22</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4381</td>
         </tr>

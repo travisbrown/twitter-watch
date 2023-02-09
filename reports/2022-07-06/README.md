@@ -1195,7 +1195,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MyBrigitte">MyBrigitte</a></td>
             <td>2009-06-27</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1660</td>
         </tr>

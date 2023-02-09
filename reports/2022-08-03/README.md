@@ -1176,7 +1176,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarkHubbard33">MarkHubbard33</a></td>
             <td>2009-10-21</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>5205</td>
         </tr>
@@ -1451,7 +1451,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThomasB33239436">ThomasB33239436</a></td>
             <td>2021-10-22</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>2995</td>
         </tr>

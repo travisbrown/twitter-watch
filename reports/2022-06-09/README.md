@@ -100,7 +100,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DazedInNV">DazedInNV</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>460</td>
             <td>3605</td>

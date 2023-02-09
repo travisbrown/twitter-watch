@@ -735,7 +735,7 @@ Found 781 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/River_City">River_City</a></td>
             <td>2008-08-03</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>8808</td>
         </tr>

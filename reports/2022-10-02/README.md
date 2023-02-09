@@ -1094,7 +1094,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jaworrell49">jaworrell49</a></td>
             <td>2016-03-09</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3616</td>
         </tr>

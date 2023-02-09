@@ -460,7 +460,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MrEagleEye2U">MrEagleEye2U</a></td>
             <td>2011-04-16</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1161</td>
             <td>61366</td>
@@ -1698,7 +1698,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hfjm">hfjm</a></td>
             <td>2009-02-19</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>13223</td>
         </tr>

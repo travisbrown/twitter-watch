@@ -1777,7 +1777,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TexGEOas">TexGEOas</a></td>
             <td>2009-02-19</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2717</td>
         </tr>
@@ -1986,7 +1986,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cassiew16">cassiew16</a></td>
             <td>2009-04-03</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2006</td>
         </tr>

@@ -1071,7 +1071,7 @@ Found 1538 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheBullishdude_">TheBullishdude_</a></td>
             <td>2016-06-14</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1499</td>
         </tr>

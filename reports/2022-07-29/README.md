@@ -1164,7 +1164,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fernand06594405">Fernand06594405</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>5080</td>
         </tr>
@@ -1637,7 +1637,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WeeklyRich">WeeklyRich</a></td>
             <td>2019-12-12</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>2443</td>
         </tr>

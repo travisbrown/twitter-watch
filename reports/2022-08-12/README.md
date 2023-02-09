@@ -2007,7 +2007,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Patriotflyer24">Patriotflyer24</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/951663755519188998">1 other</a>)&nbsp;</td>
             <td>2018-01-12</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1082</td>
         </tr>

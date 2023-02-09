@@ -1512,7 +1512,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dovIadiyo">dovIadiyo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1270100502089433088">37 others</a>)&nbsp;</td>
             <td>2020-06-08</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>1905</td>
         </tr>

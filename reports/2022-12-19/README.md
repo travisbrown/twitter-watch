@@ -575,7 +575,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/drnifkin">drnifkin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/217105777">1 other</a>)&nbsp;</td>
             <td>2010-11-18</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>7931</td>
         </tr>

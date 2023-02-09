@@ -112,7 +112,7 @@ Found 21 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/spencerdog1">spencerdog1</a></td>
             <td>2009-04-27</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>2210</td>
             <td>33617</td>
@@ -938,7 +938,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nonso_andrew">nonso_andrew</a></td>
             <td>2020-09-14</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2265</td>
         </tr>

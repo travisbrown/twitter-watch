@@ -220,7 +220,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/australianwoma1">australianwoma1</a></td>
             <td>2021-09-13</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>4403</td>
             <td>56160</td>
@@ -1087,7 +1087,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lamin92123802">Lamin92123802</a></td>
             <td>2021-04-05</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>2058</td>
         </tr>
@@ -1208,7 +1208,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JNN186">JNN186</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1649404519">2 others</a>)&nbsp;</td>
             <td>2013-08-06</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1786</td>
         </tr>

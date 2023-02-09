@@ -2333,7 +2333,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CheeseSpiff">CheeseSpiff</a></td>
             <td>2020-06-27</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1484</td>
         </tr>

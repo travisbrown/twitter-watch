@@ -100,7 +100,7 @@ Found 29 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NA25989631">NA25989631</a></td>
             <td>2020-10-16</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>723</td>
             <td>11749</td>

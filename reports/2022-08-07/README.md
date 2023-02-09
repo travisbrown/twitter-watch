@@ -1142,7 +1142,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jim_slip">jim_slip</a></td>
             <td>2013-01-07</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>9636</td>
         </tr>
@@ -1406,7 +1406,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ad1140">ad1140</a></td>
             <td>2008-12-27</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>4276</td>
         </tr>
@@ -1417,7 +1417,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IStand4Trump">IStand4Trump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/139852216">3 others</a>)&nbsp;</td>
             <td>2010-05-03</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>4211</td>
         </tr>
@@ -1593,7 +1593,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CPoppino">CPoppino</a></td>
             <td>2012-02-06</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3026</td>
         </tr>
@@ -2374,7 +2374,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/korbendallasNY">korbendallasNY</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1170709930137063424">3 others</a>)&nbsp;</td>
             <td>2019-09-08</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1323</td>
         </tr>

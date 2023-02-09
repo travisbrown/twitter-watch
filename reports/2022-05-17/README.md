@@ -1099,7 +1099,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NOLACONSERV">NOLACONSERV</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/938480520899584000">1 other</a>)&nbsp;</td>
             <td>2017-12-06</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1478</td>
         </tr>

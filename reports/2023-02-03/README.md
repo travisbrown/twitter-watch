@@ -1352,7 +1352,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KulasanM">KulasanM</a></td>
             <td>2015-11-18</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>9087</td>
         </tr>
@@ -1616,7 +1616,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wakamihonew">wakamihonew</a></td>
             <td>2021-07-25</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>5469</td>
         </tr>
@@ -1649,7 +1649,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fightforschools">fightforschools</a></td>
             <td>2021-04-07</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>5257</td>
         </tr>
@@ -2012,7 +2012,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hirakata_San">Hirakata_San</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1291541387687518209">2 others</a>)&nbsp;</td>
             <td>2020-08-07</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>2985</td>
         </tr>
@@ -2606,7 +2606,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gosyo2nd">gosyo2nd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1066536704360689664">1 other</a>)&nbsp;</td>
             <td>2018-11-25</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1283</td>
         </tr>
@@ -2661,7 +2661,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Escort_Vessel">Escort_Vessel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/342155522">1 other</a>)&nbsp;</td>
             <td>2011-07-25</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1209</td>
         </tr>
@@ -2892,7 +2892,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NaNaChiLove_">NaNaChiLove_</a></td>
             <td>2018-06-12</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1056</td>
         </tr>

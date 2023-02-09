@@ -205,7 +205,7 @@ Found 3274 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RocgailD">RocgailD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1259280480270192640">5 others</a>)&nbsp;</td>
             <td>2020-05-10</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>9694</td>
         </tr>

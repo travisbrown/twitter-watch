@@ -193,7 +193,7 @@ Found 2888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Z_ahir786">Z_ahir786</a></td>
             <td>2022-03-05</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>7455</td>
         </tr>
@@ -556,7 +556,7 @@ Found 2888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rafamozocamelo">Rafamozocamelo</a></td>
             <td>2015-01-15</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1269</td>
         </tr>

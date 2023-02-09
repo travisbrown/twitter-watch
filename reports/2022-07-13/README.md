@@ -1557,7 +1557,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gjmaybury">gjmaybury</a></td>
             <td>2012-08-23</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>2177</td>
         </tr>

@@ -2196,7 +2196,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RezZureKtedPoeT">RezZureKtedPoeT</a></td>
             <td>2016-06-21</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1974</td>
         </tr>

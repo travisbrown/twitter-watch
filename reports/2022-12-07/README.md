@@ -28,7 +28,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Concreteisland2">Concreteisland2</a></td>
             <td>2022-01-22</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>2529</td>
             <td>1212</td>

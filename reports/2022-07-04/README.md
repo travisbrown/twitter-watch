@@ -886,7 +886,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MagaWoof2">MagaWoof2</a></td>
             <td>2021-11-12</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>6942</td>
         </tr>
@@ -1150,7 +1150,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VikingWolfMW">VikingWolfMW</a></td>
             <td>2021-07-25</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>2538</td>
         </tr>

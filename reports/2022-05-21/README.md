@@ -1388,7 +1388,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/davidthomas38">davidthomas38</a></td>
             <td>2009-02-20</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4400</td>
         </tr>
@@ -1498,7 +1498,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IAMNOTYOURCIS2">IAMNOTYOURCIS2</a></td>
             <td>2021-11-02</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3149</td>
         </tr>
@@ -2246,7 +2246,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShaylanaWalker">ShaylanaWalker</a></td>
             <td>2014-02-10</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1182</td>
         </tr>

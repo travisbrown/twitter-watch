@@ -1365,7 +1365,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ie_nw4">ie_nw4</a></td>
             <td>2018-06-16</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1521</td>
         </tr>

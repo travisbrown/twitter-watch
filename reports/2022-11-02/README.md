@@ -2383,7 +2383,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnJBenk1">JohnJBenk1</a></td>
             <td>2020-01-19</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1473</td>
         </tr>

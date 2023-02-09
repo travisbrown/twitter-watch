@@ -1019,7 +1019,7 @@ Found 654 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoolCzech1">CoolCzech1</a></td>
             <td>2012-06-22</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>3288</td>
         </tr>

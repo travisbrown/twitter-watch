@@ -848,7 +848,7 @@ Found 772 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/monochian">monochian</a></td>
             <td>2010-03-22</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center">🔒</td>
             <td>14487</td>
         </tr>

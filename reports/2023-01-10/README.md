@@ -1761,7 +1761,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/salvi4lifesv">salvi4lifesv</a></td>
             <td>2018-09-15</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1511</td>
         </tr>
@@ -1794,7 +1794,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RashidCalvince">RashidCalvince</a></td>
             <td>2015-01-03</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1425</td>
         </tr>
@@ -1992,7 +1992,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SyloFC">SyloFC</a></td>
             <td>2021-02-16</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1237</td>
         </tr>

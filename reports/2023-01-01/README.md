@@ -698,7 +698,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JxcReloaded">JxcReloaded</a></td>
             <td>2019-11-24</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1954</td>
         </tr>

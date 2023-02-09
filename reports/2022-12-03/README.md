@@ -2684,7 +2684,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nitscasm">nitscasm</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/935363927927537665">1 other</a>)&nbsp;</td>
             <td>2017-11-28</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1207</td>
         </tr>

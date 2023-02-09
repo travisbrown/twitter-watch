@@ -760,7 +760,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mizutayou1">mizutayou1</a></td>
             <td>2021-05-05</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>2478</td>
         </tr>

@@ -822,7 +822,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CortesAltoValor">CortesAltoValor</a></td>
             <td>2021-12-20</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>7718</td>
         </tr>

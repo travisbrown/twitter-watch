@@ -248,7 +248,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MissTrade">MissTrade</a></td>
             <td>2007-03-19</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>17466</td>
         </tr>

@@ -771,7 +771,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MochaLaMulata">MochaLaMulata</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2952329135">1 other</a>)&nbsp;</td>
             <td>2014-12-31</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center">🔒</td>
             <td>55464</td>
         </tr>
@@ -2817,7 +2817,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BoilingCrude">BoilingCrude</a></td>
             <td>2015-02-11</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1966</td>
         </tr>
@@ -3939,7 +3939,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SinisterSilver2">SinisterSilver2</a></td>
             <td>2021-10-30</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1327</td>
         </tr>

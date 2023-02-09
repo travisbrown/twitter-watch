@@ -1400,7 +1400,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/unspinthespina1">unspinthespina1</a></td>
             <td>2021-06-03</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>10597</td>
         </tr>

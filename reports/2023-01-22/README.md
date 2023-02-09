@@ -40,7 +40,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/legibledystopia">legibledystopia</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>82</td>
             <td>33750</td>

@@ -1275,7 +1275,7 @@ Found 507 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BillSauer3">BillSauer3</a></td>
             <td>2021-01-05</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1348</td>
         </tr>

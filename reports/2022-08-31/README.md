@@ -1246,7 +1246,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ranting_Monkey">Ranting_Monkey</a></td>
             <td>2011-02-08</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>6547</td>
         </tr>
@@ -1455,7 +1455,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TracyAMHall1">TracyAMHall1</a></td>
             <td>2020-10-07</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4471</td>
         </tr>
@@ -1653,7 +1653,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VitaApro">VitaApro</a></td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>3202</td>
         </tr>

@@ -747,7 +747,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pjpaton">pjpaton</a></td>
             <td>2011-06-02</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>6457</td>
         </tr>
@@ -868,7 +868,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/truthpiks">truthpiks</a></td>
             <td>2016-11-04</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4540</td>
         </tr>
@@ -1561,7 +1561,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Suvikunnas">Suvikunnas</a></td>
             <td>2012-10-28</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1961</td>
         </tr>

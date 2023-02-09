@@ -538,7 +538,7 @@ Found 812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mizdefiant">mizdefiant</a></td>
             <td>2022-02-18</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>23517</td>
         </tr>

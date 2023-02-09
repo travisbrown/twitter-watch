@@ -2679,7 +2679,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fedeal_nerd">fedeal_nerd</a></td>
             <td>2015-10-28</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1552</td>
         </tr>
@@ -2734,7 +2734,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cultural__Hall">Cultural__Hall</a></td>
             <td>2022-02-27</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1505</td>
         </tr>
@@ -2910,7 +2910,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jmills616">jmills616</a></td>
             <td>2008-11-03</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center">🔒</td>
             <td>1323</td>
         </tr>

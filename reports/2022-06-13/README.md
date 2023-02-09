@@ -2192,7 +2192,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/huskybags">huskybags</a></td>
             <td>2010-09-15</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1489</td>
         </tr>

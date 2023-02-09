@@ -845,7 +845,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uhler_jon">uhler_jon</a></td>
             <td>2021-11-15</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>5818</td>
         </tr>
@@ -1736,7 +1736,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JonKUhlerLPC">JonKUhlerLPC</a></td>
             <td>2018-03-31</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1691</td>
         </tr>

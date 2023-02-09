@@ -1561,7 +1561,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DianeDauer007">DianeDauer007</a></td>
             <td>2022-05-03</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2198</td>
         </tr>

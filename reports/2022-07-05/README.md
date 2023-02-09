@@ -1137,7 +1137,7 @@ Found 690 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AWildTriggering">AWildTriggering</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>2228</td>
         </tr>

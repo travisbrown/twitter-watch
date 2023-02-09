@@ -154,7 +154,7 @@ Found 2928 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UrbanKaoboy">UrbanKaoboy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/26266863">1 other</a>)&nbsp;</td>
             <td>2009-03-24</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>67286</td>
         </tr>

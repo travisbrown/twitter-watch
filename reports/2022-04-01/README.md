@@ -774,7 +774,7 @@ Found 548 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/drjohnhaiti">drjohnhaiti</a></td>
             <td>2010-12-13</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3320</td>
         </tr>

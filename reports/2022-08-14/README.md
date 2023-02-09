@@ -1045,7 +1045,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cotupacs">cotupacs</a></td>
             <td>2012-07-07</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4114</td>
         </tr>

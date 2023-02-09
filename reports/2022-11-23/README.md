@@ -280,7 +280,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/gresmelda">gresmelda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/911645756997685248">1 other</a>)&nbsp;</td>
             <td>2017-09-23</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>29</td>
             <td>79436</td>

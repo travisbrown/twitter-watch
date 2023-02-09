@@ -52,7 +52,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Kate94793608">Kate94793608</a></td>
             <td>2018-01-26</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>2347</td>
             <td>896</td>
@@ -1629,7 +1629,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sensus_Fidelium">Sensus_Fidelium</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2258332112">1 other</a>)&nbsp;</td>
             <td>2013-12-23</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>13567</td>
         </tr>

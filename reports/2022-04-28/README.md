@@ -519,7 +519,7 @@ Found 718 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealRichardBail">RealRichardBail</a></td>
             <td>2013-03-10</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4691</td>
         </tr>
@@ -783,7 +783,7 @@ Found 718 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SonyaNetbatgirl">SonyaNetbatgirl</a></td>
             <td>2016-04-11</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>2378</td>
         </tr>
@@ -1080,7 +1080,7 @@ Found 718 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MassZoomer">MassZoomer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1245095041095413763">2 others</a>)&nbsp;</td>
             <td>2020-03-31</td>
-            <td></td>
+            <td>2023-02-05</td>
             <td align="center"></td>
             <td>1330</td>
         </tr>

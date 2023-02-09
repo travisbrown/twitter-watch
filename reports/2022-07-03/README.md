@@ -5838,7 +5838,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0aklandWarrior">0aklandWarrior</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/36286526">5 others</a>)&nbsp;</td>
             <td>2009-04-29</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1517</td>
         </tr>

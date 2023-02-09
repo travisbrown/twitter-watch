@@ -915,7 +915,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shelliecorreia">shelliecorreia</a></td>
             <td>2011-09-06</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>12995</td>
         </tr>
@@ -2235,7 +2235,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RobertN30559526">RobertN30559526</a></td>
             <td>2020-09-28</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1532</td>
         </tr>

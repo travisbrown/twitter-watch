@@ -1112,7 +1112,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HammSamm519">HammSamm519</a></td>
             <td>2021-11-08</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1893</td>
         </tr>

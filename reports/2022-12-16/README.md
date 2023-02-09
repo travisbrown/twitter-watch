@@ -3579,7 +3579,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ejaz_nouman">ejaz_nouman</a></td>
             <td>2013-07-20</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1132</td>
         </tr>
@@ -3634,7 +3634,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jn_o22">jn_o22</a></td>
             <td>2022-06-27</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1116</td>
         </tr>

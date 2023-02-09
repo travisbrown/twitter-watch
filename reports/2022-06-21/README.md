@@ -448,7 +448,7 @@ Found 824 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GayeLewis7">GayeLewis7</a></td>
             <td>2016-09-29</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4104</td>
         </tr>

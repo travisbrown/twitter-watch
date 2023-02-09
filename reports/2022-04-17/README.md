@@ -1597,7 +1597,7 @@ Found 1021 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GalacticoRM7">GalacticoRM7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/778033218">4 others</a>)&nbsp;</td>
             <td>2012-08-24</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2167</td>
         </tr>

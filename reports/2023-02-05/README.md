@@ -1336,7 +1336,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chertz">chertz</a></td>
             <td>2014-07-22</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>19021</td>
         </tr>

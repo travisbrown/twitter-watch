@@ -52,7 +52,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TemplarWing1">TemplarWing1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1194080802050596864">1 other</a>)&nbsp;</td>
             <td>2019-11-12</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>478</td>
             <td>2725</td>

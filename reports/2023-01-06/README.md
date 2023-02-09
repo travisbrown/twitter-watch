@@ -781,7 +781,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thoughtsbyjodyn">thoughtsbyjodyn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3180692781">2 others</a>)&nbsp;</td>
             <td>2015-04-18</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3257</td>
         </tr>

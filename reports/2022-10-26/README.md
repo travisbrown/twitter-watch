@@ -801,7 +801,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wazirsoomro22">wazirsoomro22</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1314826592208777216">2 others</a>)&nbsp;</td>
             <td>2020-10-10</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>24486</td>
         </tr>

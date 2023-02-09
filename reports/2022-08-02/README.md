@@ -1113,7 +1113,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KirstenHalpin">KirstenHalpin</a></td>
             <td>2013-11-15</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1662</td>
         </tr>

@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WilliamA_33">WilliamA_33</a></td>
             <td>2022-01-12</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>7903</td>
             <td>923</td>

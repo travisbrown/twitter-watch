@@ -2127,7 +2127,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaryLCamacho">MaryLCamacho</a></td>
             <td>2022-01-22</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3926</td>
         </tr>

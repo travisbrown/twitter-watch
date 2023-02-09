@@ -2237,7 +2237,7 @@ Found 462 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TruthCrusader17">TruthCrusader17</a></td>
             <td>2021-09-05</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1637</td>
         </tr>

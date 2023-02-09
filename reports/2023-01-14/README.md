@@ -252,7 +252,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Traddoo">Traddoo</a></td>
             <td>2022-05-22</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>5541</td>
         </tr>
@@ -1110,7 +1110,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheAlphaholics">TheAlphaholics</a></td>
             <td>2022-04-16</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1190</td>
         </tr>

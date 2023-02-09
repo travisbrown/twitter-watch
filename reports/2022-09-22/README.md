@@ -2504,7 +2504,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EmilysFeralCats">EmilysFeralCats</a></td>
             <td>2015-09-23</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1468</td>
         </tr>

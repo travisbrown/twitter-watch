@@ -682,7 +682,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/judymorris3">judymorris3</a></td>
             <td>2011-11-13</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>4472</td>
         </tr>
@@ -1540,7 +1540,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmericanTermin">AmericanTermin</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1186</td>
         </tr>

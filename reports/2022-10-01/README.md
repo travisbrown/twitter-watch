@@ -2139,7 +2139,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GatoAntifas">GatoAntifas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/143038911">3 others</a>)&nbsp;</td>
             <td>2010-05-12</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>1313</td>
         </tr>

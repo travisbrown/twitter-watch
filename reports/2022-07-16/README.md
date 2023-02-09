@@ -379,7 +379,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Winback24">Winback24</a></td>
             <td>2021-06-02</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>49308</td>
         </tr>
@@ -1864,7 +1864,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/papaschu1">papaschu1</a></td>
             <td>2014-07-22</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>5191</td>
         </tr>
@@ -3646,7 +3646,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TomNJ2">TomNJ2</a></td>
             <td>2017-10-13</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2294</td>
         </tr>
@@ -5318,7 +5318,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FanCovfefe">FanCovfefe</a></td>
             <td>2019-03-04</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1313</td>
         </tr>
@@ -5956,7 +5956,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrevorWayne18">TrevorWayne18</a></td>
             <td>2021-03-01</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1058</td>
         </tr>

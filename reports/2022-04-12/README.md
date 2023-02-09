@@ -1306,7 +1306,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Powerrush_">Powerrush_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1508228293">10 others</a>)&nbsp;</td>
             <td>2013-06-12</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>2350</td>
         </tr>

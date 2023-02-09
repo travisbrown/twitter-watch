@@ -892,7 +892,7 @@ Found 480 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EATegrity_Sonia">EATegrity_Sonia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2373794970">2 others</a>)&nbsp;</td>
             <td>2014-03-05</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>3691</td>
         </tr>

@@ -2101,7 +2101,7 @@ Found 1605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rp_warner">rp_warner</a></td>
             <td>2018-06-27</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1376</td>
         </tr>

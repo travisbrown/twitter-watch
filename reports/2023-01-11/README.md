@@ -1497,7 +1497,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fizzy_renzel">Fizzy_renzel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/78654771">3 others</a>)&nbsp;</td>
             <td>2009-09-30</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1402</td>
         </tr>

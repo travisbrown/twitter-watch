@@ -1921,7 +1921,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bitnot_">Bitnot_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1263415219855884288">5 others</a>)&nbsp;</td>
             <td>2020-05-21</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1191</td>
         </tr>

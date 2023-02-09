@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/chad_satoshi">chad_satoshi</a></td>
             <td>2022-01-14</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>405</td>
             <td>28024</td>
@@ -1240,7 +1240,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Flattielover">Flattielover</a></td>
             <td>2011-07-31</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>2300</td>
         </tr>

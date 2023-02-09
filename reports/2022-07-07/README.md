@@ -1690,7 +1690,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1971mezzogemini">1971mezzogemini</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/197793430">2 others</a>)&nbsp;</td>
             <td>2010-10-02</td>
-            <td></td>
+            <td>2023-02-08</td>
             <td align="center"></td>
             <td>1611</td>
         </tr>

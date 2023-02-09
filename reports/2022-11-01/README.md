@@ -652,7 +652,7 @@ Found 77 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BigSilverBalls">BigSilverBalls</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1313576114959323139">2 others</a>)&nbsp;</td>
             <td>2020-10-06</td>
-            <td></td>
+            <td>2023-02-06</td>
             <td align="center"></td>
             <td>584</td>
             <td>26566</td>

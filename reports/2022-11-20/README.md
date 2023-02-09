@@ -2907,7 +2907,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ConflictOfValue">ConflictOfValue</a></td>
             <td>2018-08-30</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1333</td>
         </tr>
@@ -3039,7 +3039,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MikeSouthWestUK">MikeSouthWestUK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1444752807849041920">2 others</a>)&nbsp;</td>
             <td>2021-10-03</td>
-            <td></td>
+            <td>2023-02-07</td>
             <td align="center"></td>
             <td>1200</td>
         </tr>
