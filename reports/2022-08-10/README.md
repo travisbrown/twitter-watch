@@ -2519,7 +2519,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wealthissimple">wealthissimple</a></td>
             <td>2014-07-09</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1679</td>
         </tr>
@@ -2651,7 +2651,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GoldbergArielX">GoldbergArielX</a></td>
             <td>2021-08-24</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1532</td>
         </tr>

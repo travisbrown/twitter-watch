@@ -418,7 +418,7 @@ Found 2928 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThrussellJames">ThrussellJames</a></td>
             <td>2013-10-12</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1393</td>
         </tr>

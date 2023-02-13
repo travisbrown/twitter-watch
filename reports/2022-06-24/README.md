@@ -1368,7 +1368,7 @@ Found 601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thecnner">thecnner</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/15671773">1 other</a>)&nbsp;</td>
             <td>2008-07-31</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1657</td>
         </tr>

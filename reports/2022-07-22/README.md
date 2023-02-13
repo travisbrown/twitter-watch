@@ -1730,7 +1730,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/guivbr">guivbr</a></td>
             <td>2013-01-22</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>4371</td>
         </tr>
@@ -2038,7 +2038,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TetzlaffDebbie">TetzlaffDebbie</a></td>
             <td>2020-10-02</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2574</td>
         </tr>
@@ -2192,7 +2192,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BillSpalding7">BillSpalding7</a></td>
             <td>2021-02-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2204</td>
         </tr>

@@ -1833,7 +1833,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alexandraheuser">alexandraheuser</a></td>
             <td>2013-04-12</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>2294</td>
         </tr>

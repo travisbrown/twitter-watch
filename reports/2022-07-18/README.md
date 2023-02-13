@@ -1713,7 +1713,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DanCham03014042">DanCham03014042</a></td>
             <td>2021-10-14</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>5542</td>
         </tr>
@@ -2571,7 +2571,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarcosEducacao">MarcosEducacao</a></td>
             <td>2015-07-19</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1847</td>
         </tr>

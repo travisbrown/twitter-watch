@@ -1059,7 +1059,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RoRe7077">RoRe7077</a></td>
             <td>2015-08-19</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>5248</td>
         </tr>

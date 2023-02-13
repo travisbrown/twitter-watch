@@ -1045,7 +1045,7 @@ Found 867 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/claudisbest">claudisbest</a></td>
             <td>2018-02-09</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>6769</td>
         </tr>

@@ -292,7 +292,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/pantog">pantog</a></td>
             <td>2009-05-09</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>4378</td>
             <td>68438</td>

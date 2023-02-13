@@ -732,7 +732,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sadasyria2022">sadasyria2022</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1497345320325464068">1 other</a>)&nbsp;</td>
             <td>2022-02-25</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>4578</td>
         </tr>

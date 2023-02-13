@@ -1014,7 +1014,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cg_sands4">cg_sands4</a></td>
             <td>2017-01-28</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>6581</td>
         </tr>

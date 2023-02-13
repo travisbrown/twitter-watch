@@ -766,7 +766,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Moussolinho">Moussolinho</a></td>
             <td>2021-08-23</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>12509</td>
         </tr>

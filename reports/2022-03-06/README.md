@@ -1171,7 +1171,7 @@ Found 528 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FawdonMag">FawdonMag</a></td>
             <td>2009-06-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1138</td>
         </tr>

@@ -2165,7 +2165,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Returns2Talos4">Returns2Talos4</a></td>
             <td>2021-08-31</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1669</td>
         </tr>

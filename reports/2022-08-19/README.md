@@ -3690,7 +3690,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrumpTrain3X0">TrumpTrain3X0</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1511365361521811461">1 other</a>)&nbsp;</td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1098</td>
         </tr>

@@ -1668,7 +1668,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stevep44">stevep44</a></td>
             <td>2009-01-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>4036</td>
         </tr>
@@ -3296,7 +3296,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/i_ub2">i_ub2</a></td>
             <td>2020-06-05</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1198</td>
         </tr>

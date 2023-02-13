@@ -1183,7 +1183,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ez_dee">ez_dee</a></td>
             <td>2014-12-26</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>6830</td>
         </tr>
@@ -1293,7 +1293,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PorkNBeans15">PorkNBeans15</a></td>
             <td>2020-05-25</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>5300</td>
         </tr>

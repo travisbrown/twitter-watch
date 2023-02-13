@@ -281,7 +281,7 @@ Found 774 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeonardRoxon">LeonardRoxon</a></td>
             <td>2011-11-28</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>12542</td>
         </tr>

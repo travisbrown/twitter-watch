@@ -184,7 +184,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/total_karen">total_karen</a></td>
             <td>2022-07-25</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center">🔒</td>
             <td>253</td>
             <td>33738</td>
@@ -35017,7 +35017,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatriotHb">PatriotHb</a></td>
             <td>2021-04-07</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1117</td>
         </tr>

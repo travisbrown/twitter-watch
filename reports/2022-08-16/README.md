@@ -543,7 +543,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Black__12Women">Black__12Women</a></td>
             <td>2018-07-28</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>25358</td>
         </tr>
@@ -1390,7 +1390,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kamlesh20051966">kamlesh20051966</a></td>
             <td>2017-02-04</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1416</td>
         </tr>

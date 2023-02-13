@@ -1954,7 +1954,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/300cba">300cba</a></td>
             <td>2011-01-06</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1170</td>
         </tr>

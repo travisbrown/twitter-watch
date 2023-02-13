@@ -727,7 +727,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/isaynach">isaynach</a></td>
             <td>2022-02-05</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>10019</td>
         </tr>

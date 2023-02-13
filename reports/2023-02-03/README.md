@@ -1583,7 +1583,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ducedayo">ducedayo</a></td>
             <td>2020-08-20</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>6077</td>
         </tr>
@@ -2419,7 +2419,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SebastienBorgia">SebastienBorgia</a></td>
             <td>2021-12-14</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1450</td>
         </tr>

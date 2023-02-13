@@ -40,7 +40,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/birdbath">birdbath</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/116274320">1 other</a>)&nbsp;</td>
             <td>2010-02-21</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2462</td>
             <td>31317</td>
@@ -1526,7 +1526,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kyall_walker">kyall_walker</a></td>
             <td>2017-04-17</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1491</td>
         </tr>

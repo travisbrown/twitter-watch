@@ -612,7 +612,7 @@ Found 1139 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zombiemommy">zombiemommy</a></td>
             <td>2008-12-16</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>4580</td>
         </tr>

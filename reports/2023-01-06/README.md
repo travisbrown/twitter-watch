@@ -638,7 +638,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Minister_Prawdy">Minister_Prawdy</a></td>
             <td>2022-06-04</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>4865</td>
         </tr>
@@ -1144,7 +1144,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WildRebel8">WildRebel8</a></td>
             <td>2022-08-04</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1595</td>
         </tr>

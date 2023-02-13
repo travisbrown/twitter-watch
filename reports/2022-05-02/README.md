@@ -994,7 +994,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Condordh">Condordh</a></td>
             <td>2011-12-20</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2940</td>
         </tr>
@@ -1115,7 +1115,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/z_watching">z_watching</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/822500698575306754">1 other</a>)&nbsp;</td>
             <td>2017-01-20</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2092</td>
         </tr>

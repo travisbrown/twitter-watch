@@ -881,7 +881,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PearceAlan1962">PearceAlan1962</a></td>
             <td>2022-04-29</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>6591</td>
         </tr>
@@ -1046,7 +1046,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CinSmith1">CinSmith1</a></td>
             <td>2012-08-24</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>5002</td>
         </tr>
@@ -1079,7 +1079,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nedbar1QC">Nedbar1QC</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/86734367">10 others</a>)&nbsp;</td>
             <td>2009-11-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>4836</td>
         </tr>
@@ -1343,7 +1343,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chasbarter">chasbarter</a></td>
             <td>2012-06-30</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2806</td>
         </tr>
@@ -1508,7 +1508,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DJSPINtel">DJSPINtel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/33551417">1 other</a>)&nbsp;</td>
             <td>2009-04-20</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2394</td>
         </tr>
@@ -1717,7 +1717,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mathiasmghanga">mathiasmghanga</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2197910541">1 other</a>)&nbsp;</td>
             <td>2013-11-27</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2098</td>
         </tr>
@@ -2630,7 +2630,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JanFrye">JanFrye</a></td>
             <td>2012-03-21</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1147</td>
         </tr>

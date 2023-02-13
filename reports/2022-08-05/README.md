@@ -1083,7 +1083,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheRealPro7">TheRealPro7</a></td>
             <td>2013-08-24</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>9017</td>
         </tr>
@@ -1952,7 +1952,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/javiestevez5">javiestevez5</a></td>
             <td>2020-03-22</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1478</td>
         </tr>

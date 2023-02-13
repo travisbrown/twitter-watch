@@ -64,7 +64,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/big_rock_moai">big_rock_moai</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1409060869">3 others</a>)&nbsp;</td>
             <td>2013-05-07</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>160</td>
             <td>75110</td>

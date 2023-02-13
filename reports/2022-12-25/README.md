@@ -649,7 +649,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DEADMAN_pt3">DEADMAN_pt3</a></td>
             <td>2021-06-29</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>7522</td>
         </tr>

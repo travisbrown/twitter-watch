@@ -733,7 +733,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tradefutur">tradefutur</a></td>
             <td>2019-05-24</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>10189</td>
         </tr>
@@ -920,7 +920,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JorJorWell">JorJorWell</a></td>
             <td>2014-01-17</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>3565</td>
         </tr>

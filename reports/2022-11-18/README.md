@@ -160,7 +160,7 @@ Found 29 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Neil1971">Neil1971</a></td>
             <td>2009-06-26</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center">🔒</td>
             <td>2148</td>
             <td>35462</td>

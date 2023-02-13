@@ -306,7 +306,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jakejcannon">Jakejcannon</a></td>
             <td>2010-01-08</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>9162</td>
         </tr>

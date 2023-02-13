@@ -2707,7 +2707,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MFCAndrewflora">MFCAndrewflora</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/808726141607571456">2 others</a>)&nbsp;</td>
             <td>2016-12-13</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1148</td>
         </tr>

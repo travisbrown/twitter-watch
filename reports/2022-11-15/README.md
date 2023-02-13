@@ -1494,7 +1494,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CovidTaskForce">CovidTaskForce</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1487193846">2 others</a>)&nbsp;</td>
             <td>2013-06-06</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>5184</td>
         </tr>

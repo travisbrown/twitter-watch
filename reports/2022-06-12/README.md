@@ -1979,7 +1979,7 @@ Found 1532 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DogsareLoyal1s">DogsareLoyal1s</a></td>
             <td>2014-12-21</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2179</td>
         </tr>

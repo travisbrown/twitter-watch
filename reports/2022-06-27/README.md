@@ -1580,7 +1580,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChazKel1">ChazKel1</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1080</td>
         </tr>

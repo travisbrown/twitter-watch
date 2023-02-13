@@ -1194,7 +1194,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ValterCota1">ValterCota1</a></td>
             <td>2011-11-23</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>3042</td>
         </tr>

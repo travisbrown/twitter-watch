@@ -1181,7 +1181,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnimeLover4256">AnimeLover4256</a></td>
             <td>2020-07-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center">🔒</td>
             <td>6193</td>
         </tr>

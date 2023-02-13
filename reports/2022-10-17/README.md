@@ -2152,7 +2152,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeoGuedesRJ">LeoGuedesRJ</a></td>
             <td>2009-07-13</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1069</td>
         </tr>

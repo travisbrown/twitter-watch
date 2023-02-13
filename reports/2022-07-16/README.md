@@ -64,7 +64,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BrowningMachine">BrowningMachine</a></td>
             <td>2015-01-21</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>7455</td>
             <td>891</td>
@@ -797,7 +797,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JayChpJones">JayChpJones</a></td>
             <td>2016-10-30</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>17540</td>
         </tr>
@@ -1061,7 +1061,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Likeshesays">Likeshesays</a></td>
             <td>2015-08-12</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>11089</td>
         </tr>
@@ -5032,7 +5032,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jeff58263706">Jeff58263706</a></td>
             <td>2021-05-18</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1444</td>
         </tr>

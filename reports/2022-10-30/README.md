@@ -2008,7 +2008,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/drugsgunsyoukai">drugsgunsyoukai</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2386363226">1 other</a>)&nbsp;</td>
             <td>2014-03-13</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>4585</td>
             <td>25615</td>
@@ -4036,7 +4036,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/triple3spike">triple3spike</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1238080812156882944">1 other</a>)&nbsp;</td>
             <td>2020-03-12</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>35</td>
             <td>81797</td>

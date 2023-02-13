@@ -959,7 +959,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ellamaulding">ellamaulding</a></td>
             <td>2021-10-21</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>3829</td>
         </tr>

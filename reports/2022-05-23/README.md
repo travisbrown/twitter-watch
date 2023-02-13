@@ -571,7 +571,7 @@ Found 977 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mordazio">Mordazio</a></td>
             <td>2014-04-10</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2184</td>
         </tr>

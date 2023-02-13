@@ -803,7 +803,7 @@ Found 1322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MargotAlderton">MargotAlderton</a></td>
             <td>2020-01-27</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>16916</td>
         </tr>
@@ -1408,7 +1408,7 @@ Found 1322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JuniorPerdigao1">JuniorPerdigao1</a></td>
             <td>2012-04-06</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center">🔒</td>
             <td>2137</td>
         </tr>

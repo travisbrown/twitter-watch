@@ -2275,7 +2275,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/petedjackson">petedjackson</a></td>
             <td>2011-08-16</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>5436</td>
         </tr>

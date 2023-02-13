@@ -1772,7 +1772,7 @@ Found 817 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GoodOlPatriot">GoodOlPatriot</a></td>
             <td>2022-02-03</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1072</td>
         </tr>

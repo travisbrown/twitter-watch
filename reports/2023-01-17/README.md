@@ -567,7 +567,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/5914ebe3feb3414">5914ebe3feb3414</a></td>
             <td>2014-11-14</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1846</td>
         </tr>
@@ -633,7 +633,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/princebjp">princebjp</a></td>
             <td>2013-07-26</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1495</td>
         </tr>
@@ -776,7 +776,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2Drma">2Drma</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1206942527913365507">1 other</a>)&nbsp;</td>
             <td>2019-12-17</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1073</td>
         </tr>

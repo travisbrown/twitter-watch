@@ -1461,7 +1461,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bravo10thDoug">Bravo10thDoug</a></td>
             <td>2013-11-03</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>2092</td>
         </tr>
@@ -1901,7 +1901,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KishFig5">KishFig5</a></td>
             <td>2016-11-08</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1293</td>
         </tr>

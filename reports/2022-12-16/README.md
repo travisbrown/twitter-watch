@@ -1049,7 +1049,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RAKU_JIN">RAKU_JIN</a></td>
             <td>2010-05-10</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>31196</td>
         </tr>
@@ -1093,7 +1093,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LaylaLu8">LaylaLu8</a></td>
             <td>2014-08-30</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>21867</td>
         </tr>
@@ -2402,7 +2402,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/d_ewinger">d_ewinger</a></td>
             <td>2022-01-29</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1845</td>
         </tr>

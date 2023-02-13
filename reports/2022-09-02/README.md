@@ -1689,7 +1689,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cheblissimo">cheblissimo</a></td>
             <td>2019-02-04</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2745</td>
         </tr>
@@ -2206,7 +2206,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GauraaRani">GauraaRani</a></td>
             <td>2022-04-12</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1351</td>
         </tr>

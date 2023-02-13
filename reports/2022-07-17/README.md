@@ -700,7 +700,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TerraB717">TerraB717</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1257792526339182594">2 others</a>)&nbsp;</td>
             <td>2020-05-05</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>10186</td>
         </tr>
@@ -1712,7 +1712,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IrishSix1">IrishSix1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/16592046">1 other</a>)&nbsp;</td>
             <td>2008-10-04</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2516</td>
         </tr>
@@ -1965,7 +1965,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnneMar45451941">AnneMar45451941</a></td>
             <td>2015-12-30</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2105</td>
         </tr>
@@ -2713,7 +2713,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jamiescotmore">jamiescotmore</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2347413242">2 others</a>)&nbsp;</td>
             <td>2014-02-16</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1325</td>
         </tr>
@@ -2834,7 +2834,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FortyCal3445">FortyCal3445</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1061284986307801088">2 others</a>)&nbsp;</td>
             <td>2018-11-10</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1239</td>
         </tr>
@@ -2999,7 +2999,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/westy198420">westy198420</a></td>
             <td>2021-05-06</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1116</td>
         </tr>

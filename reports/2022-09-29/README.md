@@ -1459,7 +1459,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lgmets_titans">Lgmets_titans</a></td>
             <td>2020-12-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2450</td>
         </tr>

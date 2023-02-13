@@ -2965,7 +2965,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PATRIOTOSORUS">PATRIOTOSORUS</a></td>
             <td>2015-10-22</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>17416</td>
         </tr>

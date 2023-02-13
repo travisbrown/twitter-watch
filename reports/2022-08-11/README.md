@@ -2892,7 +2892,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sarita_CaliGirl">Sarita_CaliGirl</a></td>
             <td>2016-11-06</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1144</td>
         </tr>

@@ -685,7 +685,7 @@ Found 888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bendur6">bendur6</a></td>
             <td>2014-01-28</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>13095</td>
         </tr>

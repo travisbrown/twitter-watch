@@ -96,7 +96,7 @@ Found 3248 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bbc_Fucker">Bbc_Fucker</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1225521290368430086">4 others</a>)&nbsp;</td>
             <td>2020-02-06</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>702353</td>
         </tr>

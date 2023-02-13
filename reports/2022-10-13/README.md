@@ -1143,7 +1143,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SethRic61410528">SethRic61410528</a></td>
             <td>2019-08-02</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>3065</td>
         </tr>
@@ -1605,7 +1605,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aduke5">aduke5</a></td>
             <td>2010-02-16</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1935</td>
         </tr>

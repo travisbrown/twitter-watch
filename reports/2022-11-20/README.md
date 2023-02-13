@@ -2115,7 +2115,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SalsaPrice">SalsaPrice</a></td>
             <td>2016-11-19</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2840</td>
         </tr>
@@ -2588,7 +2588,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ferreira_f_h">ferreira_f_h</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18818881">1 other</a>)&nbsp;</td>
             <td>2009-01-09</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1696</td>
         </tr>

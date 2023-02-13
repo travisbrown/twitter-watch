@@ -2471,7 +2471,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/trixxxen">trixxxen</a></td>
             <td>2009-03-10</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1991</td>
         </tr>

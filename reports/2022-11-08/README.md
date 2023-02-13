@@ -6513,7 +6513,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vanessavogado">vanessavogado</a></td>
             <td>2009-07-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1046</td>
         </tr>

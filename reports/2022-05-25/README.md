@@ -2352,7 +2352,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Trikket34">Trikket34</a></td>
             <td>2011-01-05</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1210</td>
         </tr>

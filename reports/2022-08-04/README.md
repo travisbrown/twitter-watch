@@ -1206,7 +1206,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/18molly8">18molly8</a></td>
             <td>2015-03-27</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>6358</td>
         </tr>
@@ -1217,7 +1217,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Davcu8741">Davcu8741</a></td>
             <td>2017-05-06</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>6232</td>
         </tr>
@@ -1690,7 +1690,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wlsfargo">wlsfargo</a></td>
             <td>2014-08-17</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2886</td>
         </tr>

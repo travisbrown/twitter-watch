@@ -414,7 +414,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JustTheTweets17">JustTheTweets17</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/476848835">2 others</a>)&nbsp;</td>
             <td>2012-01-28</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>10312</td>
         </tr>
@@ -700,7 +700,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amitanshu2011">amitanshu2011</a></td>
             <td>2010-12-19</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2329</td>
         </tr>
@@ -986,7 +986,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yenanoha">yenanoha</a></td>
             <td>2011-12-06</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1043</td>
         </tr>

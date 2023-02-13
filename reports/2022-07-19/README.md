@@ -2090,7 +2090,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/robtrumpetsmith">robtrumpetsmith</a></td>
             <td>2016-11-16</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1519</td>
         </tr>
@@ -2409,7 +2409,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cathyb31">cathyb31</a></td>
             <td>2009-04-22</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1169</td>
         </tr>

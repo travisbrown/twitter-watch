@@ -1278,7 +1278,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fatblackcatspaw">fatblackcatspaw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18264560">1 other</a>)&nbsp;</td>
             <td>2008-12-20</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>5730</td>
         </tr>

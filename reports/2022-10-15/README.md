@@ -1365,7 +1365,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ms_KimberlyRose">Ms_KimberlyRose</a></td>
             <td>2020-02-02</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>28910</td>
         </tr>

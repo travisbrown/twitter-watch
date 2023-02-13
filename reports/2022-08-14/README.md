@@ -836,7 +836,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SteeleDaddy">SteeleDaddy</a></td>
             <td>2020-01-20</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>13696</td>
         </tr>
@@ -1254,7 +1254,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/andre_pessoa">andre_pessoa</a></td>
             <td>2018-12-30</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2603</td>
         </tr>
@@ -1485,7 +1485,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/viennasky">viennasky</a></td>
             <td>2010-10-24</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1824</td>
         </tr>
@@ -1617,7 +1617,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sterling_AF">Sterling_AF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1289551844780335105">2 others</a>)&nbsp;</td>
             <td>2020-08-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1496</td>
         </tr>

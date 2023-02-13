@@ -811,7 +811,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarcosA14278872">MarcosA14278872</a></td>
             <td>2020-03-31</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>23568</td>
         </tr>
@@ -4210,7 +4210,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brian3692">brian3692</a></td>
             <td>2020-11-23</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center">🔒</td>
             <td>1157</td>
         </tr>

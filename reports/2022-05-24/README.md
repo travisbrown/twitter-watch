@@ -1449,7 +1449,7 @@ Found 700 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmonVandenacht">AmonVandenacht</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/19214556">1 other</a>)&nbsp;</td>
             <td>2009-01-20</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1765</td>
         </tr>

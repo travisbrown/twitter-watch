@@ -4024,7 +4024,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PoliticsCamel">PoliticsCamel</a></td>
             <td>2022-01-01</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>124</td>
             <td>53060</td>
@@ -6247,7 +6247,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kansasauthor">kansasauthor</a></td>
             <td>2009-03-06</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>10090</td>
         </tr>

@@ -1469,7 +1469,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PajareiraEsp">PajareiraEsp</a></td>
             <td>2020-02-16</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center">🔒</td>
             <td>4038</td>
         </tr>
@@ -2272,7 +2272,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SUMMITTOUCH">SUMMITTOUCH</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/21269662">1 other</a>)&nbsp;</td>
             <td>2009-02-19</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1497</td>
         </tr>
@@ -2635,7 +2635,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrsNorthie">MrsNorthie</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1039</td>
         </tr>

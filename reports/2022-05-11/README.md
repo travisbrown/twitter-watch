@@ -1193,7 +1193,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Korrektheiten">Korrektheiten</a></td>
             <td>2009-06-28</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>5286</td>
         </tr>
@@ -1303,7 +1303,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/smilyjul35">smilyjul35</a></td>
             <td>2016-06-12</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>3144</td>
         </tr>
@@ -1424,7 +1424,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SuePeacock5">SuePeacock5</a></td>
             <td>2016-03-03</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>2803</td>
         </tr>
@@ -1721,7 +1721,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/XENOGOTH">XENOGOTH</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/471449868">8 others</a>)&nbsp;</td>
             <td>2012-01-22</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1548</td>
         </tr>

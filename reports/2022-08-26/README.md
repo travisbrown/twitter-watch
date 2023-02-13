@@ -3109,7 +3109,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/4thegoodofwhom">4thegoodofwhom</a></td>
             <td>2019-12-09</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1873</td>
         </tr>

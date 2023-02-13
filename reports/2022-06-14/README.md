@@ -1221,7 +1221,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scambyarussian">scambyarussian</a></td>
             <td>2012-02-03</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1009</td>
         </tr>

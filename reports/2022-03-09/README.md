@@ -1420,7 +1420,7 @@ Found 772 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DudemanC_Rad">DudemanC_Rad</a></td>
             <td>2015-05-18</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1767</td>
         </tr>

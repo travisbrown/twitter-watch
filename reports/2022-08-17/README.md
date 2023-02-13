@@ -948,7 +948,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/drkohilathas">drkohilathas</a></td>
             <td>2020-01-11</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>11723</td>
         </tr>
@@ -1509,7 +1509,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EplurebusUnum">EplurebusUnum</a></td>
             <td>2021-08-08</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>3166</td>
         </tr>
@@ -1586,7 +1586,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sagezza2">sagezza2</a></td>
             <td>2020-04-15</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2867</td>
         </tr>
@@ -2554,7 +2554,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TxSheriHockey">TxSheriHockey</a></td>
             <td>2017-09-03</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1260</td>
         </tr>
@@ -2598,7 +2598,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/getcloserhome">getcloserhome</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1236</td>
         </tr>

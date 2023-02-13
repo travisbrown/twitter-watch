@@ -1213,7 +1213,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ADetailedHouse">ADetailedHouse</a></td>
             <td>2012-08-05</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1973</td>
         </tr>

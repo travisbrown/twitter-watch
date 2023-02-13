@@ -678,7 +678,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Remy_Otzare">Remy_Otzare</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/733794845710376961">1 other</a>)&nbsp;</td>
             <td>2016-05-20</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>5650</td>
         </tr>

@@ -527,7 +527,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BhavikaKapoor5">BhavikaKapoor5</a></td>
             <td>2018-08-13</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>48510</td>
         </tr>
@@ -967,7 +967,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndyHammers">AndyHammers</a></td>
             <td>2012-01-01</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>3648</td>
         </tr>

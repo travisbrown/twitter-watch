@@ -1165,7 +1165,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheSarahArabic">TheSarahArabic</a></td>
             <td>2022-01-14</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>94980</td>
         </tr>
@@ -3090,7 +3090,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ddbnews">ddbnews</a></td>
             <td>2016-02-22</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1662</td>
         </tr>

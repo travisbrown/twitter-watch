@@ -849,7 +849,7 @@ Found 168 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2016Trapped">2016Trapped</a></td>
             <td>2021-01-12</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1975</td>
         </tr>

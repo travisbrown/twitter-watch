@@ -1734,7 +1734,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/granati_mauro">granati_mauro</a></td>
             <td>2017-10-02</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1804</td>
         </tr>

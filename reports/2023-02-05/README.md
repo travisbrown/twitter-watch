@@ -104,7 +104,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/subgirl0831">subgirl0831</a></td>
             <td>2020-03-01</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>765895</td>
         </tr>
@@ -346,7 +346,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Roofsix">Roofsix</a></td>
             <td>2021-10-29</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>358481</td>
         </tr>
@@ -984,7 +984,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kalixkavi">kalixkavi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1279983543414906881">3 others</a>)&nbsp;</td>
             <td>2020-07-06</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>109290</td>
         </tr>
@@ -1259,7 +1259,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MadameCatarina">MadameCatarina</a></td>
             <td>2012-11-16</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>27585</td>
         </tr>
@@ -1622,7 +1622,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cl1673">cl1673</a></td>
             <td>2015-05-18</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>3154</td>
         </tr>

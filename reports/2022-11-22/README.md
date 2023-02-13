@@ -1211,7 +1211,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/postingwhilegay">postingwhilegay</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4794942396">1 other</a>)&nbsp;</td>
             <td>2016-01-21</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>6622</td>
         </tr>
@@ -1717,7 +1717,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/johngriffin">johngriffin</a></td>
             <td>2009-04-01</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>2641</td>
         </tr>

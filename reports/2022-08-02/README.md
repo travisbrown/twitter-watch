@@ -596,7 +596,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nasrumv">nasrumv</a></td>
             <td>2011-10-16</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>5525</td>
         </tr>
@@ -1476,7 +1476,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/clabaugh_mark">clabaugh_mark</a></td>
             <td>2018-06-25</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>1103</td>
         </tr>

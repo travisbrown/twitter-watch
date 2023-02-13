@@ -1120,7 +1120,7 @@ Found 831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PrayerCanadian">PrayerCanadian</a></td>
             <td>2018-03-11</td>
-            <td></td>
+            <td>2023-02-10</td>
             <td align="center"></td>
             <td>1078</td>
         </tr>

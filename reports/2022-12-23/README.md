@@ -136,7 +136,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CaptainHottub">CaptainHottub</a></td>
             <td>2011-09-24</td>
-            <td></td>
+            <td>2023-02-09</td>
             <td align="center"></td>
             <td>4702</td>
             <td>45370</td>
