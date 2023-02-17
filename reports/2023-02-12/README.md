@@ -312,7 +312,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AgingWhiteGay">AgingWhiteGay</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1573529137423462400">5 others</a>)&nbsp;</td>
             <td>2022-09-24</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>4116</td>
         </tr>

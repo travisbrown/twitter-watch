@@ -815,7 +815,7 @@ Found 391 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shinji8556">shinji8556</a></td>
             <td>2021-08-14</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>7197</td>
         </tr>

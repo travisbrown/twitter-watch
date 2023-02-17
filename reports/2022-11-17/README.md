@@ -76,7 +76,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Peter_Jongsma">Peter_Jongsma</a></td>
             <td>2009-09-05</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1212</td>
             <td>27571</td>

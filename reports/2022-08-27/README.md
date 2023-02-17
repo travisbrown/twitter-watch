@@ -1744,7 +1744,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LasVegasGinger">LasVegasGinger</a></td>
             <td>2009-04-18</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1494</td>
         </tr>
@@ -2085,7 +2085,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ms_pistolicious">ms_pistolicious</a></td>
             <td>2016-05-04</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1198</td>
         </tr>

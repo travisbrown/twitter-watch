@@ -1326,7 +1326,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/and_plat">and_plat</a></td>
             <td>2021-05-04</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1775</td>
         </tr>

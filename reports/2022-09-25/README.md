@@ -1159,7 +1159,7 @@ Found 1437 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Evi_Cy">Evi_Cy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/285215416">1 other</a>)&nbsp;</td>
             <td>2011-04-20</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1078</td>
         </tr>

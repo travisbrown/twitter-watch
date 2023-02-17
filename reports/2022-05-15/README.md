@@ -355,7 +355,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JaimeBN1987">JaimeBN1987</a></td>
             <td>2010-07-21</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>9563</td>
         </tr>
@@ -399,7 +399,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarcBuergi">MarcBuergi</a></td>
             <td>2013-06-18</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>5979</td>
         </tr>

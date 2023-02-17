@@ -904,7 +904,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JayZito">JayZito</a></td>
             <td>2010-03-03</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>10775</td>
         </tr>

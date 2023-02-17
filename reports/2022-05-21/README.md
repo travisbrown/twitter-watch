@@ -2323,7 +2323,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/567123q">567123q</a></td>
             <td>2018-01-14</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1035</td>
         </tr>

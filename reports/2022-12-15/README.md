@@ -2491,7 +2491,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/65rosesauthor">65rosesauthor</a></td>
             <td>2008-09-25</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1019</td>
         </tr>

@@ -52,7 +52,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RolloSketti">RolloSketti</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518720488356425730">1 other</a>)&nbsp;</td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>782</td>
             <td>2586</td>

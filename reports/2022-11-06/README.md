@@ -1612,7 +1612,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Ror87467664">Ror87467664</a></td>
             <td>2022-05-08</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>57</td>
             <td>19008</td>

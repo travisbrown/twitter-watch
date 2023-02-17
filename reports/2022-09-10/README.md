@@ -854,7 +854,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YourGodEmily">YourGodEmily</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1400247605653913601">3 others</a>)&nbsp;</td>
             <td>2021-06-03</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>12401</td>
         </tr>

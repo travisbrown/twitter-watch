@@ -52,7 +52,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/jawn_117">jawn_117</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1272259821186830337">1 other</a>)&nbsp;</td>
             <td>2020-06-14</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>5849</td>
             <td>1210</td>
@@ -619,7 +619,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OnlyExoticc">OnlyExoticc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2290949266">9 others</a>)&nbsp;</td>
             <td>2014-01-19</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>22526</td>
         </tr>

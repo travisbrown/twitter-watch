@@ -40,7 +40,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/UnwellMiguel">UnwellMiguel</a></td>
             <td>2021-12-07</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>3224</td>
             <td>1510</td>

@@ -810,7 +810,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1Catking">1Catking</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/122837924">1 other</a>)&nbsp;</td>
             <td>2010-03-14</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>3716</td>
         </tr>
@@ -854,7 +854,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/executive_jc">executive_jc</a></td>
             <td>2020-02-29</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>3137</td>
         </tr>
@@ -920,7 +920,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Michael_Braley">Michael_Braley</a></td>
             <td>2015-10-21</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>2767</td>
         </tr>

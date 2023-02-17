@@ -1454,7 +1454,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nikolausbaker">nikolausbaker</a></td>
             <td>2010-04-20</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1143</td>
         </tr>

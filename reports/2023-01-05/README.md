@@ -1333,7 +1333,7 @@ Found 1603 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BanxxCody">BanxxCody</a></td>
             <td>2019-09-18</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1238</td>
         </tr>

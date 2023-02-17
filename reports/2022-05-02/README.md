@@ -917,7 +917,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mmz_fa">mmz_fa</a></td>
             <td>2021-12-21</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>4084</td>
         </tr>

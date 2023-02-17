@@ -2248,7 +2248,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CurtisBrunelle">CurtisBrunelle</a></td>
             <td>2020-09-16</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>2210</td>
         </tr>
@@ -3436,7 +3436,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Light_0f_Truth">Light_0f_Truth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/37697103">1 other</a>)&nbsp;</td>
             <td>2009-05-04</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1094</td>
         </tr>

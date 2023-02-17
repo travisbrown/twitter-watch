@@ -725,7 +725,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheTrooper97">TheTrooper97</a></td>
             <td>2008-07-16</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>7502</td>
         </tr>

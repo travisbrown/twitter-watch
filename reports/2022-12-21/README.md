@@ -112,7 +112,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CCGCameron">CCGCameron</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1546708943606530048">1 other</a>)&nbsp;</td>
             <td>2022-07-12</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>563</td>
             <td>46049</td>

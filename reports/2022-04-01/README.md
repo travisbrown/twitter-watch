@@ -829,7 +829,7 @@ Found 548 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PinkTink1913">PinkTink1913</a></td>
             <td>2019-05-10</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>3059</td>
         </tr>

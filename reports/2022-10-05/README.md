@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Serena_Partrick">Serena_Partrick</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1469399259103518722">1 other</a>)&nbsp;</td>
             <td>2021-12-10</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>8334</td>
             <td>747</td>
@@ -1886,7 +1886,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Show47073005">Show47073005</a></td>
             <td>2018-10-09</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1513</td>
         </tr>

@@ -1178,7 +1178,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1A2AAbsolutist">1A2AAbsolutist</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1819</td>
         </tr>

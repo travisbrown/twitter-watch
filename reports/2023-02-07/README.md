@@ -142,7 +142,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xoprincessapril">xoprincessapril</a></td>
             <td>2021-01-12</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>106216</td>
         </tr>
@@ -296,7 +296,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tspencer322">tspencer322</a></td>
             <td>2013-12-10</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>11194</td>
         </tr>
@@ -351,7 +351,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/danielbachatero">danielbachatero</a></td>
             <td>2014-01-25</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>6620</td>
         </tr>
@@ -406,7 +406,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YourTwitFace3">YourTwitFace3</a></td>
             <td>2022-07-21</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>3680</td>
         </tr>
@@ -626,7 +626,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mbblaksley">mbblaksley</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/458672938">1 other</a>)&nbsp;</td>
             <td>2012-01-08</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>2168</td>
         </tr>

@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/float_party">float_party</a></td>
             <td>2021-04-10</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>203</td>
             <td>1871</td>
@@ -3141,7 +3141,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DJDeMario1">DJDeMario1</a></td>
             <td>2019-11-20</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>5409</td>
         </tr>

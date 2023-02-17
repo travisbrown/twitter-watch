@@ -661,7 +661,7 @@ Found 958 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BagueraDaniela">BagueraDaniela</a></td>
             <td>2014-03-15</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>2565</td>
         </tr>
@@ -1112,7 +1112,7 @@ Found 958 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PAdigiri">PAdigiri</a></td>
             <td>2018-06-25</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1022</td>
         </tr>

@@ -352,7 +352,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JackPet69725377">JackPet69725377</a></td>
             <td>2020-05-27</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>2924</td>
             <td>95962</td>

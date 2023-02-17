@@ -986,7 +986,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrPol7">DrPol7</a></td>
             <td>2017-08-01</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>10644</td>
         </tr>
@@ -2548,7 +2548,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tinabiggs2">tinabiggs2</a></td>
             <td>2012-08-22</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1495</td>
         </tr>

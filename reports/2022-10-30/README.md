@@ -376,7 +376,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/basedbrandt">basedbrandt</a></td>
             <td>2022-06-05</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>829</td>
             <td>2881</td>

@@ -1067,7 +1067,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/republicanajc">republicanajc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2702507592">2 others</a>)&nbsp;</td>
             <td>2014-08-03</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>5530</td>
         </tr>
@@ -1980,7 +1980,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/laverdadesDios7">laverdadesDios7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518439267">2 others</a>)&nbsp;</td>
             <td>2013-06-15</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1674</td>
         </tr>

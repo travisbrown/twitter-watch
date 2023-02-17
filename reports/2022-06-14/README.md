@@ -220,7 +220,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AnthroPolGoy">AnthroPolGoy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1299070483497775107">2 others</a>)&nbsp;</td>
             <td>2020-08-27</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>61</td>
             <td>3127</td>

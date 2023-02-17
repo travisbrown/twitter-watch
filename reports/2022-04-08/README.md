@@ -52,7 +52,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JohnJamesJames5">JohnJamesJames5</a></td>
             <td>2021-06-26</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>31</td>
             <td>33723</td>

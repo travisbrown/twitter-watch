@@ -1241,7 +1241,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ABCtodays">ABCtodays</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1318952383708278789">7 others</a>)&nbsp;</td>
             <td>2020-10-21</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1964</td>
         </tr>

@@ -4559,7 +4559,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HalSear">HalSear</a></td>
             <td>2010-11-06</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1682</td>
         </tr>
@@ -5285,7 +5285,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mswaller48">mswaller48</a></td>
             <td>2014-02-05</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1316</td>
         </tr>
@@ -5461,7 +5461,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cherylgregory71">cherylgregory71</a></td>
             <td>2014-09-22</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1264</td>
         </tr>
@@ -5912,7 +5912,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sanjosejane">sanjosejane</a></td>
             <td>2008-08-10</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1066</td>
         </tr>

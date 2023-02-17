@@ -28,7 +28,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RightoidSperg">RightoidSperg</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1361093046738255874">3 others</a>)&nbsp;</td>
             <td>2021-02-14</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1436</td>
             <td>1779</td>

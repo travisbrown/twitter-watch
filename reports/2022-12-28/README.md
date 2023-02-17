@@ -333,7 +333,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mone_fb">Mone_fb</a></td>
             <td>2022-02-08</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>36815</td>
         </tr>

@@ -568,7 +568,7 @@ Found 54 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PhillyDeepIn">PhillyDeepIn</a></td>
             <td>2022-02-09</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>191</td>
             <td>86282</td>

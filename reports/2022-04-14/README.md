@@ -644,7 +644,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pelirrojocomu">pelirrojocomu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1328454411836944384">1 other</a>)&nbsp;</td>
             <td>2020-11-16</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1515</td>
         </tr>

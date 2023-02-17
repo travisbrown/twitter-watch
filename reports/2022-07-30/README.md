@@ -520,7 +520,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/circleofmamas">circleofmamas</a></td>
             <td>2018-02-25</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>5473</td>
         </tr>
@@ -949,7 +949,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Javiergon88">Javiergon88</a></td>
             <td>2012-10-03</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1998</td>
         </tr>
@@ -1026,7 +1026,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FranPonick">FranPonick</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/106891073">1 other</a>)&nbsp;</td>
             <td>2010-01-21</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1788</td>
         </tr>

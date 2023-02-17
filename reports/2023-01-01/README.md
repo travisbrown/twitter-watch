@@ -390,7 +390,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndrewEssex">AndrewEssex</a></td>
             <td>2009-01-29</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center">✔️</td>
             <td>6927</td>
         </tr>

@@ -905,7 +905,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xAutismo">0xAutismo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1390355134467739652">2 others</a>)&nbsp;</td>
             <td>2021-05-06</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>4145</td>
         </tr>
@@ -1400,7 +1400,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Trump_DaGOAT">Trump_DaGOAT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1255242842110337032">1 other</a>)&nbsp;</td>
             <td>2020-04-28</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1489</td>
         </tr>

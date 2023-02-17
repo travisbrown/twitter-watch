@@ -1572,7 +1572,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JuanPatriota">JuanPatriota</a></td>
             <td>2021-09-15</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1958</td>
         </tr>
@@ -2177,7 +2177,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OutLikeA_Lamb">OutLikeA_Lamb</a></td>
             <td>2019-10-26</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1303</td>
         </tr>

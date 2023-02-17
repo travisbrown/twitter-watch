@@ -1749,7 +1749,7 @@ Found 867 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ericdemamp">ericdemamp</a></td>
             <td>2016-02-27</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1150</td>
         </tr>

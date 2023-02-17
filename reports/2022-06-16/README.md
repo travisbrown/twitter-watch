@@ -1182,7 +1182,7 @@ Found 332 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/real_GGoswami">real_GGoswami</a></td>
             <td>2018-11-02</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>3188</td>
         </tr>

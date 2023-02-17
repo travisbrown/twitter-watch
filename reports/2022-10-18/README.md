@@ -597,7 +597,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Juangayasalom">Juangayasalom</a></td>
             <td>2011-03-15</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>86012</td>
         </tr>
@@ -1554,7 +1554,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Udai23517958">Udai23517958</a></td>
             <td>2017-01-10</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>2553</td>
         </tr>

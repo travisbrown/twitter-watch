@@ -1939,7 +1939,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AdamGFrench">AdamGFrench</a></td>
             <td>2012-03-04</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>2085</td>
         </tr>

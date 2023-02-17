@@ -28,7 +28,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AnimeBibleVerse">AnimeBibleVerse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/134891802">4 others</a>)&nbsp;</td>
             <td>2010-04-19</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>14261</td>
             <td>626</td>

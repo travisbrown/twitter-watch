@@ -1962,7 +1962,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlueOc1981">BlueOc1981</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1064363378120962048">1 other</a>)&nbsp;</td>
             <td>2018-11-19</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1627</td>
         </tr>

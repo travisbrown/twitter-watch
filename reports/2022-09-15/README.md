@@ -809,7 +809,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GingerRose85">GingerRose85</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/927222697234452480">3 others</a>)&nbsp;</td>
             <td>2017-11-05</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>13742</td>
         </tr>

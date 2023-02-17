@@ -1380,7 +1380,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/locknload38">locknload38</a></td>
             <td>2009-06-09</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1060</td>
         </tr>

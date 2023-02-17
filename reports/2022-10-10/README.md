@@ -1876,7 +1876,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lets_gobrandon_">lets_gobrandon_</a></td>
             <td>2021-10-28</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1392</td>
         </tr>

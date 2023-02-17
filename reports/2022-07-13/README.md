@@ -765,7 +765,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NarodRossia">NarodRossia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/190751909">1 other</a>)&nbsp;</td>
             <td>2010-09-14</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>5952</td>
         </tr>
@@ -974,7 +974,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Clayconboy1">Clayconboy1</a></td>
             <td>2015-11-28</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>4094</td>
         </tr>
@@ -1524,7 +1524,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Michael94288035">Michael94288035</a></td>
             <td>2021-07-17</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>2210</td>
         </tr>
@@ -1887,7 +1887,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoZza_86">CoZza_86</a></td>
             <td>2009-05-16</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1787</td>
         </tr>
@@ -2107,7 +2107,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/imvala">imvala</a></td>
             <td>2015-11-05</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1574</td>
         </tr>

@@ -656,7 +656,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RedDoesntRelent">RedDoesntRelent</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/959710930912161792">1 other</a>)&nbsp;</td>
             <td>2018-02-03</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>2640</td>
         </tr>
@@ -755,7 +755,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Trauncher">Trauncher</a></td>
             <td>2015-10-31</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1700</td>
         </tr>
@@ -766,7 +766,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mateo_tao">mateo_tao</a></td>
             <td>2019-01-05</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1697</td>
         </tr>

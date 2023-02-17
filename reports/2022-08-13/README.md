@@ -1057,7 +1057,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rreactor">rreactor</a></td>
             <td>2008-12-06</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>17191</td>
         </tr>
@@ -1530,7 +1530,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeachgirlNC7407">BeachgirlNC7407</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2172736141">1 other</a>)&nbsp;</td>
             <td>2013-11-03</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>3923</td>
         </tr>

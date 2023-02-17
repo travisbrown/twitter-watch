@@ -2491,7 +2491,7 @@ Found 1148 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CentralCaliGal">CentralCaliGal</a></td>
             <td>2012-09-23</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1342</td>
         </tr>

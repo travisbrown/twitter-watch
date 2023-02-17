@@ -1514,7 +1514,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jbgnon">jbgnon</a></td>
             <td>2009-09-14</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1749</td>
         </tr>

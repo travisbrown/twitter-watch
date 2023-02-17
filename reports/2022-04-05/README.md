@@ -1892,7 +1892,7 @@ Found 1605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jdad42">jdad42</a></td>
             <td>2012-12-23</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1499</td>
         </tr>
@@ -2310,7 +2310,7 @@ Found 1605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ConservJean">ConservJean</a></td>
             <td>2009-11-06</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1220</td>
         </tr>

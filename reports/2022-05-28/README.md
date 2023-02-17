@@ -634,7 +634,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fedtanyl">fedtanyl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4819731335">2 others</a>)&nbsp;</td>
             <td>2016-01-17</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>4759</td>
         </tr>

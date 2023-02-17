@@ -184,7 +184,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DoctorWallman">DoctorWallman</a></td>
             <td>2014-11-03</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>8636</td>
             <td>60908</td>
@@ -1102,7 +1102,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hubbard2015">hubbard2015</a></td>
             <td>2015-04-24</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>2821</td>
         </tr>

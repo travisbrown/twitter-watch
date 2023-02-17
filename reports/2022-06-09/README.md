@@ -1459,7 +1459,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarissaSecord">MarissaSecord</a></td>
             <td>2020-12-28</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1397</td>
         </tr>

@@ -1932,7 +1932,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrandonsDiaper">BrandonsDiaper</a></td>
             <td>2021-11-22</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1452</td>
         </tr>
@@ -2163,7 +2163,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SNM1872">SNM1872</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/927769009298194432">2 others</a>)&nbsp;</td>
             <td>2017-11-07</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1198</td>
         </tr>

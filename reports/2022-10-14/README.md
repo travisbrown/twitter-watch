@@ -28,7 +28,7 @@ Found 17 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GabsClark5">GabsClark5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1306146874500341760">1 other</a>)&nbsp;</td>
             <td>2020-09-16</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>20972</td>
             <td>531</td>

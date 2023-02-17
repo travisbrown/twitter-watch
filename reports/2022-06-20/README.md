@@ -76,7 +76,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/kittyborea">kittyborea</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1450570882846502912">6 others</a>)&nbsp;</td>
             <td>2021-10-19</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1271</td>
             <td>2042</td>

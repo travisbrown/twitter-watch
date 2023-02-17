@@ -917,7 +917,7 @@ Found 1591 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WoldenAnita">WoldenAnita</a></td>
             <td>2019-03-31</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>8086</td>
         </tr>

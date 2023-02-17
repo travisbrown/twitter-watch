@@ -1428,7 +1428,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/faccsf">faccsf</a></td>
             <td>2009-09-21</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>2329</td>
         </tr>
@@ -1582,7 +1582,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yuso_sakata">yuso_sakata</a></td>
             <td>2010-08-24</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>2105</td>
         </tr>
@@ -1890,7 +1890,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bleachbot1000">bleachbot1000</a></td>
             <td>2021-07-24</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1432</td>
         </tr>

@@ -160,7 +160,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrothaLovers">BrothaLovers</a></td>
             <td>2011-02-13</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>98522</td>
         </tr>
@@ -171,7 +171,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sophiaburnsx">sophiaburnsx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1390555131800817666">3 others</a>)&nbsp;</td>
             <td>2021-05-07</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>97946</td>
         </tr>
@@ -325,7 +325,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Queen_Tsholo8">Queen_Tsholo8</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/817227933173608448">1 other</a>)&nbsp;</td>
             <td>2017-01-06</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center">🔒</td>
             <td>16641</td>
         </tr>
@@ -721,7 +721,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AKFLDH234">AKFLDH234</a></td>
             <td>2018-10-15</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>2218</td>
         </tr>

@@ -812,7 +812,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AllanAllandnt">AllanAllandnt</a></td>
             <td>2012-12-22</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>2596</td>
         </tr>

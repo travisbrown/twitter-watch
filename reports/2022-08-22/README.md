@@ -695,7 +695,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mooselips">mooselips</a></td>
             <td>2008-11-21</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>15121</td>
         </tr>
@@ -1267,7 +1267,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BGBADBOY">BGBADBOY</a></td>
             <td>2013-03-12</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>3871</td>
         </tr>
@@ -1575,7 +1575,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GreenDvr">GreenDvr</a></td>
             <td>2019-07-10</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>2724</td>
         </tr>

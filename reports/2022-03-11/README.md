@@ -40,7 +40,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HermesPunished">HermesPunished</a></td>
             <td>2021-08-23</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>3541</td>
             <td>1553</td>
@@ -1116,7 +1116,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GatitaGanchito">GatitaGanchito</a></td>
             <td>2021-11-16</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>3659</td>
         </tr>

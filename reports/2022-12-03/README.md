@@ -759,7 +759,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gps4themind">gps4themind</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3134411065">2 others</a>)&nbsp;</td>
             <td>2015-04-03</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>17137</td>
         </tr>
@@ -2651,7 +2651,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/florenciogalla1">florenciogalla1</a></td>
             <td>2012-02-04</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1218</td>
         </tr>

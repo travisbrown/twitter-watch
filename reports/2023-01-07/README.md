@@ -1492,7 +1492,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chainsawwade">chainsawwade</a></td>
             <td>2019-04-22</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1427</td>
         </tr>

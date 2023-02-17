@@ -1256,7 +1256,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amitay_dror">amitay_dror</a></td>
             <td>2016-11-21</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1704</td>
         </tr>

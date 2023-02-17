@@ -833,7 +833,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Olivia_OF_">Olivia_OF_</a></td>
             <td>2020-09-30</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>22680</td>
         </tr>
@@ -1603,7 +1603,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HuizengaWest">HuizengaWest</a></td>
             <td>2019-03-07</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1956</td>
         </tr>

@@ -1095,7 +1095,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntiSemLyrics">AntiSemLyrics</a></td>
             <td>2022-08-29</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>8086</td>
         </tr>
@@ -1898,7 +1898,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/abdullahsaeed30">abdullahsaeed30</a></td>
             <td>2011-11-29</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>2118</td>
         </tr>

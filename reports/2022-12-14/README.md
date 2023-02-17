@@ -2027,7 +2027,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Trumpgal613">Trumpgal613</a></td>
             <td>2022-10-28</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1418</td>
         </tr>

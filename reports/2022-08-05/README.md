@@ -64,7 +64,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Crona_G0rgon">Crona_G0rgon</a></td>
             <td>2022-01-23</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>442</td>
             <td>2528</td>
@@ -1061,7 +1061,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaveNestor22">DaveNestor22</a></td>
             <td>2019-02-17</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>9620</td>
         </tr>
@@ -1655,7 +1655,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TomHammerOfGod">TomHammerOfGod</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1961</td>
         </tr>

@@ -1866,7 +1866,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MordNahyan">MordNahyan</a></td>
             <td>2021-05-18</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1689</td>
         </tr>

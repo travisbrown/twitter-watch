@@ -823,7 +823,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shri420rajkapur">shri420rajkapur</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2490986886">1 other</a>)&nbsp;</td>
             <td>2014-05-12</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1818</td>
         </tr>

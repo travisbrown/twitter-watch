@@ -249,7 +249,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Don_Vito_08">Don_Vito_08</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3433022621">1 other</a>)&nbsp;</td>
             <td>2015-08-20</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>40260</td>
         </tr>
@@ -645,7 +645,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/edthetechie">edthetechie</a></td>
             <td>2011-01-27</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>10882</td>
         </tr>
@@ -766,7 +766,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thececilcharles">thececilcharles</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/23240834">1 other</a>)&nbsp;</td>
             <td>2009-03-07</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>7145</td>
         </tr>
@@ -887,7 +887,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SolangeLemieux">SolangeLemieux</a></td>
             <td>2016-12-29</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>5536</td>
         </tr>
@@ -942,7 +942,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/850Sunny">850Sunny</a></td>
             <td>2013-09-20</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>5317</td>
         </tr>
@@ -2680,7 +2680,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeanetplus">jeanetplus</a></td>
             <td>2010-03-14</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1347</td>
         </tr>

@@ -2355,7 +2355,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FireUpElQuattro">FireUpElQuattro</a></td>
             <td>2014-01-16</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1914</td>
         </tr>
@@ -2619,7 +2619,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mongoosenewyork">mongoosenewyork</a></td>
             <td>2009-08-05</td>
-            <td></td>
+            <td>2023-02-12</td>
             <td align="center"></td>
             <td>1416</td>
         </tr>

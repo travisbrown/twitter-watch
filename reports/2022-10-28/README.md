@@ -220,7 +220,7 @@ Found 17 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/amylmaclellan">amylmaclellan</a></td>
             <td>2013-08-12</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1421</td>
             <td>96266</td>
@@ -4904,7 +4904,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sleepymammabear">sleepymammabear</a></td>
             <td>2020-12-19</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1007</td>
         </tr>

@@ -1641,7 +1641,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DJRichieTee">DJRichieTee</a></td>
             <td>2010-09-22</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1303</td>
         </tr>

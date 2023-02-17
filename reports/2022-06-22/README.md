@@ -2200,7 +2200,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Inked_Carpenter">Inked_Carpenter</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/829701233980080133">1 other</a>)&nbsp;</td>
             <td>2017-02-09</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1052</td>
         </tr>

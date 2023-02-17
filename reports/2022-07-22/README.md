@@ -1631,7 +1631,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WittSheryl">WittSheryl</a></td>
             <td>2011-10-27</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>5210</td>
         </tr>
@@ -1741,7 +1741,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chris07479124">Chris07479124</a></td>
             <td>2017-11-16</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>4192</td>
         </tr>
@@ -2368,7 +2368,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Shillverstein">Shillverstein</a></td>
             <td>2017-04-05</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1820</td>
         </tr>

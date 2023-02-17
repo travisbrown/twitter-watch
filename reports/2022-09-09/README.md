@@ -2095,7 +2095,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TFGLiedUSADied">TFGLiedUSADied</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1483799559490846720">1 other</a>)&nbsp;</td>
             <td>2022-01-19</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>3732</td>
         </tr>
@@ -5285,7 +5285,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RockyDetroit">RockyDetroit</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1223050912383541254">2 others</a>)&nbsp;</td>
             <td>2020-01-31</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>1054</td>
         </tr>

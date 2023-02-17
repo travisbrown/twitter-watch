@@ -824,7 +824,7 @@ Found 977 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/niqui_nuqui">niqui_nuqui</a></td>
             <td>2010-02-20</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1140</td>
         </tr>

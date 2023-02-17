@@ -628,7 +628,7 @@ Found 663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GinaSaysSo">GinaSaysSo</a></td>
             <td>2021-08-29</td>
-            <td></td>
+            <td>2023-02-13</td>
             <td align="center"></td>
             <td>6112</td>
         </tr>

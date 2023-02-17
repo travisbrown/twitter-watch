@@ -52,7 +52,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KanasRiverGuide">KanasRiverGuide</a></td>
             <td>2020-12-04</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>2994</td>
             <td>1808</td>
@@ -3739,7 +3739,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CARoberson12">CARoberson12</a></td>
             <td>2021-11-13</td>
-            <td></td>
+            <td>2023-02-11</td>
             <td align="center"></td>
             <td>1826</td>
         </tr>
