@@ -52,7 +52,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RupertVonRipp">RupertVonRipp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1054946877374951425">2 others</a>)&nbsp;</td>
             <td>2018-10-24</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1965</td>
             <td>1922</td>

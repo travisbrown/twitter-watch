@@ -1818,7 +1818,7 @@ Found 1024 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TuxedoYoda">TuxedoYoda</a></td>
             <td>2011-12-28</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1218</td>
         </tr>

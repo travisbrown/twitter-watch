@@ -776,7 +776,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/llanier67">llanier67</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1293905231135342592">1 other</a>)&nbsp;</td>
             <td>2020-08-13</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>12264</td>
         </tr>

@@ -1386,7 +1386,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/trucker_mfc">trucker_mfc</a></td>
             <td>2012-06-18</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>3830</td>
         </tr>
@@ -2343,7 +2343,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cygor23">cygor23</a></td>
             <td>2011-05-27</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1393</td>
         </tr>

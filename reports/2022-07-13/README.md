@@ -820,7 +820,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChrisBarber13F">ChrisBarber13F</a></td>
             <td>2012-10-19</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>5484</td>
         </tr>
@@ -1106,7 +1106,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StopTheCoup2020">StopTheCoup2020</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3307060124">2 others</a>)&nbsp;</td>
             <td>2015-08-05</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>3451</td>
         </tr>
@@ -2019,7 +2019,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Santino_1964">Santino_1964</a></td>
             <td>2014-06-30</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1636</td>
         </tr>
@@ -2074,7 +2074,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mr_Honkitude">Mr_Honkitude</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1279939091417763841">1 other</a>)&nbsp;</td>
             <td>2020-07-06</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1589</td>
         </tr>
@@ -2316,7 +2316,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CharlesQuint20">CharlesQuint20</a></td>
             <td>2020-09-13</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center">🔒</td>
             <td>1377</td>
         </tr>

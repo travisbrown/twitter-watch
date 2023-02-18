@@ -1535,7 +1535,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kathiroussel">kathiroussel</a></td>
             <td>2009-01-06</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1286</td>
         </tr>

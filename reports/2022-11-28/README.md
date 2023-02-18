@@ -2297,7 +2297,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pbmnews">pbmnews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1333001758679949317">1 other</a>)&nbsp;</td>
             <td>2020-11-29</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1913</td>
         </tr>

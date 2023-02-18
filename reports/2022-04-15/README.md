@@ -2524,7 +2524,7 @@ Found 1148 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KylePat11831145">KylePat11831145</a></td>
             <td>2021-01-28</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1320</td>
         </tr>

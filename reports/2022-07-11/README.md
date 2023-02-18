@@ -991,7 +991,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ewald6Ewald">Ewald6Ewald</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2304</td>
         </tr>
@@ -1651,7 +1651,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tropic6A">Tropic6A</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1129</td>
         </tr>

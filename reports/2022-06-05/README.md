@@ -724,7 +724,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/R0L0D_">R0L0D_</a></td>
             <td>2021-12-13</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>2420</td>
         </tr>

@@ -4614,7 +4614,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChrisYo89609946">ChrisYo89609946</a></td>
             <td>2020-12-10</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1098</td>
         </tr>
@@ -4625,7 +4625,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pachoran63">pachoran63</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2767393210">1 other</a>)&nbsp;</td>
             <td>2014-09-11</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1097</td>
         </tr>
@@ -4636,7 +4636,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SergioMitsuoSJC">SergioMitsuoSJC</a></td>
             <td>2012-12-05</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1094</td>
         </tr>

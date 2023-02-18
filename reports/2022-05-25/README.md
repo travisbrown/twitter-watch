@@ -1153,7 +1153,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nichtdiesesarer">nichtdiesesarer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1073975448290422784">5 others</a>)&nbsp;</td>
             <td>2018-12-15</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>4363</td>
         </tr>

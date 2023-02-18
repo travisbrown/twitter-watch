@@ -40,7 +40,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KryptosAri">KryptosAri</a></td>
             <td>2021-11-04</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>2734</td>
             <td>1767</td>

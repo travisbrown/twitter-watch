@@ -1437,7 +1437,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaryPharaoh">MaryPharaoh</a></td>
             <td>2012-12-17</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>5181</td>
         </tr>
@@ -3065,7 +3065,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2wyckedcarl">2wyckedcarl</a></td>
             <td>2009-12-18</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1033</td>
         </tr>

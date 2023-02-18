@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 565413
-* Total number of suspension reversals detected: 38603
-* Mean number of followers for suspended accounts: 1507.9
+* Total number of suspensions detected: 566707
+* Total number of suspension reversals detected: 39881
+* Mean number of followers for suspended accounts: 1503.41
 * Median number of followers for suspended accounts: 45.0
-* Mean age of suspended accounts (days): 1014.79
+* Mean age of suspended accounts (days): 1013.73
 * Median age of suspended accounts (days): 303.0
 * Total number of verified accounts suspended: 192
-* Total number of protected accounts suspended: 29604
+* Total number of protected accounts suspended: 29816
 * Total number of suspensions for accounts previously withheld in specific countries: 48
 * Total number of screen name changes detected: 966283
 
@@ -68,17 +68,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-10-29</td>
             <td>471531</td>
             <td>15</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1389360201996832771">
-                <img src="https://pbs.twimg.com/profile_images/1480206342740664323/Z8u5VdNO_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/PapiTrumpo">PapiTrumpo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389360201996832771">1 other</a>)&nbsp;</td>
-            <td>2021-05-03</td>
-            <td>2023-02-10</td>
-            <td>616335</td>
-            <td>33</td>
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1226624031367073793">
@@ -277,6 +266,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-07-16</td>
             <td>34593</td>
             <td>352</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1468802750041497608">
+                <img src="https://pbs.twimg.com/profile_images/1494694439427710978/5XKsVV2l_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AJWins2">AJWins2</a></td>
+            <td>2021-12-09</td>
+            <td>2022-04-04</td>
+            <td>43511</td>
+            <td>355</td>
         </tr></table>
 
 ## Daily reports
@@ -290,10 +290,18 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2023-02-18/">18 February 2023</a>
+            </td>
+            <td>1230</td>
+            <td>5</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2023-02-17/">17 February 2023</a>
             </td>
-            <td>568</td>
-            <td>2</td>
+            <td>1901</td>
+            <td>3</td>
             <td>0</td>
         </tr>
         <tr>

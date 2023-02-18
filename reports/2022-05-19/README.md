@@ -1920,7 +1920,7 @@ Found 841 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lifeisdriving">lifeisdriving</a></td>
             <td>2013-01-24</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1455</td>
         </tr>
@@ -2052,7 +2052,7 @@ Found 841 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BioNeilBoi">BioNeilBoi</a></td>
             <td>2021-12-05</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1194</td>
         </tr>

@@ -1531,7 +1531,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VoightR">VoightR</a></td>
             <td>2021-07-14</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>2086</td>
         </tr>

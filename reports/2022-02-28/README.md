@@ -1098,7 +1098,7 @@ Found 417 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/castrogo">castrogo</a></td>
             <td>2010-10-02</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1263</td>
         </tr>

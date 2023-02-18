@@ -1327,7 +1327,7 @@ Found 1139 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BurstingforaWee">BurstingforaWee</a></td>
             <td>2021-04-17</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1084</td>
         </tr>

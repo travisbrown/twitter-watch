@@ -2582,7 +2582,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatriotNode">PatriotNode</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1371407852435169284">2 others</a>)&nbsp;</td>
             <td>2021-03-15</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>5788</td>
         </tr>

@@ -484,7 +484,7 @@ Found 149 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Manisocialist">Manisocialist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3259247989">7 others</a>)&nbsp;</td>
             <td>2015-06-28</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>3757</td>
         </tr>
@@ -495,7 +495,7 @@ Found 149 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ranklediff">Ranklediff</a></td>
             <td>2011-03-22</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>3480</td>
         </tr>

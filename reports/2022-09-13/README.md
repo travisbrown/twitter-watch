@@ -2479,7 +2479,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Glazedovernow">Glazedovernow</a></td>
             <td>2011-04-10</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1093</td>
         </tr>

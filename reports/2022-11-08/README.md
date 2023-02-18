@@ -6062,7 +6062,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/killuminaty1986">killuminaty1986</a></td>
             <td>2022-01-11</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1147</td>
         </tr>

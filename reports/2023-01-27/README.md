@@ -52,7 +52,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DailyFetched">DailyFetched</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1911303422">1 other</a>)&nbsp;</td>
             <td>2013-09-27</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>38658</td>
             <td>77126</td>

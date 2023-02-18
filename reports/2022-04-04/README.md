@@ -1138,7 +1138,7 @@ Found 973 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GlennMorrisUSA">GlennMorrisUSA</a></td>
             <td>2014-08-25</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>2718</td>
         </tr>
@@ -1490,7 +1490,7 @@ Found 973 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rmkenney1">rmkenney1</a></td>
             <td>2013-05-23</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1531</td>
         </tr>

@@ -818,7 +818,7 @@ Found 1437 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Woodshedder">Woodshedder</a></td>
             <td>2008-10-17</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1908</td>
         </tr>

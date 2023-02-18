@@ -3223,7 +3223,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FbiodeAssis4">FbiodeAssis4</a></td>
             <td>2018-11-29</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1681</td>
         </tr>

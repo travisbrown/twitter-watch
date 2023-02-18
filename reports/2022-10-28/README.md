@@ -2825,7 +2825,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LaughAtLefties">LaughAtLefties</a></td>
             <td>2011-10-17</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>3289</td>
         </tr>

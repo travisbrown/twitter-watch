@@ -967,7 +967,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sheeshkabob">sheeshkabob</a></td>
             <td>2009-02-27</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>18951</td>
         </tr>
@@ -2826,7 +2826,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FarhanRavian">FarhanRavian</a></td>
             <td>2010-07-21</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2206</td>
         </tr>

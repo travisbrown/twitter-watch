@@ -40,7 +40,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/frogNscorpion">frogNscorpion</a></td>
             <td>2022-05-03</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>650</td>
             <td>3063</td>
@@ -1591,7 +1591,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SusanHudgins">SusanHudgins</a></td>
             <td>2011-10-19</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2054</td>
         </tr>

@@ -88,7 +88,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LemmeTriggerU">LemmeTriggerU</a></td>
             <td>2019-07-26</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1310</td>
             <td>2008</td>
@@ -3283,7 +3283,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tanis1958">Tanis1958</a></td>
             <td>2010-01-07</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center">🔒</td>
             <td>1048</td>
         </tr>

@@ -256,7 +256,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CrackerZoomer">CrackerZoomer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1476368445893664775">1 other</a>)&nbsp;</td>
             <td>2021-12-30</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>386</td>
             <td>3879</td>
@@ -1712,7 +1712,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/areck12">areck12</a></td>
             <td>2009-04-04</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>2160</td>
         </tr>
@@ -2471,7 +2471,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/marcelliotnet">marcelliotnet</a></td>
             <td>2009-06-23</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1085</td>
         </tr>

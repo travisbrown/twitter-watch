@@ -1580,7 +1580,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DonovanTurney">DonovanTurney</a></td>
             <td>2015-02-21</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1378</td>
         </tr>

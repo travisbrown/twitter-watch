@@ -116,7 +116,7 @@ Found 2888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/InesSainzOf">InesSainzOf</a></td>
             <td>2021-09-26</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>27903</td>
         </tr>
@@ -270,7 +270,7 @@ Found 2888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/octoend">octoend</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/972834861734969344">12 others</a>)&nbsp;</td>
             <td>2018-03-11</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>4398</td>
         </tr>

@@ -52,7 +52,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ValleyZoomerVZ">ValleyZoomerVZ</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518690130483048448">1 other</a>)&nbsp;</td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>267</td>
             <td>3868</td>

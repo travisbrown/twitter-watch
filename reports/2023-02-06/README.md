@@ -611,7 +611,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tocareva_l">Tocareva_l</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/376049856">1 other</a>)&nbsp;</td>
             <td>2011-09-19</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>3041</td>
         </tr>

@@ -3242,7 +3242,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/repblcofAlberta">repblcofAlberta</a></td>
             <td>2017-06-07</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1169</td>
         </tr>

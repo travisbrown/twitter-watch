@@ -100,7 +100,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/loffredojeremy">loffredojeremy</a></td>
             <td>2011-06-01</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>22151</td>
             <td>74345</td>

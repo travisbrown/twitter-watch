@@ -1209,7 +1209,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dksdata">dksdata</a></td>
             <td>2009-07-06</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>4343</td>
         </tr>
@@ -1605,7 +1605,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BarryCassese">BarryCassese</a></td>
             <td>2012-08-08</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>2126</td>
         </tr>

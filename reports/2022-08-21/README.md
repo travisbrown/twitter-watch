@@ -1392,7 +1392,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DonnaNeedham10">DonnaNeedham10</a></td>
             <td>2019-01-05</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>4270</td>
         </tr>
@@ -1975,7 +1975,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/essential_new">essential_new</a></td>
             <td>2021-01-30</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1761</td>
         </tr>

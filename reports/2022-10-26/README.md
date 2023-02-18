@@ -1934,7 +1934,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DDem0cracy">DDem0cracy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1235239389414002690">1 other</a>)&nbsp;</td>
             <td>2020-03-04</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1633</td>
         </tr>

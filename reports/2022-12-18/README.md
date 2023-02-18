@@ -1802,7 +1802,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/badgirl_uk">badgirl_uk</a></td>
             <td>2022-03-07</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1216</td>
         </tr>

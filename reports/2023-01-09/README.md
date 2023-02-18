@@ -896,7 +896,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SeanFurey8">SeanFurey8</a></td>
             <td>2019-07-12</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2865</td>
         </tr>
@@ -1171,7 +1171,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lolita0077">lolita0077</a></td>
             <td>2015-02-18</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>2013</td>
         </tr>

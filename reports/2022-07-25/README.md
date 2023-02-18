@@ -3032,7 +3032,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bmwjim">bmwjim</a></td>
             <td>2015-08-23</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1359</td>
         </tr>

@@ -736,7 +736,7 @@ Found 804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scotny7">scotny7</a></td>
             <td>2009-04-26</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1783</td>
         </tr>
@@ -901,7 +901,7 @@ Found 804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DDrugiy">DDrugiy</a></td>
             <td>2020-04-14</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1371</td>
         </tr>

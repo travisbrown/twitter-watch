@@ -943,7 +943,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HVaucher">HVaucher</a></td>
             <td>2021-08-11</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>4375</td>
         </tr>

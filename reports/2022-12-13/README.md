@@ -557,7 +557,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nzmendes1">nzmendes1</a></td>
             <td>2014-07-04</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>43101</td>
         </tr>

@@ -1399,7 +1399,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ProfDisaster11">ProfDisaster11</a></td>
             <td>2021-08-14</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1658</td>
         </tr>
@@ -1608,7 +1608,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RainCityBadger">RainCityBadger</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/261814918">1 other</a>)&nbsp;</td>
             <td>2011-03-06</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1338</td>
         </tr>

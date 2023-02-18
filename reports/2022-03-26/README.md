@@ -1535,7 +1535,7 @@ Found 761 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1993_djb">1993_djb</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/21778290">2 others</a>)&nbsp;</td>
             <td>2009-02-24</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1050</td>
         </tr></table>

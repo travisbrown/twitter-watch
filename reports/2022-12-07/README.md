@@ -2284,7 +2284,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zalxo">zalxo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1430525942">1 other</a>)&nbsp;</td>
             <td>2013-05-15</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1217</td>
         </tr>

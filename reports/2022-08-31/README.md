@@ -2093,7 +2093,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gayfeministally">gayfeministally</a></td>
             <td>2020-06-07</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1695</td>
         </tr>
@@ -2126,7 +2126,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Havoc70">Havoc70</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1341791641510825985">1 other</a>)&nbsp;</td>
             <td>2020-12-23</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1647</td>
         </tr>

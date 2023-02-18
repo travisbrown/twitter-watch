@@ -840,7 +840,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stuartroberts18">stuartroberts18</a></td>
             <td>2012-07-01</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>3165</td>
         </tr>
@@ -1104,7 +1104,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ItsReapAgain">ItsReapAgain</a></td>
             <td>2020-06-06</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1796</td>
         </tr>

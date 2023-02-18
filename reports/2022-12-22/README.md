@@ -479,7 +479,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sgwmor">sgwmor</a></td>
             <td>2014-03-31</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>9330</td>
         </tr>

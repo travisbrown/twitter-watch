@@ -408,7 +408,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/qnighy">qnighy</a></td>
             <td>2008-09-16</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>6448</td>
         </tr>

@@ -330,7 +330,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PoliticsVerse">PoliticsVerse</a></td>
             <td>2021-03-31</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>42571</td>
         </tr>

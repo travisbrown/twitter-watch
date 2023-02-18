@@ -1424,7 +1424,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BritpolInRussia">BritpolInRussia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/977153277468037120">1 other</a>)&nbsp;</td>
             <td>2018-03-23</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2472</td>
         </tr>

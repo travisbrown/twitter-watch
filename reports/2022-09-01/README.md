@@ -1542,7 +1542,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/erouus">erouus</a></td>
             <td>2013-01-29</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2680</td>
         </tr>
@@ -2202,7 +2202,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nikol84312508">nikol84312508</a></td>
             <td>2021-01-11</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1313</td>
         </tr>

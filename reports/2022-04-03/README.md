@@ -265,7 +265,7 @@ Found 958 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChartShark22">ChartShark22</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3030843400">2 others</a>)&nbsp;</td>
             <td>2015-02-11</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>22493</td>
         </tr>

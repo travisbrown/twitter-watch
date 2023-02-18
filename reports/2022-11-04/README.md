@@ -124,7 +124,7 @@ Found 23 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/smallbrownring">smallbrownring</a></td>
             <td>2011-11-10</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>698</td>
             <td>29411</td>

@@ -40,7 +40,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/sandyleevincent">sandyleevincent</a></td>
             <td>2012-11-09</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>56247</td>
             <td>11072</td>

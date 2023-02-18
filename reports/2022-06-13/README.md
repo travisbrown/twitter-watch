@@ -1708,7 +1708,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/merriman_md">merriman_md</a></td>
             <td>2020-05-03</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>4791</td>
         </tr>
@@ -1906,7 +1906,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JeremieSingla">JeremieSingla</a></td>
             <td>2021-08-06</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>2429</td>
         </tr>
@@ -2588,7 +2588,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alonsofunao">alonsofunao</a></td>
             <td>2021-10-19</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center">🔒</td>
             <td>1002</td>
         </tr></table>

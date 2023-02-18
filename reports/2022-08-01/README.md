@@ -802,7 +802,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KaliPatriot">KaliPatriot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1022501982773243906">1 other</a>)&nbsp;</td>
             <td>2018-07-26</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>4160</td>
         </tr>

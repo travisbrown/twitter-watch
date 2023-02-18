@@ -2725,7 +2725,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hausmeister66">Hausmeister66</a></td>
             <td>2022-02-02</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>2428</td>
         </tr>
@@ -3682,7 +3682,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LorianMandy">LorianMandy</a></td>
             <td>2021-02-12</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1439</td>
         </tr>
@@ -4133,7 +4133,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cyr_actual">cyr_actual</a></td>
             <td>2015-01-21</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1192</td>
         </tr>

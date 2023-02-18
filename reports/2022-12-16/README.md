@@ -400,7 +400,7 @@ Found 66 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/leatherneckjo">leatherneckjo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1512116998372827140">1 other</a>)&nbsp;</td>
             <td>2022-04-07</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1978</td>
             <td>55166</td>

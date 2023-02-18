@@ -1665,7 +1665,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/daninava">daninava</a></td>
             <td>2009-04-22</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2945</td>
         </tr>
@@ -2523,7 +2523,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NZThePartysOver">NZThePartysOver</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1272994637276311552">1 other</a>)&nbsp;</td>
             <td>2020-06-16</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1519</td>
         </tr>

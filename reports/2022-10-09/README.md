@@ -1580,7 +1580,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CBreezy0329">CBreezy0329</a></td>
             <td>2022-01-31</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1570</td>
         </tr>

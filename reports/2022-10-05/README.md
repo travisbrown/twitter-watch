@@ -2172,7 +2172,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kyrieeleisonone">Kyrieeleisonone</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1238</td>
         </tr>
@@ -2326,7 +2326,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RightwayLeo">RightwayLeo</a></td>
             <td>2020-11-15</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1058</td>
         </tr>

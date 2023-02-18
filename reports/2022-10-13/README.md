@@ -835,7 +835,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/munassar2011">munassar2011</a></td>
             <td>2009-06-27</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>4857</td>
         </tr>
@@ -2089,7 +2089,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RareImagery">RareImagery</a></td>
             <td>2022-05-12</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1322</td>
         </tr>

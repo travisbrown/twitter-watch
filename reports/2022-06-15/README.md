@@ -1144,7 +1144,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SaamAlmalki">SaamAlmalki</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/445564383">2 others</a>)&nbsp;</td>
             <td>2011-12-24</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1704</td>
         </tr>

@@ -1415,7 +1415,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShrinkGov">ShrinkGov</a></td>
             <td>2010-11-03</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>12953</td>
         </tr>

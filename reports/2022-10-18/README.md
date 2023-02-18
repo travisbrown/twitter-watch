@@ -1444,7 +1444,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ApolideL">ApolideL</a></td>
             <td>2019-09-07</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>3257</td>
         </tr>
@@ -2247,7 +2247,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SarangeRose">SarangeRose</a></td>
             <td>2020-02-04</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>1404</td>
         </tr>
@@ -2610,7 +2610,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/videojornalista">videojornalista</a></td>
             <td>2009-04-28</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1095</td>
         </tr>

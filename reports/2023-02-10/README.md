@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PapiTrumpo">PapiTrumpo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389360201996832771">1 other</a>)&nbsp;</td>
             <td>2021-05-03</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>616335</td>
             <td>33</td>

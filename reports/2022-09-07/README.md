@@ -696,7 +696,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Leituraliteral">Leituraliteral</a></td>
             <td>2021-08-16</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>11466</td>
         </tr>

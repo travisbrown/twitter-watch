@@ -1691,7 +1691,7 @@ Found 751 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jpvapetv">jpvapetv</a></td>
             <td>2014-04-02</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>8542</td>
         </tr>

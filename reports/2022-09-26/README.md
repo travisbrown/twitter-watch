@@ -1927,7 +1927,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JijackC">JijackC</a></td>
             <td>2019-09-15</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1786</td>
         </tr>

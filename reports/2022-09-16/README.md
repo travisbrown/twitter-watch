@@ -1907,7 +1907,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tracieo41096854">tracieo41096854</a></td>
             <td>2020-03-17</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>2373</td>
         </tr>
@@ -2039,7 +2039,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TribalShaman">TribalShaman</a></td>
             <td>2013-09-02</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>1867</td>
         </tr>

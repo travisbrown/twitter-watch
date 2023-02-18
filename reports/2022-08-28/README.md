@@ -1315,7 +1315,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VasilRSB">VasilRSB</a></td>
             <td>2009-04-08</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1524</td>
         </tr>
@@ -1546,7 +1546,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/degrasse_l">degrasse_l</a></td>
             <td>2019-06-30</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1152</td>
         </tr>

@@ -1240,7 +1240,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArenaSportsTalk">ArenaSportsTalk</a></td>
             <td>2021-10-10</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>3178</td>
         </tr>

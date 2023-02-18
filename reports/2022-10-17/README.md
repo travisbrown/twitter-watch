@@ -1932,7 +1932,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lost3bitchesss">lost3bitchesss</a></td>
             <td>2010-10-01</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>1250</td>
         </tr>

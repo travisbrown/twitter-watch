@@ -1229,7 +1229,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JesseDelRio100">JesseDelRio100</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1045118088012869632">5 others</a>)&nbsp;</td>
             <td>2018-09-27</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>10474</td>
         </tr>

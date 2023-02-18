@@ -1127,7 +1127,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bootystar_G">Bootystar_G</a></td>
             <td>2021-06-08</td>
-            <td></td>
+            <td>2023-02-14</td>
             <td align="center"></td>
             <td>62884</td>
         </tr>

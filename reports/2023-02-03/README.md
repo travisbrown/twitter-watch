@@ -1110,7 +1110,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kishimen_UDN">kishimen_UDN</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1219856896691077120">1 other</a>)&nbsp;</td>
             <td>2020-01-22</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>16204</td>
         </tr>

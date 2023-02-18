@@ -1030,7 +1030,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreedomPodcast1">FreedomPodcast1</a></td>
             <td>2021-09-24</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>6370</td>
         </tr>
@@ -1140,7 +1140,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Grateful1976">Grateful1976</a></td>
             <td>2011-03-01</td>
-            <td></td>
+            <td>2023-02-16</td>
             <td align="center"></td>
             <td>3010</td>
         </tr>

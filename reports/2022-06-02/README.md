@@ -1444,7 +1444,7 @@ Found 964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AM54NDA">AM54NDA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/940134493695995910">1 other</a>)&nbsp;</td>
             <td>2017-12-11</td>
-            <td></td>
+            <td>2023-02-15</td>
             <td align="center"></td>
             <td>2037</td>
         </tr>
