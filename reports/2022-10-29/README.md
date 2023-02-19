@@ -30320,7 +30320,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blasierterTyp">blasierterTyp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1412093537877999620">2 others</a>)&nbsp;</td>
             <td>2021-07-05</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1316</td>
         </tr>

@@ -971,7 +971,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/michael53021960">michael53021960</a></td>
             <td>2016-06-26</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>3320</td>
         </tr>
@@ -1136,7 +1136,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Barbi_bb">Barbi_bb</a></td>
             <td>2010-01-22</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>2303</td>
         </tr>

@@ -2001,7 +2001,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cantstopsinnin">cantstopsinnin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1083022508125757440">10 others</a>)&nbsp;</td>
             <td>2019-01-09</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1011</td>
         </tr>

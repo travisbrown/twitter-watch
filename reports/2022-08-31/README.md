@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TTEcclesBrown">TTEcclesBrown</a></td>
             <td>2022-05-30</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>4261</td>
             <td>1157</td>
@@ -1818,7 +1818,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VeraVaz14">VeraVaz14</a></td>
             <td>2021-08-13</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2394</td>
         </tr>

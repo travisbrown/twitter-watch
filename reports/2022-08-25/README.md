@@ -2219,7 +2219,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dogecoinsbs">dogecoinsbs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1713797280">10 others</a>)&nbsp;</td>
             <td>2013-08-30</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1635</td>
         </tr>

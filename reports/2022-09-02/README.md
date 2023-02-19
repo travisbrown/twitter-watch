@@ -2096,7 +2096,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/prisssypresley">prisssypresley</a></td>
             <td>2021-07-30</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1592</td>
         </tr>

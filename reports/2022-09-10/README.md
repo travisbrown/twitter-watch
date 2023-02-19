@@ -557,7 +557,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WwaaffaaWafa">WwaaffaaWafa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/51318155">2 others</a>)&nbsp;</td>
             <td>2009-06-27</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>82026</td>
         </tr>

@@ -431,7 +431,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntonioUriz">AntonioUriz</a></td>
             <td>2020-01-09</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>12229</td>
         </tr>

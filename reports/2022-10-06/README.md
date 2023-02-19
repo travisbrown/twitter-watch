@@ -2216,7 +2216,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rebelwitacauz">rebelwitacauz</a></td>
             <td>2010-11-09</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1731</td>
         </tr>

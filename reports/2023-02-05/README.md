@@ -1050,7 +1050,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BRACworld">BRACworld</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/24019986">1 other</a>)&nbsp;</td>
             <td>2009-03-12</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center">✔️</td>
             <td>80564</td>
         </tr>
@@ -2084,7 +2084,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ovye">Ovye</a></td>
             <td>2009-09-01</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1148</td>
         </tr>

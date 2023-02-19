@@ -1049,7 +1049,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ballardsigns">ballardsigns</a></td>
             <td>2013-03-07</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2101</td>
         </tr>

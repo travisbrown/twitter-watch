@@ -2014,7 +2014,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/banrep22">banrep22</a></td>
             <td>2022-06-14</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2641</td>
         </tr>

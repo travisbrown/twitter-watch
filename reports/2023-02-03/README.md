@@ -340,7 +340,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/itsgirlsqnop">itsgirlsqnop</a></td>
             <td>2022-06-05</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>161454</td>
         </tr>

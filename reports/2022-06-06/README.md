@@ -1253,7 +1253,7 @@ Found 812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FITbyFRED">FITbyFRED</a></td>
             <td>2010-06-29</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1370</td>
         </tr>

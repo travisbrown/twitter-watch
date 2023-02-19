@@ -1342,7 +1342,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Letidoka">Letidoka</a></td>
             <td>2013-12-12</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2229</td>
         </tr>

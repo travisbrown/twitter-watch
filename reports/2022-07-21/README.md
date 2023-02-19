@@ -76,7 +76,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/StupidTomoko">StupidTomoko</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1540838863345786880">1 other</a>)&nbsp;</td>
             <td>2022-06-25</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>261</td>
             <td>4160</td>
@@ -2432,7 +2432,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Krabbekopje">Krabbekopje</a></td>
             <td>2014-12-30</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1238</td>
         </tr>

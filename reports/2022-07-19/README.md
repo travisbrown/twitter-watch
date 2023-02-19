@@ -957,7 +957,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tevet">tevet</a></td>
             <td>2008-07-17</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>7167</td>
         </tr>
@@ -1474,7 +1474,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LedferdraRobert">LedferdraRobert</a></td>
             <td>2013-10-11</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>2495</td>
         </tr>

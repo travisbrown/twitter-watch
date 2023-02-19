@@ -1440,7 +1440,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lonestarmango">lonestarmango</a></td>
             <td>2011-01-15</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>9929</td>
         </tr>

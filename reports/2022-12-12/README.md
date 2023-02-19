@@ -1296,7 +1296,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RobKing44645429">RobKing44645429</a></td>
             <td>2019-01-15</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>2684</td>
         </tr>

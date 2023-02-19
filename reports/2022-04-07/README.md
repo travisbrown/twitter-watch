@@ -831,7 +831,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StefanAntonino">StefanAntonino</a></td>
             <td>2016-04-16</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>13709</td>
         </tr>

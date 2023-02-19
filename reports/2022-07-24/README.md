@@ -1587,7 +1587,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Antonio_Zero3">Antonio_Zero3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1134090214052438018">1 other</a>)&nbsp;</td>
             <td>2019-05-30</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1154</td>
         </tr>

@@ -1291,7 +1291,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Big_Guwop_22">Big_Guwop_22</a></td>
             <td>2021-12-23</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1080</td>
         </tr>

@@ -1919,7 +1919,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Terrryyyyyyyy">Terrryyyyyyyy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/216678799">3 others</a>)&nbsp;</td>
             <td>2010-11-17</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1070</td>
         </tr>

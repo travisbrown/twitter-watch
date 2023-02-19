@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheRalphRetort">TheRalphRetort</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/113137765">1 other</a>)&nbsp;</td>
             <td>2010-02-10</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center">✔️</td>
             <td>53571</td>
             <td>3533</td>

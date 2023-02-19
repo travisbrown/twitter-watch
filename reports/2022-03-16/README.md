@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Rifleman4WVU">Rifleman4WVU</a></td>
             <td>2009-07-09</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>7166</td>
             <td>766</td>

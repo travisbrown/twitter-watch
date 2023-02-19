@@ -1396,7 +1396,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MRSRedVoteR">MRSRedVoteR</a></td>
             <td>2016-11-23</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>3093</td>
         </tr>

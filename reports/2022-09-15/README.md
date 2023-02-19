@@ -1447,7 +1447,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gebully">Gebully</a></td>
             <td>2013-12-01</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2036</td>
         </tr>
@@ -1546,7 +1546,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BDontappear">BDontappear</a></td>
             <td>2012-07-20</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1862</td>
         </tr>

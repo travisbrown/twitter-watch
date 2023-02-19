@@ -2069,7 +2069,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dwalingen">Dwalingen</a></td>
             <td>2012-10-19</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>5466</td>
         </tr>
@@ -3598,7 +3598,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/counsel4ubaby">counsel4ubaby</a></td>
             <td>2016-03-20</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center"></td>
             <td>1394</td>
         </tr>

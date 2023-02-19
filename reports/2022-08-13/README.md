@@ -2531,7 +2531,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TexasCaliAzGal">TexasCaliAzGal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/24736351">1 other</a>)&nbsp;</td>
             <td>2009-03-16</td>
-            <td></td>
+            <td>2023-02-17</td>
             <td align="center">🔒</td>
             <td>1422</td>
         </tr>
