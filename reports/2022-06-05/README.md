@@ -273,7 +273,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarvinDigeorgio">MarvinDigeorgio</a></td>
             <td>2015-04-05</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>13866</td>
         </tr>

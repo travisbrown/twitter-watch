@@ -763,7 +763,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Upgrayedd34">Upgrayedd34</a></td>
             <td>2018-03-25</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>3882</td>
         </tr>

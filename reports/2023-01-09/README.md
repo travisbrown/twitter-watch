@@ -390,7 +390,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CatherineBizTV">CatherineBizTV</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/370274344">1 other</a>)&nbsp;</td>
             <td>2011-09-08</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>16787</td>
         </tr>

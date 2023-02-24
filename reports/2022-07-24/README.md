@@ -1290,7 +1290,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ScottieBurner">ScottieBurner</a></td>
             <td>2021-08-16</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1709</td>
         </tr>

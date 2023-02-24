@@ -2107,7 +2107,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jorgeluiz51">jorgeluiz51</a></td>
             <td>2011-02-03</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1099</td>
         </tr>

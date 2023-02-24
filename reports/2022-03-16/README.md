@@ -601,7 +601,7 @@ Found 1139 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnClimacus">AnClimacus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1056190234692648960">2 others</a>)&nbsp;</td>
             <td>2018-10-27</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>6404</td>
         </tr>

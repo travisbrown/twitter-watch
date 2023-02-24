@@ -769,7 +769,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LaPiramide__">LaPiramide__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2575112879">3 others</a>)&nbsp;</td>
             <td>2014-06-01</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>5256</td>
         </tr>

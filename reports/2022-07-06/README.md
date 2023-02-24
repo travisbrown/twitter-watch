@@ -1052,7 +1052,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jambo_lee75">jambo_lee75</a></td>
             <td>2020-09-29</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>2086</td>
         </tr>

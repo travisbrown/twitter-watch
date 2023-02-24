@@ -2270,7 +2270,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pri_really">Pri_really</a></td>
             <td>2017-10-11</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center">🔒</td>
             <td>2169</td>
         </tr>
@@ -3139,7 +3139,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoeJersey10">JoeJersey10</a></td>
             <td>2020-06-24</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1238</td>
         </tr>

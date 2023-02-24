@@ -1758,7 +1758,7 @@ Found 1408 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iMaGiNeprints">iMaGiNeprints</a></td>
             <td>2009-10-25</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1306</td>
         </tr>
@@ -1956,7 +1956,7 @@ Found 1408 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnWal74913704">JohnWal74913704</a></td>
             <td>2022-02-22</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1132</td>
         </tr>

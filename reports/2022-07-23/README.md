@@ -1761,7 +1761,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EliseTRobby">EliseTRobby</a></td>
             <td>2015-07-24</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1580</td>
         </tr>

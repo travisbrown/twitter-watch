@@ -819,7 +819,7 @@ Found 973 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatriotoffUA">PatriotoffUA</a></td>
             <td>2013-12-06</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>10768</td>
         </tr>

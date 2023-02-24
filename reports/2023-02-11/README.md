@@ -335,7 +335,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/forthefacts">forthefacts</a></td>
             <td>2019-03-18</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2791</td>
         </tr>

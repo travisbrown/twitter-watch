@@ -1290,7 +1290,7 @@ Found 888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sPeakUPdoTell">sPeakUPdoTell</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18993341">1 other</a>)&nbsp;</td>
             <td>2009-01-14</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1648</td>
         </tr>

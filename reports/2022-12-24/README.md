@@ -28,7 +28,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DecaDharma">DecaDharma</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1240279792781492224">1 other</a>)&nbsp;</td>
             <td>2020-03-18</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1028</td>
             <td>5263</td>
@@ -556,7 +556,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MorbiusDevo">MorbiusDevo</a></td>
             <td>2022-10-28</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>3635</td>
         </tr>

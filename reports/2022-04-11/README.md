@@ -480,7 +480,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VogliaZebra_net">VogliaZebra_net</a></td>
             <td>2016-08-30</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>2563</td>
         </tr>

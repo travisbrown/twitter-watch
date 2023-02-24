@@ -600,7 +600,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EnnocentApostle">EnnocentApostle</a></td>
             <td>2022-02-02</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>3165</td>
         </tr>

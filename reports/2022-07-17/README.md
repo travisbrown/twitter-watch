@@ -1393,7 +1393,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tempio_joe">tempio_joe</a></td>
             <td>2015-07-09</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>3378</td>
         </tr>
@@ -2009,7 +2009,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeanette_landen">jeanette_landen</a></td>
             <td>2015-10-24</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>2082</td>
         </tr>
@@ -2152,7 +2152,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BaudinSheila">BaudinSheila</a></td>
             <td>2020-11-09</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1829</td>
         </tr>
@@ -2339,7 +2339,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeffbrownok">jeffbrownok</a></td>
             <td>2009-10-21</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1648</td>
         </tr>
@@ -2625,7 +2625,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/osva_o">osva_o</a></td>
             <td>2014-03-01</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1388</td>
         </tr>

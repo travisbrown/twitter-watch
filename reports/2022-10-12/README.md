@@ -1590,7 +1590,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pakistani_Kafir">Pakistani_Kafir</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1277544278013759488">2 others</a>)&nbsp;</td>
             <td>2020-06-29</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>3784</td>
         </tr>

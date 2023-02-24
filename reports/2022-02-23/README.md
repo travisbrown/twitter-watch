@@ -1117,7 +1117,7 @@ Found 371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavidRas666">DavidRas666</a></td>
             <td>2013-05-06</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1849</td>
         </tr>

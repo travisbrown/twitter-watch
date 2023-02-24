@@ -1794,7 +1794,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GASLlGHTER">GASLlGHTER</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/813806636707893248">17 others</a>)&nbsp;</td>
             <td>2016-12-27</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1439</td>
         </tr>

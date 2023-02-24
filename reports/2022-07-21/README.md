@@ -2168,7 +2168,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/captainLanxebec">captainLanxebec</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1369258021700964352">2 others</a>)&nbsp;</td>
             <td>2021-03-09</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1542</td>
         </tr>

@@ -1210,7 +1210,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EMB_MAGA_2024">EMB_MAGA_2024</a></td>
             <td>2021-09-10</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1634</td>
         </tr>
@@ -1661,7 +1661,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sanjaymehta">sanjaymehta</a></td>
             <td>2007-04-13</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1112</td>
         </tr>

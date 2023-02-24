@@ -1013,7 +1013,7 @@ Found 1567 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RussellRevell">RussellRevell</a></td>
             <td>2019-11-19</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1948</td>
         </tr>
@@ -1134,7 +1134,7 @@ Found 1567 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LoveAmericaMP">LoveAmericaMP</a></td>
             <td>2022-08-23</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center">🔒</td>
             <td>1681</td>
         </tr>
@@ -1233,7 +1233,7 @@ Found 1567 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WhatQueerIsThis">WhatQueerIsThis</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1241896506057207809">1 other</a>)&nbsp;</td>
             <td>2020-03-23</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1388</td>
         </tr>

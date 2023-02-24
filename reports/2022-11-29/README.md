@@ -1228,7 +1228,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LinseyJDonovan">LinseyJDonovan</a></td>
             <td>2016-10-02</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>12159</td>
         </tr>

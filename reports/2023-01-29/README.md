@@ -755,7 +755,7 @@ Found 3274 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vlxvinh">vlxvinh</a></td>
             <td>2021-04-20</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1306</td>
         </tr>

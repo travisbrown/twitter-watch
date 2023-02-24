@@ -396,7 +396,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OkunlolaO">OkunlolaO</a></td>
             <td>2011-08-10</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>17929</td>
         </tr>

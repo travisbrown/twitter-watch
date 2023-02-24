@@ -124,7 +124,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JNamethe">JNamethe</a></td>
             <td>2020-12-06</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>31</td>
             <td>25107</td>
@@ -2040,7 +2040,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/00711711711even">00711711711even</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1291676552065888256">1 other</a>)&nbsp;</td>
             <td>2020-08-07</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1344</td>
         </tr>

@@ -1339,7 +1339,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DeepFlowMDL">DeepFlowMDL</a></td>
             <td>2022-06-14</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>19006</td>
         </tr>
@@ -2450,7 +2450,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LuckyGreekGirl">LuckyGreekGirl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1016368529224826880">2 others</a>)&nbsp;</td>
             <td>2018-07-09</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2041</td>
         </tr>
@@ -2824,7 +2824,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BioNigel">BioNigel</a></td>
             <td>2022-01-06</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1463</td>
         </tr>

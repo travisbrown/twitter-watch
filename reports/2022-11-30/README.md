@@ -1012,7 +1012,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ajsteelshow">ajsteelshow</a></td>
             <td>2019-03-10</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>9998</td>
         </tr>
@@ -2277,7 +2277,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rrrrxz_">rrrrxz_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1224931556856299526">4 others</a>)&nbsp;</td>
             <td>2020-02-05</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1522</td>
         </tr>

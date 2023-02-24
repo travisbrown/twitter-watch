@@ -52,7 +52,7 @@ Found 21 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JohnnyBTCGood">JohnnyBTCGood</a></td>
             <td>2021-01-28</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1142</td>
             <td>6301</td>

@@ -76,7 +76,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JasonPantz">JasonPantz</a></td>
             <td>2014-06-19</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>282</td>
             <td>1909</td>
@@ -2621,7 +2621,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaggieL">MaggieL</a></td>
             <td>2007-11-14</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1649</td>
         </tr>

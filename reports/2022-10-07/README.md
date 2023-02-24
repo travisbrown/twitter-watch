@@ -1248,7 +1248,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ed_unwa">ed_unwa</a></td>
             <td>2019-04-09</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>2649</td>
         </tr>
@@ -2073,7 +2073,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JevontehDaWoat">JevontehDaWoat</a></td>
             <td>2019-02-23</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1081</td>
         </tr>

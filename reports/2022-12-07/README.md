@@ -623,7 +623,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/riotgrrrlonline">riotgrrrlonline</a></td>
             <td>2008-11-07</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>14516</td>
         </tr>

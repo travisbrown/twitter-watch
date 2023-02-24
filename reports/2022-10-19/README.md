@@ -1556,7 +1556,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OnVegasTime">OnVegasTime</a></td>
             <td>2016-12-16</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>2559</td>
         </tr>
@@ -2150,7 +2150,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EndgamePanacea">EndgamePanacea</a></td>
             <td>2019-02-14</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1668</td>
         </tr>

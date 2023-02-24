@@ -985,7 +985,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/realgreatbrit">realgreatbrit</a></td>
             <td>2020-06-29</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>10158</td>
         </tr>
@@ -1887,7 +1887,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cymrodrummerUK1">cymrodrummerUK1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1253438097758416901">1 other</a>)&nbsp;</td>
             <td>2020-04-23</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center">🔒</td>
             <td>2156</td>
         </tr>

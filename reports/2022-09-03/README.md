@@ -1010,7 +1010,7 @@ Found 1278 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Florida_Btc">Florida_Btc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1302042732714692609">1 other</a>)&nbsp;</td>
             <td>2020-09-05</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>5321</td>
         </tr>
@@ -1824,7 +1824,7 @@ Found 1278 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/loc8ingoil">loc8ingoil</a></td>
             <td>2010-05-10</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1675</td>
         </tr>

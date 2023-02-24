@@ -1114,7 +1114,7 @@ Found 1024 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fredbascunana">fredbascunana</a></td>
             <td>2009-01-28</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>11088</td>
         </tr>

@@ -1871,7 +1871,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fortheamerican">fortheamerican</a></td>
             <td>2015-10-14</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>2432</td>
         </tr>

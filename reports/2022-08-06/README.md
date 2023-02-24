@@ -1135,7 +1135,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LaPiratadeVox">LaPiratadeVox</a></td>
             <td>2020-01-23</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>11674</td>
         </tr>

@@ -1604,7 +1604,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/feldonthecat">feldonthecat</a></td>
             <td>2022-04-30</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1744</td>
         </tr>

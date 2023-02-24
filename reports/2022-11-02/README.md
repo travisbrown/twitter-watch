@@ -1613,7 +1613,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BigChiefEddieLF">BigChiefEddieLF</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>4266</td>
         </tr>

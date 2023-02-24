@@ -1325,7 +1325,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GrittyGetLitty">GrittyGetLitty</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1277726140250165254">1 other</a>)&nbsp;</td>
             <td>2020-06-29</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>3110</td>
         </tr>

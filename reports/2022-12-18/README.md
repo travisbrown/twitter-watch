@@ -1274,7 +1274,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LibertyLudens">LibertyLudens</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/915755061304684544">3 others</a>)&nbsp;</td>
             <td>2017-10-05</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1849</td>
         </tr>

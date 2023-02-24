@@ -941,7 +941,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mbapufo">mbapufo</a></td>
             <td>2022-03-09</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>20101</td>
         </tr>
@@ -2074,7 +2074,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnofEAST">JohnofEAST</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1625</td>
         </tr>
@@ -2283,7 +2283,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fineditutto">fineditutto</a></td>
             <td>2019-07-03</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1340</td>
         </tr>
@@ -2701,7 +2701,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BagnoleFR">BagnoleFR</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/926120040151306240">2 others</a>)&nbsp;</td>
             <td>2017-11-02</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1012</td>
         </tr>

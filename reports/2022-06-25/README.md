@@ -1379,7 +1379,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/francissanchez9">francissanchez9</a></td>
             <td>2010-09-07</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2933</td>
         </tr>

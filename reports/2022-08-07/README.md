@@ -1076,7 +1076,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PortlandRose143">PortlandRose143</a></td>
             <td>2012-05-29</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>12848</td>
         </tr>
@@ -1758,7 +1758,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChellaLocke">ChellaLocke</a></td>
             <td>2017-11-11</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>2565</td>
         </tr>
@@ -2143,7 +2143,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MathiaudMichel">MathiaudMichel</a></td>
             <td>2018-02-13</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1653</td>
         </tr>

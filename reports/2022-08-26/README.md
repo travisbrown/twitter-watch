@@ -1679,7 +1679,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/teamgreensouth">teamgreensouth</a></td>
             <td>2011-05-14</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>7369</td>
         </tr>
@@ -3076,7 +3076,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LaylaBe4">LaylaBe4</a></td>
             <td>2015-11-24</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1907</td>
         </tr>

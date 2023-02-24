@@ -52,7 +52,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Loveeve65702806">Loveeve65702806</a></td>
             <td>2022-01-13</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>294</td>
             <td>10558</td>

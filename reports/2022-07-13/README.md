@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Biotransgurl">Biotransgurl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/65502976">1 other</a>)&nbsp;</td>
             <td>2009-08-13</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center">🔒</td>
             <td>1163</td>
             <td>1700</td>
@@ -457,7 +457,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UPTOWNGIRL2008">UPTOWNGIRL2008</a></td>
             <td>2008-09-06</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>14715</td>
         </tr>
@@ -1942,7 +1942,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/caddielife">caddielife</a></td>
             <td>2011-03-04</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1696</td>
         </tr>
@@ -2536,7 +2536,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrIHaveAVoice11">MrIHaveAVoice11</a></td>
             <td>2021-06-07</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1254</td>
         </tr>

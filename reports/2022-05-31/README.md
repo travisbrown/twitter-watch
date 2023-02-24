@@ -1011,7 +1011,7 @@ Found 568 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/semperabsurda">semperabsurda</a></td>
             <td>2011-08-16</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>2644</td>
         </tr>

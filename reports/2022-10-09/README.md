@@ -1063,7 +1063,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eskelinen_antti">eskelinen_antti</a></td>
             <td>2014-11-01</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>4902</td>
         </tr>

@@ -594,7 +594,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NFT_Hype_">NFT_Hype_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/594038272">1 other</a>)&nbsp;</td>
             <td>2012-05-29</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>3410</td>
         </tr>

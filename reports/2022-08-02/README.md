@@ -1289,7 +1289,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jafecoro">jafecoro</a></td>
             <td>2009-08-26</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1253</td>
         </tr>

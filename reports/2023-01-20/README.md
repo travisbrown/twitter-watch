@@ -589,7 +589,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Openminded187">Openminded187</a></td>
             <td>2019-01-31</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>7356</td>
         </tr>

@@ -724,7 +724,7 @@ Found 781 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Just4TheCause">Just4TheCause</a></td>
             <td>2014-09-07</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>9702</td>
         </tr>

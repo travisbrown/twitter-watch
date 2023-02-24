@@ -2643,7 +2643,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Last_Comer">Last_Comer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/541234226">1 other</a>)&nbsp;</td>
             <td>2012-03-31</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1496</td>
         </tr>

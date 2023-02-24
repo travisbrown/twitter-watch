@@ -1272,7 +1272,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scottstead">scottstead</a></td>
             <td>2007-04-16</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>2459</td>
         </tr>
@@ -1382,7 +1382,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/STEFisDOPE__">STEFisDOPE__</a></td>
             <td>2019-02-23</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>2255</td>
         </tr>
@@ -1877,7 +1877,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JuliqaLoveDream">JuliqaLoveDream</a></td>
             <td>2021-10-18</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1126</td>
         </tr>

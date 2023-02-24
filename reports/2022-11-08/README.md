@@ -424,7 +424,7 @@ Found 52 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/X_Lord">X_Lord</a></td>
             <td>2010-12-21</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1997</td>
             <td>61611</td>
@@ -5127,7 +5127,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeanpieranaya">jeanpieranaya</a></td>
             <td>2020-03-03</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1458</td>
         </tr>

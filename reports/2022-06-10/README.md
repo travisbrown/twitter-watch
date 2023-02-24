@@ -665,7 +665,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BegenDaniel">BegenDaniel</a></td>
             <td>2020-05-27</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>4400</td>
         </tr>

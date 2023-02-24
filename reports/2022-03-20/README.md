@@ -638,7 +638,7 @@ Found 706 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cheeseo76847269">Cheeseo76847269</a></td>
             <td>2020-06-25</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>17711</td>
         </tr>
@@ -1144,7 +1144,7 @@ Found 706 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vicesam">vicesam</a></td>
             <td>2008-12-12</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>2546</td>
         </tr>

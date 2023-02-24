@@ -1194,7 +1194,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CamillahEssays">CamillahEssays</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1412700368425959425">1 other</a>)&nbsp;</td>
             <td>2021-07-07</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>12393</td>
         </tr>

@@ -1588,7 +1588,7 @@ Found 710 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/7Proof5Diamonds">7Proof5Diamonds</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1234525962043158529">16 others</a>)&nbsp;</td>
             <td>2020-03-02</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>2082</td>
         </tr>

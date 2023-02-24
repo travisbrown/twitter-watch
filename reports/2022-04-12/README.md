@@ -1438,7 +1438,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HamiltonHammi">HamiltonHammi</a></td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1577</td>
         </tr>

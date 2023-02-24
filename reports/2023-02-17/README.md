@@ -678,7 +678,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cindy54dogmom">cindy54dogmom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1492087406576615426">1 other</a>)&nbsp;</td>
             <td>2022-02-11</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1672</td>
         </tr>

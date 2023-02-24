@@ -294,7 +294,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KhalifahMedia">KhalifahMedia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/309416483">6 others</a>)&nbsp;</td>
             <td>2011-06-02</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>177053</td>
         </tr>

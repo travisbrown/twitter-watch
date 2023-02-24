@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PacificPopulist">PacificPopulist</a></td>
             <td>2021-05-27</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>930</td>
             <td>2721</td>
@@ -1305,7 +1305,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Latinos4__Trump">Latinos4__Trump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1414260941995249664">4 others</a>)&nbsp;</td>
             <td>2021-07-11</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>7725</td>
         </tr>
@@ -2361,7 +2361,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SUPERKAl64">SUPERKAl64</a></td>
             <td>2021-06-05</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1674</td>
         </tr>

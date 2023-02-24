@@ -920,7 +920,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DarrellBuckne13">DarrellBuckne13</a></td>
             <td>2020-10-18</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>4156</td>
         </tr>
@@ -931,7 +931,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dboik0104">dboik0104</a></td>
             <td>2012-08-23</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>3900</td>
         </tr>

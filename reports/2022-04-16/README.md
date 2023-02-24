@@ -609,7 +609,7 @@ Found 268 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/itsjerion">itsjerion</a></td>
             <td>2016-12-24</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center">🔒</td>
             <td>1091</td>
         </tr>

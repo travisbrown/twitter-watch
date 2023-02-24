@@ -1080,7 +1080,7 @@ Found 1021 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ValVenisEnt">ValVenisEnt</a></td>
             <td>2009-09-05</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>30854</td>
         </tr>

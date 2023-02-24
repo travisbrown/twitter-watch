@@ -2113,7 +2113,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Arroyo1_">Arroyo1_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1028846365693095936">8 others</a>)&nbsp;</td>
             <td>2018-08-13</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1146</td>
         </tr>

@@ -1111,7 +1111,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TSvetlanab">TSvetlanab</a></td>
             <td>2019-06-10</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>3522</td>
         </tr>

@@ -1843,7 +1843,7 @@ Found 841 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DoNotComply29">DoNotComply29</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1406348765443862534">4 others</a>)&nbsp;</td>
             <td>2021-06-19</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1669</td>
         </tr>

@@ -1591,7 +1591,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SAudet80">SAudet80</a></td>
             <td>2020-06-27</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>3094</td>
         </tr>

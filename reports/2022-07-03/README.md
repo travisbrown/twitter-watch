@@ -4177,7 +4177,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeanne_trump">jeanne_trump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230211413177753601">1 other</a>)&nbsp;</td>
             <td>2020-02-19</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>3828</td>
         </tr>

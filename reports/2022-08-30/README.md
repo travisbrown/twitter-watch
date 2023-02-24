@@ -1017,7 +1017,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jazonuxlay">jazonuxlay</a></td>
             <td>2016-11-18</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>4436</td>
         </tr>

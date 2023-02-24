@@ -973,7 +973,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VallachianR">VallachianR</a></td>
             <td>2020-12-31</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>5802</td>
         </tr>
@@ -1336,7 +1336,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntiJourno">AntiJourno</a></td>
             <td>2021-03-02</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>2109</td>
         </tr>

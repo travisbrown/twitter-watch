@@ -1043,7 +1043,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/B5001001101">B5001001101</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381850607628255234">2 others</a>)&nbsp;</td>
             <td>2021-04-13</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>3129</td>
         </tr>
@@ -1296,7 +1296,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CedarPosts">CedarPosts</a></td>
             <td>2009-03-25</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1981</td>
         </tr>
@@ -1483,7 +1483,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TMACWICK">TMACWICK</a></td>
             <td>2022-06-25</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1412</td>
         </tr>

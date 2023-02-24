@@ -2249,7 +2249,7 @@ Found 1148 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrailerTrash911">TrailerTrash911</a></td>
             <td>2016-11-14</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1898</td>
         </tr>

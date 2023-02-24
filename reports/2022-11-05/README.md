@@ -1161,7 +1161,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lifeofNarcisist">lifeofNarcisist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2611296970">1 other</a>)&nbsp;</td>
             <td>2014-06-15</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>2697</td>
         </tr>

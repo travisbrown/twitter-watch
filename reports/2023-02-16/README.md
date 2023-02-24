@@ -560,7 +560,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/russianjewess">russianjewess</a></td>
             <td>2016-06-21</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>5679</td>
         </tr>
@@ -1231,7 +1231,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ACCRAWFORDUSA">ACCRAWFORDUSA</a></td>
             <td>2010-10-19</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>1419</td>
         </tr>

@@ -837,7 +837,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TenaciousEye">TenaciousEye</a></td>
             <td>2013-06-26</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>4521</td>
         </tr>
@@ -1222,7 +1222,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AutoArtMachine">AutoArtMachine</a></td>
             <td>2020-01-02</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>1788</td>
         </tr>

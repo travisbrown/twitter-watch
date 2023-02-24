@@ -1027,7 +1027,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Scavino45">Scavino45</a></td>
             <td>2017-01-23</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>786613</td>
         </tr>
@@ -4085,7 +4085,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealJackGillies">RealJackGillies</a></td>
             <td>2015-10-19</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>8867</td>
         </tr>
@@ -6054,7 +6054,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LolitaLeRetour">LolitaLeRetour</a></td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>5856</td>
         </tr>
@@ -16306,7 +16306,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RaiseToLight">RaiseToLight</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1314410867447025664">1 other</a>)&nbsp;</td>
             <td>2020-10-09</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>2372</td>
         </tr>
@@ -19771,7 +19771,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Doctr__Wang">Doctr__Wang</a></td>
             <td>2014-07-30</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>2026</td>
         </tr>

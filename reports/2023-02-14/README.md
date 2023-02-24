@@ -161,7 +161,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KennethFCrowe1">KennethFCrowe1</a></td>
             <td>2021-10-14</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>37252</td>
         </tr>
@@ -579,7 +579,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bstrat515">bstrat515</a></td>
             <td>2021-03-30</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>4294</td>
         </tr>
@@ -645,7 +645,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mairimharry1">mairimharry1</a></td>
             <td>2022-01-30</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>3647</td>
         </tr>
@@ -909,7 +909,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KiqueMarkPlus">KiqueMarkPlus</a></td>
             <td>2021-08-12</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1765</td>
         </tr>

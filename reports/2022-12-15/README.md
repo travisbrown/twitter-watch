@@ -434,7 +434,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shoesandhose">shoesandhose</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/965040934072152064">1 other</a>)&nbsp;</td>
             <td>2018-02-18</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>29096</td>
         </tr>

@@ -968,7 +968,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Markonichiwa">Markonichiwa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1153092377030135809">2 others</a>)&nbsp;</td>
             <td>2019-07-22</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>4651</td>
         </tr>
@@ -1760,7 +1760,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aarjunx">aarjunx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/919035847046938624">3 others</a>)&nbsp;</td>
             <td>2017-10-14</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1439</td>
         </tr>

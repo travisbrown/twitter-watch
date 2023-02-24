@@ -1890,7 +1890,7 @@ Found 2631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SOZlALISMUS">SOZlALISMUS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/992631124127043584">1 other</a>)&nbsp;</td>
             <td>2018-05-05</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1788</td>
         </tr>

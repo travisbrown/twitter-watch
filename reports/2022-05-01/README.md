@@ -1155,7 +1155,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pdf00587301">pdf00587301</a></td>
             <td>2019-10-04</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>2783</td>
         </tr>

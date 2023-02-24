@@ -124,7 +124,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/1800COUNTRY">1800COUNTRY</a></td>
             <td>2009-05-06</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>630</td>
             <td>24036</td>
@@ -4665,7 +4665,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/henryberm">henryberm</a></td>
             <td>2010-05-08</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center">🔒</td>
             <td>1098</td>
         </tr>

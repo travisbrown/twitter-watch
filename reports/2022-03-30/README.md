@@ -1551,7 +1551,7 @@ Found 867 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KarolStephens">KarolStephens</a></td>
             <td>2011-09-19</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1512</td>
         </tr>

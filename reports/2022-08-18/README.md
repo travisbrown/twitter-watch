@@ -1084,7 +1084,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThomasJoly60">ThomasJoly60</a></td>
             <td>2013-02-18</td>
-            <td></td>
+            <td>2023-02-21</td>
             <td align="center"></td>
             <td>5026</td>
         </tr>
@@ -1777,7 +1777,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JediTimbob">JediTimbob</a></td>
             <td>2010-11-19</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>2113</td>
         </tr>
@@ -2525,7 +2525,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gcstrippers">gcstrippers</a></td>
             <td>2011-01-22</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>1200</td>
         </tr>

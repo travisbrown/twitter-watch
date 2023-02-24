@@ -1371,7 +1371,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/elisha1022">elisha1022</a></td>
             <td>2013-04-05</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>4599</td>
         </tr>
@@ -1613,7 +1613,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rouge_Rosie">Rouge_Rosie</a></td>
             <td>2022-01-10</td>
-            <td></td>
+            <td>2023-02-19</td>
             <td align="center"></td>
             <td>1946</td>
         </tr>
@@ -1855,7 +1855,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ufuk98735947">Ufuk98735947</a></td>
             <td>2021-06-18</td>
-            <td></td>
+            <td>2023-02-20</td>
             <td align="center"></td>
             <td>1352</td>
         </tr>

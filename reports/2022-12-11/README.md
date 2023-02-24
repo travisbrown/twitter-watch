@@ -148,7 +148,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CoolGuySynth">CoolGuySynth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1537120642759282688">1 other</a>)&nbsp;</td>
             <td>2022-06-15</td>
-            <td></td>
+            <td>2023-02-22</td>
             <td align="center"></td>
             <td>2863</td>
             <td>30755</td>
@@ -244,7 +244,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Jack__Daniel___">Jack__Daniel___</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1395193447464775682">1 other</a>)&nbsp;</td>
             <td>2021-05-20</td>
-            <td></td>
+            <td>2023-02-18</td>
             <td align="center"></td>
             <td>49875</td>
             <td>59373</td>
