@@ -88,7 +88,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Sugarface10">Sugarface10</a></td>
             <td>2017-12-12</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>293</td>
             <td>3483</td>

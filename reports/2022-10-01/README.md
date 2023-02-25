@@ -1347,7 +1347,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/victoriayasemin">victoriayasemin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1276856899300925444">1 other</a>)&nbsp;</td>
             <td>2020-06-27</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>4218</td>
         </tr>

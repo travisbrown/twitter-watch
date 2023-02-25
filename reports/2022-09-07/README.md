@@ -1950,7 +1950,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SeanTagmonkee">SeanTagmonkee</a></td>
             <td>2014-12-08</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1052</td>
         </tr>

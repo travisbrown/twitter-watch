@@ -28,7 +28,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/crackconnoisser">crackconnoisser</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1393240605828993028">2 others</a>)&nbsp;</td>
             <td>2021-05-14</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>80314</td>
             <td>173</td>

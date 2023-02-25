@@ -734,7 +734,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FeminiTrance">FeminiTrance</a></td>
             <td>2018-12-22</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>3359</td>
         </tr>

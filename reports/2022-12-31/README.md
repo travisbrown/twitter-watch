@@ -64,7 +64,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Starswithtigers">Starswithtigers</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>779</td>
             <td>9159</td>
@@ -1360,7 +1360,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AjoAriSikumbang">AjoAriSikumbang</a></td>
             <td>2021-01-30</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1785</td>
         </tr>

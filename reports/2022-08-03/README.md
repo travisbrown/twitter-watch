@@ -40,7 +40,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AJWasRight">AJWasRight</a></td>
             <td>2021-11-10</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>2391</td>
             <td>1658</td>

@@ -1747,7 +1747,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/allam_allam">allam_allam</a></td>
             <td>2010-06-23</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>3028</td>
         </tr>

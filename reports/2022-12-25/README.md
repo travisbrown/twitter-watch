@@ -40,7 +40,7 @@ Found 18 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CL0WNPlECE">CL0WNPlECE</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1358041954785853499">2 others</a>)&nbsp;</td>
             <td>2021-02-06</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1006</td>
             <td>2820</td>

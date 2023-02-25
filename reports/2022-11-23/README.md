@@ -1278,7 +1278,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fuckyourputs">fuckyourputs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2452991478">2 others</a>)&nbsp;</td>
             <td>2014-04-19</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>7920</td>
         </tr>
@@ -1718,7 +1718,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/veronikathemf">veronikathemf</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389928417689284610">2 others</a>)&nbsp;</td>
             <td>2021-05-05</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>3516</td>
         </tr>
@@ -2081,7 +2081,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cphmemphis">cphmemphis</a></td>
             <td>2011-04-13</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>2150</td>
         </tr>

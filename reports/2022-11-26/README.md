@@ -100,7 +100,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/day_wordofthe">day_wordofthe</a></td>
             <td>2022-04-18</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1608</td>
             <td>21484</td>

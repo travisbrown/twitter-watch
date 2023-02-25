@@ -691,7 +691,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eloiaragao">eloiaragao</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/42648107">1 other</a>)&nbsp;</td>
             <td>2009-05-26</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>2517</td>
         </tr>

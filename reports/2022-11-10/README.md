@@ -208,7 +208,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/lalalasputin69">lalalasputin69</a></td>
             <td>2022-05-24</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>227</td>
             <td>35154</td>

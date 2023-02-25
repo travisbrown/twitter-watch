@@ -2198,7 +2198,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/realjoshuareid">realjoshuareid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/904811819335688192">2 others</a>)&nbsp;</td>
             <td>2017-09-04</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>6859</td>
         </tr>

@@ -1337,7 +1337,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VarejaoAndrea">VarejaoAndrea</a></td>
             <td>2018-11-01</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>2206</td>
         </tr>

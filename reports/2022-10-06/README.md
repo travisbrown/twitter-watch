@@ -28,7 +28,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DetachWestern">DetachWestern</a></td>
             <td>2021-07-08</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>5436</td>
             <td>1081</td>

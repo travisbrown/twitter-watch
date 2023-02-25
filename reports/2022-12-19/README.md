@@ -220,7 +220,7 @@ Found 21 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NulledValue">NulledValue</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/947677980968468480">1 other</a>)&nbsp;</td>
             <td>2018-01-01</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>127</td>
             <td>64917</td>

@@ -1097,7 +1097,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JanetBailes">JanetBailes</a></td>
             <td>2017-09-23</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>2939</td>
         </tr>

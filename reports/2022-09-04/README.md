@@ -704,7 +704,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DHollyday7">DHollyday7</a></td>
             <td>2020-04-05</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>14429</td>
         </tr>

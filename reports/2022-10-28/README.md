@@ -4387,7 +4387,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StocksRocks">StocksRocks</a></td>
             <td>2009-11-04</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1264</td>
         </tr>

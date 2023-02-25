@@ -1008,7 +1008,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MissSugarMoon">MissSugarMoon</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1115088139167518723">12 others</a>)&nbsp;</td>
             <td>2019-04-08</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>4319</td>
         </tr>

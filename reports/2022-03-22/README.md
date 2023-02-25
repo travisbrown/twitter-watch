@@ -2142,7 +2142,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BaroneModerato">BaroneModerato</a></td>
             <td>2021-01-15</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1252</td>
         </tr>

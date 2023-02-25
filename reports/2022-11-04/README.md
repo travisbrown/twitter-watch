@@ -3084,7 +3084,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ccn_sandra">ccn_sandra</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/849731299929595904">1 other</a>)&nbsp;</td>
             <td>2017-04-05</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1075</td>
         </tr>

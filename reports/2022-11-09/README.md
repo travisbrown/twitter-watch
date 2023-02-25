@@ -880,7 +880,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bombfantassssy">bombfantassssy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/78681931">7 others</a>)&nbsp;</td>
             <td>2009-09-30</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center">🔒</td>
             <td>190411</td>
         </tr>

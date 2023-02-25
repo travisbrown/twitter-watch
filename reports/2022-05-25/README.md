@@ -2066,7 +2066,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BMRSNR4">BMRSNR4</a></td>
             <td>2020-01-06</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1405</td>
         </tr>

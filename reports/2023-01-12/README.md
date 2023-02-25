@@ -824,7 +824,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chifacro">chifacro</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4170682492">6 others</a>)&nbsp;</td>
             <td>2015-11-12</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>5320</td>
         </tr>

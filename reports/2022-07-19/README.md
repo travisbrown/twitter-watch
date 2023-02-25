@@ -1848,7 +1848,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zeruiduarte">zeruiduarte</a></td>
             <td>2011-01-24</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1844</td>
         </tr>

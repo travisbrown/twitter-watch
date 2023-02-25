@@ -1524,7 +1524,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sanfercore">sanfercore</a></td>
             <td>2010-07-02</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>1297</td>
         </tr>

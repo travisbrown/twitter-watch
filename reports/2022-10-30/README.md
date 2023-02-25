@@ -2332,7 +2332,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/incelchud">incelchud</a></td>
             <td>2020-10-24</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1340</td>
             <td>31344</td>

@@ -1039,7 +1039,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JTB891">JTB891</a></td>
             <td>2014-10-09</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1094</td>
         </tr>

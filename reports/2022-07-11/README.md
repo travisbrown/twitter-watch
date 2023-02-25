@@ -1123,7 +1123,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RipoliMarcia">RipoliMarcia</a></td>
             <td>2018-11-27</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1855</td>
         </tr>
@@ -1772,7 +1772,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/winniemanu">winniemanu</a></td>
             <td>2010-12-20</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1069</td>
         </tr>

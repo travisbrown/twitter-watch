@@ -953,7 +953,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlogPequi">BlogPequi</a></td>
             <td>2019-11-01</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>6113</td>
         </tr>
@@ -1877,7 +1877,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joseantonioni10">joseantonioni10</a></td>
             <td>2013-01-30</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>1831</td>
         </tr>

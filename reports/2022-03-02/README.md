@@ -1561,7 +1561,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MitchEganSlate">MitchEganSlate</a></td>
             <td>2012-11-30</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1765</td>
         </tr>

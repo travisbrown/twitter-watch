@@ -1716,7 +1716,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KJRXWORLD">KJRXWORLD</a></td>
             <td>2022-01-05</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>2156</td>
         </tr>

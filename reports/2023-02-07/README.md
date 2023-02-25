@@ -494,7 +494,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CUBAGWYNFOR">CUBAGWYNFOR</a></td>
             <td>2010-11-29</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>3326</td>
         </tr>

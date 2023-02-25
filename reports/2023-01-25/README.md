@@ -749,7 +749,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pitreblake">pitreblake</a></td>
             <td>2013-08-04</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>5386</td>
         </tr>

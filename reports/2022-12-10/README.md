@@ -1861,7 +1861,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheAnimeGuy80">TheAnimeGuy80</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1392648341322752001">2 others</a>)&nbsp;</td>
             <td>2021-05-13</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1337</td>
         </tr>

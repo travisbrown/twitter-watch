@@ -404,7 +404,7 @@ Found 1269 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/helenosborne21">helenosborne21</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1421651501265661953">1 other</a>)&nbsp;</td>
             <td>2021-08-01</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center">🔒</td>
             <td>3066</td>
         </tr>

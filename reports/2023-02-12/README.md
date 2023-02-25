@@ -279,7 +279,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HodrigoBN">HodrigoBN</a></td>
             <td>2009-06-17</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>5145</td>
         </tr>

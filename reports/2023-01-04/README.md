@@ -148,7 +148,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Katy1927">Katy1927</a></td>
             <td>2011-03-02</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>2284</td>
             <td>94726</td>

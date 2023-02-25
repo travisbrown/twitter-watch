@@ -1330,7 +1330,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PaulALu95766696">PaulALu95766696</a></td>
             <td>2018-02-17</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1179</td>
         </tr>

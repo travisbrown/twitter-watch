@@ -729,7 +729,7 @@ Found 691 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pinkichiban">pinkichiban</a></td>
             <td>2011-01-31</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>5521</td>
         </tr>

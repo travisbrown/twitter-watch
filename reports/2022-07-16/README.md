@@ -2964,7 +2964,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jefoster_">jefoster_</a></td>
             <td>2012-12-13</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>2985</td>
         </tr>

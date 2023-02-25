@@ -667,7 +667,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/super_Boosters">super_Boosters</a></td>
             <td>2022-01-28</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1677</td>
         </tr>

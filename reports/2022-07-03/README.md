@@ -3220,7 +3220,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CesarTorres2014">CesarTorres2014</a></td>
             <td>2013-05-10</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>9688</td>
         </tr>

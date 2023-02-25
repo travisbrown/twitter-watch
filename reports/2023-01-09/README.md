@@ -401,7 +401,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Neo_Serval">Neo_Serval</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1064265038721179648">1 other</a>)&nbsp;</td>
             <td>2018-11-18</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>16265</td>
         </tr>

@@ -1850,7 +1850,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavesWondering">DavesWondering</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1249249030544265216">1 other</a>)&nbsp;</td>
             <td>2020-04-12</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>3063</td>
         </tr>

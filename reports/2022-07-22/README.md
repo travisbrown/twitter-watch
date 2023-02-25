@@ -1334,7 +1334,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ferdeg2017">Ferdeg2017</a></td>
             <td>2018-09-08</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>12294</td>
         </tr>
@@ -2896,7 +2896,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Long2012Long">Long2012Long</a></td>
             <td>2013-06-26</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1244</td>
         </tr>

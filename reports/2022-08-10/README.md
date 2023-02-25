@@ -3432,7 +3432,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pierre_zmn">pierre_zmn</a></td>
             <td>2021-06-30</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>1100</td>
         </tr>

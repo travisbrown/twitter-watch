@@ -6472,7 +6472,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RonaldBruceBar3">RonaldBruceBar3</a></td>
             <td>2016-06-15</td>
-            <td></td>
+            <td>2023-02-24</td>
             <td align="center"></td>
             <td>5463</td>
         </tr>
@@ -31915,7 +31915,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chalooterhooter">chalooterhooter</a></td>
             <td>2021-11-14</td>
-            <td></td>
+            <td>2023-02-23</td>
             <td align="center"></td>
             <td>1238</td>
         </tr>

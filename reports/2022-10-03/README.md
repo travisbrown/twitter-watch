@@ -1756,7 +1756,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/itz_colossal">itz_colossal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1281213982993313792">5 others</a>)&nbsp;</td>
             <td>2020-07-09</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1249</td>
         </tr>
