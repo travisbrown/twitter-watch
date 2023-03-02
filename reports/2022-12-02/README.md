@@ -4489,7 +4489,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lightsiderider">lightsiderider</a></td>
             <td>2022-06-22</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1156</td>
         </tr>

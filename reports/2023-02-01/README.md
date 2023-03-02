@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/UltraDane">UltraDane</a></td>
             <td>2022-06-16</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>18342</td>
             <td>759</td>

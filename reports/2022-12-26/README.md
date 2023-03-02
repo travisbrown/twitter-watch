@@ -124,7 +124,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/sillysexual">sillysexual</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1172996602556010496">5 others</a>)&nbsp;</td>
             <td>2019-09-14</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>918</td>
             <td>44067</td>

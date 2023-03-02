@@ -892,7 +892,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gt_lotrz">gt_lotrz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/89492514">69 others</a>)&nbsp;</td>
             <td>2009-11-12</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>6264</td>
         </tr>

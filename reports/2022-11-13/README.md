@@ -1336,7 +1336,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/desintoxicacao">desintoxicacao</a></td>
             <td>2019-09-23</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1208</td>
         </tr>

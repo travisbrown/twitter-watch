@@ -891,7 +891,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kathysadr1967">Kathysadr1967</a></td>
             <td>2016-07-06</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>5427</td>
         </tr>

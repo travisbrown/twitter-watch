@@ -1307,7 +1307,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rasored">rasored</a></td>
             <td>2010-08-24</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1068</td>
         </tr>

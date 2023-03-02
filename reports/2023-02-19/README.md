@@ -472,7 +472,7 @@ Found 2294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BruceNgima">BruceNgima</a></td>
             <td>2013-05-14</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>2795</td>
         </tr>
@@ -681,7 +681,7 @@ Found 2294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaleJStevens5">DaleJStevens5</a></td>
             <td>2022-09-04</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1272</td>
         </tr>

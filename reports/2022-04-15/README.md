@@ -1908,7 +1908,7 @@ Found 1148 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nicolelenoir">nicolelenoir</a></td>
             <td>2009-04-18</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>3020</td>
         </tr>

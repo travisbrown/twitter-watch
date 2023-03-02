@@ -1145,7 +1145,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JairoFLima1">JairoFLima1</a></td>
             <td>2020-08-10</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>10695</td>
         </tr>

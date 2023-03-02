@@ -1005,7 +1005,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/danblackroyd">danblackroyd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/95021503">1 other</a>)&nbsp;</td>
             <td>2009-12-06</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>8749</td>
         </tr>

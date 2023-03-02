@@ -184,7 +184,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/G_Eats_Midwits">G_Eats_Midwits</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/834176674250027008">1 other</a>)&nbsp;</td>
             <td>2017-02-21</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>745</td>
             <td>24275</td>
@@ -2353,7 +2353,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lili15t">Lili15t</a></td>
             <td>2022-02-09</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>3060</td>
         </tr>

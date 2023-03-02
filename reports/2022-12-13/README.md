@@ -502,7 +502,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/realMONAAZAR">realMONAAZAR</a></td>
             <td>2020-05-28</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>243078</td>
         </tr>

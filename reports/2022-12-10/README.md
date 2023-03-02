@@ -256,7 +256,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JesusECast">JesusECast</a></td>
             <td>2021-09-20</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>5948</td>
             <td>99264</td>

@@ -219,7 +219,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/junessuh">junessuh</a></td>
             <td>2020-11-25</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>41120</td>
         </tr>

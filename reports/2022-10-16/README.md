@@ -1563,7 +1563,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Yankeebol1">Yankeebol1</a></td>
             <td>2022-04-12</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>1243</td>
         </tr>

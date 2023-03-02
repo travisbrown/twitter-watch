@@ -84,7 +84,7 @@ Found 887 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Snaihtniroccccc">Snaihtniroccccc</a></td>
             <td>2022-02-17</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>125183</td>
         </tr>

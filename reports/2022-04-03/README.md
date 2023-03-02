@@ -683,7 +683,7 @@ Found 958 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nikiforova1967">Nikiforova1967</a></td>
             <td>2018-12-09</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>2412</td>
         </tr>

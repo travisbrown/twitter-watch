@@ -4060,7 +4060,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/arrdente">arrdente</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/797743383506808832">2 others</a>)&nbsp;</td>
             <td>2016-11-13</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1269</td>
         </tr>

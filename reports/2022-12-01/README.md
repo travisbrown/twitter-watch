@@ -28,7 +28,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/patr1ot_p">patr1ot_p</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1447448627362869250">4 others</a>)&nbsp;</td>
             <td>2021-10-11</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>16878</td>
             <td>593</td>

@@ -256,7 +256,7 @@ Found 23 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GigiAJLW">GigiAJLW</a></td>
             <td>2021-04-23</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>386</td>
             <td>80537</td>
@@ -2512,7 +2512,7 @@ Found 2171 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Spaniardo10">Spaniardo10</a></td>
             <td>2009-09-07</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1701</td>
         </tr>

@@ -1221,7 +1221,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RevenKV">RevenKV</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1546056582508777474">1 other</a>)&nbsp;</td>
             <td>2022-07-10</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>5557</td>
         </tr>
@@ -1474,7 +1474,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AgainstTrudeau">AgainstTrudeau</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1069317606983782400">8 others</a>)&nbsp;</td>
             <td>2018-12-02</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>3441</td>
         </tr>
@@ -2684,7 +2684,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArsVampyre">ArsVampyre</a></td>
             <td>2009-04-20</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1136</td>
         </tr>

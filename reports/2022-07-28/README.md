@@ -2886,7 +2886,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MichaelSlawso15">MichaelSlawso15</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1921</td>
         </tr>

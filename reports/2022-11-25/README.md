@@ -172,7 +172,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/blitz204">blitz204</a></td>
             <td>2019-12-17</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>197</td>
             <td>49498</td>
@@ -713,7 +713,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndradeRNegro2">AndradeRNegro2</a></td>
             <td>2019-09-24</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>48490</td>
         </tr>
@@ -2253,7 +2253,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mxriafernanda">mxriafernanda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2893517445">7 others</a>)&nbsp;</td>
             <td>2014-11-26</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1529</td>
         </tr>
@@ -2682,7 +2682,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/acdoctor88">acdoctor88</a></td>
             <td>2022-04-08</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1150</td>
         </tr>

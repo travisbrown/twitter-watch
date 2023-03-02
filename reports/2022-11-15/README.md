@@ -1923,7 +1923,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LouiseDalBetto">LouiseDalBetto</a></td>
             <td>2021-12-23</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>2245</td>
         </tr>

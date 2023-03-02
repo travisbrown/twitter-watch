@@ -1289,7 +1289,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bullburton">bullburton</a></td>
             <td>2011-07-18</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>10006</td>
         </tr>

@@ -2169,7 +2169,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jpcardenas74">Jpcardenas74</a></td>
             <td>2022-04-30</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1344</td>
         </tr>
@@ -2224,7 +2224,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Elderta">Elderta</a></td>
             <td>2009-01-17</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1291</td>
         </tr>

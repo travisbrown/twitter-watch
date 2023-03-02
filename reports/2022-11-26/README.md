@@ -136,7 +136,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NightHawkRides">NightHawkRides</a></td>
             <td>2021-12-09</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>225</td>
             <td>45272</td>

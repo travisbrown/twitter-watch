@@ -2297,7 +2297,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LizConti3">LizConti3</a></td>
             <td>2011-11-12</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1402</td>
         </tr>

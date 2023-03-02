@@ -1265,7 +1265,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FITgirlonFIRE">FITgirlonFIRE</a></td>
             <td>2015-09-07</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1532</td>
         </tr>
@@ -1496,7 +1496,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SenseReceptor">SenseReceptor</a></td>
             <td>2021-01-31</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1264</td>
         </tr>

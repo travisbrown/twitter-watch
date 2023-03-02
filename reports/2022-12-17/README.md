@@ -854,7 +854,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PATUS2021">PATUS2021</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1589540160">3 others</a>)&nbsp;</td>
             <td>2013-07-12</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center">🔒</td>
             <td>3217</td>
         </tr>

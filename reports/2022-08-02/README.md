@@ -992,7 +992,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/meek_caroline">meek_caroline</a></td>
             <td>2012-08-21</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1945</td>
         </tr>

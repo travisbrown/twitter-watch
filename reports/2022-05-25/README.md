@@ -1846,7 +1846,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/breezeinwood">breezeinwood</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/855169002582167552">3 others</a>)&nbsp;</td>
             <td>2017-04-20</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>1643</td>
         </tr>

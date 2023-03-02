@@ -682,7 +682,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/k6noo">k6noo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1177336119249313794">17 others</a>)&nbsp;</td>
             <td>2019-09-26</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>6230</td>
         </tr>

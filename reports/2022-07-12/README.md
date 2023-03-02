@@ -2448,7 +2448,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DieseNosferatu">DieseNosferatu</a></td>
             <td>2020-10-14</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1234</td>
         </tr>

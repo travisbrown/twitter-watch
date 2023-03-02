@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DiglyBigly">DiglyBigly</a></td>
             <td>2021-11-02</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>46</td>
             <td>20955</td>
@@ -64,7 +64,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheDozensMemes">TheDozensMemes</a></td>
             <td>2022-04-04</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>210</td>
             <td>55410</td>
@@ -141,7 +141,7 @@ Found 676 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LORD420__">LORD420__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1540954340403433472">2 others</a>)&nbsp;</td>
             <td>2022-06-26</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>5182</td>
         </tr>
@@ -339,7 +339,7 @@ Found 676 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Oxterkejoeet">Oxterkejoeet</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1562242078737805312">20 others</a>)&nbsp;</td>
             <td>2022-08-24</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1323</td>
         </tr>

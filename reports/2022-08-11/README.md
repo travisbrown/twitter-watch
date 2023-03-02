@@ -2738,7 +2738,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BomaOfPort">BomaOfPort</a></td>
             <td>2022-04-18</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>1293</td>
         </tr>

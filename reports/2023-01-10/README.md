@@ -584,7 +584,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VintageArtCafe">VintageArtCafe</a></td>
             <td>2012-09-05</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>13737</td>
         </tr>
@@ -2036,7 +2036,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatriarkaSuprm0">PatriarkaSuprm0</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1278289335981408256">2 others</a>)&nbsp;</td>
             <td>2020-07-01</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1181</td>
         </tr>

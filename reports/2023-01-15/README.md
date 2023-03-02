@@ -2103,7 +2103,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AbdoYassin230">AbdoYassin230</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/727866918342959105">1 other</a>)&nbsp;</td>
             <td>2016-05-04</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1055</td>
         </tr>

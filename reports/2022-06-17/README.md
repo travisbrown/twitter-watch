@@ -277,7 +277,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Wildcardxoxo">Wildcardxoxo</a></td>
             <td>2017-08-06</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>169146</td>
         </tr>

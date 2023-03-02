@@ -986,7 +986,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hiimusingtwiter">hiimusingtwiter</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1368281790402555906">1 other</a>)&nbsp;</td>
             <td>2021-03-06</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>1062</td>
         </tr></table>

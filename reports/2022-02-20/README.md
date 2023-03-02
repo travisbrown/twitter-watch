@@ -1212,7 +1212,7 @@ Found 426 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NewsHbar">NewsHbar</a></td>
             <td>2021-01-17</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>2274</td>
         </tr>

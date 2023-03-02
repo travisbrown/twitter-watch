@@ -434,7 +434,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TendayiZinyama">TendayiZinyama</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/198831061">1 other</a>)&nbsp;</td>
             <td>2010-10-05</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>14180</td>
         </tr>

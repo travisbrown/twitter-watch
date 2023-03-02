@@ -540,7 +540,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Irelia_is_god">Irelia_is_god</a></td>
             <td>2017-03-30</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>7117</td>
         </tr>
@@ -793,7 +793,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kurone_suzu_v">kurone_suzu_v</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1287514035219394560">4 others</a>)&nbsp;</td>
             <td>2020-07-26</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>2281</td>
         </tr>

@@ -315,7 +315,7 @@ Found 478 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/adrianxleconte">adrianxleconte</a></td>
             <td>2011-11-18</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>10160</td>
         </tr>

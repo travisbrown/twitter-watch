@@ -818,7 +818,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lespauljunior3">lespauljunior3</a></td>
             <td>2019-09-13</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>2370</td>
         </tr>

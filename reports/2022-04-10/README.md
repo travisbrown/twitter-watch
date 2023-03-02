@@ -1476,7 +1476,7 @@ Found 746 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/digitalfolklore">digitalfolklore</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/181873706">1 other</a>)&nbsp;</td>
             <td>2010-08-23</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1054</td>
         </tr>

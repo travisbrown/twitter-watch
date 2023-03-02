@@ -1239,7 +1239,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/racismobrancos">racismobrancos</a></td>
             <td>2021-09-26</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>9180</td>
         </tr>

@@ -758,7 +758,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BobbySamael">BobbySamael</a></td>
             <td>2022-03-08</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1218</td>
         </tr>

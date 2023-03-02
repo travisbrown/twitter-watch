@@ -172,7 +172,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Pikraft">Pikraft</a></td>
             <td>2013-09-03</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>414</td>
             <td>1630</td>
@@ -4456,7 +4456,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Sneedcity">Sneedcity</a></td>
             <td>2022-06-24</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>25</td>
             <td>95876</td>
@@ -6391,7 +6391,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarioLeb79">MarioLeb79</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1181976745026752512">1 other</a>)&nbsp;</td>
             <td>2019-10-09</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>2798</td>
         </tr>

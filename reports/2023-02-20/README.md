@@ -83,7 +83,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/buguud">buguud</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/223495564">4 others</a>)&nbsp;</td>
             <td>2010-12-06</td>
-            <td></td>
+            <td>2023-02-26</td>
             <td align="center"></td>
             <td>34825</td>
         </tr>

@@ -268,7 +268,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Catholic_Apu">Catholic_Apu</a></td>
             <td>2022-02-03</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>946</td>
             <td>2667</td>
@@ -2224,7 +2224,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/andthenwhatofus">andthenwhatofus</a></td>
             <td>2020-06-14</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>149</td>
             <td>17185</td>
@@ -2920,7 +2920,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LordWOLFSHIELD">LordWOLFSHIELD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2382733897">1 other</a>)&nbsp;</td>
             <td>2014-03-10</td>
-            <td></td>
+            <td>2023-02-25</td>
             <td align="center"></td>
             <td>560</td>
             <td>27563</td>
@@ -4984,7 +4984,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LukeMasonSOHARD">LukeMasonSOHARD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1390122173952626689">1 other</a>)&nbsp;</td>
             <td>2021-05-06</td>
-            <td></td>
+            <td>2023-02-28</td>
             <td align="center"></td>
             <td>494</td>
             <td>88370</td>

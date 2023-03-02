@@ -2510,7 +2510,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/81Tallpaul">81Tallpaul</a></td>
             <td>2020-06-08</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center"></td>
             <td>1094</td>
         </tr>

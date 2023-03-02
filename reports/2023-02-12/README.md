@@ -48,7 +48,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/davialcolumbre">davialcolumbre</a></td>
             <td>2014-07-18</td>
-            <td></td>
+            <td>2023-02-27</td>
             <td align="center">✔️</td>
             <td>410568</td>
         </tr>
