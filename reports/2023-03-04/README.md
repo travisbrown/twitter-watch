@@ -1,0 +1,309 @@
+##  4 March 2023
+
+* [Tracked suspensions (2)](#tracked-suspensions)
+* [Tracked screen name changes (0)](#tracked-screen-name-changes)
+* [Untracked suspensions (22)](#untracked-suspensions)
+
+Please see the [project index](https://github.com/travisbrown/twitter-watch) for more information about the format of this report.
+
+### Tracked suspensions
+
+Found 2 suspensions for tracked accounts.
+  ✔️ indicates that the account was verified and 🔒 that it was locked.
+
+<table>
+    <tr>
+        <th></th>
+        <th align="left">Screen name</th>
+        <th align="left">Created</th>
+        <th align="left">Reversed</th>
+        <th align="left">Status</th>
+        <th align="left">Followers</th>
+        <th align="left">Ranking</th></tr>
+    </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1367348957958012930">
+                <img src="https://pbs.twimg.com/profile_images/1568740885944307712/Kr8KJ633_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/fem_mb">fem_mb</a></td>
+            <td>2021-03-04</td>
+            <td></td>
+            <td align="center"></td>
+            <td>14117</td>
+            <td>647</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=828764756">
+                <img src="https://pbs.twimg.com/profile_images/2619243061/yws0v8xjzmpmckpk8c4j_normal.jpeg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/ArtyomLukin">ArtyomLukin</a></td>
+            <td>2012-09-17</td>
+            <td></td>
+            <td align="center"></td>
+            <td>20146</td>
+            <td>73915</td>
+        </tr></table>
+
+### Tracked screen name changes
+
+Found 0 screen name changes for tracked accounts.
+
+### Untracked suspensions
+
+Found 496 suspensions for untracked accounts.
+22 accounts have more than 1000 followers and are included here.
+  ✔️ indicates that the account was verified and 🔒 that it was locked.
+
+<table>
+    <tr>
+        <th></th>
+        <th align="left">Screen name</th>
+        <th align="left">Created</th>
+        <th align="left">Reversed</th>
+        <th align="left">Status</th>
+        <th align="left">Followers</th>
+    </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1477981246663770116">
+                <img src="https://pbs.twimg.com/profile_images/1478014611567771649/yzzYsgnr_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/MarisolYotta">MarisolYotta</a></td>
+            <td>2022-01-03</td>
+            <td></td>
+            <td align="center"></td>
+            <td>40584</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1924888399">
+                <img src="https://pbs.twimg.com/profile_images/1556258069784526848/QkgJmbzi_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Rosmetics">Rosmetics</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1924888399">1 other</a>)&nbsp;</td>
+            <td>2013-10-01</td>
+            <td></td>
+            <td align="center"></td>
+            <td>20901</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=960277892142915584">
+                <img src="https://pbs.twimg.com/profile_images/1510436005647687693/7DzCX6pR_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/adrimantres">adrimantres</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/960277892142915584">1 other</a>)&nbsp;</td>
+            <td>2018-02-04</td>
+            <td></td>
+            <td align="center"></td>
+            <td>15654</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=892425894073118720">
+                <img src="https://pbs.twimg.com/profile_images/1507330966435647492/BbvtXGc__normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/QICcommunity">QICcommunity</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/892425894073118720">1 other</a>)&nbsp;</td>
+            <td>2017-08-01</td>
+            <td></td>
+            <td align="center"></td>
+            <td>10751</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1479150702886850564">
+                <img src="https://pbs.twimg.com/profile_images/1479151420012171268/iiI7GNdH_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SirMoustache_">SirMoustache_</a></td>
+            <td>2022-01-06</td>
+            <td></td>
+            <td align="center"></td>
+            <td>10538</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=759090314967736320">
+                <img src="https://pbs.twimg.com/profile_images/1025734597370372101/iHE_75Pb_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/AlastairRedman">AlastairRedman</a></td>
+            <td>2016-07-29</td>
+            <td></td>
+            <td align="center"></td>
+            <td>8137</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1452648950163382274">
+                <img src="https://pbs.twimg.com/profile_images/1452649084280455172/FFr_pLPO_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/SNBL668">SNBL668</a></td>
+            <td>2021-10-25</td>
+            <td></td>
+            <td align="center"></td>
+            <td>6243</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=201802498">
+                <img src="https://pbs.twimg.com/profile_images/2401109926/zrwmjvl8k18etp0pyogd_normal.jpeg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/CygnusSEO">CygnusSEO</a></td>
+            <td>2010-10-12</td>
+            <td></td>
+            <td align="center"></td>
+            <td>5194</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1186853093641580544">
+                <img src="https://pbs.twimg.com/profile_images/1523023122261282816/hWVL9GFs_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/NeedNadiaSparks">NeedNadiaSparks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1186853093641580544">2 others</a>)&nbsp;</td>
+            <td>2019-10-23</td>
+            <td></td>
+            <td align="center"></td>
+            <td>3434</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1332027359118192642">
+                <img src="https://pbs.twimg.com/profile_images/1598776924758806542/iI4z86XS_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/FromCanada_org">FromCanada_org</a></td>
+            <td>2020-11-26</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2957</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1433980609458806784">
+                <img src="https://pbs.twimg.com/profile_images/1590701821256925184/FQpV0WDX_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/madethispepe">madethispepe</a></td>
+            <td>2021-09-04</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2763</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1093458385524019200">
+                <img src="https://pbs.twimg.com/profile_images/1591763074695823362/TbLn_9vm_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/nhadatphuocdung">nhadatphuocdung</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1093458385524019200">4 others</a>)&nbsp;</td>
+            <td>2019-02-07</td>
+            <td></td>
+            <td align="center">🔒</td>
+            <td>2446</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1433883387991887911">
+                <img src="https://pbs.twimg.com/profile_images/1592327522452062209/xFdYHgNt_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/weedQKA">weedQKA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1433883387991887911">5 others</a>)&nbsp;</td>
+            <td>2021-09-03</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2223</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=355682046">
+                <img src="https://pbs.twimg.com/profile_images/1502749944414879747/MShVPPDG_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Obaid_Al_Shaer">Obaid_Al_Shaer</a></td>
+            <td>2011-08-15</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2163</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1433770524493156352">
+                <img src="https://pbs.twimg.com/profile_images/1593873647097167872/xzSOecVM_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/weiler_joshua">weiler_joshua</a></td>
+            <td>2021-09-03</td>
+            <td></td>
+            <td align="center"></td>
+            <td>2116</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=331397141">
+                <img src="https://pbs.twimg.com/profile_images/1594079000221126656/5qe7bTnd_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/TAsports14">TAsports14</a></td>
+            <td>2011-07-08</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1754</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1536312099177111552">
+                <img src="https://pbs.twimg.com/profile_images/1557951365665652736/d9NeQRV0_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Richard8_m">Richard8_m</a></td>
+            <td>2022-06-13</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1741</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=26394983">
+                <img src="https://pbs.twimg.com/profile_images/1065087772678127616/aW9oNEJg_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/abbieappel">abbieappel</a></td>
+            <td>2009-03-25</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1623</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1480168777446682625">
+                <img src="https://pbs.twimg.com/profile_images/1480171056316878848/sO0xBYvj_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/babylittle579">babylittle579</a></td>
+            <td>2022-01-09</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1612</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=853524003633287168">
+                <img src="https://pbs.twimg.com/profile_images/864771058640887808/zjdvXR3p_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/manishk84541862">manishk84541862</a></td>
+            <td>2017-04-16</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1404</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=78404000">
+                <img src="https://pbs.twimg.com/profile_images/1245396886774677505/RMy6u_1y_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Frankie_Art">Frankie_Art</a></td>
+            <td>2009-09-29</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1158</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=834866904611291136">
+                <img src="https://pbs.twimg.com/profile_images/1568178514444095488/_BKm9oPR_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/arya_harold">arya_harold</a></td>
+            <td>2017-02-23</td>
+            <td></td>
+            <td align="center"></td>
+            <td>1148</td>
+        </tr></table>
