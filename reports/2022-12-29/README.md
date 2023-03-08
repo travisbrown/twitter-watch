@@ -915,7 +915,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarlEagan1">CarlEagan1</a></td>
             <td>2021-09-26</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>3250</td>
         </tr>

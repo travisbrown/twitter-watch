@@ -160,7 +160,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LordAslanThe2nd">LordAslanThe2nd</a></td>
             <td>2021-03-05</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>537</td>
             <td>56444</td>

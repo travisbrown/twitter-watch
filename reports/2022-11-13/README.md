@@ -136,7 +136,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RayDoobay">RayDoobay</a></td>
             <td>2017-05-11</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1530</td>
             <td>69716</td>

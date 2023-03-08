@@ -971,7 +971,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/loyalmessi">loyalmessi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2890388095">2 others</a>)&nbsp;</td>
             <td>2014-11-05</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>2488</td>
         </tr>

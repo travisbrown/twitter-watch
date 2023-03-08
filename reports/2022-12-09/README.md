@@ -160,7 +160,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/_The_Eye_Test_">_The_Eye_Test_</a></td>
             <td>2022-02-15</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>42</td>
             <td>42008</td>

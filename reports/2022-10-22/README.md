@@ -1725,7 +1725,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CardanoHigh">CardanoHigh</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/394933845">2 others</a>)&nbsp;</td>
             <td>2011-10-20</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>1399</td>
         </tr>

@@ -2297,7 +2297,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/crypto_gsk">crypto_gsk</a></td>
             <td>2021-06-16</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>1551</td>
         </tr>

@@ -52,7 +52,7 @@ Found 28 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JamesOQueefe_v2">JamesOQueefe_v2</a></td>
             <td>2021-10-05</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>192</td>
             <td>3983</td>
@@ -1888,7 +1888,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/parlementor">parlementor</a></td>
             <td>2016-09-12</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>3298</td>
         </tr>

@@ -1350,7 +1350,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nagomiharuka">nagomiharuka</a></td>
             <td>2015-03-06</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>2086</td>
         </tr>

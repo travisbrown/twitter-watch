@@ -196,7 +196,7 @@ Found 60 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/_1010010110101_">_1010010110101_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/712838920493522944">2 others</a>)&nbsp;</td>
             <td>2016-03-24</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>156</td>
             <td>9324</td>
@@ -316,7 +316,7 @@ Found 60 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JohnWes41430664">JohnWes41430664</a></td>
             <td>2022-04-04</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>113</td>
             <td>25861</td>
@@ -1777,7 +1777,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/332sanctioned">332sanctioned</a></td>
             <td>2022-02-07</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>3196</td>
         </tr>
@@ -2074,7 +2074,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jose_vetorasso">jose_vetorasso</a></td>
             <td>2022-05-27</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>1903</td>
         </tr>

@@ -3352,7 +3352,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/petermacpei">petermacpei</a></td>
             <td>2010-12-23</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1824</td>
         </tr>
@@ -3484,7 +3484,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/55cd71ffb56e43a">55cd71ffb56e43a</a></td>
             <td>2017-03-27</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1489</td>
         </tr>

@@ -463,7 +463,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lubovcase">lubovcase</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/794641711">6 others</a>)&nbsp;</td>
             <td>2012-08-31</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>6889</td>
         </tr>

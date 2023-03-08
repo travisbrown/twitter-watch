@@ -474,7 +474,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kirawontmiss">kirawontmiss</a></td>
             <td>2021-12-16</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>861605</td>
         </tr>

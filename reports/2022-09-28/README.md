@@ -2289,7 +2289,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hipermegaprogr1">hipermegaprogr1</a></td>
             <td>2021-12-20</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>1521</td>
         </tr>

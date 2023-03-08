@@ -2305,7 +2305,7 @@ Found 2329 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThehulaG">ThehulaG</a></td>
             <td>2019-02-19</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>1397</td>
         </tr>

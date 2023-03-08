@@ -1013,7 +1013,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreeGameGriff">FreeGameGriff</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/41430815">3 others</a>)&nbsp;</td>
             <td>2009-05-20</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>7140</td>
         </tr>

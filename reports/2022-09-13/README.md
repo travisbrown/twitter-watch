@@ -1643,7 +1643,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Neel__dhar">Neel__dhar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1452855074670084099">1 other</a>)&nbsp;</td>
             <td>2021-10-26</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>2087</td>
         </tr>

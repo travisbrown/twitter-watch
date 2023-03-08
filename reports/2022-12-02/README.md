@@ -1222,7 +1222,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nana_juhainah">nana_juhainah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1229711469358370817">9 others</a>)&nbsp;</td>
             <td>2020-02-18</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>12996</td>
         </tr>

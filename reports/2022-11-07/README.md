@@ -868,7 +868,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MELI88A_">MELI88A_</a></td>
             <td>2016-06-10</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>702</td>
             <td>5585</td>
@@ -4636,7 +4636,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PoltOffi">PoltOffi</a></td>
             <td>2022-04-21</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>328</td>
             <td>78021</td>
@@ -6588,7 +6588,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MikeF2101">MikeF2101</a></td>
             <td>2011-12-05</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>3368</td>
         </tr>
@@ -7600,7 +7600,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DA_Tobey">DA_Tobey</a></td>
             <td>2016-07-29</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center">🔒</td>
             <td>1215</td>
         </tr>

@@ -6762,7 +6762,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Huginmunin91">Huginmunin91</a></td>
             <td>2019-01-13</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1070</td>
         </tr>

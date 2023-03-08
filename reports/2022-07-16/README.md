@@ -1512,7 +1512,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jgus525">jgus525</a></td>
             <td>2016-02-26</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>6972</td>
         </tr>
@@ -2799,7 +2799,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/saneaustinite">saneaustinite</a></td>
             <td>2009-08-31</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>3141</td>
         </tr>

@@ -383,7 +383,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChrisYansky">ChrisYansky</a></td>
             <td>2015-07-19</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>3860</td>
         </tr>
@@ -559,7 +559,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Diindinho">Diindinho</a></td>
             <td>2021-09-03</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>2180</td>
         </tr>

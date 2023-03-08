@@ -1124,7 +1124,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ridemystugots">ridemystugots</a></td>
             <td>2019-06-16</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>3682</td>
         </tr>
@@ -1465,7 +1465,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DruckerIii">DruckerIii</a></td>
             <td>2021-08-17</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>2255</td>
         </tr>
@@ -2048,7 +2048,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HBFTrolls">HBFTrolls</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1538332060837982209">1 other</a>)&nbsp;</td>
             <td>2022-06-19</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1496</td>
         </tr>

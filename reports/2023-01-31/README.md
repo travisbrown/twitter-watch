@@ -275,7 +275,7 @@ Found 2928 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UNCLE_CHIMAX">UNCLE_CHIMAX</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1161996807410466816">2 others</a>)&nbsp;</td>
             <td>2019-08-15</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>4295</td>
         </tr>

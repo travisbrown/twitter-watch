@@ -240,7 +240,7 @@ Found 676 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BitcoinBum2">BitcoinBum2</a></td>
             <td>2021-05-30</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>2181</td>
         </tr>
@@ -383,7 +383,7 @@ Found 676 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sxm_Ruona">Sxm_Ruona</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2972852133">2 others</a>)&nbsp;</td>
             <td>2015-01-11</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>

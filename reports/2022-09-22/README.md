@@ -1547,7 +1547,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blufire3">blufire3</a></td>
             <td>2011-10-17</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>4094</td>
         </tr>

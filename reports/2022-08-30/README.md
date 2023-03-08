@@ -1259,7 +1259,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fullscreenname">fullscreenname</a></td>
             <td>2013-03-20</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>2716</td>
         </tr>

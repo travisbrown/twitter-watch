@@ -388,7 +388,7 @@ Found 51 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dcfpress">dcfpress</a></td>
             <td>2021-05-26</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>724</td>
             <td>40345</td>

@@ -391,7 +391,7 @@ Found 2888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JustinChizurum">JustinChizurum</a></td>
             <td>2022-07-09</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>2121</td>
         </tr>

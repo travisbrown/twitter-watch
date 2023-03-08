@@ -1319,7 +1319,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FletcherJersey">FletcherJersey</a></td>
             <td>2018-11-08</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1425</td>
         </tr>

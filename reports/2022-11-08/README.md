@@ -2399,7 +2399,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JPSp34061067">JPSp34061067</a></td>
             <td>2020-03-05</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>6004</td>
         </tr>

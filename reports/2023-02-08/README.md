@@ -733,7 +733,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cfcmax222">cfcmax222</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1414134375973785600">1 other</a>)&nbsp;</td>
             <td>2021-07-11</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1802</td>
         </tr>

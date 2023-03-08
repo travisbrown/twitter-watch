@@ -1206,7 +1206,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Meenu_NewYork">Meenu_NewYork</a></td>
             <td>2021-06-17</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>5317</td>
         </tr>
@@ -2438,7 +2438,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bharatiya242">Bharatiya242</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1176352392738000897">3 others</a>)&nbsp;</td>
             <td>2019-09-24</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1325</td>
         </tr>

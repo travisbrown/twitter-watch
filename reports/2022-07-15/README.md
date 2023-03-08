@@ -692,7 +692,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AgnessaPlaatje">AgnessaPlaatje</a></td>
             <td>2021-09-12</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>9277</td>
         </tr>
@@ -2166,7 +2166,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sandyqwe">Sandyqwe</a></td>
             <td>2010-02-23</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1317</td>
         </tr>

@@ -908,7 +908,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BBNcatsfan">BBNcatsfan</a></td>
             <td>2015-02-24</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>2646</td>
         </tr>

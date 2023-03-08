@@ -40,7 +40,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RacistTyler34">RacistTyler34</a></td>
             <td>2022-06-09</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>880</td>
             <td>2894</td>
@@ -2941,7 +2941,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RamShanbhoge">RamShanbhoge</a></td>
             <td>2011-10-06</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1179</td>
         </tr>

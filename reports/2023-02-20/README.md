@@ -325,7 +325,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joshuatrees_">joshuatrees_</a></td>
             <td>2021-12-19</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>2818</td>
         </tr>

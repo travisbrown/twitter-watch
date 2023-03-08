@@ -180,7 +180,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SETYAKI22965702">SETYAKI22965702</a></td>
             <td>2020-10-31</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>16101</td>
         </tr>

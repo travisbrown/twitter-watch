@@ -808,7 +808,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/crackcobain__">crackcobain__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/910170158324477952">1 other</a>)&nbsp;</td>
             <td>2017-09-19</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>215636</td>
         </tr>

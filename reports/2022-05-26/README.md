@@ -1281,7 +1281,7 @@ Found 882 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GrokComics">GrokComics</a></td>
             <td>2018-02-16</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1928</td>
         </tr>

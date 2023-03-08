@@ -2258,7 +2258,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/patty_crews">patty_crews</a></td>
             <td>2022-04-11</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>2486</td>
         </tr>

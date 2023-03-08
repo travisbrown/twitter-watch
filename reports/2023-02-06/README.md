@@ -105,7 +105,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Buhlenomuhle">Buhlenomuhle</a></td>
             <td>2021-10-09</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>181560</td>
         </tr>
@@ -633,7 +633,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeeMello70">BeeMello70</a></td>
             <td>2020-05-14</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>2838</td>
         </tr>

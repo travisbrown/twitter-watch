@@ -160,7 +160,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Deeisnotmyname7">Deeisnotmyname7</a></td>
             <td>2022-06-15</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>419</td>
             <td>18358</td>

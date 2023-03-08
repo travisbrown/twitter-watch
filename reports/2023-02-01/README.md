@@ -492,7 +492,7 @@ Found 3248 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thickbadddie">thickbadddie</a></td>
             <td>2022-03-10</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1625</td>
         </tr>

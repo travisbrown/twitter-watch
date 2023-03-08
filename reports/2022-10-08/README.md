@@ -671,7 +671,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pat300000">Pat300000</a></td>
             <td>2020-04-21</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>15424</td>
         </tr>
@@ -1606,7 +1606,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/d33rox">d33rox</a></td>
             <td>2021-12-03</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1443</td>
         </tr>

@@ -1052,7 +1052,7 @@ Found 1703 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EKantorovich">EKantorovich</a></td>
             <td>2017-03-30</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>2188</td>
         </tr>

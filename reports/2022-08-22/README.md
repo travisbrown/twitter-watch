@@ -1388,7 +1388,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FarsaPandemia">FarsaPandemia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/575391835">1 other</a>)&nbsp;</td>
             <td>2012-05-09</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>3327</td>
         </tr>
@@ -1619,7 +1619,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Eva_Angelina_79">Eva_Angelina_79</a></td>
             <td>2013-03-19</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>2611</td>
         </tr>
@@ -2862,7 +2862,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/avantgart_ai">avantgart_ai</a></td>
             <td>2022-08-10</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>1031</td>
         </tr>
@@ -2884,7 +2884,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/revolution_fr22">revolution_fr22</a></td>
             <td>2022-05-26</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1021</td>
         </tr>

@@ -1256,7 +1256,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FlashSkyNews">FlashSkyNews</a></td>
             <td>2015-04-08</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>6496</td>
         </tr>
@@ -2466,7 +2466,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nadejda_psycare">nadejda_psycare</a></td>
             <td>2011-12-13</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1009</td>
         </tr></table>

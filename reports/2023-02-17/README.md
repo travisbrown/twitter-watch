@@ -40,7 +40,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/bmz9453">bmz9453</a></td>
             <td>2009-09-20</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>8737</td>
             <td>32848</td>

@@ -1798,7 +1798,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ExOklahoma">ExOklahoma</a></td>
             <td>2018-11-28</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>3476</td>
         </tr>
@@ -2139,7 +2139,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pau19176627">Pau19176627</a></td>
             <td>2022-06-02</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1411</td>
         </tr>
@@ -2293,7 +2293,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xLoffee">0xLoffee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1469775147024453635">1 other</a>)&nbsp;</td>
             <td>2021-12-11</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1082</td>
         </tr>

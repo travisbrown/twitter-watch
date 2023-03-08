@@ -100,7 +100,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KateKathy147">KateKathy147</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/13497312">1 other</a>)&nbsp;</td>
             <td>2008-02-15</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>673</td>
             <td>92511</td>

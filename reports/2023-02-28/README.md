@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GeromanAT">GeromanAT</a></td>
             <td>2015-07-13</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>60158</td>
             <td>11699</td>
@@ -131,7 +131,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PeriPhantom">PeriPhantom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/441393753">7 others</a>)&nbsp;</td>
             <td>2011-12-20</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>83729</td>
         </tr>
@@ -274,7 +274,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AgostoAllElite">AgostoAllElite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1236765701530157057">2 others</a>)&nbsp;</td>
             <td>2020-03-08</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>7643</td>
         </tr>

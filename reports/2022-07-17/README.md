@@ -678,7 +678,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SilentGirlSG_28">SilentGirlSG_28</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337670223734849536">6 others</a>)&nbsp;</td>
             <td>2020-12-12</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>10320</td>
         </tr>

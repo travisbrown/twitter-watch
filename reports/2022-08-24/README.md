@@ -1616,7 +1616,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nancygodroc">Nancygodroc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1315050178936745984">1 other</a>)&nbsp;</td>
             <td>2020-10-10</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>2014</td>
         </tr>

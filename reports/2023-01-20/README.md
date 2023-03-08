@@ -1392,7 +1392,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LibOutContext">LibOutContext</a></td>
             <td>2021-07-25</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>1820</td>
         </tr>
@@ -1799,7 +1799,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Xeuys">Xeuys</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1416</td>
         </tr>

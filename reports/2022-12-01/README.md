@@ -1346,7 +1346,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/leonardoglauso">leonardoglauso</a></td>
             <td>2016-01-08</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>17197</td>
         </tr>

@@ -863,7 +863,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Misty_E_Griffin">Misty_E_Griffin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3015844068">1 other</a>)&nbsp;</td>
             <td>2015-02-09</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>26164</td>
         </tr>
@@ -2370,7 +2370,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sanjaykumar5578">Sanjaykumar5578</a></td>
             <td>2021-11-14</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>3142</td>
         </tr>

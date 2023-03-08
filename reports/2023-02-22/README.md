@@ -76,7 +76,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LordFuckuad">LordFuckuad</a></td>
             <td>2022-09-08</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>13</td>
             <td>96202</td>
@@ -175,7 +175,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DAQUANDSG">DAQUANDSG</a></td>
             <td>2022-03-28</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>28368</td>
         </tr>
@@ -362,7 +362,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mebrannan">mebrannan</a></td>
             <td>2008-11-24</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>5020</td>
         </tr>

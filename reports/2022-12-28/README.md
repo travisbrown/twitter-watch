@@ -184,7 +184,7 @@ Found 21 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MtnTrailGo">MtnTrailGo</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>104</td>
             <td>57107</td>
@@ -1147,7 +1147,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NBAWrisWoy">NBAWrisWoy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1530193173129183232">7 others</a>)&nbsp;</td>
             <td>2022-05-27</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>1548</td>
         </tr>

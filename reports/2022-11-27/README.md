@@ -160,7 +160,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NietzscheGueva2">NietzscheGueva2</a></td>
             <td>2020-04-10</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>59</td>
             <td>69750</td>

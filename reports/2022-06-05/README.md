@@ -1186,7 +1186,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnthonyTuanNguy">AnthonyTuanNguy</a></td>
             <td>2012-08-14</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1071</td>
         </tr>

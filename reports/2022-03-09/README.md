@@ -1200,7 +1200,7 @@ Found 772 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EsqHucker">EsqHucker</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1064514674983616513">2 others</a>)&nbsp;</td>
             <td>2018-11-19</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>3052</td>
         </tr>

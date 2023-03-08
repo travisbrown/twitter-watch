@@ -740,7 +740,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IP4PI">IP4PI</a></td>
             <td>2012-02-19</td>
-            <td></td>
+            <td>2023-03-02</td>
             <td align="center"></td>
             <td>7507</td>
         </tr>
@@ -1235,7 +1235,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeonardoRagram">LeonardoRagram</a></td>
             <td>2013-10-30</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1993</td>
         </tr>

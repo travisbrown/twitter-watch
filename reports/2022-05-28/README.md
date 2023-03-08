@@ -612,7 +612,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/imyouthvoice">imyouthvoice</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/468357341">1 other</a>)&nbsp;</td>
             <td>2012-01-19</td>
-            <td></td>
+            <td>2023-03-04</td>
             <td align="center"></td>
             <td>4933</td>
         </tr>

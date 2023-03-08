@@ -2411,7 +2411,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/terapia_d_urto">terapia_d_urto</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1715458056">3 others</a>)&nbsp;</td>
             <td>2013-08-31</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>1702</td>
         </tr>

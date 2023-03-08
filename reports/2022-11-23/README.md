@@ -256,7 +256,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dondacamara">dondacamara</a></td>
             <td>2014-07-01</td>
-            <td></td>
+            <td>2023-03-01</td>
             <td align="center"></td>
             <td>428</td>
             <td>77183</td>

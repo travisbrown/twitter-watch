@@ -1176,7 +1176,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NathanWhieldon">NathanWhieldon</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1070643715545415680">2 others</a>)&nbsp;</td>
             <td>2018-12-06</td>
-            <td></td>
+            <td>2023-03-03</td>
             <td align="center"></td>
             <td>5110</td>
         </tr>
