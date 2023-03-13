@@ -1286,7 +1286,7 @@ Found 1211 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/buperac">buperac</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/768160820">1 other</a>)&nbsp;</td>
             <td>2012-08-19</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>17911</td>
         </tr>

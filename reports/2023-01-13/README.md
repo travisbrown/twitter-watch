@@ -880,7 +880,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/abelmukisa">abelmukisa</a></td>
             <td>2012-02-07</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>3145</td>
         </tr>
@@ -946,7 +946,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dramarcianeves">dramarcianeves</a></td>
             <td>2010-12-15</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>3054</td>
         </tr>
@@ -1144,7 +1144,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Try3456789">Try3456789</a></td>
             <td>2018-11-13</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>2444</td>
         </tr>
@@ -1221,7 +1221,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Frankville_afc">Frankville_afc</a></td>
             <td>2011-03-08</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>2324</td>
         </tr>
@@ -1584,7 +1584,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HODL_247">HODL_247</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1249146592797626369">1 other</a>)&nbsp;</td>
             <td>2020-04-12</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1539</td>
         </tr>

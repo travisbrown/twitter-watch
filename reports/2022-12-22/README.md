@@ -413,7 +413,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheLiceman">TheLiceman</a></td>
             <td>2012-10-25</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>12261</td>
         </tr>
@@ -490,7 +490,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tdmhlanga">tdmhlanga</a></td>
             <td>2012-02-08</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>9287</td>
         </tr>
@@ -2030,7 +2030,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vin9yu_">vin9yu_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1373631864146067458">7 others</a>)&nbsp;</td>
             <td>2021-03-21</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1141</td>
         </tr>

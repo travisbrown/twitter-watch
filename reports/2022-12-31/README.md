@@ -920,7 +920,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DailyFreddie1">DailyFreddie1</a></td>
             <td>2014-09-29</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>2777</td>
         </tr>
@@ -997,7 +997,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shinjitsuda2">shinjitsuda2</a></td>
             <td>2020-06-04</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>2527</td>
         </tr>
@@ -1415,7 +1415,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ProfOnline_id">ProfOnline_id</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1965092424">1 other</a>)&nbsp;</td>
             <td>2013-10-16</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1724</td>
         </tr>

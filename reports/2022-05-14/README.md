@@ -847,7 +847,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LMFireSystems1">LMFireSystems1</a></td>
             <td>2020-06-08</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>13350</td>
         </tr>
@@ -1441,7 +1441,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/canfixstoopid">canfixstoopid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/36295726">2 others</a>)&nbsp;</td>
             <td>2009-04-29</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>2156</td>
         </tr>

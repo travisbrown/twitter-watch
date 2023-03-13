@@ -1437,7 +1437,7 @@ Found 1670 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RexKwonDo92">RexKwonDo92</a></td>
             <td>2017-10-28</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1539</td>
         </tr>
@@ -1657,7 +1657,7 @@ Found 1670 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LikePance">LikePance</a></td>
             <td>2021-07-17</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1334</td>
         </tr>

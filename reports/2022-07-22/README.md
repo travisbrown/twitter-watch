@@ -2544,7 +2544,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fmfa94">fmfa94</a></td>
             <td>2013-03-02</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1609</td>
         </tr>
@@ -2709,7 +2709,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DawnGibsonMusic">DawnGibsonMusic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/725987713673924608">2 others</a>)&nbsp;</td>
             <td>2016-04-29</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1420</td>
         </tr>

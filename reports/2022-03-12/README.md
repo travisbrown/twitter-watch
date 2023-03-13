@@ -620,7 +620,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cathyyoung421">cathyyoung421</a></td>
             <td>2014-11-16</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>16473</td>
         </tr>
@@ -675,7 +675,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeeLeeLiberty">BeeLeeLiberty</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/89194854">1 other</a>)&nbsp;</td>
             <td>2009-11-11</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>9079</td>
         </tr>

@@ -232,7 +232,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PapillonLvr">PapillonLvr</a></td>
             <td>2009-05-09</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1927</td>
             <td>29103</td>
@@ -1404,7 +1404,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TifaAuntie">TifaAuntie</a></td>
             <td>2021-05-26</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>3058</td>
         </tr>

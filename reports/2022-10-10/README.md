@@ -1722,7 +1722,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/momodolape">momodolape</a></td>
             <td>2021-10-04</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1625</td>
         </tr>

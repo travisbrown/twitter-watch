@@ -413,7 +413,7 @@ Found 499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HazelRootsxx">HazelRootsxx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1118699104853479424">2 others</a>)&nbsp;</td>
             <td>2019-04-18</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>3136</td>
         </tr>

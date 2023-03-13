@@ -943,7 +943,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FlatEarthCity">FlatEarthCity</a></td>
             <td>2016-04-21</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>11482</td>
         </tr>
@@ -1724,7 +1724,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CristobalOswal2">CristobalOswal2</a></td>
             <td>2021-07-22</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1626</td>
         </tr>

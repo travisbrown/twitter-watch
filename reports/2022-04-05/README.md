@@ -1837,7 +1837,7 @@ Found 1605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ALisBoundGlobal">ALisBoundGlobal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/194997021">6 others</a>)&nbsp;</td>
             <td>2010-09-25</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>1546</td>
         </tr>

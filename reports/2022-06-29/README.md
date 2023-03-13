@@ -337,7 +337,7 @@ Found 1703 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrandHindu_">BrandHindu_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/989726876598845440">5 others</a>)&nbsp;</td>
             <td>2018-04-27</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>44089</td>
         </tr>

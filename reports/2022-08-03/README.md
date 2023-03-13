@@ -1935,7 +1935,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bullets_no">bullets_no</a></td>
             <td>2021-04-21</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1962</td>
         </tr>
@@ -2320,7 +2320,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Raybo34">Raybo34</a></td>
             <td>2010-12-19</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1390</td>
         </tr>
@@ -2386,7 +2386,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/awright_1983">awright_1983</a></td>
             <td>2018-04-14</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1274</td>
         </tr>

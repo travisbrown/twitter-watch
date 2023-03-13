@@ -866,7 +866,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LiveProperBrand">LiveProperBrand</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/338197391">2 others</a>)&nbsp;</td>
             <td>2011-07-19</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>3270</td>
         </tr>

@@ -2201,7 +2201,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nwteri">nwteri</a></td>
             <td>2009-03-26</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>7751</td>
         </tr>
@@ -2212,7 +2212,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Calltoart">Calltoart</a></td>
             <td>2014-10-03</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>7469</td>
         </tr>
@@ -3543,7 +3543,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/willyy999">willyy999</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1441071374534168576">1 other</a>)&nbsp;</td>
             <td>2021-09-23</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>2678</td>
         </tr>

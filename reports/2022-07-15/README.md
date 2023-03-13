@@ -1374,7 +1374,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/darkagenda">darkagenda</a></td>
             <td>2011-01-05</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>2304</td>
         </tr>
@@ -2331,7 +2331,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jmp9999jmp">jmp9999jmp</a></td>
             <td>2016-06-24</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1212</td>
         </tr>

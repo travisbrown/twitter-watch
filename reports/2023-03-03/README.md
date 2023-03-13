@@ -64,7 +64,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RoyLovesAmerica">RoyLovesAmerica</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1399136176162983942">1 other</a>)&nbsp;</td>
             <td>2021-05-30</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>2717</td>
             <td>62169</td>
@@ -141,7 +141,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SamBendett">SamBendett</a></td>
             <td>2010-10-27</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>27979</td>
         </tr>
@@ -207,7 +207,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NiteWolF_1">NiteWolF_1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1534214865975386112">1 other</a>)&nbsp;</td>
             <td>2022-06-07</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>12269</td>
         </tr>
@@ -328,7 +328,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PPixelfun">PPixelfun</a></td>
             <td>2021-12-14</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>7090</td>
         </tr>
@@ -394,7 +394,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CunnyDatabase">CunnyDatabase</a></td>
             <td>2021-08-06</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>4277</td>
         </tr>
@@ -504,7 +504,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Farid_64436">Farid_64436</a></td>
             <td>2014-08-01</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>2640</td>
         </tr>
@@ -647,7 +647,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Private_Domains">Private_Domains</a></td>
             <td>2010-08-18</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1804</td>
         </tr>

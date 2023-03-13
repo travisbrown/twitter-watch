@@ -424,7 +424,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NorCalMatteo">NorCalMatteo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/593493823">1 other</a>)&nbsp;</td>
             <td>2012-05-29</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1568</td>
             <td>91774</td>
@@ -1811,7 +1811,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BagoDanielle">BagoDanielle</a></td>
             <td>2018-09-26</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1662</td>
         </tr>
@@ -2482,7 +2482,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SantoshKrRajpo1">SantoshKrRajpo1</a></td>
             <td>2021-11-20</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1049</td>
         </tr>

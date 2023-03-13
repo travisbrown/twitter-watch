@@ -192,7 +192,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rayner_Teo">Rayner_Teo</a></td>
             <td>2013-08-17</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center">✔️</td>
             <td>209483</td>
         </tr>

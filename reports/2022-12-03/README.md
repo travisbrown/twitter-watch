@@ -40,7 +40,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Wot_the_Actual">Wot_the_Actual</a></td>
             <td>2021-03-02</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>5400</td>
             <td>985</td>

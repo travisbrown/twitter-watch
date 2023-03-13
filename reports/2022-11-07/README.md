@@ -2260,7 +2260,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Fren_Seeker2">Fren_Seeker2</a></td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>38</td>
             <td>17494</td>
@@ -3412,7 +3412,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JordanLinscheid">JordanLinscheid</a></td>
             <td>2009-11-19</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>276</td>
             <td>36855</td>
@@ -7831,7 +7831,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Group16th">Group16th</a></td>
             <td>2022-05-05</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>1021</td>
         </tr>
@@ -7864,7 +7864,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/morivntvr">morivntvr</a></td>
             <td>2020-01-08</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1003</td>
         </tr>

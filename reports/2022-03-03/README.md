@@ -1114,7 +1114,7 @@ Found 691 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CanadianSence">CanadianSence</a></td>
             <td>2018-04-04</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1335</td>
         </tr>

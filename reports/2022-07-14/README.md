@@ -1839,7 +1839,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ukfathers">ukfathers</a></td>
             <td>2013-04-06</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>3074</td>
         </tr>
@@ -2356,7 +2356,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Amanda26124748">Amanda26124748</a></td>
             <td>2020-07-27</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>1821</td>
         </tr>

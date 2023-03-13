@@ -220,7 +220,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rule34_txt">rule34_txt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/569287935">1 other</a>)&nbsp;</td>
             <td>2012-05-02</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>23526</td>
         </tr>
@@ -319,7 +319,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/angelxknives">angelxknives</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1264297027070017538">3 others</a>)&nbsp;</td>
             <td>2020-05-23</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>12611</td>
         </tr>
@@ -473,7 +473,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/c_ant04">c_ant04</a></td>
             <td>2022-06-29</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>3091</td>
         </tr>
@@ -660,7 +660,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bobgaraffasongs">bobgaraffasongs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3031993426">1 other</a>)&nbsp;</td>
             <td>2015-02-12</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1946</td>
         </tr>

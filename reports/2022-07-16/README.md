@@ -522,7 +522,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TodoDiaUmaLeak">TodoDiaUmaLeak</a></td>
             <td>2022-02-24</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>27992</td>
         </tr>
@@ -1776,7 +1776,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JenFullick">JenFullick</a></td>
             <td>2010-12-17</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>5557</td>
         </tr>
@@ -1952,7 +1952,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/codeezra">codeezra</a></td>
             <td>2009-03-22</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>4930</td>
         </tr>

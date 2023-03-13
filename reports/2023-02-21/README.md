@@ -207,7 +207,7 @@ Found 676 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/milkooWin">milkooWin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1341590834072805377">1 other</a>)&nbsp;</td>
             <td>2020-12-23</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>3600</td>
         </tr>

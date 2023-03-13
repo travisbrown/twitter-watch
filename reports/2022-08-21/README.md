@@ -1700,7 +1700,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dictionaric">dictionaric</a></td>
             <td>2008-07-07</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>2724</td>
         </tr>
@@ -1997,7 +1997,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mimi_libertad">Mimi_libertad</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1370831902182055940">1 other</a>)&nbsp;</td>
             <td>2021-03-13</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1733</td>
         </tr>
@@ -2712,7 +2712,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scam661">scam661</a></td>
             <td>2011-06-28</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>1009</td>
         </tr></table>

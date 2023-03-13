@@ -1359,7 +1359,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mellafinger">mellafinger</a></td>
             <td>2009-04-10</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>3094</td>
         </tr>
@@ -2107,7 +2107,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/12moreboosters">12moreboosters</a></td>
             <td>2022-05-31</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1627</td>
         </tr>

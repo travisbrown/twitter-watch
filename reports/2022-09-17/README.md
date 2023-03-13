@@ -2194,7 +2194,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DeeCmaga">DeeCmaga</a></td>
             <td>2022-01-01</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1418</td>
         </tr>

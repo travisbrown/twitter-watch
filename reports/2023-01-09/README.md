@@ -775,7 +775,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/davidgungor">davidgungor</a></td>
             <td>2009-04-04</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>3582</td>
         </tr>

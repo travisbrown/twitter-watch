@@ -422,7 +422,7 @@ Found 1538 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nargunduandhra">nargunduandhra</a></td>
             <td>2009-11-06</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>8647</td>
         </tr>
@@ -510,7 +510,7 @@ Found 1538 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/phillipmasina02">phillipmasina02</a></td>
             <td>2013-07-19</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center">🔒</td>
             <td>5387</td>
         </tr>

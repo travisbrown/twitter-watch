@@ -602,7 +602,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mekabutei">mekabutei</a></td>
             <td>2014-02-16</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>16521</td>
         </tr>

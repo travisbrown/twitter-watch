@@ -1832,7 +1832,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/casasmourao">casasmourao</a></td>
             <td>2009-09-04</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>3138</td>
         </tr>
@@ -2206,7 +2206,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wxandnews">wxandnews</a></td>
             <td>2018-02-17</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1772</td>
         </tr>

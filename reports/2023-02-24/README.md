@@ -548,7 +548,7 @@ Found 999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/58_cowboy">58_cowboy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3007635150">1 other</a>)&nbsp;</td>
             <td>2015-02-02</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>1525</td>
         </tr>

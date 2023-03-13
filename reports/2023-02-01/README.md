@@ -404,7 +404,7 @@ Found 3248 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/skwarsh">skwarsh</a></td>
             <td>2011-06-22</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>2151</td>
         </tr>

@@ -160,7 +160,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/herderher">herderher</a></td>
             <td>2021-10-04</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>872</td>
             <td>72836</td>

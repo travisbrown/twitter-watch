@@ -942,7 +942,7 @@ Found 635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/linson_scott">linson_scott</a></td>
             <td>2020-01-21</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1743</td>
         </tr>

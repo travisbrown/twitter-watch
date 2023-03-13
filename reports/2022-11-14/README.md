@@ -2765,7 +2765,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KittTruth">KittTruth</a></td>
             <td>2020-06-24</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1390</td>
         </tr>
@@ -3062,7 +3062,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/breezybetter07">breezybetter07</a></td>
             <td>2022-04-16</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>1102</td>
         </tr>

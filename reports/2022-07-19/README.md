@@ -946,7 +946,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KimberleyJayne4">KimberleyJayne4</a></td>
             <td>2020-04-20</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>7202</td>
         </tr>

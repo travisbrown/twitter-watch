@@ -812,7 +812,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/camay1351">camay1351</a></td>
             <td>2020-11-17</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1840</td>
         </tr>

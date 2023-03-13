@@ -1980,7 +1980,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Volt_Aire_watch">Volt_Aire_watch</a></td>
             <td>2021-12-02</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>2124</td>
         </tr>
@@ -2167,7 +2167,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ocarapuca">ocarapuca</a></td>
             <td>2021-08-20</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1649</td>
         </tr>

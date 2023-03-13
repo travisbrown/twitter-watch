@@ -453,7 +453,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mmccsolana">mmccsolana</a></td>
             <td>2021-09-06</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>30366</td>
         </tr>

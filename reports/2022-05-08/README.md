@@ -909,7 +909,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/strup2823">strup2823</a></td>
             <td>2016-12-09</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>4424</td>
         </tr>

@@ -504,7 +504,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TwasEbersole">TwasEbersole</a></td>
             <td>2011-03-02</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center">🔒</td>
             <td>17518</td>
         </tr>
@@ -625,7 +625,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kingfaj_tweets">kingfaj_tweets</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/89474852">1 other</a>)&nbsp;</td>
             <td>2009-11-12</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>10878</td>
         </tr>

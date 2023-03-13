@@ -304,7 +304,7 @@ Found 478 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heather_wynalda">heather_wynalda</a></td>
             <td>2015-11-24</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>13565</td>
         </tr>

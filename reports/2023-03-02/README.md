@@ -195,7 +195,7 @@ Found 2000 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mrlzv_isi">mrlzv_isi</a></td>
             <td>2020-12-18</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>9503</td>
         </tr>
@@ -668,7 +668,7 @@ Found 2000 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/paboracha555">paboracha555</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1296001825435299846">1 other</a>)&nbsp;</td>
             <td>2020-08-19</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1112</td>
         </tr>

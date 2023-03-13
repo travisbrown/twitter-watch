@@ -451,7 +451,7 @@ Found 2928 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RudyLop916">RudyLop916</a></td>
             <td>2022-01-16</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1281</td>
         </tr>

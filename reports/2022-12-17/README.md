@@ -40,7 +40,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SuperOstenPetri">SuperOstenPetri</a></td>
             <td>2021-11-24</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>829</td>
             <td>11989</td>

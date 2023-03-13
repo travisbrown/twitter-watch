@@ -166,7 +166,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SilvioGReal">SilvioGReal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/387428873">9 others</a>)&nbsp;</td>
             <td>2011-10-09</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>112228</td>
         </tr>
@@ -254,7 +254,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GamacticaEsport">GamacticaEsport</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1616497351">2 others</a>)&nbsp;</td>
             <td>2013-07-24</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>17218</td>
         </tr>
@@ -298,7 +298,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Boss_your_life">Boss_your_life</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1460621759997227018">1 other</a>)&nbsp;</td>
             <td>2021-11-16</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>12770</td>
         </tr>
@@ -474,7 +474,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/natalie_hands_">natalie_hands_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2897961460">2 others</a>)&nbsp;</td>
             <td>2014-11-29</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>3266</td>
         </tr>
@@ -650,7 +650,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lizmont007">Lizmont007</a></td>
             <td>2017-12-30</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>1796</td>
         </tr>
@@ -661,7 +661,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2Losungen">2Losungen</a></td>
             <td>2019-12-02</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>1741</td>
         </tr>

@@ -440,7 +440,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Deepikastannn">Deepikastannn</a></td>
             <td>2021-05-21</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>30312</td>
         </tr>
@@ -803,7 +803,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/surendarsingh17">surendarsingh17</a></td>
             <td>2010-09-09</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>4729</td>
         </tr>
@@ -814,7 +814,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/555scgirl">555scgirl</a></td>
             <td>2021-11-22</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>4722</td>
         </tr>
@@ -1320,7 +1320,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreddyJ74143440">FreddyJ74143440</a></td>
             <td>2020-01-23</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1814</td>
         </tr>
@@ -1342,7 +1342,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aasd__ff">aasd__ff</a></td>
             <td>2021-12-27</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1741</td>
         </tr>

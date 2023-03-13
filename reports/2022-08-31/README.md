@@ -1609,7 +1609,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NodeSanto">NodeSanto</a></td>
             <td>2021-06-11</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>3373</td>
         </tr>

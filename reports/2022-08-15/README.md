@@ -1695,7 +1695,7 @@ Found 1105 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PlayRstar98">PlayRstar98</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2396424440">2 others</a>)&nbsp;</td>
             <td>2014-03-18</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>1967</td>
         </tr>

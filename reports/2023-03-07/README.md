@@ -93,7 +93,7 @@ Found 464 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/QualityTweets78">QualityTweets78</a></td>
             <td>2019-07-02</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>30122</td>
         </tr>

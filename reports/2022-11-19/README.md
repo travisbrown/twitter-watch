@@ -1215,7 +1215,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StillNotBettyOK">StillNotBettyOK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1572002398792749057">1 other</a>)&nbsp;</td>
             <td>2022-09-19</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1813</td>
         </tr>

@@ -894,7 +894,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dimon__5380">Dimon__5380</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1224358581258084352">5 others</a>)&nbsp;</td>
             <td>2020-02-03</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1285</td>
         </tr>

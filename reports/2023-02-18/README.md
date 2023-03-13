@@ -176,7 +176,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SuiTokens">SuiTokens</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381553807692341248">4 others</a>)&nbsp;</td>
             <td>2021-04-12</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>119642</td>
         </tr>
@@ -880,7 +880,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/smmprosan">smmprosan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/849689774332018688">1 other</a>)&nbsp;</td>
             <td>2017-04-05</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>1672</td>
         </tr>
@@ -990,7 +990,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xShariego">0xShariego</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1523920031641661440">9 others</a>)&nbsp;</td>
             <td>2022-05-10</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1288</td>
         </tr>
@@ -1012,7 +1012,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aninewcocbase">aninewcocbase</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/910822595544604672">1 other</a>)&nbsp;</td>
             <td>2017-09-21</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1172</td>
         </tr>
@@ -1067,7 +1067,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JustDafong">JustDafong</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/737405458638606336">2 others</a>)&nbsp;</td>
             <td>2016-05-30</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1043</td>
         </tr>

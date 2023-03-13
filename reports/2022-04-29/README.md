@@ -733,7 +733,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/InsaneNerdist">InsaneNerdist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/251314192">1 other</a>)&nbsp;</td>
             <td>2011-02-12</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>1837</td>
         </tr>

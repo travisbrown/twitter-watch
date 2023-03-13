@@ -129,7 +129,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LauraTvegan">LauraTvegan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/323284679">1 other</a>)&nbsp;</td>
             <td>2011-06-24</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>22729</td>
         </tr>

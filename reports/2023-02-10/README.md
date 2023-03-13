@@ -64,7 +64,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/eric_c_anderson">eric_c_anderson</a></td>
             <td>2007-11-24</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>735</td>
             <td>72254</td>
@@ -714,7 +714,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/d_rous_1982">d_rous_1982</a></td>
             <td>2013-05-29</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1441</td>
         </tr>

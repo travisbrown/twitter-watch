@@ -1442,7 +1442,7 @@ Found 987 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AHAlexanderA">AHAlexanderA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1320009705943695366">1 other</a>)&nbsp;</td>
             <td>2020-10-24</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>5162</td>
         </tr>

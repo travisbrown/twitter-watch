@@ -1107,7 +1107,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaineMan1979">MaineMan1979</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/33891226">2 others</a>)&nbsp;</td>
             <td>2009-04-21</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>2424</td>
         </tr>

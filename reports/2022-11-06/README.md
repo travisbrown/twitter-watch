@@ -556,7 +556,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SporadicPosting">SporadicPosting</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1425938300">3 others</a>)&nbsp;</td>
             <td>2013-05-13</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>1085</td>
             <td>4902</td>
@@ -1012,7 +1012,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Kobrakie32">Kobrakie32</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/711361894775398400">1 other</a>)&nbsp;</td>
             <td>2016-03-20</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>120</td>
             <td>9486</td>

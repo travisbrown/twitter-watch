@@ -632,7 +632,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OprdrM">OprdrM</a></td>
             <td>2022-06-15</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>12845</td>
         </tr>

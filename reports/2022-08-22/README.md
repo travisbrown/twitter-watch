@@ -1311,7 +1311,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Resist2Exist313">Resist2Exist313</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1881236802">1 other</a>)&nbsp;</td>
             <td>2013-09-18</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>3768</td>
         </tr>
@@ -2004,7 +2004,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MsKristinCasey">MsKristinCasey</a></td>
             <td>2015-04-13</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1861</td>
         </tr>

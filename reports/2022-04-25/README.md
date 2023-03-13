@@ -3262,7 +3262,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KitsonVince">KitsonVince</a></td>
             <td>2021-11-23</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>3573</td>
         </tr>

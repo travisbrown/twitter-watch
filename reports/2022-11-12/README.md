@@ -1155,7 +1155,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/THEPIFFMAN">THEPIFFMAN</a></td>
             <td>2009-10-23</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>45598</td>
         </tr>
@@ -1881,7 +1881,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sereneexistence">sereneexistence</a></td>
             <td>2010-04-25</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>2446</td>
         </tr>

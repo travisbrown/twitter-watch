@@ -970,7 +970,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CtzenCaneSpain">CtzenCaneSpain</a></td>
             <td>2011-11-27</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>2497</td>
         </tr>
@@ -1256,7 +1256,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/robertofilippo">robertofilippo</a></td>
             <td>2009-05-20</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1350</td>
         </tr>

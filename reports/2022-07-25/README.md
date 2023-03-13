@@ -1371,7 +1371,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rloreto_">rloreto_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/807355742021885953">1 other</a>)&nbsp;</td>
             <td>2016-12-09</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>5644</td>
         </tr>

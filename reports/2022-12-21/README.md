@@ -932,7 +932,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brzybluewillow">brzybluewillow</a></td>
             <td>2010-09-30</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>2279</td>
         </tr>
@@ -1669,7 +1669,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ukranianmike">ukranianmike</a></td>
             <td>2012-07-14</td>
-            <td></td>
+            <td>2023-03-06</td>
             <td align="center"></td>
             <td>1056</td>
         </tr>

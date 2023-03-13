@@ -986,7 +986,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndrewRantAG">AndrewRantAG</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1086826326">5 others</a>)&nbsp;</td>
             <td>2013-01-13</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1362</td>
         </tr>

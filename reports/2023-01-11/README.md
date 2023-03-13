@@ -166,7 +166,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dadofdivas">dadofdivas</a></td>
             <td>2008-05-17</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>53640</td>
         </tr>
@@ -441,7 +441,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Penyrheolgerrig">Penyrheolgerrig</a></td>
             <td>2010-10-23</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>6336</td>
         </tr>
@@ -628,7 +628,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheRamblingRed">TheRamblingRed</a></td>
             <td>2015-08-23</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>3558</td>
         </tr>
@@ -1002,7 +1002,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xfrans">0xfrans</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1444044408681222144">1 other</a>)&nbsp;</td>
             <td>2021-10-01</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>2296</td>
         </tr>
@@ -1178,7 +1178,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CriminalTrava">CriminalTrava</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2840751040">5 others</a>)&nbsp;</td>
             <td>2014-10-21</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1963</td>
         </tr>
@@ -1530,7 +1530,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thehpweaver">thehpweaver</a></td>
             <td>2009-02-13</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1373</td>
         </tr>

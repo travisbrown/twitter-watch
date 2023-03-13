@@ -1072,7 +1072,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jacksub5">jacksub5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/907693135907708928">1 other</a>)&nbsp;</td>
             <td>2017-09-12</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>3755</td>
         </tr>
@@ -1281,7 +1281,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bitcoinhog">bitcoinhog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2689410607">1 other</a>)&nbsp;</td>
             <td>2014-07-29</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>2639</td>
         </tr>
@@ -1490,7 +1490,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EDTVProductions">EDTVProductions</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3298421927">1 other</a>)&nbsp;</td>
             <td>2015-05-25</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>1915</td>
         </tr>

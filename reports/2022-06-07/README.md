@@ -1999,7 +1999,7 @@ Found 751 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tobyjdawson">tobyjdawson</a></td>
             <td>2009-03-17</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>3035</td>
         </tr>
@@ -2505,7 +2505,7 @@ Found 751 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/the_stumpy">the_stumpy</a></td>
             <td>2013-06-15</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1255</td>
         </tr>

@@ -815,7 +815,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GregEastwood1">GregEastwood1</a></td>
             <td>2012-06-25</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>14416</td>
         </tr>
@@ -837,7 +837,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LillianLaruan">LillianLaruan</a></td>
             <td>2009-03-29</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>12711</td>
         </tr>
@@ -1695,7 +1695,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/marcoaglima45">marcoaglima45</a></td>
             <td>2010-12-18</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>2301</td>
         </tr>
@@ -2322,7 +2322,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/raekwonxvii">raekwonxvii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2696945555">1 other</a>)&nbsp;</td>
             <td>2014-07-11</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1404</td>
         </tr>

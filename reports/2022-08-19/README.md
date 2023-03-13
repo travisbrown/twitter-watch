@@ -1677,7 +1677,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sshep_99">sshep_99</a></td>
             <td>2009-04-18</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>4502</td>
         </tr>
@@ -1699,7 +1699,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/a111us">a111us</a></td>
             <td>2015-08-13</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>4458</td>
         </tr>

@@ -560,7 +560,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PerttiPiirto">PerttiPiirto</a></td>
             <td>2019-01-12</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>2525</td>
         </tr>
@@ -1363,7 +1363,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PakistanDaBoota">PakistanDaBoota</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/42836207">3 others</a>)&nbsp;</td>
             <td>2009-05-27</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1019</td>
         </tr>

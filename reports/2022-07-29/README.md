@@ -1208,7 +1208,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JacketNation81">JacketNation81</a></td>
             <td>2021-07-08</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>4778</td>
         </tr>
@@ -1373,7 +1373,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/maskedannie5">maskedannie5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/211658442">3 others</a>)&nbsp;</td>
             <td>2010-11-03</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>3717</td>
         </tr>

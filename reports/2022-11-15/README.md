@@ -400,7 +400,7 @@ Found 32 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/pseudo_speedo">pseudo_speedo</a></td>
             <td>2019-05-11</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>486</td>
             <td>99933</td>

@@ -2341,7 +2341,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GQnft">GQnft</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/965642892">1 other</a>)&nbsp;</td>
             <td>2012-11-23</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1405</td>
         </tr>

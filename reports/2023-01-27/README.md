@@ -647,7 +647,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Julie_eth_">Julie_eth_</a></td>
             <td>2010-11-17</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>1399</td>
         </tr>

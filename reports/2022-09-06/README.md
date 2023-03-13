@@ -706,7 +706,7 @@ Found 374 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bulkeley_john">bulkeley_john</a></td>
             <td>2021-02-05</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>2007</td>
         </tr>

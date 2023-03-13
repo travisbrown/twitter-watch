@@ -1979,7 +1979,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sammy38898758">sammy38898758</a></td>
             <td>2019-01-15</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1350</td>
         </tr>

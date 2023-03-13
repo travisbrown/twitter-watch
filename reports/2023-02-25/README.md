@@ -192,7 +192,7 @@ Found 689 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Seektruthbah">Seektruthbah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1314494528716451841">1 other</a>)&nbsp;</td>
             <td>2020-10-09</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>4046</td>
         </tr>

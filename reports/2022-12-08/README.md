@@ -370,7 +370,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mal_6666">mal_6666</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1411368121">4 others</a>)&nbsp;</td>
             <td>2013-05-07</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>79798</td>
         </tr>
@@ -403,7 +403,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BadCovid19">BadCovid19</a></td>
             <td>2020-03-22</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>40734</td>
         </tr>
@@ -612,7 +612,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chuda_khatri">chuda_khatri</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3234577921">1 other</a>)&nbsp;</td>
             <td>2015-06-03</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>11888</td>
         </tr>
@@ -1030,7 +1030,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CToyenneDuMonde">CToyenneDuMonde</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/298158162">1 other</a>)&nbsp;</td>
             <td>2011-05-13</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>3534</td>
         </tr>
@@ -1052,7 +1052,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DeplorableOne_">DeplorableOne_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1196648829656977408">1 other</a>)&nbsp;</td>
             <td>2019-11-19</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>3429</td>
         </tr>
@@ -1129,7 +1129,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dj_laundryy">dj_laundryy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/279210688">3 others</a>)&nbsp;</td>
             <td>2011-04-08</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>3213</td>
         </tr>

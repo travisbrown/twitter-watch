@@ -216,7 +216,7 @@ Found 2160 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WebGuyTV">WebGuyTV</a></td>
             <td>2007-12-19</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>7762</td>
         </tr>
@@ -381,7 +381,7 @@ Found 2160 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/88_yoooty">88_yoooty</a></td>
             <td>2013-07-17</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>3689</td>
         </tr>

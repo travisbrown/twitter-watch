@@ -994,7 +994,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hidinginplains8">Hidinginplains8</a></td>
             <td>2020-02-20</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>17303</td>
         </tr>

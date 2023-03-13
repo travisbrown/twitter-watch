@@ -1762,7 +1762,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tidilibom">tidilibom</a></td>
             <td>2011-03-16</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>2417</td>
         </tr>
@@ -2224,7 +2224,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/annabeth9691">annabeth9691</a></td>
             <td>2021-06-02</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1541</td>
         </tr>

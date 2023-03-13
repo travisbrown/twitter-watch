@@ -1303,7 +1303,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chivie__">Chivie__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/995709257516449797">1 other</a>)&nbsp;</td>
             <td>2018-05-13</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>4564</td>
         </tr>

@@ -244,7 +244,7 @@ Found 21 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Fate97107849">Fate97107849</a></td>
             <td>2019-10-14</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>432</td>
             <td>76368</td>
@@ -322,7 +322,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/areyouacatfish">areyouacatfish</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/126085826">3 others</a>)&nbsp;</td>
             <td>2010-03-24</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>180616</td>
         </tr>
@@ -817,7 +817,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Neuropsihijatr1">Neuropsihijatr1</a></td>
             <td>2021-01-16</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>3161</td>
         </tr>

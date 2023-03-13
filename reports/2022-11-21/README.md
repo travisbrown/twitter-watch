@@ -244,7 +244,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/kaizen_ritual">kaizen_ritual</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1308162127811747843">1 other</a>)&nbsp;</td>
             <td>2020-09-21</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>29</td>
             <td>74470</td>
@@ -1026,7 +1026,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Muncheds2">Muncheds2</a></td>
             <td>2021-10-29</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>9650</td>
         </tr>

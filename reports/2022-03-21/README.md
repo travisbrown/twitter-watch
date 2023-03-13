@@ -1070,7 +1070,7 @@ Found 515 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_PistisSophia">_PistisSophia</a></td>
             <td>2021-05-29</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1323</td>
         </tr>

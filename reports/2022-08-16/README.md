@@ -1588,7 +1588,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JebaZnieba">JebaZnieba</a></td>
             <td>2021-08-14</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>1219</td>
         </tr>

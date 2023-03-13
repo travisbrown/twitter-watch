@@ -15723,7 +15723,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MvpheeRuthie">MvpheeRuthie</a></td>
             <td>2016-03-21</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>2429</td>
         </tr>
@@ -16977,7 +16977,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/juliaho61138482">juliaho61138482</a></td>
             <td>2021-04-27</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>2305</td>
         </tr>
@@ -17362,7 +17362,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nuveeena">nuveeena</a></td>
             <td>2008-09-20</td>
-            <td></td>
+            <td>2023-03-11</td>
             <td align="center"></td>
             <td>2270</td>
         </tr>
@@ -23907,7 +23907,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaGilbert77">MaGilbert77</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/915710427559895040">1 other</a>)&nbsp;</td>
             <td>2017-10-04</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>1679</td>
         </tr>
@@ -33587,7 +33587,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JosephD27800936">JosephD27800936</a></td>
             <td>2020-10-14</td>
-            <td></td>
+            <td>2023-03-10</td>
             <td align="center"></td>
             <td>1170</td>
         </tr>
@@ -35347,7 +35347,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Italguyli">Italguyli</a></td>
             <td>2016-03-17</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1103</td>
         </tr>

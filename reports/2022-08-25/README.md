@@ -1262,7 +1262,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/billbarnett65">billbarnett65</a></td>
             <td>2015-05-09</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>4402</td>
         </tr>
@@ -1889,7 +1889,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/portera22">portera22</a></td>
             <td>2009-06-27</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>2339</td>
         </tr>
@@ -1955,7 +1955,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Spacema21790626">Spacema21790626</a></td>
             <td>2021-02-02</td>
-            <td></td>
+            <td>2023-03-08</td>
             <td align="center"></td>
             <td>2107</td>
         </tr>
@@ -2670,7 +2670,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fausto07">Fausto07</a></td>
             <td>2009-03-26</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>1177</td>
         </tr>

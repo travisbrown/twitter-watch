@@ -336,7 +336,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/luts7602">luts7602</a></td>
             <td>2021-03-24</td>
-            <td></td>
+            <td>2023-03-07</td>
             <td align="center"></td>
             <td>26146</td>
         </tr>

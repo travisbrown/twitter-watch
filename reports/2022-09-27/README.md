@@ -455,7 +455,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bratNvet">bratNvet</a></td>
             <td>2018-09-12</td>
-            <td></td>
+            <td>2023-03-09</td>
             <td align="center"></td>
             <td>4927</td>
         </tr>
@@ -1060,7 +1060,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jmurilloscf">jmurilloscf</a></td>
             <td>2007-10-01</td>
-            <td></td>
+            <td>2023-03-05</td>
             <td align="center"></td>
             <td>1622</td>
         </tr>
