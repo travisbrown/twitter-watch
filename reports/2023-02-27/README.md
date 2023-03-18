@@ -40,7 +40,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/obyvatel7">obyvatel7</a></td>
             <td>2022-04-06</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>166</td>
             <td>5461</td>
@@ -342,7 +342,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/melissa">melissa</a></td>
             <td>2008-02-26</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>10456</td>
         </tr>
@@ -529,7 +529,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Yogshukla">Yogshukla</a></td>
             <td>2010-05-13</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2929</td>
         </tr>

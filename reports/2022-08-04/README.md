@@ -2614,7 +2614,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/john_calico">john_calico</a></td>
             <td>2018-07-16</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>1445</td>
         </tr>

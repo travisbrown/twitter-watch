@@ -1324,7 +1324,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MelissaHourigan">MelissaHourigan</a></td>
             <td>2008-04-10</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>3231</td>
         </tr>
@@ -1335,7 +1335,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SakirAli_">SakirAli_</a></td>
             <td>2021-12-12</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>3202</td>
         </tr>
@@ -2072,7 +2072,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AMERICAFIRST303">AMERICAFIRST303</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/887679920">1 other</a>)&nbsp;</td>
             <td>2012-10-17</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1523</td>
         </tr>

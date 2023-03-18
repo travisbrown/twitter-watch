@@ -271,7 +271,7 @@ Found 635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Physicsastronmy">Physicsastronmy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1011001688298278912">1 other</a>)&nbsp;</td>
             <td>2018-06-24</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>143617</td>
         </tr>
@@ -1206,7 +1206,7 @@ Found 635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jessioa5">jessioa5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1469360665458532363">1 other</a>)&nbsp;</td>
             <td>2021-12-10</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1170</td>
         </tr>

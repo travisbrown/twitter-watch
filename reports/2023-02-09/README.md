@@ -52,7 +52,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheChairman811">TheChairman811</a></td>
             <td>2016-11-30</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>149</td>
             <td>13883</td>
@@ -600,7 +600,7 @@ Found 1795 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ARGOPNet">ARGOPNet</a></td>
             <td>2009-08-20</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>2442</td>
         </tr>

@@ -523,7 +523,7 @@ Found 926 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/4yourcountry">4yourcountry</a></td>
             <td>2009-07-07</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>18911</td>
         </tr>
@@ -556,7 +556,7 @@ Found 926 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tee2019K">Tee2019K</a></td>
             <td>2019-10-21</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>14808</td>
         </tr>
@@ -611,7 +611,7 @@ Found 926 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OperationJane">OperationJane</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>9128</td>
         </tr>

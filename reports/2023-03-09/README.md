@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/rksais1">rksais1</a></td>
             <td>2017-07-21</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>3907</td>
             <td>71803</td>
@@ -40,7 +40,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PicklesGhost">PicklesGhost</a></td>
             <td>2021-05-12</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>608</td>
             <td>77815</td>

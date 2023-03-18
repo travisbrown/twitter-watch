@@ -1932,7 +1932,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AracSarp">AracSarp</a></td>
             <td>2015-05-03</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1769</td>
         </tr>
@@ -2713,7 +2713,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Flatland_G_Baby">Flatland_G_Baby</a></td>
             <td>2020-11-04</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>1135</td>
         </tr>

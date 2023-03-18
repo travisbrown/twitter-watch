@@ -921,7 +921,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RedsTheBest23">RedsTheBest23</a></td>
             <td>2018-12-16</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>7562</td>
         </tr>
@@ -2637,7 +2637,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/seanrehder">seanrehder</a></td>
             <td>2007-09-03</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1190</td>
         </tr>
@@ -3011,7 +3011,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArtysHouse">ArtysHouse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2257135393">1 other</a>)&nbsp;</td>
             <td>2013-12-22</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>1004</td>
         </tr>

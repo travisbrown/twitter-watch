@@ -40,7 +40,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/sartor_tr">sartor_tr</a></td>
             <td>2021-04-22</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>378</td>
             <td>4590</td>

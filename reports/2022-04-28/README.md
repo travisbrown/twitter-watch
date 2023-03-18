@@ -1047,7 +1047,7 @@ Found 718 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cappy___R">Cappy___R</a></td>
             <td>2013-03-09</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1473</td>
         </tr>

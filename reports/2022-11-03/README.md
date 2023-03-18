@@ -1260,7 +1260,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GGameShxdy">GGameShxdy</a></td>
             <td>2018-09-10</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>11620</td>
         </tr>

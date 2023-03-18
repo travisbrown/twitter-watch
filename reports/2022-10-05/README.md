@@ -940,7 +940,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NonVitalTooth">NonVitalTooth</a></td>
             <td>2009-05-14</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>9085</td>
         </tr>

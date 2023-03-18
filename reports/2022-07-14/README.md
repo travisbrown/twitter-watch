@@ -1300,7 +1300,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jhutch43945987">Jhutch43945987</a></td>
             <td>2017-08-02</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>9786</td>
         </tr>

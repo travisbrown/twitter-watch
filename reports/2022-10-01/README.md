@@ -1666,7 +1666,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/moxafnbr">moxafnbr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1205238926786605067">4 others</a>)&nbsp;</td>
             <td>2019-12-12</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2093</td>
         </tr>

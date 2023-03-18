@@ -88,7 +88,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/0xgokhan">0xgokhan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1120763028184674305">7 others</a>)&nbsp;</td>
             <td>2019-04-23</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>3575</td>
             <td>84966</td>
@@ -472,7 +472,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/steelfitnessX">steelfitnessX</a></td>
             <td>2022-08-08</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>2669</td>
         </tr>
@@ -582,7 +582,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/anarxic">anarxic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1338917126749491202">4 others</a>)&nbsp;</td>
             <td>2020-12-15</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1715</td>
         </tr>

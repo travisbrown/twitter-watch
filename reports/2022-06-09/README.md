@@ -843,7 +843,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Odunadekoladee">Odunadekoladee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/928107560586043392">6 others</a>)&nbsp;</td>
             <td>2017-11-08</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>132521</td>
         </tr>

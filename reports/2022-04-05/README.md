@@ -627,7 +627,7 @@ Found 1605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rj_Sobrenatural">Rj_Sobrenatural</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1382825044833931265">1 other</a>)&nbsp;</td>
             <td>2021-04-15</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>53807</td>
         </tr>
@@ -1386,7 +1386,7 @@ Found 1605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TexasWorkbook">TexasWorkbook</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1468637907644788743">1 other</a>)&nbsp;</td>
             <td>2021-12-08</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>2249</td>
         </tr>
@@ -2662,7 +2662,7 @@ Found 1605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/getthepill">getthepill</a></td>
             <td>2022-02-06</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1023</td>
         </tr>

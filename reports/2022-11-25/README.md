@@ -724,7 +724,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DebtFreeSpendin">DebtFreeSpendin</a></td>
             <td>2011-05-26</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>47644</td>
         </tr>
@@ -1923,7 +1923,7 @@ Found 3117 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JhonyRostras">JhonyRostras</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/953243284981329920">2 others</a>)&nbsp;</td>
             <td>2018-01-16</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2234</td>
         </tr>

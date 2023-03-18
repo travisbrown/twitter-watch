@@ -1157,7 +1157,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vremyadeistviy7">vremyadeistviy7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2439959394">7 others</a>)&nbsp;</td>
             <td>2014-04-12</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1588</td>
         </tr>

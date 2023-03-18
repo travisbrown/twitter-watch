@@ -252,7 +252,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealPersianGod">RealPersianGod</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1243088479224913921">3 others</a>)&nbsp;</td>
             <td>2020-03-26</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>177380</td>
         </tr>
@@ -659,7 +659,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/q_clubb">q_clubb</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1360512646345330690">1 other</a>)&nbsp;</td>
             <td>2021-02-13</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>8107</td>
         </tr>
@@ -703,7 +703,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChicagoMikeSD">ChicagoMikeSD</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1148457028920078336">1 other</a>)&nbsp;</td>
             <td>2019-07-09</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>6911</td>
         </tr>
@@ -1088,7 +1088,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoGeekYoda">CryptoGeekYoda</a></td>
             <td>2022-02-14</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>3253</td>
         </tr>

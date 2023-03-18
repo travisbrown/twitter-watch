@@ -5906,7 +5906,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HereLiesLolo">HereLiesLolo</a></td>
             <td>2022-03-19</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1327</td>
         </tr>

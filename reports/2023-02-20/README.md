@@ -127,7 +127,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Erdnc88737710">Erdnc88737710</a></td>
             <td>2018-12-26</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>14529</td>
         </tr>
@@ -369,7 +369,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrLeshoo">DrLeshoo</a></td>
             <td>2017-07-17</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>2420</td>
         </tr>
@@ -578,7 +578,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/talanminor">talanminor</a></td>
             <td>2013-02-10</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>1252</td>
         </tr>

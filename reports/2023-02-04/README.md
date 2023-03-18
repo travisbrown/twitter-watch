@@ -1482,7 +1482,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ifvckandrun">ifvckandrun</a></td>
             <td>2018-03-15</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center">🔒</td>
             <td>1703</td>
         </tr>

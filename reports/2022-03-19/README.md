@@ -645,7 +645,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LouisJGonzales">LouisJGonzales</a></td>
             <td>2010-09-25</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>17162</td>
         </tr>
@@ -964,7 +964,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gldbug">gldbug</a></td>
             <td>2011-05-15</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>3402</td>
         </tr>

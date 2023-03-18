@@ -1420,7 +1420,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/R2Degen">R2Degen</a></td>
             <td>2020-10-16</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1401</td>
         </tr>

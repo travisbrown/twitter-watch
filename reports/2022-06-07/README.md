@@ -40,7 +40,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MargaretLCornel">MargaretLCornel</a></td>
             <td>2013-11-20</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>24279</td>
             <td>457</td>

@@ -3662,7 +3662,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/suji724">suji724</a></td>
             <td>2014-06-27</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>1102</td>
         </tr>

@@ -52,7 +52,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DoctorCumFart">DoctorCumFart</a></td>
             <td>2022-01-12</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1100</td>
             <td>2423</td>

@@ -136,7 +136,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BarlosPhd">BarlosPhd</a></td>
             <td>2022-04-24</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>243</td>
             <td>4529</td>

@@ -755,7 +755,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/catecamp">catecamp</a></td>
             <td>2013-04-24</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>14382</td>
         </tr>
@@ -887,7 +887,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/catalunya_s">catalunya_s</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/713288066954297345">3 others</a>)&nbsp;</td>
             <td>2016-03-25</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>9980</td>
         </tr>

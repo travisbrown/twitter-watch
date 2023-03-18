@@ -329,7 +329,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fishcak18433002">Fishcak18433002</a></td>
             <td>2020-10-20</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>4855</td>
         </tr>
@@ -593,7 +593,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/must_rifai">must_rifai</a></td>
             <td>2016-08-08</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1794</td>
         </tr>

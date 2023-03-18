@@ -292,7 +292,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RandyDreamweav1">RandyDreamweav1</a></td>
             <td>2020-02-28</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>159</td>
             <td>68626</td>

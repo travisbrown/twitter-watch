@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MrMolesterson">MrMolesterson</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1357506367888781314">1 other</a>)&nbsp;</td>
             <td>2021-02-05</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>3940</td>
             <td>1361</td>

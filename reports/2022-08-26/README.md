@@ -3967,7 +3967,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheBermyBie">TheBermyBie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1025585250">1 other</a>)&nbsp;</td>
             <td>2012-12-21</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>1195</td>
         </tr>

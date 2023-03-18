@@ -436,7 +436,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/fascism_kyaru">fascism_kyaru</a></td>
             <td>2021-11-05</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>898</td>
             <td>86415</td>

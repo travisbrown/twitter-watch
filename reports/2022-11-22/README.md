@@ -340,7 +340,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Pontifical_Jest">Pontifical_Jest</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/550738636">3 others</a>)&nbsp;</td>
             <td>2012-04-11</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>404</td>
             <td>83353</td>
@@ -1013,7 +1013,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EFJBGC">EFJBGC</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/903657379291693057">2 others</a>)&nbsp;</td>
             <td>2017-09-01</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>21033</td>
         </tr>

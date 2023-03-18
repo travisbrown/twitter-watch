@@ -827,7 +827,7 @@ Found 754 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CampersHaven">CampersHaven</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/176118358">1 other</a>)&nbsp;</td>
             <td>2010-08-08</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1415</td>
         </tr>
@@ -948,7 +948,7 @@ Found 754 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iaftabash">iaftabash</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/779718381276655616">4 others</a>)&nbsp;</td>
             <td>2016-09-24</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>

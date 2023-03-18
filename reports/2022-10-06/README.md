@@ -830,7 +830,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BNNBreaking">BNNBreaking</a></td>
             <td>2022-06-28</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>17787</td>
         </tr>
@@ -1039,7 +1039,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lb_ahed">lb_ahed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1107381925">1 other</a>)&nbsp;</td>
             <td>2013-01-20</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>9150</td>
         </tr>

@@ -52,7 +52,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/undeadkorpsman">undeadkorpsman</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1468712227540815874">1 other</a>)&nbsp;</td>
             <td>2021-12-08</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>116</td>
             <td>5022</td>

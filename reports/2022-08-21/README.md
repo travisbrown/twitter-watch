@@ -908,7 +908,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheDesertDaddy">TheDesertDaddy</a></td>
             <td>2021-08-22</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>25812</td>
         </tr>
@@ -1755,7 +1755,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TruthSeeker269">TruthSeeker269</a></td>
             <td>2021-11-12</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2582</td>
         </tr>

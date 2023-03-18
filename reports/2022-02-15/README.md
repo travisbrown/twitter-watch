@@ -1852,7 +1852,7 @@ Found 462 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SassyRebelGal1">SassyRebelGal1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1171074014825058304">6 others</a>)&nbsp;</td>
             <td>2019-09-09</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>8075</td>
         </tr>

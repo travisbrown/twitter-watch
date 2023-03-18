@@ -451,7 +451,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JaynaeBishop">JaynaeBishop</a></td>
             <td>2016-11-01</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>3425</td>
         </tr>

@@ -1338,7 +1338,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/markfinelli">markfinelli</a></td>
             <td>2009-03-04</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>3362</td>
         </tr>
@@ -2548,7 +2548,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Madam_Merica">Madam_Merica</a></td>
             <td>2022-01-03</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>1025</td>
         </tr>

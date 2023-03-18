@@ -466,7 +466,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dusti_Dahl">Dusti_Dahl</a></td>
             <td>2008-07-30</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>10630</td>
         </tr>
@@ -543,7 +543,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CryptoNft_Mike">CryptoNft_Mike</a></td>
             <td>2022-04-01</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>5743</td>
         </tr>

@@ -76,7 +76,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JokerRubyRidge">JokerRubyRidge</a></td>
             <td>2021-05-17</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>572</td>
             <td>69076</td>
@@ -925,7 +925,7 @@ Found 1105 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IAM_4_EU">IAM_4_EU</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/941254327464792069">1 other</a>)&nbsp;</td>
             <td>2017-12-14</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>7532</td>
         </tr>

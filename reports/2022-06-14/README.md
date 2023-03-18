@@ -858,7 +858,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ParamounttSonic">ParamounttSonic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1266815443450421248">4 others</a>)&nbsp;</td>
             <td>2020-05-30</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2537</td>
         </tr>

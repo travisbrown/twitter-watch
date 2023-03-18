@@ -227,7 +227,7 @@ Found 1059 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ferozwala">ferozwala</a></td>
             <td>2009-07-01</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>4914</td>
         </tr>
@@ -546,7 +546,7 @@ Found 1059 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zamnzeke">zamnzeke</a></td>
             <td>2019-09-26</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>1236</td>
         </tr>

@@ -1530,7 +1530,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Swaffle_7">Swaffle_7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1276091768853934080">3 others</a>)&nbsp;</td>
             <td>2020-06-25</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>8020</td>
         </tr>
@@ -3873,7 +3873,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Darkfire135">Darkfire135</a></td>
             <td>2011-06-15</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1452</td>
         </tr>
@@ -4588,7 +4588,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StackerCoin">StackerCoin</a></td>
             <td>2021-03-19</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1125</td>
         </tr>

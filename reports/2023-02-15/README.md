@@ -602,7 +602,7 @@ Found 1269 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sinto_Montana">Sinto_Montana</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/937354049128714243">1 other</a>)&nbsp;</td>
             <td>2017-12-03</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>1759</td>
         </tr>

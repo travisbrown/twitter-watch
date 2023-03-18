@@ -284,7 +284,7 @@ Found 999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ricky_K67">Ricky_K67</a></td>
             <td>2020-06-13</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>9287</td>
         </tr>

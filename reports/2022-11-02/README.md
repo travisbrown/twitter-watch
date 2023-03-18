@@ -1679,7 +1679,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/onEscapee">onEscapee</a></td>
             <td>2014-08-07</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>3369</td>
         </tr>
@@ -2086,7 +2086,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Patri0tContr0l">Patri0tContr0l</a></td>
             <td>2022-10-28</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1848</td>
         </tr>

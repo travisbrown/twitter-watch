@@ -515,7 +515,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dr__H__Lekter">Dr__H__Lekter</a></td>
             <td>2021-10-28</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2636</td>
         </tr>
@@ -526,7 +526,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ph1977">ph1977</a></td>
             <td>2010-01-28</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>2572</td>
         </tr>
@@ -812,7 +812,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavePharrel">DavePharrel</a></td>
             <td>2011-02-25</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1270</td>
         </tr>

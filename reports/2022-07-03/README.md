@@ -6949,7 +6949,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LFGRT99">LFGRT99</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1401924204153524234">1 other</a>)&nbsp;</td>
             <td>2021-06-07</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1005</td>
         </tr>

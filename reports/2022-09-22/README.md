@@ -810,7 +810,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tech9icaIs">tech9icaIs</a></td>
             <td>2022-09-07</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>143115</td>
         </tr>

@@ -52,7 +52,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ClassicalZoomer">ClassicalZoomer</a></td>
             <td>2011-11-18</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>7248</td>
             <td>466</td>
@@ -712,7 +712,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Pixiestorm2">Pixiestorm2</a></td>
             <td>2020-01-05</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center">🔒</td>
             <td>23</td>
             <td>4391</td>
@@ -1072,7 +1072,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Glycino_Latino">Glycino_Latino</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1494064040272080898">1 other</a>)&nbsp;</td>
             <td>2022-02-16</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center">🔒</td>
             <td>0</td>
             <td>9231</td>
@@ -1324,7 +1324,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Kunt_kake">Kunt_kake</a></td>
             <td>2016-07-13</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>205</td>
             <td>13937</td>
@@ -1744,7 +1744,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SnakeEtter">SnakeEtter</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2986533810">1 other</a>)&nbsp;</td>
             <td>2015-01-17</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>143</td>
             <td>21352</td>
@@ -1948,7 +1948,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ShiftyFour">ShiftyFour</a></td>
             <td>2019-06-30</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>510</td>
             <td>24359</td>
@@ -2392,7 +2392,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LegioBaptistae">LegioBaptistae</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/17289855">4 others</a>)&nbsp;</td>
             <td>2008-11-10</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>2026</td>
             <td>32566</td>
@@ -2920,7 +2920,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/whiteboygoated">whiteboygoated</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1482100324622114821">1 other</a>)&nbsp;</td>
             <td>2022-01-14</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>280</td>
             <td>44439</td>
@@ -4000,7 +4000,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JatNationalist">JatNationalist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1113347219976007681">1 other</a>)&nbsp;</td>
             <td>2019-04-03</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center">🔒</td>
             <td>1993</td>
             <td>81296</td>
@@ -5456,7 +5456,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Artgalleryin">Artgalleryin</a></td>
             <td>2022-09-18</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>78012</td>
         </tr>
@@ -6127,7 +6127,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/raugn_">raugn_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3376573426">10 others</a>)&nbsp;</td>
             <td>2015-07-14</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>4470</td>
         </tr>

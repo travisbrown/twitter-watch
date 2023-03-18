@@ -1962,7 +1962,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chintanchheda">chintanchheda</a></td>
             <td>2010-01-03</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>2122</td>
         </tr>

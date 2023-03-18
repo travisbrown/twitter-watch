@@ -380,7 +380,7 @@ Found 1424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alex_Houseof308">Alex_Houseof308</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/385986859">2 others</a>)&nbsp;</td>
             <td>2011-10-06</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>696740</td>
         </tr>

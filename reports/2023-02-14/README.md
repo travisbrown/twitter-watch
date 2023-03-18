@@ -282,7 +282,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vitamin_xx_2525">vitamin_xx_2525</a></td>
             <td>2015-06-03</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>15554</td>
         </tr>
@@ -337,7 +337,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cryptolover4640">cryptolover4640</a></td>
             <td>2019-09-15</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>10299</td>
         </tr>
@@ -689,7 +689,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/andykazie">andykazie</a></td>
             <td>2009-12-05</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>2933</td>
         </tr>

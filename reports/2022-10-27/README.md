@@ -3063,7 +3063,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/suzejm63">suzejm63</a></td>
             <td>2019-02-08</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>1193</td>
         </tr>

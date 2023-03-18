@@ -430,7 +430,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/burgerlover89">burgerlover89</a></td>
             <td>2021-05-11</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>6380</td>
         </tr>

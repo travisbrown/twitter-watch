@@ -771,7 +771,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CatTikToks">CatTikToks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1017503614342815744">4 others</a>)&nbsp;</td>
             <td>2018-07-12</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>177345</td>
         </tr>

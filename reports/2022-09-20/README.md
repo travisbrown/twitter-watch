@@ -620,7 +620,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheWorldOfFunny">TheWorldOfFunny</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1156820016">2 others</a>)&nbsp;</td>
             <td>2013-02-07</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>556933</td>
         </tr>

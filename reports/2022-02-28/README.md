@@ -779,7 +779,7 @@ Found 417 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreeThinkerFit">FreeThinkerFit</a></td>
             <td>2021-09-29</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>5320</td>
         </tr>

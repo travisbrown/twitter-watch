@@ -843,7 +843,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CleveIandOhio">CleveIandOhio</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1317724969">4 others</a>)&nbsp;</td>
             <td>2013-03-31</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>12468</td>
         </tr>
@@ -1107,7 +1107,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ForestColorado">ForestColorado</a></td>
             <td>2021-11-30</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>5987</td>
         </tr>
@@ -1602,7 +1602,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Meanders2">Meanders2</a></td>
             <td>2013-07-14</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>3435</td>
         </tr>

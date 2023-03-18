@@ -2506,7 +2506,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Naviiah1">Naviiah1</a></td>
             <td>2018-02-11</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2669</td>
         </tr>
@@ -2605,7 +2605,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PibbleGalRedux">PibbleGalRedux</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1012480851643232256">1 other</a>)&nbsp;</td>
             <td>2018-06-28</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2186</td>
         </tr>
@@ -2957,7 +2957,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/w00dbea">w00dbea</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1628317284">1 other</a>)&nbsp;</td>
             <td>2013-07-28</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1267</td>
         </tr>

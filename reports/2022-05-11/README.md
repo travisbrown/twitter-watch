@@ -1226,7 +1226,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/socratesccost">socratesccost</a></td>
             <td>2009-03-22</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>4118</td>
         </tr>

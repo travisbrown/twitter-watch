@@ -3042,7 +3042,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FirebaughNorman">FirebaughNorman</a></td>
             <td>2012-07-14</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>9036</td>
         </tr>

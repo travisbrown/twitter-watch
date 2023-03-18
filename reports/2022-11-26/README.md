@@ -861,7 +861,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kristysf">kristysf</a></td>
             <td>2007-03-16</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>10424</td>
         </tr>
@@ -1257,7 +1257,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TariqElhaad">TariqElhaad</a></td>
             <td>2021-12-23</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>3404</td>
         </tr>
@@ -1521,7 +1521,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EgoAquila">EgoAquila</a></td>
             <td>2015-11-05</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>2260</td>
         </tr>

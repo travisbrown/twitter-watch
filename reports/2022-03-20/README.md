@@ -803,7 +803,7 @@ Found 706 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JillBabaa">JillBabaa</a></td>
             <td>2021-03-16</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>9212</td>
         </tr>
@@ -814,7 +814,7 @@ Found 706 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Trish4DJT">Trish4DJT</a></td>
             <td>2021-11-13</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>9155</td>
         </tr>

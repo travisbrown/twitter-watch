@@ -672,7 +672,7 @@ Found 663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mobygrapefan">mobygrapefan</a></td>
             <td>2011-03-01</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>3905</td>
         </tr>
@@ -1035,7 +1035,7 @@ Found 663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/45T47">45T47</a></td>
             <td>2022-06-25</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1712</td>
         </tr>

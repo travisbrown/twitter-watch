@@ -1218,7 +1218,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lancier1812">Lancier1812</a></td>
             <td>2014-04-10</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>10649</td>
         </tr>
@@ -1295,7 +1295,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Elmr_Fudd_again">Elmr_Fudd_again</a></td>
             <td>2021-12-13</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>7240</td>
         </tr>

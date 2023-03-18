@@ -172,7 +172,7 @@ Found 23 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/twood3676">twood3676</a></td>
             <td>2009-04-03</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>2051</td>
             <td>32427</td>

@@ -112,7 +112,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Mikewhitepart2">Mikewhitepart2</a></td>
             <td>2022-07-22</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>192</td>
             <td>8503</td>

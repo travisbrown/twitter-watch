@@ -997,7 +997,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theSinghMan">theSinghMan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/28283870">3 others</a>)&nbsp;</td>
             <td>2009-04-02</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1037</td>
         </tr>

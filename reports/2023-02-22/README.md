@@ -824,7 +824,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/collwus">collwus</a></td>
             <td>2021-05-12</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1414</td>
         </tr>

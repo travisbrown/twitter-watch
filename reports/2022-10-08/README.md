@@ -594,7 +594,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChahalNonProfit">ChahalNonProfit</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/749773958">1 other</a>)&nbsp;</td>
             <td>2012-08-10</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>22928</td>
         </tr>

@@ -1764,7 +1764,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jwe3005">jwe3005</a></td>
             <td>2015-07-17</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>1884</td>
         </tr>

@@ -124,7 +124,7 @@ Found 59 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/banerealm">banerealm</a></td>
             <td>2022-05-10</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>1474</td>
             <td>2261</td>
@@ -1273,7 +1273,7 @@ Found 415 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrandiLamonte">BrandiLamonte</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1358538236902137856">3 others</a>)&nbsp;</td>
             <td>2021-02-07</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>62507</td>
         </tr>
@@ -1328,7 +1328,7 @@ Found 415 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EmilySavato">EmilySavato</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1278923340044890114">3 others</a>)&nbsp;</td>
             <td>2020-07-03</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>44863</td>
         </tr>

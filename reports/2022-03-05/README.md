@@ -615,7 +615,7 @@ Found 507 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sophieladder">sophieladder</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3288757960">1 other</a>)&nbsp;</td>
             <td>2015-05-18</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>35472</td>
         </tr>

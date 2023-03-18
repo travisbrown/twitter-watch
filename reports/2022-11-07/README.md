@@ -940,7 +940,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/G_Kkrl_">G_Kkrl_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1581322626">3 others</a>)&nbsp;</td>
             <td>2013-07-09</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>533</td>
             <td>6386</td>

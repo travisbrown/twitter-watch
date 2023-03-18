@@ -1944,7 +1944,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BVBXCharlie">BVBXCharlie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1960204542">5 others</a>)&nbsp;</td>
             <td>2013-10-14</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>3619</td>
         </tr>

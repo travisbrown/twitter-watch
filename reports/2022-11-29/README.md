@@ -2515,7 +2515,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PrettySkinnyBoy">PrettySkinnyBoy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1035005010831187969">5 others</a>)&nbsp;</td>
             <td>2018-08-30</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>1882</td>
         </tr>

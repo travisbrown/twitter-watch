@@ -1832,7 +1832,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoolKarlMarx1">CoolKarlMarx1</a></td>
             <td>2022-07-24</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>2292</td>
         </tr>

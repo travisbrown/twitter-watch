@@ -689,7 +689,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Terruccio">Terruccio</a></td>
             <td>2021-08-06</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>4097</td>
         </tr>

@@ -1693,7 +1693,7 @@ Found 698 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/756Elizabeth">756Elizabeth</a></td>
             <td>2021-10-03</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1163</td>
         </tr>

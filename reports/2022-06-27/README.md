@@ -821,7 +821,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/larynbudiof">larynbudiof</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1206630210533306370">2 others</a>)&nbsp;</td>
             <td>2019-12-16</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>43279</td>
         </tr>

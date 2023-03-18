@@ -261,7 +261,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Arabcelebritie6">Arabcelebritie6</a></td>
             <td>2020-12-11</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>49936</td>
         </tr>
@@ -1537,7 +1537,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lucid_Cam">Lucid_Cam</a></td>
             <td>2014-08-16</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1152</td>
         </tr>

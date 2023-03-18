@@ -973,7 +973,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/N_Fadhilaah">N_Fadhilaah</a></td>
             <td>2021-08-18</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>11362</td>
         </tr>
@@ -1094,7 +1094,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChinaTeacher1">ChinaTeacher1</a></td>
             <td>2018-11-22</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>6099</td>
         </tr>

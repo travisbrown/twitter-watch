@@ -627,7 +627,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gamer__Guy">Gamer__Guy</a></td>
             <td>2010-04-10</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>140552</td>
         </tr>

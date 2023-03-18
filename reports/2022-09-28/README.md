@@ -1299,7 +1299,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LaineyWasi">LaineyWasi</a></td>
             <td>2009-04-23</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>6646</td>
         </tr>
@@ -1464,7 +1464,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/003CarrierFan">003CarrierFan</a></td>
             <td>2022-06-01</td>
-            <td></td>
+            <td>2023-03-12</td>
             <td align="center"></td>
             <td>3722</td>
         </tr>
@@ -1981,7 +1981,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EvaMitc96151653">EvaMitc96151653</a></td>
             <td>2021-04-28</td>
-            <td></td>
+            <td>2023-03-13</td>
             <td align="center"></td>
             <td>2213</td>
         </tr>
@@ -2773,7 +2773,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Aldez">Aldez</a></td>
             <td>2009-02-18</td>
-            <td></td>
+            <td>2023-03-14</td>
             <td align="center"></td>
             <td>1096</td>
         </tr>

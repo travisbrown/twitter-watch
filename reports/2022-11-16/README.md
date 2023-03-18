@@ -2794,7 +2794,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EarnedNotGiven_">EarnedNotGiven_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/923342659">1 other</a>)&nbsp;</td>
             <td>2012-11-03</td>
-            <td></td>
+            <td>2023-03-15</td>
             <td align="center"></td>
             <td>1056</td>
         </tr>
