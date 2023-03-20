@@ -52,7 +52,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NateHiggersShaw">NateHiggersShaw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1433821074463105028">1 other</a>)&nbsp;</td>
             <td>2021-09-03</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>467</td>
             <td>2320</td>

@@ -1876,7 +1876,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wisconsin1836">wisconsin1836</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1212591018089963522">1 other</a>)&nbsp;</td>
             <td>2020-01-02</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1221</td>
         </tr>

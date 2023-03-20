@@ -2041,7 +2041,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/masimaux">masimaux</a></td>
             <td>2015-05-30</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>1240</td>
         </tr>

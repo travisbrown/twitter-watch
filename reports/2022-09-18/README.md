@@ -1802,7 +1802,7 @@ Found 2631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/matayoshi2022">matayoshi2022</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1483882323334811649">1 other</a>)&nbsp;</td>
             <td>2022-01-19</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1990</td>
         </tr>

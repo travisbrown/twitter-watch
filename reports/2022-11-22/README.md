@@ -1838,7 +1838,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lailaAnquit">lailaAnquit</a></td>
             <td>2021-10-30</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>2290</td>
         </tr>
@@ -1871,7 +1871,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CreativeVerveM">CreativeVerveM</a></td>
             <td>2010-11-28</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2123</td>
         </tr>

@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DeIudedShaniqwa">DeIudedShaniqwa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1359923836356018176">4 others</a>)&nbsp;</td>
             <td>2021-02-11</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>51795</td>
             <td>290</td>

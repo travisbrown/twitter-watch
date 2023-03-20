@@ -570,7 +570,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SexFlixHorny">SexFlixHorny</a></td>
             <td>2021-09-18</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>237059</td>
         </tr>
@@ -647,7 +647,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HaYoMiDe_">HaYoMiDe_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1070337762128220163">1 other</a>)&nbsp;</td>
             <td>2018-12-05</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>117266</td>
         </tr>

@@ -1332,7 +1332,7 @@ Found 1567 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SparklerLiberty">SparklerLiberty</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1210110151283351552">1 other</a>)&nbsp;</td>
             <td>2019-12-26</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1246</td>
         </tr>

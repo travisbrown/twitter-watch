@@ -304,7 +304,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/volalupi">volalupi</a></td>
             <td>2009-08-23</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2164</td>
             <td>79396</td>

@@ -585,7 +585,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kamika_do">kamika_do</a></td>
             <td>2019-07-21</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>89244</td>
         </tr>
@@ -816,7 +816,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Steve_Laws_">Steve_Laws_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1308549999165407233">1 other</a>)&nbsp;</td>
             <td>2020-09-22</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>26637</td>
         </tr>

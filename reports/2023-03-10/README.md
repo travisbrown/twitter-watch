@@ -425,7 +425,7 @@ Found 1542 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnnieJo80051383">AnnieJo80051383</a></td>
             <td>2021-04-21</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2803</td>
         </tr>
@@ -601,7 +601,7 @@ Found 1542 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarshaC59266742">MarshaC59266742</a></td>
             <td>2018-11-13</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1589</td>
         </tr>

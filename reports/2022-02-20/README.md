@@ -937,7 +937,7 @@ Found 426 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/trapyeezus">trapyeezus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/186901519">9 others</a>)&nbsp;</td>
             <td>2010-09-04</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>27867</td>
         </tr>

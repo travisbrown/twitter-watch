@@ -1344,7 +1344,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BispoFrancesco">BispoFrancesco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1252709217464614913">3 others</a>)&nbsp;</td>
             <td>2020-04-21</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1645</td>
         </tr>

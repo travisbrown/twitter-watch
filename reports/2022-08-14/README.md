@@ -693,7 +693,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SexiKhloe">SexiKhloe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1495767995033038850">1 other</a>)&nbsp;</td>
             <td>2022-02-21</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>75132</td>
         </tr>

@@ -3028,7 +3028,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/jake_neidert">jake_neidert</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/886051670311878656">1 other</a>)&nbsp;</td>
             <td>2017-07-15</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1134</td>
             <td>46670</td>

@@ -1741,7 +1741,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WhyIteachtoday">WhyIteachtoday</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2331256608">1 other</a>)&nbsp;</td>
             <td>2014-02-07</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>2202</td>
         </tr>

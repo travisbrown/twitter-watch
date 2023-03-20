@@ -2063,7 +2063,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/elpinturicchi0">elpinturicchi0</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1392272904">2 others</a>)&nbsp;</td>
             <td>2013-04-30</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1986</td>
         </tr>

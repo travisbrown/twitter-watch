@@ -1929,7 +1929,7 @@ Found 462 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AIustitiae">AIustitiae</a></td>
             <td>2021-06-12</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>5417</td>
         </tr>

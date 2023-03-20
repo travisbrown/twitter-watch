@@ -259,7 +259,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HunterTs5">HunterTs5</a></td>
             <td>2020-04-14</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>25772</td>
         </tr>
@@ -270,7 +270,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hunter_hhhh">hunter_hhhh</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/165830133">3 others</a>)&nbsp;</td>
             <td>2010-07-12</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>23320</td>
         </tr>
@@ -501,7 +501,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/88lizzer">88lizzer</a></td>
             <td>2016-08-11</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>4746</td>
         </tr>
@@ -787,7 +787,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lovemexxx11">lovemexxx11</a></td>
             <td>2018-06-24</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>1638</td>
         </tr>
@@ -853,7 +853,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xtcer1">xtcer1</a></td>
             <td>2020-06-10</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1372</td>
         </tr>
@@ -886,7 +886,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Isdemocracydead">Isdemocracydead</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2488156311">1 other</a>)&nbsp;</td>
             <td>2014-04-16</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1258</td>
         </tr>

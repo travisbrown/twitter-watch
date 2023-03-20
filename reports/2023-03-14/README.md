@@ -94,7 +94,7 @@ Found 2404 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReaperKat">ReaperKat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/885833246147305473">15 others</a>)&nbsp;</td>
             <td>2017-07-14</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>25756</td>
         </tr>

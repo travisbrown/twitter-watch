@@ -1063,7 +1063,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AoE_Bump">AoE_Bump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/587401348">2 others</a>)&nbsp;</td>
             <td>2012-05-22</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1377</td>
         </tr>
@@ -1118,7 +1118,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cuckold_Schweiz">Cuckold_Schweiz</a></td>
             <td>2017-06-07</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1301</td>
         </tr>

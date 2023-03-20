@@ -1074,7 +1074,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jane_FKyalo">Jane_FKyalo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1005460195202551808">1 other</a>)&nbsp;</td>
             <td>2018-06-09</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>51178</td>
         </tr>

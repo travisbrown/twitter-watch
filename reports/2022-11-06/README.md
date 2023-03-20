@@ -1996,7 +1996,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/YatYas1776">YatYas1776</a></td>
             <td>2017-08-14</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>17225</td>
             <td>26131</td>

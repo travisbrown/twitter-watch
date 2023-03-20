@@ -809,7 +809,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/attitudeboy183">attitudeboy183</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1174164128455258113">1 other</a>)&nbsp;</td>
             <td>2019-09-18</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1987</td>
         </tr>

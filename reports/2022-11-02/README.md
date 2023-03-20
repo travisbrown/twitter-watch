@@ -268,7 +268,7 @@ Found 51 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Cooke8083">Cooke8083</a></td>
             <td>2009-05-19</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>251</td>
             <td>23975</td>
@@ -2119,7 +2119,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Semswords">Semswords</a></td>
             <td>2020-08-03</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>1751</td>
         </tr>

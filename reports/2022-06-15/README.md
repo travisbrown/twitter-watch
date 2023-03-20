@@ -902,7 +902,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LightninLex">LightninLex</a></td>
             <td>2021-12-16</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2532</td>
         </tr>

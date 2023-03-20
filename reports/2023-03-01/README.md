@@ -374,7 +374,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/simplypaulus">simplypaulus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3933671428">4 others</a>)&nbsp;</td>
             <td>2015-10-12</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>6804</td>
         </tr>

@@ -2977,7 +2977,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/goswami07">goswami07</a></td>
             <td>2009-12-24</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1430</td>
         </tr>

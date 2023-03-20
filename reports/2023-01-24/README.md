@@ -756,7 +756,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EricArchambaul7">EricArchambaul7</a></td>
             <td>2021-10-27</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>8994</td>
         </tr>

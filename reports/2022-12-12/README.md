@@ -160,7 +160,7 @@ Found 38 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/yobnationalist">yobnationalist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/445911936">1 other</a>)&nbsp;</td>
             <td>2011-12-25</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center">🔒</td>
             <td>317</td>
             <td>17126</td>

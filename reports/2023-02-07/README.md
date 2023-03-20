@@ -208,7 +208,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/antiporngroup">antiporngroup</a></td>
             <td>2014-08-14</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>37436</td>
         </tr>
@@ -428,7 +428,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/44rover1">44rover1</a></td>
             <td>2011-11-22</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>3588</td>
         </tr>
@@ -505,7 +505,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dayonaryder">Dayonaryder</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/74488169">1 other</a>)&nbsp;</td>
             <td>2009-09-15</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>3298</td>
         </tr>
@@ -604,7 +604,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/newdodo01">newdodo01</a></td>
             <td>2022-01-28</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>2352</td>
         </tr>
@@ -648,7 +648,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aFordOwner">aFordOwner</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1427764438514421764">1 other</a>)&nbsp;</td>
             <td>2021-08-17</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1964</td>
         </tr>

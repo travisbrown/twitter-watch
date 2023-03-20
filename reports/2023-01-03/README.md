@@ -533,7 +533,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stargazeruk7">stargazeruk7</a></td>
             <td>2022-04-20</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2963</td>
         </tr>
@@ -698,7 +698,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnotherCryptoM1">AnotherCryptoM1</a></td>
             <td>2021-08-11</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1855</td>
         </tr>

@@ -52,7 +52,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Groypered">Groypered</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1541404023080861704">2 others</a>)&nbsp;</td>
             <td>2022-06-27</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1424</td>
             <td>2631</td>

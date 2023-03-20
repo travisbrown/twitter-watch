@@ -233,7 +233,7 @@ Found 754 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/moodyonmoon">moodyonmoon</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1278735999955349504">1 other</a>)&nbsp;</td>
             <td>2020-07-02</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>40946</td>
         </tr>

@@ -1132,7 +1132,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MsRoy_NFT">MsRoy_NFT</a></td>
             <td>2022-02-08</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1180</td>
         </tr>

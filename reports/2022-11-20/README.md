@@ -1895,7 +1895,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShortFatOtaku">ShortFatOtaku</a></td>
             <td>2010-07-01</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>3973</td>
         </tr>

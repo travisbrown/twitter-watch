@@ -1678,7 +1678,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/synredae">synredae</a></td>
             <td>2017-12-19</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>3779</td>
         </tr>

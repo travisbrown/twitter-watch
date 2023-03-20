@@ -852,7 +852,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RNcat50">RNcat50</a></td>
             <td>2015-02-01</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>18108</td>
         </tr>
@@ -2733,7 +2733,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealMelcolmX">RealMelcolmX</a></td>
             <td>2020-04-10</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>4430</td>
         </tr>
@@ -4614,7 +4614,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/__WolfHeart__">__WolfHeart__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1195641066495582210">1 other</a>)&nbsp;</td>
             <td>2019-11-16</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>2527</td>
         </tr>

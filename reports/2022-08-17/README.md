@@ -2026,7 +2026,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnnyFkRainbow">JohnnyFkRainbow</a></td>
             <td>2022-06-04</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1914</td>
         </tr>

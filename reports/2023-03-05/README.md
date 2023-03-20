@@ -235,7 +235,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/valehomoss">valehomoss</a></td>
             <td>2022-03-25</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>6789</td>
         </tr>
@@ -466,7 +466,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Longhardwinter1">Longhardwinter1</a></td>
             <td>2019-09-19</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1417</td>
         </tr>

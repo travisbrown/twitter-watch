@@ -863,7 +863,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShipGeneration">ShipGeneration</a></td>
             <td>2019-06-09</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>3024</td>
         </tr>
@@ -1457,7 +1457,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GroverBoogie">GroverBoogie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/934052843358769154">3 others</a>)&nbsp;</td>
             <td>2017-11-24</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1524</td>
         </tr>

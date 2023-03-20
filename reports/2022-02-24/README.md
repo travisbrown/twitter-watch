@@ -939,7 +939,7 @@ Found 272 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KimberlyVasel">KimberlyVasel</a></td>
             <td>2014-06-26</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1152</td>
         </tr>

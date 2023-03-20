@@ -2729,7 +2729,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RvClosed">RvClosed</a></td>
             <td>2022-08-07</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center">🔒</td>
             <td>2589</td>
         </tr>

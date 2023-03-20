@@ -1450,7 +1450,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ninjapig17">ninjapig17</a></td>
             <td>2020-01-11</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1519</td>
         </tr>

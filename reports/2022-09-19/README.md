@@ -634,7 +634,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GYerathel">GYerathel</a></td>
             <td>2021-04-06</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>29682</td>
         </tr>

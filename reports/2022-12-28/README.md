@@ -861,7 +861,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JDanicich">JDanicich</a></td>
             <td>2014-02-25</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2730</td>
         </tr>

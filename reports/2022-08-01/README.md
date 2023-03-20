@@ -483,7 +483,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GambIingPro">GambIingPro</a></td>
             <td>2018-08-08</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>160366</td>
         </tr>

@@ -1519,7 +1519,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vox_noticias_">vox_noticias_</a></td>
             <td>2022-01-02</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>5508</td>
         </tr>
@@ -3114,7 +3114,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/antgamble_">antgamble_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/404749684">3 others</a>)&nbsp;</td>
             <td>2011-11-04</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center">🔒</td>
             <td>1715</td>
         </tr>

@@ -794,7 +794,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shinyblondy">shinyblondy</a></td>
             <td>2022-03-08</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>124371</td>
         </tr>

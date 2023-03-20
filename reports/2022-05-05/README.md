@@ -124,7 +124,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HermsNeil">HermsNeil</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1353800145893269504">7 others</a>)&nbsp;</td>
             <td>2021-01-25</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>62</td>
             <td>9161</td>

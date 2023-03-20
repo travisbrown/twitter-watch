@@ -669,7 +669,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/footbalIfights">footbalIfights</a></td>
             <td>2014-05-11</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>518590</td>
         </tr>
@@ -702,7 +702,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NoContextEPL">NoContextEPL</a></td>
             <td>2019-03-30</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>263602</td>
         </tr>

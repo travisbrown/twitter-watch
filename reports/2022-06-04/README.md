@@ -2047,7 +2047,7 @@ Found 987 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/raphelyayah">raphelyayah</a></td>
             <td>2020-05-29</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>1219</td>
         </tr>

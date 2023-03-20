@@ -633,7 +633,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hiddengems777">hiddengems777</a></td>
             <td>2015-07-29</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>6373</td>
         </tr>
@@ -1491,7 +1491,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kushhhhhha">Kushhhhhha</a></td>
             <td>2022-02-01</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1713</td>
         </tr>

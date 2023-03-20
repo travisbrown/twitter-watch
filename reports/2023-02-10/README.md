@@ -208,7 +208,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PUTOJUANDA">PUTOJUANDA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/199636345">1 other</a>)&nbsp;</td>
             <td>2010-10-07</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>25107</td>
         </tr>

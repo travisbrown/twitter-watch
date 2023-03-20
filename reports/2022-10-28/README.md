@@ -2033,7 +2033,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/obiden_sux">obiden_sux</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/899391099113963521">1 other</a>)&nbsp;</td>
             <td>2017-08-20</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>7024</td>
         </tr>

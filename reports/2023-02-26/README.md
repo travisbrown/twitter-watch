@@ -303,7 +303,7 @@ Found 872 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MyWorldOfDjs">MyWorldOfDjs</a></td>
             <td>2015-10-04</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>4037</td>
         </tr>
@@ -402,7 +402,7 @@ Found 872 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Struckneptune">Struckneptune</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1047906935855562752">1 other</a>)&nbsp;</td>
             <td>2018-10-04</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2301</td>
         </tr>

@@ -2117,7 +2117,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jose_albuquerqu">jose_albuquerqu</a></td>
             <td>2011-07-07</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1265</td>
         </tr>

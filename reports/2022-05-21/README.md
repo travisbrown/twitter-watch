@@ -1454,7 +1454,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1_Decided_Voter">1_Decided_Voter</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/833487206278848512">2 others</a>)&nbsp;</td>
             <td>2017-02-20</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>3418</td>
         </tr>

@@ -40,7 +40,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/cosmictoke_">cosmictoke_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1579217568">10 others</a>)&nbsp;</td>
             <td>2013-07-09</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>377</td>
             <td>20098</td>
@@ -52,7 +52,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RoyLovesAmerica">RoyLovesAmerica</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1399136176162983942">1 other</a>)&nbsp;</td>
             <td>2021-05-30</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2717</td>
             <td>62169</td>

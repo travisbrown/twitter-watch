@@ -172,7 +172,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/helloamysnow">helloamysnow</a></td>
             <td>2020-05-08</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>6857</td>
             <td>61576</td>
@@ -1510,7 +1510,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gizmothekat">Gizmothekat</a></td>
             <td>2021-11-07</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>2269</td>
         </tr>

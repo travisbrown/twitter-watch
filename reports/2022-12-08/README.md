@@ -28,7 +28,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KingBobIIV">KingBobIIV</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1151084197345447936">2 others</a>)&nbsp;</td>
             <td>2019-07-16</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>20806</td>
             <td>4830</td>

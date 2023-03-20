@@ -149,7 +149,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/djsoulchildac">djsoulchildac</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/168865510">2 others</a>)&nbsp;</td>
             <td>2010-07-21</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>10333</td>
         </tr>

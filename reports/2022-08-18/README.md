@@ -2305,7 +2305,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PeterTheocracy">PeterTheocracy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1471345743344586755">1 other</a>)&nbsp;</td>
             <td>2021-12-16</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>1412</td>
         </tr>

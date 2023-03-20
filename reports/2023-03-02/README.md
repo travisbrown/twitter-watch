@@ -151,7 +151,7 @@ Found 2000 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Black__12Women">Black__12Women</a></td>
             <td>2018-07-28</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>25358</td>
         </tr>
@@ -272,7 +272,7 @@ Found 2000 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DevineTrading">DevineTrading</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1418291434948546565">3 others</a>)&nbsp;</td>
             <td>2021-07-22</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>5208</td>
         </tr>

@@ -2275,7 +2275,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/catlovingcommie">catlovingcommie</a></td>
             <td>2022-07-19</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1556</td>
         </tr>
@@ -2341,7 +2341,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KarenLa80143872">KarenLa80143872</a></td>
             <td>2022-02-23</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>1490</td>
         </tr>
@@ -2649,7 +2649,7 @@ Found 2247 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MCass999">MCass999</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-03-17</td>
             <td align="center"></td>
             <td>1157</td>
         </tr>

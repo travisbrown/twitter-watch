@@ -436,7 +436,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/America_1rst">America_1rst</a></td>
             <td>2022-02-04</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>2106</td>
             <td>99648</td>
@@ -968,7 +968,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/autumngives">autumngives</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2023-03-16</td>
             <td align="center"></td>
             <td>102162</td>
         </tr>

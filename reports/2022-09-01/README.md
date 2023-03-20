@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/America1Scotty">America1Scotty</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1161154266049986560">2 others</a>)&nbsp;</td>
             <td>2019-08-13</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>81523</td>
             <td>197</td>

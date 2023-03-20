@@ -52,7 +52,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DickMolesterson">DickMolesterson</a></td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-03-18</td>
             <td align="center"></td>
             <td>2517</td>
             <td>1711</td>
