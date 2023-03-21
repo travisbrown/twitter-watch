@@ -1187,7 +1187,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChuckJo59520248">ChuckJo59520248</a></td>
             <td>2018-08-16</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1641</td>
         </tr>

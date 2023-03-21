@@ -1129,7 +1129,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JdsonNasciment1">JdsonNasciment1</a></td>
             <td>2018-11-21</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>3052</td>
         </tr>

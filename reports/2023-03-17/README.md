@@ -320,7 +320,7 @@ Found 1242 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_Apuleius">_Apuleius</a></td>
             <td>2016-07-22</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>4308</td>
         </tr>

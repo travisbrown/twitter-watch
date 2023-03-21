@@ -680,7 +680,7 @@ Found 851 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VittoJC">VittoJC</a></td>
             <td>2010-10-30</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1041</td>
         </tr></table>

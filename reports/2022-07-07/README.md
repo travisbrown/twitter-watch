@@ -1184,7 +1184,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/suruagymotta">suruagymotta</a></td>
             <td>2014-10-04</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>36312</td>
         </tr>

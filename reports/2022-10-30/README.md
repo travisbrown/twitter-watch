@@ -364,7 +364,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/chrisYeWest">chrisYeWest</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419739889969598467">1 other</a>)&nbsp;</td>
             <td>2021-07-26</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>865</td>
             <td>2829</td>
@@ -2848,7 +2848,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/groyphardaf">groyphardaf</a></td>
             <td>2021-05-24</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>254</td>
             <td>43761</td>
@@ -2896,7 +2896,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NoticingThem">NoticingThem</a></td>
             <td>2022-04-15</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>181</td>
             <td>43985</td>
@@ -3256,7 +3256,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/EuroHeg">EuroHeg</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1467197055202385926">1 other</a>)&nbsp;</td>
             <td>2021-12-04</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>2717</td>
             <td>52540</td>
@@ -3616,7 +3616,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Hatshep05663991">Hatshep05663991</a></td>
             <td>2020-11-04</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center">🔒</td>
             <td>207</td>
             <td>66325</td>

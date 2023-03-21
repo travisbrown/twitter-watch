@@ -239,7 +239,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheWaringWomen">TheWaringWomen</a></td>
             <td>2014-07-05</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>87739</td>
         </tr>

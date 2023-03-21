@@ -3530,7 +3530,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/e_steinhauser">e_steinhauser</a></td>
             <td>2022-03-20</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>1190</td>
         </tr>

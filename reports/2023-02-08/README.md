@@ -40,7 +40,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/stonejase504">stonejase504</a></td>
             <td>2022-08-12</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>2169</td>
             <td>55714</td>
@@ -843,7 +843,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LakelandFlorid1">LakelandFlorid1</a></td>
             <td>2020-10-18</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1352</td>
         </tr>

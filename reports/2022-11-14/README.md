@@ -2039,7 +2039,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blacked_gooner">blacked_gooner</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1095873876649799681">7 others</a>)&nbsp;</td>
             <td>2019-02-14</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>3897</td>
         </tr>

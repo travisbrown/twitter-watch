@@ -950,7 +950,7 @@ Found 601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Domenic_Toronto">Domenic_Toronto</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1638677252">1 other</a>)&nbsp;</td>
             <td>2013-08-01</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>7070</td>
         </tr>

@@ -1172,7 +1172,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chyanne1107">Chyanne1107</a></td>
             <td>2015-04-15</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>4118</td>
         </tr>

@@ -992,7 +992,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrPotatoheadPHD">MrPotatoheadPHD</a></td>
             <td>2022-05-05</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>13951</td>
         </tr>

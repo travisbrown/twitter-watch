@@ -259,7 +259,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/globegazette">globegazette</a></td>
             <td>2010-03-08</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>5420</td>
         </tr>
@@ -534,7 +534,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uche_igwe">uche_igwe</a></td>
             <td>2011-11-27</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>1927</td>
         </tr>

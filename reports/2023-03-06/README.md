@@ -504,7 +504,7 @@ Found 636 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scarlettnuvvo">scarlettnuvvo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/149273939">2 others</a>)&nbsp;</td>
             <td>2010-05-28</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1303</td>
         </tr>

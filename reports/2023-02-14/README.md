@@ -744,7 +744,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/apa_airoldi">apa_airoldi</a></td>
             <td>2015-06-10</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>2568</td>
         </tr>

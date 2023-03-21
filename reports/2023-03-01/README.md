@@ -52,7 +52,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/fknnutz">fknnutz</a></td>
             <td>2016-10-27</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1507</td>
             <td>38092</td>
@@ -198,7 +198,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TWD_Locations">TWD_Locations</a></td>
             <td>2010-11-17</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>24557</td>
         </tr>

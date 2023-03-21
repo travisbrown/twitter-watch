@@ -883,7 +883,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JEDTEX">JEDTEX</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1162142421083459584">1 other</a>)&nbsp;</td>
             <td>2019-08-15</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center">🔒</td>
             <td>1285</td>
         </tr>

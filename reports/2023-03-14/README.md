@@ -303,7 +303,7 @@ Found 2404 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ronaldreagantrr">ronaldreagantrr</a></td>
             <td>2021-07-15</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>7205</td>
         </tr>

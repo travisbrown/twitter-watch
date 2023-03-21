@@ -980,7 +980,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MargarineTater">MargarineTater</a></td>
             <td>2022-04-10</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>7661</td>
         </tr>

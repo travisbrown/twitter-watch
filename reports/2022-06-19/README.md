@@ -647,7 +647,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Freedom9369">Freedom9369</a></td>
             <td>2022-02-02</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>4824</td>
         </tr>

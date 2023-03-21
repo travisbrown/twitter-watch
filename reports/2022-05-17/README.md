@@ -912,7 +912,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CowboyMysterio">CowboyMysterio</a></td>
             <td>2022-02-12</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>2533</td>
         </tr>

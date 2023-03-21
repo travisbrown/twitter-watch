@@ -1269,7 +1269,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LargeCoffee2Go">LargeCoffee2Go</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1602349704">1 other</a>)&nbsp;</td>
             <td>2013-07-18</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>6150</td>
         </tr>

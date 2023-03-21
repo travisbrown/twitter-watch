@@ -1706,7 +1706,7 @@ Found 772 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MissBeck12">MissBeck12</a></td>
             <td>2020-04-13</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1117</td>
         </tr>

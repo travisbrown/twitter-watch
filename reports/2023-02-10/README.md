@@ -626,7 +626,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/U40aoino">U40aoino</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1107987283">2 others</a>)&nbsp;</td>
             <td>2013-01-21</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1624</td>
         </tr>

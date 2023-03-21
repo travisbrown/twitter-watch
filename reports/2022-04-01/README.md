@@ -906,7 +906,7 @@ Found 548 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnimeEBoy3">AnimeEBoy3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1481016584617476097">1 other</a>)&nbsp;</td>
             <td>2022-01-11</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>2318</td>
         </tr>

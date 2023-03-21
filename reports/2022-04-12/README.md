@@ -76,7 +76,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Nimbopill">Nimbopill</a></td>
             <td>2021-07-14</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>3509</td>
             <td>1564</td>
@@ -88,7 +88,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/punishedforest">punishedforest</a></td>
             <td>2021-12-07</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>1705</td>
             <td>2183</td>

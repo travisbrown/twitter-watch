@@ -1266,7 +1266,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/micky_crypto">micky_crypto</a></td>
             <td>2020-09-08</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1829</td>
         </tr>

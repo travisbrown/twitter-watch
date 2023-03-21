@@ -985,7 +985,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/medical_myth">medical_myth</a></td>
             <td>2021-09-23</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>5571</td>
         </tr>

@@ -52,7 +52,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MasakiJinzaburo">MasakiJinzaburo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1439356389365895175">1 other</a>)&nbsp;</td>
             <td>2021-09-18</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>8284</td>
             <td>981</td>

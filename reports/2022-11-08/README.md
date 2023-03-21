@@ -52,7 +52,7 @@ Found 52 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DeFifrog1">DeFifrog1</a></td>
             <td>2022-01-22</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>18225</td>
             <td>444</td>

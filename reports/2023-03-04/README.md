@@ -205,7 +205,7 @@ Found 998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DograPunjabi">DograPunjabi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/35694762">1 other</a>)&nbsp;</td>
             <td>2009-04-27</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>11396</td>
         </tr>

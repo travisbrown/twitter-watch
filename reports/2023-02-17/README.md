@@ -172,7 +172,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lladult">lladult</a></td>
             <td>2018-01-28</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>27359</td>
         </tr>

@@ -1039,7 +1039,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlixG_2">AlixG_2</a></td>
             <td>2021-09-20</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>15573</td>
         </tr>

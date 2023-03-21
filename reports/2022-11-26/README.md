@@ -2302,7 +2302,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kohli_fan4ever">kohli_fan4ever</a></td>
             <td>2021-08-11</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1071</td>
         </tr>

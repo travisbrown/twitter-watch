@@ -52,7 +52,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BajaMaster">BajaMaster</a></td>
             <td>2022-10-13</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>187</td>
             <td>75117</td>

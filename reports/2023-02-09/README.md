@@ -226,7 +226,7 @@ Found 1795 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sexy_Liffe">Sexy_Liffe</a></td>
             <td>2022-05-23</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>152085</td>
         </tr>

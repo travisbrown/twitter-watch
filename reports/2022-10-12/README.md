@@ -52,7 +52,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BidenLs">BidenLs</a></td>
             <td>2021-01-23</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>253581</td>
             <td>6478</td>

@@ -658,7 +658,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PurelyFootball">PurelyFootball</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2153702508">4 others</a>)&nbsp;</td>
             <td>2013-10-24</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>604112</td>
         </tr>
@@ -680,7 +680,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SwearingSport">SwearingSport</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/637318580">1 other</a>)&nbsp;</td>
             <td>2012-07-16</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>312881</td>
         </tr>

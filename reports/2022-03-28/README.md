@@ -1019,7 +1019,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShanghaiSteph">ShanghaiSteph</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1130634959939624965">7 others</a>)&nbsp;</td>
             <td>2019-05-21</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1311</td>
         </tr>

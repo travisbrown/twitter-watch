@@ -1559,7 +1559,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StLHandyMan">StLHandyMan</a></td>
             <td>2009-10-02</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>9033</td>
         </tr>
@@ -3022,7 +3022,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/113Sacred311">113Sacred311</a></td>
             <td>2021-08-28</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>1280</td>
         </tr>

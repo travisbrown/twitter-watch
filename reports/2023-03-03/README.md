@@ -284,7 +284,7 @@ Found 1527 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FastBounty90">FastBounty90</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1060164312612962304">2 others</a>)&nbsp;</td>
             <td>2018-11-07</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>8961</td>
         </tr>

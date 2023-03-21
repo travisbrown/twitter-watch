@@ -52,7 +52,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/amerikanerrr">amerikanerrr</a></td>
             <td>2022-02-09</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>664</td>
             <td>3026</td>

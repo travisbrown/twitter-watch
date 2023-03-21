@@ -2278,7 +2278,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sedelaportista">sedelaportista</a></td>
             <td>2021-04-30</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>1014</td>
         </tr></table>

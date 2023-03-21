@@ -1192,7 +1192,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/historyofarmani">historyofarmani</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2897353667">4 others</a>)&nbsp;</td>
             <td>2014-11-29</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>14776</td>
         </tr>

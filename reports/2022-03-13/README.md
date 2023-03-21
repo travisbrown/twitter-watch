@@ -755,7 +755,7 @@ Found 519 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lugnut_Patriot">Lugnut_Patriot</a></td>
             <td>2021-10-30</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>1698</td>
         </tr>

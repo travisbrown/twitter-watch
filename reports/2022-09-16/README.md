@@ -52,7 +52,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MedGold_">MedGold_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1414620680910430208">1 other</a>)&nbsp;</td>
             <td>2021-07-12</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>14757</td>
             <td>680</td>

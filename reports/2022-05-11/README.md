@@ -1017,7 +1017,7 @@ Found 540 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TaylorPostingLs">TaylorPostingLs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1490039847150657540">1 other</a>)&nbsp;</td>
             <td>2022-02-05</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>17365</td>
         </tr>

@@ -768,7 +768,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kipr2000">Kipr2000</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/383735884">3 others</a>)&nbsp;</td>
             <td>2011-10-02</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>3334</td>
         </tr>

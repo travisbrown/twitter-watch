@@ -1233,7 +1233,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UltraLandlord">UltraLandlord</a></td>
             <td>2022-06-27</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>8283</td>
         </tr>

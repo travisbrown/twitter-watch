@@ -772,7 +772,7 @@ Found 168 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PostingTransLs_">PostingTransLs_</a></td>
             <td>2021-04-30</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>12035</td>
         </tr>

@@ -478,7 +478,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/18Orgasm">18Orgasm</a></td>
             <td>2021-06-27</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>340982</td>
         </tr>
@@ -511,7 +511,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/feelbluezzz">feelbluezzz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1289339742358667264">2 others</a>)&nbsp;</td>
             <td>2020-07-31</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>326257</td>
         </tr>

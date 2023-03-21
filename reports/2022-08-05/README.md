@@ -621,7 +621,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/curvyshreya">curvyshreya</a></td>
             <td>2021-09-30</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>387390</td>
         </tr>
@@ -632,7 +632,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vixensophia">vixensophia</a></td>
             <td>2022-02-02</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>331314</td>
         </tr>

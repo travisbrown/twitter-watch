@@ -1089,7 +1089,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GiroudesqueV7">GiroudesqueV7</a></td>
             <td>2020-03-29</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>3728</td>
         </tr>

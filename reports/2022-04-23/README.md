@@ -64,7 +64,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/remnantposting">remnantposting</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1480926325091323913">2 others</a>)&nbsp;</td>
             <td>2022-01-11</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>17700</td>
             <td>619</td>
@@ -208,7 +208,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Rebarded_Boi">Rebarded_Boi</a></td>
             <td>2018-05-24</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>728</td>
             <td>2951</td>

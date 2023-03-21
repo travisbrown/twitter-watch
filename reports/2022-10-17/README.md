@@ -645,7 +645,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GarikSable">GarikSable</a></td>
             <td>2018-09-07</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>15606</td>
         </tr>

@@ -255,7 +255,7 @@ Found 1603 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NINJA_SEXPART">NINJA_SEXPART</a></td>
             <td>2022-11-10</td>
-            <td></td>
+            <td>2023-03-20</td>
             <td align="center"></td>
             <td>55001</td>
         </tr>

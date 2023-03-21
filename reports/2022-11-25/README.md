@@ -124,7 +124,7 @@ Found 22 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/chuck_ferrari">chuck_ferrari</a></td>
             <td>2021-09-09</td>
-            <td></td>
+            <td>2023-03-19</td>
             <td align="center"></td>
             <td>135</td>
             <td>32272</td>
