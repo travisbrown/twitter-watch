@@ -2768,7 +2768,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UbhartaP">UbhartaP</a></td>
             <td>2021-04-12</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>1610</td>
         </tr>

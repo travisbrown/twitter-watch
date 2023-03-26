@@ -1168,7 +1168,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ImmuneTruth">ImmuneTruth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/970072952480976897">1 other</a>)&nbsp;</td>
             <td>2018-03-03</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1397</td>
         </tr>

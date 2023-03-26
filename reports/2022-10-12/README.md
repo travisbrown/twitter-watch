@@ -765,7 +765,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Da1sea">Da1sea</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/20400885">4 others</a>)&nbsp;</td>
             <td>2009-02-08</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>263587</td>
         </tr>

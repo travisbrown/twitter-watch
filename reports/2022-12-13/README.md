@@ -1778,7 +1778,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/titttrbabu">titttrbabu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1272155269342982145">2 others</a>)&nbsp;</td>
             <td>2020-06-14</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>2018</td>
         </tr>

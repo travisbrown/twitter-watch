@@ -148,7 +148,7 @@ Found 18 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TobiAyodele">TobiAyodele</a></td>
             <td>2011-12-04</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>13873</td>
             <td>38694</td>
@@ -1914,7 +1914,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jafarliman2">Jafarliman2</a></td>
             <td>2019-06-01</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>1284</td>
         </tr>

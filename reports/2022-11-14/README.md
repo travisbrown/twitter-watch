@@ -2226,7 +2226,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/El__Kanalla__">El__Kanalla__</a></td>
             <td>2021-11-10</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>3098</td>
         </tr>

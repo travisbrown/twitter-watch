@@ -578,7 +578,7 @@ Found 774 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/prof_claudia">prof_claudia</a></td>
             <td>2009-07-14</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1571</td>
         </tr>

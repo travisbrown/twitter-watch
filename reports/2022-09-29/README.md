@@ -2207,7 +2207,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KapoorPashmina">KapoorPashmina</a></td>
             <td>2022-04-16</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1188</td>
         </tr>

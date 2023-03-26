@@ -2682,7 +2682,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KCBalanceItOut">KCBalanceItOut</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/766661087962038272">1 other</a>)&nbsp;</td>
             <td>2016-08-19</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1930</td>
         </tr>

@@ -268,7 +268,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Brett_Aint_Dead">Brett_Aint_Dead</a></td>
             <td>2022-01-01</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>70</td>
             <td>81971</td>

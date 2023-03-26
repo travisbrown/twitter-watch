@@ -28,7 +28,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MillerStream">MillerStream</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/29658469">1 other</a>)&nbsp;</td>
             <td>2009-04-08</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center">🔒✔️</td>
             <td>95603</td>
             <td>174</td>

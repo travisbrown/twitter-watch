@@ -3290,7 +3290,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/imAnurag18_">imAnurag18_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1093222598777995266">2 others</a>)&nbsp;</td>
             <td>2019-02-06</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1623</td>
         </tr>

@@ -1346,7 +1346,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nashchel111">nashchel111</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/603067892">2 others</a>)&nbsp;</td>
             <td>2012-06-08</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>6168</td>
         </tr>

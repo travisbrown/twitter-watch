@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AlbertFonzerel1">AlbertFonzerel1</a></td>
             <td>2020-11-04</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>597</td>
             <td>2090</td>

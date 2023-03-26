@@ -130,7 +130,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2Wild2Crazy">2Wild2Crazy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1091445103112138752">2 others</a>)&nbsp;</td>
             <td>2019-02-01</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>272527</td>
         </tr>

@@ -1101,7 +1101,7 @@ Found 817 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatriotGaGa1">PatriotGaGa1</a></td>
             <td>2021-01-09</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>11641</td>
         </tr>
@@ -1376,7 +1376,7 @@ Found 817 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FluoridePoison">FluoridePoison</a></td>
             <td>2009-07-24</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>3036</td>
         </tr>

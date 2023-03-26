@@ -1794,7 +1794,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TylerRose1536">TylerRose1536</a></td>
             <td>2015-04-15</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center">🔒</td>
             <td>1978</td>
         </tr>

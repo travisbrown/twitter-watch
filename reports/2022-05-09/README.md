@@ -1525,7 +1525,7 @@ Found 1090 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/l3eastUnleashed">l3eastUnleashed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/45012542">1 other</a>)&nbsp;</td>
             <td>2009-06-05</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>1491</td>
         </tr>

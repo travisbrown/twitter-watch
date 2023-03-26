@@ -268,7 +268,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SuppressionAnti">SuppressionAnti</a></td>
             <td>2020-11-01</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>264</td>
             <td>57243</td>
@@ -280,7 +280,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/soUNTOUCHABLE2">soUNTOUCHABLE2</a></td>
             <td>2016-09-14</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>2760</td>
             <td>63192</td>

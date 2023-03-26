@@ -615,7 +615,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/branmattic2x">branmattic2x</a></td>
             <td>2022-07-29</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>1764</td>
         </tr>

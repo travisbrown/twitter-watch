@@ -328,7 +328,7 @@ Found 636 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jazmak99">jazmak99</a></td>
             <td>2014-06-18</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>4330</td>
         </tr>

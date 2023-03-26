@@ -72,7 +72,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jcas5320__">jcas5320__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/884519283610583041">3 others</a>)&nbsp;</td>
             <td>2017-07-10</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>94175</td>
         </tr>
@@ -479,7 +479,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lepaindufutur">lepaindufutur</a></td>
             <td>2022-10-27</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>2113</td>
         </tr>

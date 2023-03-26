@@ -848,7 +848,7 @@ Found 1567 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Atamansikka">Atamansikka</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3357496760">1 other</a>)&nbsp;</td>
             <td>2015-08-27</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>2542</td>
         </tr>

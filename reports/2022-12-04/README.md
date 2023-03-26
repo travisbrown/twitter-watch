@@ -1984,7 +1984,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AleTav3r_">AleTav3r_</a></td>
             <td>2021-12-23</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1288</td>
         </tr>

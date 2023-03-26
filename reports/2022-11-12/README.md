@@ -64,7 +64,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TimmyWins777">TimmyWins777</a></td>
             <td>2022-04-09</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>63</td>
             <td>7636</td>
@@ -1144,7 +1144,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Obama_Biden2012">Obama_Biden2012</a></td>
             <td>2010-09-04</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>52669</td>
         </tr>

@@ -1706,7 +1706,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/carloslevelgar">carloslevelgar</a></td>
             <td>2011-12-30</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>22063</td>
         </tr>

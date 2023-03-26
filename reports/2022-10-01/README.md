@@ -1094,7 +1094,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/specialk8o8">specialk8o8</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1340920053353607168">2 others</a>)&nbsp;</td>
             <td>2020-12-21</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>13348</td>
         </tr>

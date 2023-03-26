@@ -809,7 +809,7 @@ Found 761 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yoannykp">yoannykp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1176625283866202114">2 others</a>)&nbsp;</td>
             <td>2019-09-24</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center">🔒</td>
             <td>7397</td>
         </tr>

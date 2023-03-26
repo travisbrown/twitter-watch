@@ -940,7 +940,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mahleejsarkari">mahleejsarkari</a></td>
             <td>2008-10-28</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>13913</td>
         </tr>
@@ -1072,7 +1072,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WEschenbach">WEschenbach</a></td>
             <td>2012-12-17</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>6388</td>
         </tr>
@@ -1655,7 +1655,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nojeecityx">nojeecityx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1137924252202520582">3 others</a>)&nbsp;</td>
             <td>2019-06-10</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>2263</td>
         </tr>
@@ -2711,7 +2711,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eigtteen">eigtteen</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1349220056845099009">10 others</a>)&nbsp;</td>
             <td>2021-01-13</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1023</td>
         </tr>
@@ -2755,7 +2755,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dsggyubu">dsggyubu</a></td>
             <td>2015-10-17</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1005</td>
         </tr>

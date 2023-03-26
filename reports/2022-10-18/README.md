@@ -2500,7 +2500,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nataseviv">Nataseviv</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2957606007">1 other</a>)&nbsp;</td>
             <td>2015-01-03</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>1180</td>
         </tr>

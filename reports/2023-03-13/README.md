@@ -479,7 +479,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nwabulibu">Nwabulibu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3260177815">1 other</a>)&nbsp;</td>
             <td>2015-06-29</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>2241</td>
         </tr>

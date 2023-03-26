@@ -100,7 +100,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dog6000000">dog6000000</a></td>
             <td>2022-06-30</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>633</td>
             <td>3537</td>
@@ -1798,7 +1798,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kettelodicoaffa">Kettelodicoaffa</a></td>
             <td>2011-11-05</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1521</td>
         </tr>
@@ -2095,7 +2095,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StuartNorey">StuartNorey</a></td>
             <td>2013-10-23</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1294</td>
         </tr>

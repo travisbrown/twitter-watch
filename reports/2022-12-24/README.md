@@ -732,7 +732,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JosNamesnotJo2">JosNamesnotJo2</a></td>
             <td>2021-08-05</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>2192</td>
         </tr>

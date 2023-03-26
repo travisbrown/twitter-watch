@@ -76,7 +76,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Emilio2763">Emilio2763</a></td>
             <td>2021-05-30</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>5980</td>
             <td>57066</td>
@@ -340,7 +340,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EKositza">EKositza</a></td>
             <td>2019-06-07</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>8913</td>
         </tr>
@@ -428,7 +428,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JaysonCrypto">JaysonCrypto</a></td>
             <td>2018-01-04</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>6729</td>
         </tr>
@@ -681,7 +681,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BartSzponar">BartSzponar</a></td>
             <td>2019-06-28</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1904</td>
         </tr>
@@ -1121,7 +1121,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jltklt22">jltklt22</a></td>
             <td>2014-10-07</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1001</td>
         </tr></table>

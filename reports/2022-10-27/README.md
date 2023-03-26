@@ -1039,7 +1039,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/that8wasclose">that8wasclose</a></td>
             <td>2022-09-25</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>25570</td>
         </tr>

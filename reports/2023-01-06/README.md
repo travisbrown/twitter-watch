@@ -286,7 +286,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/reiinabae">reiinabae</a></td>
             <td>2020-12-03</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>78987</td>
         </tr>
@@ -957,7 +957,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/REBDUCE">REBDUCE</a></td>
             <td>2012-05-21</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>2489</td>
         </tr>
@@ -1177,7 +1177,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LunaOutsiderArt">LunaOutsiderArt</a></td>
             <td>2022-10-22</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1532</td>
         </tr>

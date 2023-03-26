@@ -682,7 +682,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FJXSU">FJXSU</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/709599527326470146">18 others</a>)&nbsp;</td>
             <td>2016-03-15</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>88488</td>
         </tr>

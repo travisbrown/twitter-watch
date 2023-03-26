@@ -705,7 +705,7 @@ Found 1105 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RemedyNFT">RemedyNFT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1455566651819180036">3 others</a>)&nbsp;</td>
             <td>2021-11-02</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>98990</td>
         </tr>

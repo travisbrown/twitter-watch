@@ -1509,7 +1509,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/physicistboy_">physicistboy_</a></td>
             <td>2022-06-07</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1326</td>
         </tr>

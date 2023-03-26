@@ -434,7 +434,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wildgingerbabe">wildgingerbabe</a></td>
             <td>2022-01-31</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>7957</td>
         </tr>

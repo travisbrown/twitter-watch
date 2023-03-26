@@ -1101,7 +1101,7 @@ Found 1943 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LawyersCity">LawyersCity</a></td>
             <td>2020-05-07</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>15210</td>
         </tr>

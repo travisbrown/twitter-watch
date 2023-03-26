@@ -931,7 +931,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kicked_got">kicked_got</a></td>
             <td>2020-03-08</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>12048</td>
         </tr>
@@ -1008,7 +1008,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/John_Di_Lemme">John_Di_Lemme</a></td>
             <td>2008-09-03</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>9674</td>
         </tr>

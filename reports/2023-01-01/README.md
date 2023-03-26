@@ -709,7 +709,7 @@ Found 1260 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bvlgarian">bvlgarian</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/300386614">5 others</a>)&nbsp;</td>
             <td>2011-05-17</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center">🔒</td>
             <td>1951</td>
         </tr>

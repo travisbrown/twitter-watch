@@ -3558,7 +3558,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DireWolfGrl">DireWolfGrl</a></td>
             <td>2014-06-01</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>2394</td>
         </tr>
@@ -4922,7 +4922,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sleeepydog2">sleeepydog2</a></td>
             <td>2015-06-12</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1489</td>
         </tr>

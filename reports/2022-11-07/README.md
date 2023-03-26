@@ -3964,7 +3964,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Hessenjunge_">Hessenjunge_</a></td>
             <td>2021-11-01</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1194</td>
             <td>51869</td>
@@ -4240,7 +4240,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CitiesSuck">CitiesSuck</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1217504511503278083">2 others</a>)&nbsp;</td>
             <td>2020-01-15</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>482</td>
             <td>60185</td>
@@ -6621,7 +6621,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GrenhoElisabeth">GrenhoElisabeth</a></td>
             <td>2020-09-01</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>3099</td>
         </tr>

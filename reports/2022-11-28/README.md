@@ -172,7 +172,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Verosmithsonian">Verosmithsonian</a></td>
             <td>2022-01-04</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center">🔒</td>
             <td>395</td>
             <td>59750</td>

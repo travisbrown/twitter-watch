@@ -28,7 +28,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ajatteletoisin">ajatteletoisin</a></td>
             <td>2020-06-23</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>375</td>
             <td>3545</td>
@@ -1280,7 +1280,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dani15187765">Dani15187765</a></td>
             <td>2021-02-12</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1331</td>
         </tr>

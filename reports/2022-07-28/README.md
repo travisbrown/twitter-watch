@@ -3799,7 +3799,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cookespring">cookespring</a></td>
             <td>2015-10-16</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1121</td>
         </tr>

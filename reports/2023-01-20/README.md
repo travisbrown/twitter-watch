@@ -83,7 +83,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheFtXMaestro">TheFtXMaestro</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1072867178674741255">1 other</a>)&nbsp;</td>
             <td>2018-12-12</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>257074</td>
         </tr>

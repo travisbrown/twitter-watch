@@ -280,7 +280,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/_ceerose__">_ceerose__</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/165625144">3 others</a>)&nbsp;</td>
             <td>2010-07-12</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>273</td>
             <td>82739</td>

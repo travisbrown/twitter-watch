@@ -2464,7 +2464,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KazimHu77239430">KazimHu77239430</a></td>
             <td>2022-05-08</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>1721</td>
         </tr>
@@ -3663,7 +3663,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarcDufresne4">MarcDufresne4</a></td>
             <td>2020-05-28</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1007</td>
         </tr>

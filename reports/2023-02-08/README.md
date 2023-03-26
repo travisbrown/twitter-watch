@@ -304,7 +304,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BigBootyCuties">BigBootyCuties</a></td>
             <td>2011-07-19</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>3511</td>
         </tr>

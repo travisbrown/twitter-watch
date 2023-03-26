@@ -1083,7 +1083,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mgnr__io">mgnr__io</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1341237968">1 other</a>)&nbsp;</td>
             <td>2013-04-10</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>4011</td>
         </tr>

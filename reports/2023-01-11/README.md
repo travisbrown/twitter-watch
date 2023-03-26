@@ -672,7 +672,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NukroinnnNFT">NukroinnnNFT</a></td>
             <td>2014-06-30</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>3480</td>
         </tr>
@@ -1706,7 +1706,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kaykaydriving55">kaykaydriving55</a></td>
             <td>2021-11-23</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1194</td>
         </tr>

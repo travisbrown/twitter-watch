@@ -1847,7 +1847,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ButchBaydala">ButchBaydala</a></td>
             <td>2013-05-15</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>2120</td>
         </tr>
@@ -2595,7 +2595,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/suzannehackett4">suzannehackett4</a></td>
             <td>2022-01-09</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1002</td>
         </tr></table>

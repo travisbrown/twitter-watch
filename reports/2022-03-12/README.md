@@ -1082,7 +1082,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/timmy_carlie">timmy_carlie</a></td>
             <td>2016-10-08</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1219</td>
         </tr>

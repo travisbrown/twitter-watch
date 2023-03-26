@@ -1218,7 +1218,7 @@ Found 700 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Serenexx_xx">Serenexx_xx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1152296495766528005">1 other</a>)&nbsp;</td>
             <td>2019-07-19</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>3243</td>
         </tr>

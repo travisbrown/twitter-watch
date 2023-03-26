@@ -2225,7 +2225,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ciller_tavares">ciller_tavares</a></td>
             <td>2021-12-11</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>2580</td>
         </tr>

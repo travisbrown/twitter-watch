@@ -659,7 +659,7 @@ Found 568 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amel_arcan">amel_arcan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4040848713">1 other</a>)&nbsp;</td>
             <td>2015-10-25</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>17037</td>
         </tr>

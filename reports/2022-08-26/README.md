@@ -1470,7 +1470,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hcafoficial">hcafoficial</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/952816826">1 other</a>)&nbsp;</td>
             <td>2012-11-17</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>11014</td>
         </tr>
@@ -3571,7 +3571,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BigAlzzzz">BigAlzzzz</a></td>
             <td>2011-08-21</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1472</td>
         </tr>
@@ -3736,7 +3736,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Collin_G_Wood">Collin_G_Wood</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/229036607">2 others</a>)&nbsp;</td>
             <td>2010-12-21</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1326</td>
         </tr>
@@ -3923,7 +3923,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Maryannaclimax">Maryannaclimax</a></td>
             <td>2021-10-11</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>1204</td>
         </tr>

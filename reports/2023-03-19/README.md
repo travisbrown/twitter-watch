@@ -120,7 +120,7 @@ Found 2415 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Daminous_Purity">Daminous_Purity</a></td>
             <td>2009-12-28</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>357804</td>
         </tr>
@@ -263,7 +263,7 @@ Found 2415 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SchmiddieMaik">SchmiddieMaik</a></td>
             <td>2016-07-23</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>12049</td>
         </tr>

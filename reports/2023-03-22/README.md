@@ -1214,7 +1214,7 @@ Found 2409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DenverGooner">DenverGooner</a></td>
             <td>2009-02-24</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1232</td>
         </tr>

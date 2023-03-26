@@ -1733,7 +1733,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GoatlockerChief">GoatlockerChief</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3066205324">3 others</a>)&nbsp;</td>
             <td>2015-03-02</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>2616</td>
         </tr>

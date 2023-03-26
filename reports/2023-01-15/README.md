@@ -563,7 +563,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lotusf33t">lotusf33t</a></td>
             <td>2008-11-20</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>3043</td>
         </tr>
@@ -596,7 +596,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/monlee_mane">monlee_mane</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/291703507">3 others</a>)&nbsp;</td>
             <td>2011-05-02</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>2946</td>
         </tr>

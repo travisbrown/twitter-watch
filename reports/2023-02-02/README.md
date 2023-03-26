@@ -353,7 +353,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YULVA21">YULVA21</a></td>
             <td>2011-11-15</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>34002</td>
         </tr>
@@ -463,7 +463,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReaderNaked">ReaderNaked</a></td>
             <td>2018-07-16</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>14144</td>
         </tr>
@@ -595,7 +595,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mikeshadbolt1">mikeshadbolt1</a></td>
             <td>2013-03-28</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>5514</td>
         </tr>
@@ -628,7 +628,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dragon612666">dragon612666</a></td>
             <td>2015-08-09</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>5169</td>
         </tr>
@@ -925,7 +925,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Brandon_Smitth">Brandon_Smitth</a></td>
             <td>2015-01-06</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1862</td>
         </tr>
@@ -1277,7 +1277,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/b129428261674a9">b129428261674a9</a></td>
             <td>2015-01-25</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1018</td>
         </tr></table>

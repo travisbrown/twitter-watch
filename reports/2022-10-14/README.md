@@ -395,7 +395,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/baduizmash">baduizmash</a></td>
             <td>2021-07-26</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>89274</td>
         </tr>

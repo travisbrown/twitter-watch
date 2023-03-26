@@ -1145,7 +1145,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/asg6969">asg6969</a></td>
             <td>2012-02-08</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>3037</td>
         </tr>
@@ -1805,7 +1805,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gavriella_DotCo">Gavriella_DotCo</a></td>
             <td>2012-01-18</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1416</td>
         </tr>
@@ -2025,7 +2025,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PicsDu">PicsDu</a></td>
             <td>2018-09-22</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>1202</td>
         </tr>

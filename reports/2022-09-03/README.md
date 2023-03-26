@@ -1219,7 +1219,7 @@ Found 1278 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YugBamBaby">YugBamBaby</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4730925312">2 others</a>)&nbsp;</td>
             <td>2016-01-09</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>3020</td>
         </tr>

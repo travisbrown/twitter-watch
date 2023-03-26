@@ -2484,7 +2484,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DropkickNuts">DropkickNuts</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1454739363812679695">4 others</a>)&nbsp;</td>
             <td>2021-10-31</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1043</td>
         </tr>

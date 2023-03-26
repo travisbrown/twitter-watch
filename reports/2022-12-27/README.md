@@ -581,7 +581,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/4everRedskin">4everRedskin</a></td>
             <td>2018-05-08</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>9314</td>
         </tr>
@@ -1593,7 +1593,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WS76025683">WS76025683</a></td>
             <td>2020-04-08</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>1168</td>
         </tr>

@@ -683,7 +683,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DerrickAD6">DerrickAD6</a></td>
             <td>2022-07-01</td>
-            <td></td>
+            <td>2023-03-21</td>
             <td align="center"></td>
             <td>6934</td>
         </tr>

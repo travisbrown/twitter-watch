@@ -52,7 +52,7 @@ Found 18 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ComstKurt">ComstKurt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1097761541993177090">6 others</a>)&nbsp;</td>
             <td>2019-02-19</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>503</td>
             <td>3392</td>

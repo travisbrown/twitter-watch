@@ -1275,7 +1275,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IsaiahHoward_">IsaiahHoward_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/143684146">1 other</a>)&nbsp;</td>
             <td>2010-05-14</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>3544</td>
         </tr>
@@ -2298,7 +2298,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dirt_Trailz">Dirt_Trailz</a></td>
             <td>2017-04-07</td>
-            <td></td>
+            <td>2023-03-24</td>
             <td align="center"></td>
             <td>1047</td>
         </tr>

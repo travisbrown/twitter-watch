@@ -356,7 +356,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kindheartedxia">kindheartedxia</a></td>
             <td>2022-01-04</td>
-            <td></td>
+            <td>2023-03-22</td>
             <td align="center"></td>
             <td>11628</td>
         </tr>

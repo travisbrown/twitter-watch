@@ -1940,7 +1940,7 @@ Found 1813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MargareteVital1">MargareteVital1</a></td>
             <td>2012-10-05</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center">🔒</td>
             <td>1705</td>
         </tr>

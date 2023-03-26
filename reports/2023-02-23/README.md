@@ -479,7 +479,7 @@ Found 1219 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stucrow">stucrow</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/122477078">1 other</a>)&nbsp;</td>
             <td>2010-03-12</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>2139</td>
         </tr>

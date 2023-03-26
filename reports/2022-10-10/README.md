@@ -2173,7 +2173,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BhartiyaKopite">BhartiyaKopite</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1243477240676900864">3 others</a>)&nbsp;</td>
             <td>2020-03-27</td>
-            <td></td>
+            <td>2023-03-23</td>
             <td align="center"></td>
             <td>1049</td>
         </tr>
