@@ -1824,7 +1824,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SindriFraNordri">SindriFraNordri</a></td>
             <td>2022-08-13</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1076</td>
         </tr>

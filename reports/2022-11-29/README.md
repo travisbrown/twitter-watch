@@ -280,7 +280,7 @@ Found 28 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/stephenfelando">stephenfelando</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/197320169">8 others</a>)&nbsp;</td>
             <td>2010-10-01</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>407</td>
             <td>84206</td>

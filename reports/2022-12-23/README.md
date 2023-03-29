@@ -823,7 +823,7 @@ Found 1631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Capalot4Mo">Capalot4Mo</a></td>
             <td>2021-08-10</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>3720</td>
         </tr>

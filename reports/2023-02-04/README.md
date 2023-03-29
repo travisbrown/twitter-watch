@@ -107,7 +107,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ASRPROMOS">ASRPROMOS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1220216494942015488">1 other</a>)&nbsp;</td>
             <td>2020-01-23</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>498716</td>
         </tr>
@@ -756,7 +756,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WorldFreakz">WorldFreakz</a></td>
             <td>2022-08-05</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>8966</td>
         </tr>
@@ -921,7 +921,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BeatSkreetz">BeatSkreetz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1498742354886467588">2 others</a>)&nbsp;</td>
             <td>2022-03-01</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>4956</td>
         </tr>
@@ -1317,7 +1317,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blackcat009">blackcat009</a></td>
             <td>2008-02-23</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>2137</td>
         </tr>
@@ -1559,7 +1559,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArinzeNwankwo16">ArinzeNwankwo16</a></td>
             <td>2019-06-11</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1447</td>
         </tr>

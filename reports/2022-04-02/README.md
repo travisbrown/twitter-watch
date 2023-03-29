@@ -530,7 +530,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/spirituallock">spirituallock</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1360056796212297732">2 others</a>)&nbsp;</td>
             <td>2021-02-12</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>24063</td>
         </tr>

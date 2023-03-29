@@ -1316,7 +1316,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ficogenic">ficogenic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1348024813286285314">2 others</a>)&nbsp;</td>
             <td>2021-01-09</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>3333</td>
         </tr>
@@ -2955,7 +2955,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DeadpoolBroke">DeadpoolBroke</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1524722587053568000">1 other</a>)&nbsp;</td>
             <td>2022-05-12</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1041</td>
         </tr>

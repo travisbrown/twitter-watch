@@ -940,7 +940,7 @@ Found 1854 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HEXITARIAN">HEXITARIAN</a></td>
             <td>2021-01-24</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>2181</td>
         </tr>
@@ -1028,7 +1028,7 @@ Found 1854 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/krisztaszerovay">krisztaszerovay</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/618128641">1 other</a>)&nbsp;</td>
             <td>2012-06-25</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>1942</td>
         </tr>
@@ -1237,7 +1237,7 @@ Found 1854 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/itz_baron">itz_baron</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/979670532600758275">1 other</a>)&nbsp;</td>
             <td>2018-03-30</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>1338</td>
         </tr>

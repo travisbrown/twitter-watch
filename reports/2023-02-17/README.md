@@ -28,7 +28,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Yolo304741">Yolo304741</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/29966996">1 other</a>)&nbsp;</td>
             <td>2009-04-09</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>70540</td>
             <td>7653</td>

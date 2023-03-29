@@ -40,7 +40,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RedStateUncle">RedStateUncle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1595171401">1 other</a>)&nbsp;</td>
             <td>2013-07-15</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>635</td>
             <td>2734</td>

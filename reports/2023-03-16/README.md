@@ -799,7 +799,7 @@ Found 994 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SpeepyBunny">SpeepyBunny</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1538511307435024385">2 others</a>)&nbsp;</td>
             <td>2022-06-19</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>1336</td>
         </tr>

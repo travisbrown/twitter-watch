@@ -2062,7 +2062,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LandoFree">LandoFree</a></td>
             <td>2009-05-01</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>3205</td>
         </tr>

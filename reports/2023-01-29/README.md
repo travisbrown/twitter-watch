@@ -315,7 +315,7 @@ Found 3274 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CrxptoNinja">CrxptoNinja</a></td>
             <td>2021-10-25</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>5102</td>
         </tr>

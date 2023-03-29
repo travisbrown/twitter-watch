@@ -156,7 +156,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/earthing5000">earthing5000</a></td>
             <td>2020-06-05</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>40568</td>
         </tr>
@@ -288,7 +288,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/petluver4Trump">petluver4Trump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/886362094626635777">5 others</a>)&nbsp;</td>
             <td>2017-07-15</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>24898</td>
         </tr>

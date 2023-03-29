@@ -1276,7 +1276,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uslesegedanken">uslesegedanken</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1259378575972728832">1 other</a>)&nbsp;</td>
             <td>2020-05-10</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center">🔒</td>
             <td>1525</td>
         </tr>

@@ -40,7 +40,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Skogmann_">Skogmann_</a></td>
             <td>2020-10-13</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>457</td>
             <td>3464</td>

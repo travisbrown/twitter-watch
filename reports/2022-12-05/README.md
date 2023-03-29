@@ -1981,7 +1981,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CanzukTrade">CanzukTrade</a></td>
             <td>2020-10-11</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1795</td>
         </tr>

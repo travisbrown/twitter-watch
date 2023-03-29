@@ -532,7 +532,7 @@ Found 52 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/iamjumpingin">iamjumpingin</a></td>
             <td>2018-01-03</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>31004</td>
             <td>80078</td>
@@ -5358,7 +5358,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rhmdndrnt">rhmdndrnt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/299430559">7 others</a>)&nbsp;</td>
             <td>2011-05-16</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>1352</td>
         </tr>

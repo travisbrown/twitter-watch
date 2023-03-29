@@ -481,7 +481,7 @@ Found 1269 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lucytvpue">lucytvpue</a></td>
             <td>2017-06-02</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>2265</td>
         </tr>

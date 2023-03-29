@@ -153,7 +153,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/painelbrasiltv">painelbrasiltv</a></td>
             <td>2009-06-09</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>106762</td>
         </tr>
@@ -659,7 +659,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/johncmcfc">johncmcfc</a></td>
             <td>2012-02-11</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1589</td>
         </tr>
@@ -780,7 +780,7 @@ Found 1372 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DarrianGraves">DarrianGraves</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/210336704">1 other</a>)&nbsp;</td>
             <td>2010-10-31</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center">✔️</td>
             <td>1209</td>
         </tr>

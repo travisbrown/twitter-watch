@@ -863,7 +863,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SammieJack3">SammieJack3</a></td>
             <td>2021-06-18</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>14655</td>
         </tr>

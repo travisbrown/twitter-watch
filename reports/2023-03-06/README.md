@@ -185,7 +185,7 @@ Found 636 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Oba_West_">Oba_West_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1031990431792488448">4 others</a>)&nbsp;</td>
             <td>2018-08-21</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>12736</td>
         </tr>

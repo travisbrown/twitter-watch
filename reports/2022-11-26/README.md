@@ -1268,7 +1268,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ERICA_MUTETHIA">ERICA_MUTETHIA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1222100312254767104">2 others</a>)&nbsp;</td>
             <td>2020-01-28</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>3353</td>
         </tr>

@@ -924,7 +924,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CheezyVert">CheezyVert</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>1051</td>
         </tr>

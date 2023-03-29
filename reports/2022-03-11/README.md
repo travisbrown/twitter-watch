@@ -731,7 +731,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Itsrenovation">Itsrenovation</a></td>
             <td>2022-02-04</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>56263</td>
         </tr>
@@ -1699,7 +1699,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/X22_SG">X22_SG</a></td>
             <td>2009-10-29</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>1130</td>
         </tr>

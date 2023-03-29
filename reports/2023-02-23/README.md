@@ -193,7 +193,7 @@ Found 1219 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrJuma_M">DrJuma_M</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2910486957">4 others</a>)&nbsp;</td>
             <td>2014-12-08</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>12895</td>
         </tr>

@@ -961,7 +961,7 @@ Found 1591 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BareLeft">BareLeft</a></td>
             <td>2019-11-25</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>7787</td>
         </tr>
@@ -1907,7 +1907,7 @@ Found 1591 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EarthfIux">EarthfIux</a></td>
             <td>2022-08-18</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>1315</td>
         </tr>
@@ -1918,7 +1918,7 @@ Found 1591 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Barca184Anibal">Barca184Anibal</a></td>
             <td>2021-01-04</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>1303</td>
         </tr>

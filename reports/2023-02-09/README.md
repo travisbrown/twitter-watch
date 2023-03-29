@@ -112,7 +112,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/versollato">versollato</a></td>
             <td>2009-04-24</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>310</td>
             <td>50278</td>

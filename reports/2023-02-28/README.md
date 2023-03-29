@@ -626,7 +626,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RockDog717">RockDog717</a></td>
             <td>2022-02-07</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>1742</td>
         </tr>
@@ -637,7 +637,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KombikoNFTs">KombikoNFTs</a></td>
             <td>2021-10-22</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1710</td>
         </tr>

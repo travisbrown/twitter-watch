@@ -112,7 +112,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/stillnotadvice">stillnotadvice</a></td>
             <td>2021-05-21</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>9312</td>
             <td>66019</td>
@@ -312,7 +312,7 @@ Found 2409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SlyPerformer">SlyPerformer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/401774557">1 other</a>)&nbsp;</td>
             <td>2011-10-31</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>10281</td>
         </tr>

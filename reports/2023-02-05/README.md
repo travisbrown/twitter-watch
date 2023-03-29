@@ -1226,7 +1226,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jennn_lovely">jennn_lovely</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/407208820">3 others</a>)&nbsp;</td>
             <td>2011-11-07</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center">🔒</td>
             <td>35016</td>
         </tr>
@@ -1600,7 +1600,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Maknyus_nnn">Maknyus_nnn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1112650356138229760">32 others</a>)&nbsp;</td>
             <td>2019-04-01</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>3499</td>
         </tr>
@@ -1941,7 +1941,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThalapathyFR">ThalapathyFR</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3007569562">1 other</a>)&nbsp;</td>
             <td>2015-01-31</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1480</td>
         </tr>

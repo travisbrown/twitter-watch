@@ -117,7 +117,7 @@ Found 1839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thephukdi">thephukdi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/977815470">3 others</a>)&nbsp;</td>
             <td>2012-11-29</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>19047</td>
         </tr>

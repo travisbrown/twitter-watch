@@ -713,7 +713,7 @@ Found 1278 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hourly_shitpost">hourly_shitpost</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1370394029310017537">2 others</a>)&nbsp;</td>
             <td>2021-03-12</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>1304142</td>
         </tr>

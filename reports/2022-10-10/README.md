@@ -809,7 +809,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/missdaisy3289">missdaisy3289</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/405768022">3 others</a>)&nbsp;</td>
             <td>2011-11-05</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>11384</td>
         </tr>

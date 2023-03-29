@@ -392,7 +392,7 @@ Found 1703 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PucksReturn">PucksReturn</a></td>
             <td>2018-11-21</td>
-            <td></td>
+            <td>2023-03-25</td>
             <td align="center"></td>
             <td>25301</td>
         </tr>

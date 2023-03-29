@@ -1022,7 +1022,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uzuki777a">uzuki777a</a></td>
             <td>2011-07-28</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>23370</td>
         </tr>
@@ -1671,7 +1671,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/K99Dejan">K99Dejan</a></td>
             <td>2014-06-29</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>4883</td>
         </tr>
@@ -2529,7 +2529,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blackedoverlord">blackedoverlord</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1260091466996690944">1 other</a>)&nbsp;</td>
             <td>2020-05-12</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>1359</td>
         </tr>

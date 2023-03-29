@@ -1276,7 +1276,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheMachineCR7">TheMachineCR7</a></td>
             <td>2022-08-31</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>1425</td>
         </tr>
@@ -1364,7 +1364,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/neanderthugs">neanderthugs</a></td>
             <td>2018-12-14</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1270</td>
         </tr>

@@ -249,7 +249,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ItsReallyBillyS">ItsReallyBillyS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/453250529">6 others</a>)&nbsp;</td>
             <td>2012-01-02</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>215040</td>
         </tr>

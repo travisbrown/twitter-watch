@@ -2286,7 +2286,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_igeorgee">_igeorgee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1284960944314028033">1 other</a>)&nbsp;</td>
             <td>2020-07-19</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1079</td>
         </tr>

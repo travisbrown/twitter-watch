@@ -1503,7 +1503,7 @@ Found 1003 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JosefKalfsGran">JosefKalfsGran</a></td>
             <td>2020-03-20</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>2879</td>
         </tr>

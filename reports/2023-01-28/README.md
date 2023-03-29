@@ -471,7 +471,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WhyhateSam2">WhyhateSam2</a></td>
             <td>2018-09-13</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>2523</td>
         </tr>

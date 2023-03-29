@@ -1122,7 +1122,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TOMMYMAC2020">TOMMYMAC2020</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1217086562418221056">2 others</a>)&nbsp;</td>
             <td>2020-01-14</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>3405</td>
         </tr>

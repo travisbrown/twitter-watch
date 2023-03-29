@@ -919,7 +919,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JustDafong">JustDafong</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/737405458638606336">2 others</a>)&nbsp;</td>
             <td>2016-05-30</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1043</td>
         </tr>

@@ -155,7 +155,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/okirakuniku">okirakuniku</a></td>
             <td>2010-02-20</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>41068</td>
         </tr>

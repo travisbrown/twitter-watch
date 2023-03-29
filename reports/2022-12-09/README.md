@@ -112,7 +112,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Rayguyzzz">Rayguyzzz</a></td>
             <td>2014-07-22</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>82</td>
             <td>33726</td>

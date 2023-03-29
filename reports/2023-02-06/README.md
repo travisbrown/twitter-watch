@@ -138,7 +138,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Blue_Senpai">Blue_Senpai</a></td>
             <td>2016-10-08</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>132359</td>
         </tr>

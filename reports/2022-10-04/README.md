@@ -1271,7 +1271,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bradscott78013">bradscott78013</a></td>
             <td>2012-11-03</td>
-            <td></td>
+            <td>2023-03-27</td>
             <td align="center"></td>
             <td>2537</td>
         </tr>

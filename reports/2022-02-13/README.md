@@ -742,7 +742,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CherylReynolds">CherylReynolds</a></td>
             <td>2008-08-29</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>20034</td>
         </tr>
@@ -1006,7 +1006,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jhamel">jhamel</a></td>
             <td>2008-04-05</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>15144</td>
         </tr>
@@ -2062,7 +2062,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FetusFormer">FetusFormer</a></td>
             <td>2015-07-25</td>
-            <td></td>
+            <td>2023-03-26</td>
             <td align="center"></td>
             <td>6326</td>
         </tr>
@@ -2931,7 +2931,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StayTheCourse7">StayTheCourse7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/749455671918297088">5 others</a>)&nbsp;</td>
             <td>2016-07-03</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>3978</td>
         </tr>
@@ -5780,7 +5780,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarzannaOpalek">MarzannaOpalek</a></td>
             <td>2017-09-04</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1920</td>
         </tr>

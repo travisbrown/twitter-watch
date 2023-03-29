@@ -1617,7 +1617,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alba_saluda">Alba_saluda</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/770056772">1 other</a>)&nbsp;</td>
             <td>2012-08-20</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>3639</td>
         </tr>
