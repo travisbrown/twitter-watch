@@ -2000,7 +2000,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JBRoth61">JBRoth61</a></td>
             <td>2021-08-16</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>1757</td>
         </tr>

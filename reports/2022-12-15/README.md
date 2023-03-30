@@ -819,7 +819,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CandymansIM">CandymansIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1343632939851067392">1 other</a>)&nbsp;</td>
             <td>2020-12-28</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>5524</td>
         </tr>

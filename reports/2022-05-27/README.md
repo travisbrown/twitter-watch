@@ -920,7 +920,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sugar_tits_420">Sugar_tits_420</a></td>
             <td>2021-01-06</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>4323</td>
         </tr>

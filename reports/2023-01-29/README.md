@@ -106,7 +106,7 @@ Found 3274 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Vadicwarrior">Vadicwarrior</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2283827468">1 other</a>)&nbsp;</td>
             <td>2014-01-09</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>43657</td>
         </tr>

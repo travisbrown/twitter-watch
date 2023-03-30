@@ -197,7 +197,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PATRIOTOSORUS">PATRIOTOSORUS</a></td>
             <td>2015-10-22</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>17416</td>
         </tr>
@@ -241,7 +241,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheSanatanUday">TheSanatanUday</a></td>
             <td>2021-02-11</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>13737</td>
         </tr>

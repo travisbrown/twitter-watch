@@ -2949,7 +2949,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Schrader_Adam">Schrader_Adam</a></td>
             <td>2012-01-11</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center">✔️</td>
             <td>3861</td>
         </tr>

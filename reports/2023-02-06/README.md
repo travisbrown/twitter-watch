@@ -545,7 +545,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Www88733">Www88733</a></td>
             <td>2022-01-30</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>4257</td>
         </tr>
@@ -952,7 +952,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mih_rus">mih_rus</a></td>
             <td>2015-11-16</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1173</td>
         </tr>

@@ -307,7 +307,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alexisolinart">alexisolinart</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1360509834894917633">1 other</a>)&nbsp;</td>
             <td>2021-02-13</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>10470</td>
         </tr>

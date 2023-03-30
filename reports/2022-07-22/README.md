@@ -2214,7 +2214,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pandora_yoiko">pandora_yoiko</a></td>
             <td>2021-08-13</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>2167</td>
         </tr>

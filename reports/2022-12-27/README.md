@@ -449,7 +449,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lavidaNOTA">lavidaNOTA</a></td>
             <td>2009-04-03</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>44888</td>
         </tr>

@@ -2067,7 +2067,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/adrenogate">adrenogate</a></td>
             <td>2020-03-30</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>1681</td>
         </tr>

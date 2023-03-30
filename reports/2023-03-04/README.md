@@ -436,7 +436,7 @@ Found 998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Obaid_Al_Shaer">Obaid_Al_Shaer</a></td>
             <td>2011-08-15</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>2163</td>
         </tr>

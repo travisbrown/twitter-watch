@@ -916,7 +916,7 @@ Found 515 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoyceOmalley">JoyceOmalley</a></td>
             <td>2014-09-09</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>2055</td>
         </tr>

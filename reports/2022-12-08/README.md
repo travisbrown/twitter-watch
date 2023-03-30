@@ -268,7 +268,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PartymanRandy">PartymanRandy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/500368977">2 others</a>)&nbsp;</td>
             <td>2012-02-23</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>11339</td>
             <td>67905</td>

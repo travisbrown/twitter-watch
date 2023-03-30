@@ -100,7 +100,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/billiegruffs">billiegruffs</a></td>
             <td>2021-04-28</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>50</td>
             <td>75015</td>
@@ -266,7 +266,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RagnerLoL">RagnerLoL</a></td>
             <td>2017-04-01</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center">✔️</td>
             <td>11401</td>
         </tr>
@@ -497,7 +497,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/B5001001101">B5001001101</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381850607628255234">2 others</a>)&nbsp;</td>
             <td>2021-04-13</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>3129</td>
         </tr>

@@ -424,7 +424,7 @@ Found 443 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Black90Prupayne">Black90Prupayne</a></td>
             <td>2022-08-28</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>2813</td>
         </tr>

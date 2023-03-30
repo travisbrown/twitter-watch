@@ -220,7 +220,7 @@ Found 2928 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/annarajagopal_">annarajagopal_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1336537855649329154">1 other</a>)&nbsp;</td>
             <td>2020-12-09</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>7382</td>
         </tr>

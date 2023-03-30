@@ -895,7 +895,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IrelandRoseTV">IrelandRoseTV</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2816042868">1 other</a>)&nbsp;</td>
             <td>2014-09-18</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>95657</td>
         </tr>

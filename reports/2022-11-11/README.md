@@ -1041,7 +1041,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jimmyjvyas">jimmyjvyas</a></td>
             <td>2011-01-21</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>10703</td>
         </tr>
@@ -2229,7 +2229,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joanneQfrog">joanneQfrog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/44337924">1 other</a>)&nbsp;</td>
             <td>2009-06-03</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1598</td>
         </tr>

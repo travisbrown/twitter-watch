@@ -1216,7 +1216,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_HatesItHere">_HatesItHere</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1466626767909634052">1 other</a>)&nbsp;</td>
             <td>2021-12-03</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>2346</td>
         </tr>

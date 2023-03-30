@@ -466,7 +466,7 @@ Found 268 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PaydayTheNigga">PaydayTheNigga</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2891901157">6 others</a>)&nbsp;</td>
             <td>2014-11-06</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>2111</td>
         </tr>

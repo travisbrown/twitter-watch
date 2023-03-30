@@ -764,7 +764,7 @@ Found 882 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SteveBannon22">SteveBannon22</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1074730647778922497">3 others</a>)&nbsp;</td>
             <td>2018-12-17</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>31236</td>
         </tr>

@@ -88,7 +88,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/False25Alarm3">False25Alarm3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1482539323144683521">1 other</a>)&nbsp;</td>
             <td>2022-01-16</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>801</td>
             <td>99369</td>

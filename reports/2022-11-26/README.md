@@ -1774,7 +1774,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NeuroDiv2000">NeuroDiv2000</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1182223942984953856">1 other</a>)&nbsp;</td>
             <td>2019-10-10</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>1715</td>
         </tr>

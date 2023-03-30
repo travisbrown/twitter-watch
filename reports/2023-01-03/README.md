@@ -302,7 +302,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AqramJam">AqramJam</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381617757666603014">1 other</a>)&nbsp;</td>
             <td>2021-04-12</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>10844</td>
         </tr>

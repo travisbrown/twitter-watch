@@ -1023,7 +1023,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StudioTakeuma">StudioTakeuma</a></td>
             <td>2013-03-31</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>28657</td>
         </tr>
@@ -2134,7 +2134,7 @@ Found 1889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nft_model">nft_model</a></td>
             <td>2021-10-13</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1684</td>
         </tr>

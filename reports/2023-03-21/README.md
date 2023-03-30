@@ -617,7 +617,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theopoulentzas">theopoulentzas</a></td>
             <td>2009-07-29</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>4345</td>
         </tr>

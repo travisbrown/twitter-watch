@@ -148,7 +148,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/2ndEly">2ndEly</a></td>
             <td>2021-08-17</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>24</td>
             <td>45483</td>

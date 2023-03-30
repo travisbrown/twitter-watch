@@ -792,7 +792,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FairlyFond">FairlyFond</a></td>
             <td>2022-02-23</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>3228</td>
         </tr>

@@ -362,7 +362,7 @@ Found 1532 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mrfunny____">mrfunny____</a></td>
             <td>2021-11-17</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>201506</td>
         </tr>

@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/UDMGreg">UDMGreg</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1198432726711521280">1 other</a>)&nbsp;</td>
             <td>2019-11-24</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>642</td>
             <td>12234</td>

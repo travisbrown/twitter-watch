@@ -766,7 +766,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RagexNews">RagexNews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1358407119817433089">8 others</a>)&nbsp;</td>
             <td>2021-02-07</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>21988</td>
         </tr>

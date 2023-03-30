@@ -1167,7 +1167,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GianfeliceFamil">GianfeliceFamil</a></td>
             <td>2022-02-10</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>10229</td>
         </tr>
@@ -1486,7 +1486,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lcdr_Rich">Lcdr_Rich</a></td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>3639</td>
         </tr>

@@ -508,7 +508,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/isabela_ramirzz">isabela_ramirzz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1357747345887293440">1 other</a>)&nbsp;</td>
             <td>2021-02-05</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>259786</td>
         </tr>

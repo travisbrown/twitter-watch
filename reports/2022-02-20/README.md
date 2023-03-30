@@ -1190,7 +1190,7 @@ Found 426 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kobomasa4721">kobomasa4721</a></td>
             <td>2014-08-11</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>2275</td>
         </tr>

@@ -655,7 +655,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jahreindota">jahreindota</a></td>
             <td>2014-06-26</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center">✔️</td>
             <td>708729</td>
         </tr>

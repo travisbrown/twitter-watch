@@ -1238,7 +1238,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mawatten">mawatten</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4649911043">3 others</a>)&nbsp;</td>
             <td>2015-12-30</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>5985</td>
         </tr>

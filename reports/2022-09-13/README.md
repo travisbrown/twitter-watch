@@ -565,7 +565,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_TheFigen">_TheFigen</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1551261351347109888">1 other</a>)&nbsp;</td>
             <td>2022-07-24</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>136982</td>
         </tr>

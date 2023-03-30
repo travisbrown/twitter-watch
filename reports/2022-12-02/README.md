@@ -771,7 +771,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ura24maru">ura24maru</a></td>
             <td>2014-04-16</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>380847</td>
         </tr>

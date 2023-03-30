@@ -226,7 +226,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/santiagotavella">santiagotavella</a></td>
             <td>2011-06-10</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>6677</td>
         </tr>

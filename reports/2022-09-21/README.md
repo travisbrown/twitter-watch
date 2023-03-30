@@ -40,7 +40,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Marcus_cel">Marcus_cel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1468246346364764173">1 other</a>)&nbsp;</td>
             <td>2021-12-07</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>14273</td>
             <td>561</td>

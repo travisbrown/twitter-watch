@@ -716,7 +716,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Arsenico_bis">Arsenico_bis</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2252774243">2 others</a>)&nbsp;</td>
             <td>2013-12-30</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>21210</td>
         </tr>

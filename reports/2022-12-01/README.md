@@ -88,7 +88,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/asimbawe">asimbawe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2720433702">5 others</a>)&nbsp;</td>
             <td>2014-08-10</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>89581</td>
             <td>11073</td>
@@ -124,7 +124,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/momJenRodriguez">momJenRodriguez</a></td>
             <td>2013-12-24</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>1450</td>
             <td>16797</td>

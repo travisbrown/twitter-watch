@@ -249,7 +249,7 @@ Found 994 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/azad_nishant">azad_nishant</a></td>
             <td>2015-01-15</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center">✔️</td>
             <td>12009</td>
         </tr>
@@ -920,7 +920,7 @@ Found 994 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ScottyLesbian">ScottyLesbian</a></td>
             <td>2022-01-25</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1017</td>
         </tr>

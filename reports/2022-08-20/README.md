@@ -1225,7 +1225,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ASo1omons">ASo1omons</a></td>
             <td>2021-03-08</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>7444</td>
         </tr>

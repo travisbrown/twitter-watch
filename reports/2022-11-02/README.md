@@ -1437,7 +1437,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PengNewWest">PengNewWest</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/193171372">6 others</a>)&nbsp;</td>
             <td>2010-09-21</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>7527</td>
         </tr>

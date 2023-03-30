@@ -2448,7 +2448,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MissValerie_">MissValerie_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1496566183621173253">2 others</a>)&nbsp;</td>
             <td>2022-02-23</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1104</td>
         </tr>

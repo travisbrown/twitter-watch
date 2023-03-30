@@ -295,7 +295,7 @@ Found 999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CallenCantrell">CallenCantrell</a></td>
             <td>2011-12-18</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>8582</td>
         </tr>

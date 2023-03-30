@@ -1241,7 +1241,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Catsdoingworks">Catsdoingworks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1507587060332343296">1 other</a>)&nbsp;</td>
             <td>2022-03-26</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>10592</td>
         </tr>

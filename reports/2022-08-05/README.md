@@ -2172,7 +2172,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gallintry">Gallintry</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/696072045210238977">17 others</a>)&nbsp;</td>
             <td>2016-02-06</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>1191</td>
         </tr>

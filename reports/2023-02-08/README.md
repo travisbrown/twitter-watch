@@ -711,7 +711,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/auntdefazio">auntdefazio</a></td>
             <td>2014-01-07</td>
-            <td></td>
+            <td>2023-03-29</td>
             <td align="center"></td>
             <td>1848</td>
         </tr>
@@ -1063,7 +1063,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/1GIX1">1GIX1</a></td>
             <td>2017-09-27</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1015</td>
         </tr></table>

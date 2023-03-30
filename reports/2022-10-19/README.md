@@ -2524,7 +2524,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/terceiromundist">terceiromundist</a></td>
             <td>2022-02-26</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1378</td>
         </tr>

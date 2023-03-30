@@ -280,7 +280,7 @@ Found 36 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/gravysmackers">gravysmackers</a></td>
             <td>2021-11-10</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>489</td>
             <td>41075</td>

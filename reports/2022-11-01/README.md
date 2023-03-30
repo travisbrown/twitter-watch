@@ -556,7 +556,7 @@ Found 77 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/xYourExcellency">xYourExcellency</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2271754505">4 others</a>)&nbsp;</td>
             <td>2014-01-09</td>
-            <td></td>
+            <td>2023-03-28</td>
             <td align="center"></td>
             <td>1031</td>
             <td>14522</td>
