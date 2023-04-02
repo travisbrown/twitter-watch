@@ -5076,7 +5076,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2Seguedireitape">2Seguedireitape</a></td>
             <td>2020-11-14</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>1093</td>
         </tr>

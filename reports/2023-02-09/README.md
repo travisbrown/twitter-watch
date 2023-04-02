@@ -578,7 +578,7 @@ Found 1795 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/velo21velo">velo21velo</a></td>
             <td>2012-02-08</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>2555</td>
         </tr>
@@ -666,7 +666,7 @@ Found 1795 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2020istrash2020">2020istrash2020</a></td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1991</td>
         </tr>

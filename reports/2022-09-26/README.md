@@ -1894,7 +1894,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/chaurraboys">chaurraboys</a></td>
             <td>2020-10-10</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>1819</td>
         </tr>

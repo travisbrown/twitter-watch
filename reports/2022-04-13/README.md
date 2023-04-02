@@ -205,7 +205,7 @@ Found 635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amazing_physics">amazing_physics</a></td>
             <td>2019-08-21</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>389696</td>
         </tr>
@@ -216,7 +216,7 @@ Found 635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmazingNature00">AmazingNature00</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1231288602912489472">1 other</a>)&nbsp;</td>
             <td>2020-02-22</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>325538</td>
         </tr>

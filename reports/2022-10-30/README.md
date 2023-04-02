@@ -3544,7 +3544,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CozyTheFrog">CozyTheFrog</a></td>
             <td>2013-06-29</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>349</td>
             <td>62865</td>

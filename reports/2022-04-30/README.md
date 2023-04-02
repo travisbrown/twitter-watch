@@ -2934,7 +2934,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wolverines_dad">wolverines_dad</a></td>
             <td>2013-05-14</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>3029</td>
         </tr>

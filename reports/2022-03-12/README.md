@@ -576,7 +576,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/exceleducations">exceleducations</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1493272037866893312">1 other</a>)&nbsp;</td>
             <td>2022-02-14</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>49474</td>
         </tr>

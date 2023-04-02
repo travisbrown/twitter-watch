@@ -2664,7 +2664,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/darkvdred">darkvdred</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/235841871">1 other</a>)&nbsp;</td>
             <td>2011-01-09</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>1156</td>
         </tr>

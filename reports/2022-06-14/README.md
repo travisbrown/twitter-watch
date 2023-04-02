@@ -184,7 +184,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Bane_Vril">Bane_Vril</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1532341174064799744">1 other</a>)&nbsp;</td>
             <td>2022-06-02</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>396</td>
             <td>2562</td>

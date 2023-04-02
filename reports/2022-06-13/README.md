@@ -1246,7 +1246,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EsDeMamador">EsDeMamador</a></td>
             <td>2015-07-11</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>652610</td>
         </tr>
@@ -1961,7 +1961,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/geminigod">geminigod</a></td>
             <td>2009-04-19</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>2266</td>
         </tr>

@@ -645,7 +645,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DAVlD_5">DAVlD_5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1215808250815315970">20 others</a>)&nbsp;</td>
             <td>2020-01-11</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>8698</td>
         </tr>

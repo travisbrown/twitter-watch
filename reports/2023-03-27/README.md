@@ -1132,7 +1132,7 @@ Found 2317 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GauriMalur">GauriMalur</a></td>
             <td>2015-08-03</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>1015</td>
         </tr></table>

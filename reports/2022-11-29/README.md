@@ -64,7 +64,7 @@ Found 28 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/racc_party">racc_party</a></td>
             <td>2022-05-02</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>178</td>
             <td>5349</td>

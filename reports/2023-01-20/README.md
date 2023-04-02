@@ -160,7 +160,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/carlosclavijo22">carlosclavijo22</a></td>
             <td>2011-02-12</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>53500</td>
         </tr>

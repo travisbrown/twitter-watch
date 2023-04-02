@@ -612,7 +612,7 @@ Found 1839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AjoAriSikumbang">AjoAriSikumbang</a></td>
             <td>2021-01-30</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>1785</td>
         </tr>

@@ -783,7 +783,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/perfectlypix">perfectlypix</a></td>
             <td>2021-12-17</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>140332</td>
         </tr>
@@ -827,7 +827,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EvoIution9">EvoIution9</a></td>
             <td>2022-04-11</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>112476</td>
         </tr>
@@ -926,7 +926,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MicroscopePicsx">MicroscopePicsx</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1188355041372995585">2 others</a>)&nbsp;</td>
             <td>2019-10-27</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>73699</td>
         </tr>
@@ -1476,7 +1476,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shieldintel">shieldintel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1313361092484227072">1 other</a>)&nbsp;</td>
             <td>2020-10-06</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>2534</td>
         </tr>

@@ -1228,7 +1228,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LittleCapriceTM">LittleCapriceTM</a></td>
             <td>2017-09-21</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>275683</td>
         </tr>

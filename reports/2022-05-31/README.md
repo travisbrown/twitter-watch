@@ -571,7 +571,7 @@ Found 568 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sci_Nature0">Sci_Nature0</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381674399657562112">1 other</a>)&nbsp;</td>
             <td>2021-04-12</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>124034</td>
         </tr>

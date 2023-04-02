@@ -689,7 +689,7 @@ Found 2304 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brittanya187187">brittanya187187</a></td>
             <td>2017-01-31</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center">✔️</td>
             <td>1900073</td>
         </tr>

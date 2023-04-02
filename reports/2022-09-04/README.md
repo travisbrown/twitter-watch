@@ -1342,7 +1342,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NardoWiick">NardoWiick</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1488383998036373505">3 others</a>)&nbsp;</td>
             <td>2022-02-01</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1603</td>
         </tr>

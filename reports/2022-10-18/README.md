@@ -916,7 +916,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TakeOurMedia">TakeOurMedia</a></td>
             <td>2012-08-28</td>
-            <td></td>
+            <td>2023-03-30</td>
             <td align="center"></td>
             <td>11727</td>
         </tr>
