@@ -485,7 +485,7 @@ Found 2623 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VirginiaSanroma">VirginiaSanroma</a></td>
             <td>2022-03-30</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>12217</td>
         </tr>

@@ -615,7 +615,7 @@ Found 568 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Amazingphysicss">Amazingphysicss</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1456689796353507334">1 other</a>)&nbsp;</td>
             <td>2021-11-05</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>41424</td>
         </tr>

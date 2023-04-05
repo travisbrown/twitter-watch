@@ -1302,7 +1302,7 @@ Found 601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheRealSILENCIO">TheRealSILENCIO</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1129380142093148160">2 others</a>)&nbsp;</td>
             <td>2019-05-17</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2039</td>
         </tr>

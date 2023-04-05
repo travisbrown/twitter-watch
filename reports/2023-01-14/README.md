@@ -296,7 +296,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mememe69696969">mememe69696969</a></td>
             <td>2021-10-29</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>4329</td>
         </tr>
@@ -1055,7 +1055,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HygieneSummit">HygieneSummit</a></td>
             <td>2022-07-25</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>1230</td>
         </tr>

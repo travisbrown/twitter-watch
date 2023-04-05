@@ -1025,7 +1025,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Justy_patriot">Justy_patriot</a></td>
             <td>2021-02-20</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>2728</td>
         </tr>

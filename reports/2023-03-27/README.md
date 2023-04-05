@@ -120,7 +120,7 @@ Found 2317 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/arbitrum">arbitrum</a></td>
             <td>2020-11-26</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>412852</td>
         </tr>
@@ -725,7 +725,7 @@ Found 2317 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chenny_1706">Chenny_1706</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1691249287">3 others</a>)&nbsp;</td>
             <td>2013-08-22</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1887</td>
         </tr>

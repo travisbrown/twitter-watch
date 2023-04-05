@@ -40,7 +40,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FNFascist">FNFascist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/791380928669028356">2 others</a>)&nbsp;</td>
             <td>2016-10-26</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center">🔒</td>
             <td>1528</td>
             <td>1665</td>
@@ -946,7 +946,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TeddyWong626">TeddyWong626</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/95143361">3 others</a>)&nbsp;</td>
             <td>2009-12-07</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>2636</td>
         </tr>

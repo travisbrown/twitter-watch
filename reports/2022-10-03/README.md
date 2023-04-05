@@ -469,7 +469,7 @@ Found 1431 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vp__couple">vp__couple</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2998758401">37 others</a>)&nbsp;</td>
             <td>2015-01-25</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>260142</td>
         </tr>

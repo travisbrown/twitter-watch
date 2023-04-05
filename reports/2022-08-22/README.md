@@ -1058,7 +1058,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lidicampos22">lidicampos22</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1228020790853013506">1 other</a>)&nbsp;</td>
             <td>2020-02-13</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>5985</td>
         </tr>

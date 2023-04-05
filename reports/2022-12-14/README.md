@@ -696,7 +696,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sayinshallah">sayinshallah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1350330558241529858">3 others</a>)&nbsp;</td>
             <td>2021-01-16</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center">🔒</td>
             <td>34874</td>
         </tr>

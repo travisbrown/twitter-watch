@@ -972,7 +972,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lalitkumar75BJP">lalitkumar75BJP</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1145329944">3 others</a>)&nbsp;</td>
             <td>2013-02-03</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>9310</td>
         </tr>

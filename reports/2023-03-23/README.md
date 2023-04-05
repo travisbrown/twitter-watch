@@ -211,7 +211,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LoloMino">LoloMino</a></td>
             <td>2010-05-31</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>28922</td>
         </tr>

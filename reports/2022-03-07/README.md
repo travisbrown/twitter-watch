@@ -590,7 +590,7 @@ Found 614 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/artofesthetic">artofesthetic</a></td>
             <td>2021-07-18</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>297017</td>
         </tr>
@@ -678,7 +678,7 @@ Found 614 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/undeadscribe">undeadscribe</a></td>
             <td>2017-01-01</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>36619</td>
         </tr>

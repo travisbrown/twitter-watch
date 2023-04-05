@@ -680,7 +680,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/advndnor">advndnor</a></td>
             <td>2021-10-03</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>97432</td>
         </tr>
@@ -746,7 +746,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CorrectVsWrong">CorrectVsWrong</a></td>
             <td>2021-10-30</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>73348</td>
         </tr>
@@ -966,7 +966,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AthleteTweetts">AthleteTweetts</a></td>
             <td>2017-03-19</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>23129</td>
         </tr>
@@ -1780,7 +1780,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Yvette63433535">Yvette63433535</a></td>
             <td>2019-02-08</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>2536</td>
         </tr>

@@ -549,7 +549,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/c3poandr2d2wow">c3poandr2d2wow</a></td>
             <td>2018-08-02</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>102413</td>
         </tr>
@@ -593,7 +593,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GoHome_kun">GoHome_kun</a></td>
             <td>2019-03-08</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>87652</td>
         </tr>
@@ -1847,7 +1847,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/M1tten_Couple29">M1tten_Couple29</a></td>
             <td>2022-01-15</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>3765</td>
         </tr>

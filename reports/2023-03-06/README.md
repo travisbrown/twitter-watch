@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MapsUkraine">MapsUkraine</a></td>
             <td>2022-02-26</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>46370</td>
             <td>241</td>
@@ -306,7 +306,7 @@ Found 636 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KbgStream">KbgStream</a></td>
             <td>2021-06-27</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>5369</td>
         </tr>

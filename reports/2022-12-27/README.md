@@ -88,7 +88,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Senna0033">Senna0033</a></td>
             <td>2022-01-14</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>94</td>
             <td>14970</td>

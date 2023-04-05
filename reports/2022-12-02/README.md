@@ -1442,7 +1442,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TurtleBidness">TurtleBidness</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/152066824">3 others</a>)&nbsp;</td>
             <td>2010-06-05</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>8520</td>
         </tr>

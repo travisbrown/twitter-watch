@@ -527,7 +527,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BaeGoalsLike">BaeGoalsLike</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2547050562">7 others</a>)&nbsp;</td>
             <td>2014-06-05</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>336103</td>
         </tr>
@@ -1165,7 +1165,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ppointreality">ppointreality</a></td>
             <td>2016-08-10</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>5259</td>
         </tr>

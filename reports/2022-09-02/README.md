@@ -1755,7 +1755,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SoCal_Robert">SoCal_Robert</a></td>
             <td>2015-08-08</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2444</td>
         </tr>

@@ -566,7 +566,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tyorgasm_">tyorgasm_</a></td>
             <td>2022-02-17</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>217292</td>
         </tr>
@@ -632,7 +632,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SmitheeAmateurs">SmitheeAmateurs</a></td>
             <td>2020-02-01</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>155812</td>
         </tr>
@@ -654,7 +654,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RepositoryPorn">RepositoryPorn</a></td>
             <td>2019-12-08</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>140117</td>
         </tr>

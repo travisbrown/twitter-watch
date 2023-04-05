@@ -126,7 +126,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ykkswb">ykkswb</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1248247362167943168">2 others</a>)&nbsp;</td>
             <td>2020-04-09</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>24728</td>
         </tr>

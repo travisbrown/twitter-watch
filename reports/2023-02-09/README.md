@@ -391,7 +391,7 @@ Found 1795 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Thea_Booysen">Thea_Booysen</a></td>
             <td>2012-12-16</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>4906</td>
         </tr>
@@ -1029,7 +1029,7 @@ Found 1795 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rocky0026">rocky0026</a></td>
             <td>2017-04-14</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>1050</td>
         </tr>

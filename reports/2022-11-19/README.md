@@ -698,7 +698,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coach___walker">coach___walker</a></td>
             <td>2016-10-01</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>4388</td>
         </tr>
@@ -951,7 +951,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/guilhermerocha">guilhermerocha</a></td>
             <td>2009-04-01</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>2503</td>
         </tr>

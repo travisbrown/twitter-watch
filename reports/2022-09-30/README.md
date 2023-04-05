@@ -581,7 +581,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Quijaputa">Quijaputa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1378287785145171973">1 other</a>)&nbsp;</td>
             <td>2021-04-03</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>9356</td>
         </tr>

@@ -6138,7 +6138,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AshleaSimonBF">AshleaSimonBF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2199020853">1 other</a>)&nbsp;</td>
             <td>2013-11-28</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>4307</td>
         </tr>

@@ -131,7 +131,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Trioccs696ii">Trioccs696ii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1168574601367998473">1 other</a>)&nbsp;</td>
             <td>2019-09-02</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>131621</td>
         </tr>

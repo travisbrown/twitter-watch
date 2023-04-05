@@ -672,7 +672,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mosterporn">mosterporn</a></td>
             <td>2021-07-29</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>360236</td>
         </tr>
@@ -727,7 +727,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/exploresnapchat">exploresnapchat</a></td>
             <td>2021-08-17</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>208096</td>
         </tr>
@@ -4093,7 +4093,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rich_pi_34">Rich_pi_34</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1072505105424019461">1 other</a>)&nbsp;</td>
             <td>2018-12-11</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1050</td>
         </tr>

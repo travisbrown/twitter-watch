@@ -1072,7 +1072,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VladDraculIM">VladDraculIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1356508199151632384">2 others</a>)&nbsp;</td>
             <td>2021-02-02</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>3759</td>
         </tr>
@@ -1490,7 +1490,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TanisBoundIM">TanisBoundIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1335651114692304902">1 other</a>)&nbsp;</td>
             <td>2020-12-06</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2271</td>
         </tr>
@@ -1534,7 +1534,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HarrisonWellsIM">HarrisonWellsIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1289433166877523969">6 others</a>)&nbsp;</td>
             <td>2020-08-01</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2226</td>
         </tr>
@@ -1666,7 +1666,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NorrisThingIM">NorrisThingIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1373408222724378624">6 others</a>)&nbsp;</td>
             <td>2021-03-20</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2003</td>
         </tr>

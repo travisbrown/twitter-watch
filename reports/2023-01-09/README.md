@@ -1523,7 +1523,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PratiksehajpalC">PratiksehajpalC</a></td>
             <td>2021-08-11</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>1442</td>
         </tr>

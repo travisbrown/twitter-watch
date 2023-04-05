@@ -2040,7 +2040,7 @@ Found 1148 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nickisnest">nickisnest</a></td>
             <td>2013-10-28</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>2315</td>
         </tr>

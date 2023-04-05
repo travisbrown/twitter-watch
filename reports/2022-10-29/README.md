@@ -16086,7 +16086,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RantyTad">RantyTad</a></td>
             <td>2020-06-22</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>2396</td>
         </tr>
@@ -34984,7 +34984,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rogjah">rogjah</a></td>
             <td>2016-09-24</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>1118</td>
         </tr>

@@ -582,7 +582,7 @@ Found 1532 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KhanGirl_123">KhanGirl_123</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1243115856990740487">4 others</a>)&nbsp;</td>
             <td>2020-03-26</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>41462</td>
         </tr>

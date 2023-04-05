@@ -72,7 +72,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DCMusicCRO">DCMusicCRO</a></td>
             <td>2012-01-03</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>42553</td>
         </tr>
@@ -160,7 +160,7 @@ Found 853 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/christidnnon">christidnnon</a></td>
             <td>2013-02-28</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>7353</td>
         </tr>

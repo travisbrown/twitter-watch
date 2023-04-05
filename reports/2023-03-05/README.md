@@ -367,7 +367,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mufarehAlqaboos">mufarehAlqaboos</a></td>
             <td>2012-02-17</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>2382</td>
         </tr>

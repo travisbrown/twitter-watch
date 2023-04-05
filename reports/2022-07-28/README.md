@@ -686,7 +686,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Arteymas_">Arteymas_</a></td>
             <td>2017-05-13</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1075524</td>
         </tr>
@@ -785,7 +785,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FootballMares">FootballMares</a></td>
             <td>2020-05-05</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>113402</td>
         </tr>
@@ -928,7 +928,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/angry_keane">angry_keane</a></td>
             <td>2019-04-25</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>44280</td>
         </tr>

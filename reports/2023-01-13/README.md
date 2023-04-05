@@ -748,7 +748,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/central_luxe">central_luxe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4888405937">1 other</a>)&nbsp;</td>
             <td>2016-02-08</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>3569</td>
         </tr>

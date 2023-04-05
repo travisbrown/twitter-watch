@@ -827,7 +827,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DamasPerfectas">DamasPerfectas</a></td>
             <td>2022-05-18</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>444144</td>
         </tr>
@@ -893,7 +893,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NET_ProM">NET_ProM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1160740818946273280">9 others</a>)&nbsp;</td>
             <td>2019-08-12</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>134810</td>
         </tr>
@@ -1080,7 +1080,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sadbuthotgf">sadbuthotgf</a></td>
             <td>2022-01-07</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>16070</td>
         </tr>

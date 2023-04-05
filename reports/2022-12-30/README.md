@@ -272,7 +272,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BookitWithTrent">BookitWithTrent</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/66287704">2 others</a>)&nbsp;</td>
             <td>2009-08-17</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>131446</td>
         </tr>

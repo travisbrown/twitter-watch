@@ -1138,7 +1138,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_MASSlMO_">_MASSlMO_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1234458775">2 others</a>)&nbsp;</td>
             <td>2013-03-02</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>10853</td>
         </tr>

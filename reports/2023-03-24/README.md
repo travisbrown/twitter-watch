@@ -563,7 +563,7 @@ Found 1414 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/David_RB82">David_RB82</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/61737159">4 others</a>)&nbsp;</td>
             <td>2009-07-31</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>1852</td>
         </tr>

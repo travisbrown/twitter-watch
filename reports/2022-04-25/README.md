@@ -3372,7 +3372,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/spain_malik">spain_malik</a></td>
             <td>2019-02-25</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2708</td>
         </tr>

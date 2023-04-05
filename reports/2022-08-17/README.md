@@ -893,7 +893,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ciancaglini_15">ciancaglini_15</a></td>
             <td>2009-10-27</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>13850</td>
         </tr>
@@ -1806,7 +1806,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Antonio10170800">Antonio10170800</a></td>
             <td>2018-03-05</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>2376</td>
         </tr>
@@ -2752,7 +2752,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/badtastemama">badtastemama</a></td>
             <td>2010-08-03</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>1102</td>
         </tr>

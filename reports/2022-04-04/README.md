@@ -775,7 +775,7 @@ Found 973 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Martyupnorth_">Martyupnorth_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1233094681006723072">1 other</a>)&nbsp;</td>
             <td>2020-02-27</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>12337</td>
         </tr>

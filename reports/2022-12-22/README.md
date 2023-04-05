@@ -172,7 +172,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/2Aorbust">2Aorbust</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/616356655">1 other</a>)&nbsp;</td>
             <td>2012-06-23</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>1001</td>
             <td>99184</td>

@@ -756,7 +756,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/youngbiafra">youngbiafra</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1364266603332968449">1 other</a>)&nbsp;</td>
             <td>2021-02-23</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>38207</td>
         </tr>

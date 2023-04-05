@@ -707,7 +707,7 @@ Found 1071 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BuckleUpBrandon">BuckleUpBrandon</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1305369668">5 others</a>)&nbsp;</td>
             <td>2013-03-26</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>11463</td>
         </tr>

@@ -2303,7 +2303,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pickle1450">pickle1450</a></td>
             <td>2021-11-29</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>1424</td>
         </tr>

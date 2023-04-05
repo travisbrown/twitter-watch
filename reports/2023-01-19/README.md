@@ -735,7 +735,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/8kcosplay">8kcosplay</a></td>
             <td>2020-11-07</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>6912</td>
         </tr>
@@ -1362,7 +1362,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/19nor_takumi">19nor_takumi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3227790007">2 others</a>)&nbsp;</td>
             <td>2015-05-27</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>2726</td>
         </tr>

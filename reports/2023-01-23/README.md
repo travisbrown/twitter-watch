@@ -316,7 +316,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ike_God6">ike_God6</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1363485746380890162">2 others</a>)&nbsp;</td>
             <td>2021-02-21</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>3900</td>
         </tr>

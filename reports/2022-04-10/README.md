@@ -112,7 +112,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/140__Purist">140__Purist</a></td>
             <td>2020-10-05</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>46</td>
             <td>8151</td>

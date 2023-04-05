@@ -226,7 +226,7 @@ Found 2404 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/netengage">netengage</a></td>
             <td>2014-08-07</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>8919</td>
         </tr>
@@ -259,7 +259,7 @@ Found 2404 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/comhunicate">comhunicate</a></td>
             <td>2008-12-09</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>8112</td>
         </tr>
@@ -963,7 +963,7 @@ Found 2404 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Da_Loysl">Da_Loysl</a></td>
             <td>2018-08-15</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center">🔒</td>
             <td>1185</td>
         </tr>

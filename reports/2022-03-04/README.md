@@ -1665,7 +1665,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jamesabernard">jamesabernard</a></td>
             <td>2007-11-02</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2258</td>
         </tr>

@@ -714,7 +714,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HumanBeingBross">HumanBeingBross</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1529303843242004481">1 other</a>)&nbsp;</td>
             <td>2022-05-25</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>59976</td>
         </tr>

@@ -1350,7 +1350,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/realDonatoTramp">realDonatoTramp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1337861522274521090">2 others</a>)&nbsp;</td>
             <td>2020-12-12</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>2336</td>
         </tr>

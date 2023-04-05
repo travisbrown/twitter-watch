@@ -416,7 +416,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SAITAMA314319">SAITAMA314319</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1383711653099806721">1 other</a>)&nbsp;</td>
             <td>2021-04-18</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2634</td>
         </tr>

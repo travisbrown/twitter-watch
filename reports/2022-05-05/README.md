@@ -1486,7 +1486,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeafyIsHere">LeafyIsHere</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/418362046">1 other</a>)&nbsp;</td>
             <td>2011-11-22</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>851033</td>
         </tr>

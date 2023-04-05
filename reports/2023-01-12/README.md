@@ -1264,7 +1264,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlevinTheCube_">BlevinTheCube_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389776341470523395">5 others</a>)&nbsp;</td>
             <td>2021-05-05</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2860</td>
         </tr>
@@ -2166,7 +2166,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaudiKiwonyi">DaudiKiwonyi</a></td>
             <td>2015-12-17</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>

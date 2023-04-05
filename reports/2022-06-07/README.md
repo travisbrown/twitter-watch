@@ -1636,7 +1636,7 @@ Found 751 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/__YesBut_">__YesBut_</a></td>
             <td>2022-05-05</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>11723</td>
         </tr>

@@ -919,7 +919,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/awfulrepliestwt">awfulrepliestwt</a></td>
             <td>2022-07-08</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>32231</td>
         </tr>

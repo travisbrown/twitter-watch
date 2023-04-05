@@ -1541,7 +1541,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DewyGrassBlades">DewyGrassBlades</a></td>
             <td>2021-09-11</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>3718</td>
         </tr>
@@ -2476,7 +2476,7 @@ Found 1287 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Amera24680">Amera24680</a></td>
             <td>2020-12-03</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1520</td>
         </tr>

@@ -641,7 +641,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gezigeziya">gezigeziya</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1484595098147246081">1 other</a>)&nbsp;</td>
             <td>2022-01-21</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>386814</td>
         </tr>

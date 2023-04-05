@@ -76,7 +76,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ArtValley818_">ArtValley818_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1290696356194000896">2 others</a>)&nbsp;</td>
             <td>2020-08-04</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>204302</td>
             <td>32180</td>

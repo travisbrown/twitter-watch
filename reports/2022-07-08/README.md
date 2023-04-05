@@ -1561,7 +1561,7 @@ Found 698 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DiogoGasparetto">DiogoGasparetto</a></td>
             <td>2009-07-28</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1302</td>
         </tr>

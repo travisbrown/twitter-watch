@@ -731,7 +731,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Geo_Is_Pissed">Geo_Is_Pissed</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2198499445">1 other</a>)&nbsp;</td>
             <td>2013-11-16</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>21743</td>
         </tr>

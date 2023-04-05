@@ -485,7 +485,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VA94Vet">VA94Vet</a></td>
             <td>2015-06-27</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>22250</td>
         </tr>
@@ -1717,7 +1717,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tittytittybangb">tittytittybangb</a></td>
             <td>2022-07-23</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>1568</td>
         </tr>

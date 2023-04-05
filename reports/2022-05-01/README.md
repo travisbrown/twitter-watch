@@ -946,7 +946,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BiroliroPistola">BiroliroPistola</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1399106513818488833">1 other</a>)&nbsp;</td>
             <td>2021-05-30</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>6156</td>
         </tr>

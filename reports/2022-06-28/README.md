@@ -1434,7 +1434,7 @@ Found 1813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FilhoPaulicchi">FilhoPaulicchi</a></td>
             <td>2019-08-08</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>3835</td>
         </tr>

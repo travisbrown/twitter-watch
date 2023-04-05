@@ -505,7 +505,7 @@ Found 804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rofl_Rockstar">Rofl_Rockstar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1175274972194828288">7 others</a>)&nbsp;</td>
             <td>2019-09-21</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>5739</td>
         </tr>

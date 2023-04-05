@@ -1038,7 +1038,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tantitamadre">tantitamadre</a></td>
             <td>2011-05-03</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>2156</td>
         </tr>

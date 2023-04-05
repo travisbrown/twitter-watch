@@ -1371,7 +1371,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmadouItLater2">AmadouItLater2</a></td>
             <td>2020-04-27</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>2309</td>
         </tr>

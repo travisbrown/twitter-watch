@@ -636,7 +636,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/viewsoff_">viewsoff_</a></td>
             <td>2021-12-08</td>
-            <td></td>
+            <td>2023-04-01</td>
             <td align="center"></td>
             <td>507549</td>
         </tr>

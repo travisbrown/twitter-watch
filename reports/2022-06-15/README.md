@@ -935,7 +935,7 @@ Found 1896 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gslbruins">gslbruins</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3439573809">1 other</a>)&nbsp;</td>
             <td>2015-08-25</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>2409</td>
         </tr>

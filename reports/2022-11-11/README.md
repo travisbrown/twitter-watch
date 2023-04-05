@@ -568,7 +568,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PrivateJoker9">PrivateJoker9</a></td>
             <td>2018-06-01</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>951</td>
             <td>82760</td>

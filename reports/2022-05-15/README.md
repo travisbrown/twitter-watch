@@ -377,7 +377,7 @@ Found 486 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thebooksweepers">thebooksweepers</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1122570779319840770">1 other</a>)&nbsp;</td>
             <td>2019-04-28</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>7590</td>
         </tr>

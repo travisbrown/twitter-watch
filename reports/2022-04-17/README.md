@@ -1300,7 +1300,7 @@ Found 1021 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amit_sainik">amit_sainik</a></td>
             <td>2009-06-25</td>
-            <td></td>
+            <td>2023-04-02</td>
             <td align="center"></td>
             <td>6035</td>
         </tr>
@@ -1421,7 +1421,7 @@ Found 1021 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AdenAmeer89">AdenAmeer89</a></td>
             <td>2019-08-22</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>3676</td>
         </tr>

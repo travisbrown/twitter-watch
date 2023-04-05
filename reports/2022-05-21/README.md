@@ -1751,7 +1751,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Scimitar_SS">Scimitar_SS</a></td>
             <td>2010-06-19</td>
-            <td></td>
+            <td>2023-04-03</td>
             <td align="center"></td>
             <td>1916</td>
         </tr>

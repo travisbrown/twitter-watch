@@ -467,7 +467,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lolinteractions">lolinteractions</a></td>
             <td>2021-07-04</td>
-            <td></td>
+            <td>2023-03-31</td>
             <td align="center"></td>
             <td>140729</td>
         </tr>
