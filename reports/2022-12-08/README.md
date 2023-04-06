@@ -100,7 +100,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/pink_lady56">pink_lady56</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/291874773">1 other</a>)&nbsp;</td>
             <td>2011-05-02</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>45203</td>
             <td>17776</td>

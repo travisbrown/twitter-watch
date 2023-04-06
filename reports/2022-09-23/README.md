@@ -2608,7 +2608,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Freedom7Restore">Freedom7Restore</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>2148</td>
         </tr>

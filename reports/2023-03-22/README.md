@@ -52,7 +52,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Schizophrenesia">Schizophrenesia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/743463636346122241">2 others</a>)&nbsp;</td>
             <td>2016-06-16</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>144</td>
             <td>24551</td>

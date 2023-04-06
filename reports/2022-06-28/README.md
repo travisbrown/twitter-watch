@@ -1654,7 +1654,7 @@ Found 1813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YourDarkLordLuc">YourDarkLordLuc</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/527061693">1 other</a>)&nbsp;</td>
             <td>2012-03-17</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>2426</td>
         </tr>

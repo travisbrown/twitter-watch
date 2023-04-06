@@ -1004,7 +1004,7 @@ Found 1024 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OpusOfAli">OpusOfAli</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1155160585144819713">1 other</a>)&nbsp;</td>
             <td>2019-07-27</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>28742</td>
         </tr>

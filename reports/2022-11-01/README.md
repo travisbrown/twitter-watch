@@ -1897,7 +1897,7 @@ Found 1809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fearthetrump">fearthetrump</a></td>
             <td>2016-03-31</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>2100</td>
         </tr>

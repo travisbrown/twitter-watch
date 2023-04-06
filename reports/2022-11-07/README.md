@@ -3880,7 +3880,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Schizo_John_">Schizo_John_</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>187</td>
             <td>50311</td>

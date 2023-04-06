@@ -3855,7 +3855,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlueTexan">BlueTexan</a></td>
             <td>2018-10-15</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>1490</td>
         </tr>

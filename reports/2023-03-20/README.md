@@ -76,7 +76,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/pinewalker_">pinewalker_</a></td>
             <td>2010-11-19</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>2070</td>
             <td>37219</td>

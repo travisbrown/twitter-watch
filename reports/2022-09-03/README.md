@@ -1538,7 +1538,7 @@ Found 1278 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EduardodeAlcan2">EduardodeAlcan2</a></td>
             <td>2019-07-07</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>2083</td>
         </tr>

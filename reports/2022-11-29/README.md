@@ -1162,7 +1162,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DVSAEnforcement">DVSAEnforcement</a></td>
             <td>2018-09-24</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>16181</td>
         </tr>

@@ -136,7 +136,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JMeanypants">JMeanypants</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1348691356059897861">1 other</a>)&nbsp;</td>
             <td>2021-01-11</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>20459</td>
         </tr>

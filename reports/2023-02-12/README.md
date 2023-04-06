@@ -565,7 +565,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BobJohansson50">BobJohansson50</a></td>
             <td>2017-05-23</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>1389</td>
         </tr>

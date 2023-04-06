@@ -1213,7 +1213,7 @@ Found 1007 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LamarsGoat8">LamarsGoat8</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1399938161556480002">2 others</a>)&nbsp;</td>
             <td>2021-06-02</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>2089</td>
         </tr>

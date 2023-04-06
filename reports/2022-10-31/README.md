@@ -508,7 +508,7 @@ Found 54 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/renee_tupaz">renee_tupaz</a></td>
             <td>2022-05-10</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>61</td>
             <td>68051</td>

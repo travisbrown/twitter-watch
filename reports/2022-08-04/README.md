@@ -2812,7 +2812,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DequinceyDr">DequinceyDr</a></td>
             <td>2019-04-25</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>1302</td>
         </tr>
@@ -2922,7 +2922,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sherwood682">sherwood682</a></td>
             <td>2016-02-02</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>1245</td>
         </tr>

@@ -875,7 +875,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AdiTeryima">AdiTeryima</a></td>
             <td>2022-06-17</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>1064</td>
         </tr>

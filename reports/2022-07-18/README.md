@@ -2769,7 +2769,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GhostOfChad1">GhostOfChad1</a></td>
             <td>2021-03-17</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>1538</td>
         </tr>

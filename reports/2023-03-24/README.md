@@ -244,7 +244,7 @@ Found 1414 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CossyCosydiva">CossyCosydiva</a></td>
             <td>2015-08-22</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>8199</td>
         </tr>

@@ -924,7 +924,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Balakurwo">Balakurwo</a></td>
             <td>2022-03-05</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>121917</td>
         </tr>
@@ -1100,7 +1100,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jerrieskid">jerrieskid</a></td>
             <td>2013-04-22</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>35736</td>
         </tr>

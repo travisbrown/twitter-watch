@@ -52,7 +52,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ssayssayssay">ssayssayssay</a></td>
             <td>2022-09-13</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>1218</td>
             <td>46300</td>

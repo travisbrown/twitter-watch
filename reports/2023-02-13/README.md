@@ -385,7 +385,7 @@ Found 1396 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sylviane_lopez">sylviane_lopez</a></td>
             <td>2017-01-10</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>5462</td>
         </tr>
@@ -572,7 +572,7 @@ Found 1396 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Play4bi1">Play4bi1</a></td>
             <td>2018-12-03</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>2438</td>
         </tr>

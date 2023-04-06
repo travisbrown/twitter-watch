@@ -1124,7 +1124,7 @@ Found 2535 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EtsyJanetMurray">EtsyJanetMurray</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1496724218">1 other</a>)&nbsp;</td>
             <td>2013-06-09</td>
-            <td></td>
+            <td>2023-04-04</td>
             <td align="center"></td>
             <td>1489</td>
         </tr>
