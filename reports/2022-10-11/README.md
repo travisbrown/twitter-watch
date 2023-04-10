@@ -606,7 +606,7 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/creamyjudy">creamyjudy</a></td>
             <td>2020-10-01</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>132353</td>
         </tr>
@@ -2377,7 +2377,7 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gnitnaZ">gnitnaZ</a></td>
             <td>2017-07-25</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>1128</td>
         </tr>

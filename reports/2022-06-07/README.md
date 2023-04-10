@@ -2637,7 +2637,7 @@ Found 751 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jettnuke1">jettnuke1</a></td>
             <td>2017-11-03</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1010</td>
         </tr>

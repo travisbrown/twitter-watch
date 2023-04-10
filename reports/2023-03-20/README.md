@@ -187,7 +187,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TripleKyun">TripleKyun</a></td>
             <td>2013-04-02</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>60488</td>
         </tr>

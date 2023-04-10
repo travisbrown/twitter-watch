@@ -1039,7 +1039,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cjzingle">cjzingle</a></td>
             <td>2020-08-26</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>14249</td>
         </tr>

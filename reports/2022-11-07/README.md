@@ -4504,7 +4504,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FreedomsBritish">FreedomsBritish</a></td>
             <td>2021-10-19</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>5382</td>
             <td>72120</td>

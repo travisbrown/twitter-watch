@@ -100,7 +100,7 @@ Found 49 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DaveForDelaware">DaveForDelaware</a></td>
             <td>2022-04-04</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1142</td>
             <td>2503</td>

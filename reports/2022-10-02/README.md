@@ -64,7 +64,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MississippiZoom">MississippiZoom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1292282355978309632">3 others</a>)&nbsp;</td>
             <td>2020-08-09</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>626</td>
             <td>53684</td>

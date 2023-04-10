@@ -248,7 +248,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_yoongi_kawaii">_yoongi_kawaii</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/857946275399860225">3 others</a>)&nbsp;</td>
             <td>2017-04-28</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>5619</td>
         </tr>

@@ -256,7 +256,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheDudeApollo">TheDudeApollo</a></td>
             <td>2011-02-15</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>750</td>
             <td>88042</td>

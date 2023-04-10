@@ -1115,7 +1115,7 @@ Found 2409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/007_magazine">007_magazine</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/34778352">1 other</a>)&nbsp;</td>
             <td>2009-04-24</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1345</td>
         </tr>

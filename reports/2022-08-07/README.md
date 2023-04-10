@@ -724,7 +724,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bestgrammartip">bestgrammartip</a></td>
             <td>2022-06-22</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>86058</td>
         </tr>
@@ -1153,7 +1153,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/inmyownfashion2">inmyownfashion2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1254267565993603075">1 other</a>)&nbsp;</td>
             <td>2020-04-26</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>9630</td>
         </tr>

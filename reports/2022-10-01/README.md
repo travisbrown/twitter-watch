@@ -2051,7 +2051,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fuxkalba">fuxkalba</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1396401346014859265">1 other</a>)&nbsp;</td>
             <td>2021-05-23</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1409</td>
         </tr>

@@ -895,7 +895,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Amber_Z11">Amber_Z11</a></td>
             <td>2022-01-18</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>61932</td>
         </tr>

@@ -479,7 +479,7 @@ Found 2888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bigwin_aw">bigwin_aw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1552987948055834624">5 others</a>)&nbsp;</td>
             <td>2022-07-29</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>1637</td>
         </tr>

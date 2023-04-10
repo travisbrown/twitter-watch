@@ -1481,7 +1481,7 @@ Found 1703 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeafBigEagle">LeafBigEagle</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1271844179581132803">2 others</a>)&nbsp;</td>
             <td>2020-06-13</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>1268</td>
         </tr>

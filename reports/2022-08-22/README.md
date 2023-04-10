@@ -1135,7 +1135,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tengutke">Tengutke</a></td>
             <td>2021-08-20</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>5007</td>
         </tr>
@@ -2686,7 +2686,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bear58203">bear58203</a></td>
             <td>2017-04-02</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1098</td>
         </tr>

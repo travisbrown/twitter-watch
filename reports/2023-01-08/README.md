@@ -180,7 +180,7 @@ Found 1538 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ysmaramartinezn">ysmaramartinezn</a></td>
             <td>2022-04-01</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>371533</td>
         </tr>

@@ -216,7 +216,7 @@ Found 1839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/staxdeadempress">staxdeadempress</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1364696915154198530">2 others</a>)&nbsp;</td>
             <td>2021-02-24</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>8916</td>
         </tr>

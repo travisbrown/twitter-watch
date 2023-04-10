@@ -2481,7 +2481,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SOUPSHOGI">SOUPSHOGI</a></td>
             <td>2021-07-30</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>1221</td>
         </tr>

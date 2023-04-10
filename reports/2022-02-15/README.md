@@ -2259,7 +2259,7 @@ Found 462 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Biggins2018">Biggins2018</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1636685257">2 others</a>)&nbsp;</td>
             <td>2013-07-31</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>1504</td>
         </tr>

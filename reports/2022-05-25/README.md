@@ -1263,7 +1263,7 @@ Found 2235 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarySusie3">MarySusie3</a></td>
             <td>2021-01-23</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>3406</td>
         </tr>

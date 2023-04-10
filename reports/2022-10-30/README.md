@@ -28,7 +28,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/shitbiscuit">shitbiscuit</a></td>
             <td>2016-06-04</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>33354</td>
             <td>367</td>
@@ -136,7 +136,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DailyGroyper">DailyGroyper</a></td>
             <td>2019-11-03</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>6032</td>
             <td>1149</td>
@@ -292,7 +292,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/punishedLavrov">punishedLavrov</a></td>
             <td>2022-05-04</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>2006</td>
             <td>2480</td>

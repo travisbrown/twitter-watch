@@ -529,7 +529,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jcw_karlsruhe">jcw_karlsruhe</a></td>
             <td>2013-01-22</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>4543</td>
         </tr>
@@ -1134,7 +1134,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TonyCostello_Jr">TonyCostello_Jr</a></td>
             <td>2011-08-21</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>1329</td>
         </tr>

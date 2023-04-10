@@ -28,7 +28,7 @@ Found 21 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/87lbofbees">87lbofbees</a></td>
             <td>2014-11-27</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>4282</td>
             <td>1348</td>
@@ -993,7 +993,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LeesWarhorse">LeesWarhorse</a></td>
             <td>2017-03-28</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1986</td>
         </tr>

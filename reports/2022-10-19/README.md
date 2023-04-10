@@ -76,7 +76,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PunishedGum">PunishedGum</a></td>
             <td>2021-02-28</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>832</td>
             <td>1617</td>

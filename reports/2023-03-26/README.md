@@ -1299,7 +1299,7 @@ Found 3674 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/weizimo4">weizimo4</a></td>
             <td>2022-05-05</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1087</td>
         </tr>

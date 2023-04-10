@@ -1479,7 +1479,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SpiderHeadThing">SpiderHeadThing</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1387803209717194755">6 others</a>)&nbsp;</td>
             <td>2021-04-29</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>2282</td>
         </tr>
@@ -1952,7 +1952,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CopperThingIM">CopperThingIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1356505131962015748">2 others</a>)&nbsp;</td>
             <td>2021-02-02</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center"></td>
             <td>1583</td>
         </tr>

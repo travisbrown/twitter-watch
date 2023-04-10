@@ -528,7 +528,7 @@ Found 1396 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DialSquare52">DialSquare52</a></td>
             <td>2011-08-15</td>
-            <td></td>
+            <td>2023-04-06</td>
             <td align="center">🔒</td>
             <td>3015</td>
         </tr>

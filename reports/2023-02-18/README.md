@@ -979,7 +979,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iluvtobigwin">iluvtobigwin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1534448808796782592">2 others</a>)&nbsp;</td>
             <td>2022-06-08</td>
-            <td></td>
+            <td>2023-04-05</td>
             <td align="center"></td>
             <td>1310</td>
         </tr>
