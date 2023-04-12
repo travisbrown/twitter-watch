@@ -1669,7 +1669,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Navegandita">Navegandita</a></td>
             <td>2010-05-26</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>5714</td>
         </tr>
@@ -2340,7 +2340,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Joaquin67910350">Joaquin67910350</a></td>
             <td>2018-07-16</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>3420</td>
         </tr>

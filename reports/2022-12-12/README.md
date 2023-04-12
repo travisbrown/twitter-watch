@@ -472,7 +472,7 @@ Found 38 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AlisLedgon">AlisLedgon</a></td>
             <td>2017-12-01</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>1424</td>
             <td>96084</td>

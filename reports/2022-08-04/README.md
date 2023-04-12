@@ -2350,7 +2350,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GeorgeKavel">GeorgeKavel</a></td>
             <td>2021-07-31</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>1787</td>
         </tr>

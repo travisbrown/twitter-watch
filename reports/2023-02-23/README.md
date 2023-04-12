@@ -490,7 +490,7 @@ Found 1219 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AyoolaSaheed16">AyoolaSaheed16</a></td>
             <td>2020-01-13</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>2117</td>
         </tr>

@@ -1729,7 +1729,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/reticentnaiad">reticentnaiad</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1046198701595791360">2 others</a>)&nbsp;</td>
             <td>2018-09-30</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>2011</td>
         </tr>

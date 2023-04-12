@@ -796,7 +796,7 @@ Found 2409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmjdArmids">AmjdArmids</a></td>
             <td>2021-01-02</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>2200</td>
         </tr>

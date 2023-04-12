@@ -1884,7 +1884,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SCP2547">SCP2547</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1250095263445848064">4 others</a>)&nbsp;</td>
             <td>2020-04-14</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>2221</td>
         </tr>

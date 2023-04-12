@@ -15899,7 +15899,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/techbanglapro37">techbanglapro37</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1416267439759896579">1 other</a>)&nbsp;</td>
             <td>2021-07-17</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>2413</td>
         </tr>

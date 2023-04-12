@@ -719,7 +719,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Japanhdvideo">Japanhdvideo</a></td>
             <td>2022-03-15</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>161693</td>
         </tr>
@@ -1390,7 +1390,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mpg25mary">mpg25mary</a></td>
             <td>2013-06-22</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>9388</td>
         </tr>
@@ -2182,7 +2182,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Shadowsdoodle">Shadowsdoodle</a></td>
             <td>2022-06-05</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>2898</td>
         </tr>
@@ -2369,7 +2369,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LottaCats454">LottaCats454</a></td>
             <td>2020-08-07</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>2554</td>
         </tr>

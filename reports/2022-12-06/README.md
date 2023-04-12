@@ -160,7 +160,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BlakeBlakebabee">BlakeBlakebabee</a></td>
             <td>2022-03-24</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>4934</td>
             <td>39356</td>

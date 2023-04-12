@@ -3096,7 +3096,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nadia_patria">nadia_patria</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/989198300132921344">1 other</a>)&nbsp;</td>
             <td>2018-04-25</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>2839</td>
         </tr>

@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RealComfyfren">RealComfyfren</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1547394230514905088">1 other</a>)&nbsp;</td>
             <td>2022-07-14</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>2480</td>
             <td>2118</td>

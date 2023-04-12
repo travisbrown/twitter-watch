@@ -1069,7 +1069,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ExplainThisBot">ExplainThisBot</a></td>
             <td>2022-04-12</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>30109</td>
         </tr>

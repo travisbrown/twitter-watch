@@ -2337,7 +2337,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kathlee33077742">Kathlee33077742</a></td>
             <td>2020-07-11</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>1137</td>
         </tr>

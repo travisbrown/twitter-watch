@@ -834,7 +834,7 @@ Found 417 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nanci_2021">nanci_2021</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1144140660892753920">8 others</a>)&nbsp;</td>
             <td>2019-06-27</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>4016</td>
         </tr>

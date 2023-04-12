@@ -1343,7 +1343,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iamukaha">iamukaha</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/223216979">1 other</a>)&nbsp;</td>
             <td>2010-12-05</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1050</td>
         </tr>

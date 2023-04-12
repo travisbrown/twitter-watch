@@ -618,7 +618,7 @@ Found 1999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TommyGold995">TommyGold995</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/955003359534223361">2 others</a>)&nbsp;</td>
             <td>2018-01-21</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1808</td>
         </tr>
@@ -706,7 +706,7 @@ Found 1999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lutton1964">Lutton1964</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1415</td>
         </tr>
@@ -904,7 +904,7 @@ Found 1999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thesalesactvst">thesalesactvst</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/601227195">1 other</a>)&nbsp;</td>
             <td>2012-06-06</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1118</td>
         </tr>

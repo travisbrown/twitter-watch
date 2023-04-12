@@ -895,7 +895,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bidossofficial">bidossofficial</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/710964274491949057">1 other</a>)&nbsp;</td>
             <td>2016-03-18</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>2701</td>
         </tr>

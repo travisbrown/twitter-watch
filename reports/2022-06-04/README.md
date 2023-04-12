@@ -1882,7 +1882,7 @@ Found 987 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AyhamTweet">AyhamTweet</a></td>
             <td>2020-04-30</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1695</td>
         </tr>

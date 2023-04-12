@@ -561,7 +561,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NadiaGruzd">NadiaGruzd</a></td>
             <td>2009-02-18</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>7743</td>
         </tr>
@@ -935,7 +935,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Farid_64436">Farid_64436</a></td>
             <td>2014-08-01</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>2640</td>
         </tr>
@@ -1562,7 +1562,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Akinnifesi_wale">Akinnifesi_wale</a></td>
             <td>2015-10-03</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>1008</td>
         </tr></table>

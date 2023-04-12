@@ -2960,7 +2960,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Noctuxnal">Noctuxnal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2925641376">20 others</a>)&nbsp;</td>
             <td>2014-12-10</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>2245</td>
         </tr>

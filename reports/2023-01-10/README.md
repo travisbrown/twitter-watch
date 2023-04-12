@@ -1739,7 +1739,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coderedamerica">coderedamerica</a></td>
             <td>2021-05-24</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>1553</td>
         </tr>

@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/scuffedalice">scuffedalice</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1305386236106899456">1 other</a>)&nbsp;</td>
             <td>2020-09-14</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>1692</td>
             <td>1718</td>

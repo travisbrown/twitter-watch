@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KillstreamLive">KillstreamLive</a></td>
             <td>2019-10-22</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>3726</td>
             <td>55868</td>

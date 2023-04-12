@@ -1007,7 +1007,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/olgazepam">olgazepam</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1286452082799783937">2 others</a>)&nbsp;</td>
             <td>2020-07-24</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1264</td>
         </tr>

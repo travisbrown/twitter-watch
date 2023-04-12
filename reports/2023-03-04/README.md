@@ -304,7 +304,7 @@ Found 998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CygnusSEO">CygnusSEO</a></td>
             <td>2010-10-12</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>5194</td>
         </tr>

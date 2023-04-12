@@ -493,7 +493,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TiagoGuidi1">TiagoGuidi1</a></td>
             <td>2018-02-27</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>3739</td>
         </tr>
@@ -845,7 +845,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ad30Siege1">Ad30Siege1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/759937236548722690">2 others</a>)&nbsp;</td>
             <td>2016-08-01</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1581</td>
         </tr>

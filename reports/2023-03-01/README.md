@@ -605,7 +605,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eddiespino">eddiespino</a></td>
             <td>2017-04-05</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>2207</td>
         </tr>

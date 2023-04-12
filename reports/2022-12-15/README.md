@@ -1270,7 +1270,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PrimusIM">PrimusIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1333419827143315457">2 others</a>)&nbsp;</td>
             <td>2020-11-30</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>2760</td>
         </tr>
@@ -1347,7 +1347,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VampNicIM">VampNicIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1283804608398348289">5 others</a>)&nbsp;</td>
             <td>2020-07-16</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>2582</td>
         </tr>

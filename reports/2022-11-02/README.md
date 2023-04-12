@@ -472,7 +472,7 @@ Found 51 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/aaront391">aaront391</a></td>
             <td>2020-08-01</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>3776</td>
             <td>58661</td>

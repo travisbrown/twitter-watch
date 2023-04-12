@@ -387,7 +387,7 @@ Found 1855 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatrickJesseDa4">PatrickJesseDa4</a></td>
             <td>2020-05-13</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>4921</td>
         </tr>
@@ -706,7 +706,7 @@ Found 1855 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Felixpadilla32">Felixpadilla32</a></td>
             <td>2013-10-07</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>1660</td>
         </tr>

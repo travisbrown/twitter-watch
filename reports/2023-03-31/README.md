@@ -1071,7 +1071,7 @@ Found 4077 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ryanb39">ryanb39</a></td>
             <td>2009-05-07</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>2383</td>
         </tr>
@@ -1896,7 +1896,7 @@ Found 4077 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ninjahood">Ninjahood</a></td>
             <td>2009-08-04</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>1116</td>
         </tr>

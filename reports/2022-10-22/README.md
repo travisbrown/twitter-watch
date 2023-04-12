@@ -1164,7 +1164,7 @@ Found 1497 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/marcelogomes_sp">marcelogomes_sp</a></td>
             <td>2011-07-23</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>3048</td>
         </tr>

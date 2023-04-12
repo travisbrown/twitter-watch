@@ -703,7 +703,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lathamkhan">lathamkhan</a></td>
             <td>2015-12-11</td>
-            <td></td>
+            <td>2023-04-09</td>
             <td align="center"></td>
             <td>11714</td>
         </tr>

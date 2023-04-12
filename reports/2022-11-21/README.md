@@ -1334,7 +1334,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zac_langdon">zac_langdon</a></td>
             <td>2020-09-22</td>
-            <td></td>
+            <td>2023-04-07</td>
             <td align="center"></td>
             <td>4253</td>
         </tr>

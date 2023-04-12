@@ -1079,7 +1079,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DogeBNBorg">DogeBNBorg</a></td>
             <td>2021-05-07</td>
-            <td></td>
+            <td>2023-04-08</td>
             <td align="center"></td>
             <td>10815</td>
         </tr>
