@@ -2221,7 +2221,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BUFFCarpetBomb">BUFFCarpetBomb</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/759140401">1 other</a>)&nbsp;</td>
             <td>2012-08-15</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>3797</td>
         </tr>

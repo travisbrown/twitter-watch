@@ -1739,7 +1739,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/exileoutdid">exileoutdid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1399281188393660420">1 other</a>)&nbsp;</td>
             <td>2021-05-31</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>3305</td>
         </tr>

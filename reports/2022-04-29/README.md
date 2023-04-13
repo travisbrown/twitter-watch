@@ -942,7 +942,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fritson">fritson</a></td>
             <td>2007-04-22</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1121</td>
         </tr>

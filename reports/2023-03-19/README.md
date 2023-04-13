@@ -439,7 +439,7 @@ Found 2415 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Zombe1078">Zombe1078</a></td>
             <td>2014-12-28</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center">🔒</td>
             <td>2487</td>
         </tr>

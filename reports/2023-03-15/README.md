@@ -799,7 +799,7 @@ Found 1839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vergilswarrior">vergilswarrior</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1073902593842253824">1 other</a>)&nbsp;</td>
             <td>2018-12-15</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1276</td>
         </tr>

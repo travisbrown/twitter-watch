@@ -2207,7 +2207,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FatimaPistoni">FatimaPistoni</a></td>
             <td>2014-11-19</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>2333</td>
         </tr>
@@ -2229,7 +2229,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bombaybadboy">bombaybadboy</a></td>
             <td>2008-08-22</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>2321</td>
         </tr>

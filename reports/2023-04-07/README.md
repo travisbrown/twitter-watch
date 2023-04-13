@@ -28,7 +28,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DisrespectedThe">DisrespectedThe</a></td>
             <td>2019-10-22</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>15326</td>
             <td>490</td>
@@ -232,7 +232,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rayahn_eth">rayahn_eth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/750932281330720769">1 other</a>)&nbsp;</td>
             <td>2016-07-07</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>21039</td>
         </tr>

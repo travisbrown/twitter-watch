@@ -40,7 +40,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/buitengebieden">buitengebieden</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1130021685351079938">1 other</a>)&nbsp;</td>
             <td>2019-05-19</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1947500</td>
             <td>6821</td>

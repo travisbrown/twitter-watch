@@ -876,7 +876,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ewrexa">ewrexa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1297954757517213697">4 others</a>)&nbsp;</td>
             <td>2020-08-24</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1918</td>
         </tr>

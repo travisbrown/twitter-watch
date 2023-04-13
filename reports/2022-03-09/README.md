@@ -1519,7 +1519,7 @@ Found 772 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/i_lindani">i_lindani</a></td>
             <td>2012-10-30</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1483</td>
         </tr>

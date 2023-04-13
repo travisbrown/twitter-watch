@@ -260,7 +260,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/maxwellketter1">maxwellketter1</a></td>
             <td>2020-08-09</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>6640</td>
         </tr>

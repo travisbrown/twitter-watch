@@ -1432,7 +1432,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/banfield_alice">banfield_alice</a></td>
             <td>2018-02-17</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>3199</td>
         </tr>

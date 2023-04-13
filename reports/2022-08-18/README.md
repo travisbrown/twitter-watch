@@ -88,7 +88,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BCrusader01">BCrusader01</a></td>
             <td>2022-07-29</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>378</td>
             <td>3803</td>

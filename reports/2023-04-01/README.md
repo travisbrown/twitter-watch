@@ -559,7 +559,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WCoastGuynCA">WCoastGuynCA</a></td>
             <td>2009-06-24</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>3125</td>
         </tr>
@@ -592,7 +592,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PCYeti">PCYeti</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/271183260">2 others</a>)&nbsp;</td>
             <td>2011-03-24</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>2941</td>
         </tr>

@@ -1099,7 +1099,7 @@ Found 507 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AstroCat9k">AstroCat9k</a></td>
             <td>2020-05-31</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1888</td>
         </tr>

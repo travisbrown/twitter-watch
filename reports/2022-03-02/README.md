@@ -1517,7 +1517,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nakanzuku369">nakanzuku369</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/937274206160527360">2 others</a>)&nbsp;</td>
             <td>2017-12-03</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1820</td>
         </tr>

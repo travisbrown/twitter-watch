@@ -22268,7 +22268,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/colorado_maga">colorado_maga</a></td>
             <td>2018-10-23</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1819</td>
         </tr>

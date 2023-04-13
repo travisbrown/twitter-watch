@@ -244,7 +244,7 @@ Found 60 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/neoclassic911">neoclassic911</a></td>
             <td>2020-03-16</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1603</td>
             <td>15998</td>

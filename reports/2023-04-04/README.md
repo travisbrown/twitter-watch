@@ -419,7 +419,7 @@ Found 2875 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Der_Normal_BY">Der_Normal_BY</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/383389946">2 others</a>)&nbsp;</td>
             <td>2011-10-01</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>5879</td>
         </tr>

@@ -76,7 +76,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/basedcaliber">basedcaliber</a></td>
             <td>2021-12-16</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>92</td>
             <td>11052</td>

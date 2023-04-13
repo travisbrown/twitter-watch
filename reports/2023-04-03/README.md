@@ -241,7 +241,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Racingnews2015">Racingnews2015</a></td>
             <td>2014-08-26</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>18519</td>
         </tr>
@@ -351,7 +351,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SabineB19909564">SabineB19909564</a></td>
             <td>2020-11-07</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>10178</td>
         </tr>
@@ -681,7 +681,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MachineGun1967">MachineGun1967</a></td>
             <td>2010-10-09</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>2128</td>
         </tr>

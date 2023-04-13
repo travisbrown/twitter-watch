@@ -288,7 +288,7 @@ Found 1999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ayseaydindogmus">ayseaydindogmus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1683743592">3 others</a>)&nbsp;</td>
             <td>2013-08-19</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>6145</td>
         </tr>

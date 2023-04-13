@@ -2559,7 +2559,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/69nightstalker">69nightstalker</a></td>
             <td>2012-05-16</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>1015</td>
         </tr></table>

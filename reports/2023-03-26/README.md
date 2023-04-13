@@ -1123,7 +1123,7 @@ Found 3674 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ruinwanderer">ruinwanderer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/901324398006853633">1 other</a>)&nbsp;</td>
             <td>2017-08-26</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1437</td>
         </tr>

@@ -969,7 +969,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ScotsAHF">ScotsAHF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/19886180">4 others</a>)&nbsp;</td>
             <td>2009-02-02</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center">🔒</td>
             <td>4163</td>
         </tr>

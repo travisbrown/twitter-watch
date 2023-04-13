@@ -750,7 +750,7 @@ Found 168 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/katieappleseed7">katieappleseed7</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/856486404">1 other</a>)&nbsp;</td>
             <td>2012-10-01</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>18783</td>
         </tr>

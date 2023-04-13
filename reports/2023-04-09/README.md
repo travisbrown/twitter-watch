@@ -144,7 +144,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HasnaZarooriHai">HasnaZarooriHai</a></td>
             <td>2015-01-19</td>
-            <td></td>
+            <td>2023-04-10</td>
             <td align="center"></td>
             <td>287387</td>
         </tr>
@@ -760,7 +760,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Daverocks4everO">Daverocks4everO</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3184384026">1 other</a>)&nbsp;</td>
             <td>2015-05-03</td>
-            <td></td>
+            <td>2023-04-11</td>
             <td align="center"></td>
             <td>1788</td>
         </tr>
