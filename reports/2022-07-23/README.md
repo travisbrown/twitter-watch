@@ -584,7 +584,7 @@ Found 1458 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mimarifacialar">mimarifacialar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1272286945259945984">1 other</a>)&nbsp;</td>
             <td>2020-06-14</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>293479</td>
         </tr>

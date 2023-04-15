@@ -627,7 +627,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GavinAkeno">GavinAkeno</a></td>
             <td>2022-04-21</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>6170</td>
         </tr>
@@ -1441,7 +1441,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Attevy3">Attevy3</a></td>
             <td>2020-05-16</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>1206</td>
         </tr>

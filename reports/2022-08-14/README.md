@@ -1507,7 +1507,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TolsmaforTrump">TolsmaforTrump</a></td>
             <td>2017-02-24</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1746</td>
         </tr>

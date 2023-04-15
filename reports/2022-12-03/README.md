@@ -2420,7 +2420,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JonahBlock05">JonahBlock05</a></td>
             <td>2020-05-09</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1363</td>
         </tr>

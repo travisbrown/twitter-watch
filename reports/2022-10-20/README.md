@@ -3002,7 +3002,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dalebornfree">dalebornfree</a></td>
             <td>2022-04-29</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>2115</td>
         </tr>

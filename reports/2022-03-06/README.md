@@ -720,7 +720,7 @@ Found 528 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rotax73">rotax73</a></td>
             <td>2013-07-01</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>2588</td>
         </tr>

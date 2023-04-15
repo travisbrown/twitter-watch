@@ -2147,7 +2147,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/barbienardi">barbienardi</a></td>
             <td>2013-12-02</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>2094</td>
         </tr>

@@ -318,7 +318,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarisaSilvina3">MarisaSilvina3</a></td>
             <td>2018-09-03</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>9975</td>
         </tr>
@@ -450,7 +450,7 @@ Found 1468 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MikeNew19512115">MikeNew19512115</a></td>
             <td>2021-06-23</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>6106</td>
         </tr>

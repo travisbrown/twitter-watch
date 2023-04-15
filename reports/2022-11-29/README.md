@@ -3032,7 +3032,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ScottyNeff2">ScottyNeff2</a></td>
             <td>2018-03-30</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1384</td>
         </tr>
@@ -3472,7 +3472,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Maddy56406762">Maddy56406762</a></td>
             <td>2019-05-23</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1064</td>
         </tr>

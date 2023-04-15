@@ -1644,7 +1644,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FuchsThingIM">FuchsThingIM</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1297200532696834049">3 others</a>)&nbsp;</td>
             <td>2020-08-22</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>2025</td>
         </tr>

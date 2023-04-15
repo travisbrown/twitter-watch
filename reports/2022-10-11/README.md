@@ -617,7 +617,7 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/snaccaveli">snaccaveli</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/779152254167310336">9 others</a>)&nbsp;</td>
             <td>2016-09-23</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>131321</td>
         </tr>
@@ -2212,7 +2212,7 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SyriaTime">SyriaTime</a></td>
             <td>2011-03-28</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>1247</td>
         </tr>

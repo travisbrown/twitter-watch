@@ -669,7 +669,7 @@ Found 1282 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BDavidWeiss">BDavidWeiss</a></td>
             <td>2022-07-16</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>20390</td>
         </tr>

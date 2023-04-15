@@ -418,7 +418,7 @@ Found 5996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/traductricemtl">traductricemtl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/247371118">1 other</a>)&nbsp;</td>
             <td>2011-02-04</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>11100</td>
         </tr>
@@ -2255,7 +2255,7 @@ Found 5996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/whiplashforyou">whiplashforyou</a></td>
             <td>2014-03-03</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1298</td>
         </tr>

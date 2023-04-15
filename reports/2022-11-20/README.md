@@ -304,7 +304,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheRatKing21">TheRatKing21</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1320208208523333634">2 others</a>)&nbsp;</td>
             <td>2020-10-25</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>887</td>
             <td>34002</td>

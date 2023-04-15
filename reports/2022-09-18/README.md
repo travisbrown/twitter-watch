@@ -1879,7 +1879,7 @@ Found 2631 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SergioTeixeiraI">SergioTeixeiraI</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1389649915018629124">1 other</a>)&nbsp;</td>
             <td>2021-05-04</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1789</td>
         </tr>

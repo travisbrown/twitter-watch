@@ -317,7 +317,7 @@ Found 999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/R_India_SJ">R_India_SJ</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2601002334">1 other</a>)&nbsp;</td>
             <td>2014-07-03</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>6995</td>
         </tr>

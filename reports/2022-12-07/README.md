@@ -1723,7 +1723,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kff02634162">Kff02634162</a></td>
             <td>2018-04-01</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center">🔒</td>
             <td>1719</td>
         </tr>

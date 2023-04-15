@@ -28,7 +28,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/crabcrawler1">crabcrawler1</a></td>
             <td>2020-11-06</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>30044</td>
             <td>401</td>
@@ -508,7 +508,7 @@ Found 2535 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jonathandata0">jonathandata0</a></td>
             <td>2022-01-30</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>4959</td>
         </tr>

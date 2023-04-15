@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/manceraymond">manceraymond</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1342642197422891011">2 others</a>)&nbsp;</td>
             <td>2020-12-26</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>16541</td>
             <td>610</td>

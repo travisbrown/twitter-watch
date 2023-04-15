@@ -556,7 +556,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MaskulNitespore">MaskulNitespore</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/5164241">1 other</a>)&nbsp;</td>
             <td>2007-04-18</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>68</td>
             <td>80162</td>

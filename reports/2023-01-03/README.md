@@ -40,7 +40,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/orkthodox">orkthodox</a></td>
             <td>2021-07-31</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>167</td>
             <td>19016</td>

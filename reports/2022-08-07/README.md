@@ -1175,7 +1175,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TruthBe53952128">TruthBe53952128</a></td>
             <td>2019-09-20</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>9072</td>
         </tr>

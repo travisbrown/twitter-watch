@@ -957,7 +957,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrTessaT">DrTessaT</a></td>
             <td>2019-09-17</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>19454</td>
         </tr>

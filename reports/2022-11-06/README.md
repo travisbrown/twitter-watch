@@ -4761,7 +4761,7 @@ Found 1823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WeTheSpiritNow">WeTheSpiritNow</a></td>
             <td>2021-09-15</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>2227</td>
         </tr>

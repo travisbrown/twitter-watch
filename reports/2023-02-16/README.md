@@ -164,7 +164,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/koji_campus">koji_campus</a></td>
             <td>2009-08-21</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>74027</td>
         </tr>

@@ -2459,7 +2459,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/defektarrow">defektarrow</a></td>
             <td>2020-10-03</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1271</td>
         </tr>

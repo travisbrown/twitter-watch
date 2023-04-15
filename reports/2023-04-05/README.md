@@ -52,7 +52,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JamesPorrazzo">JamesPorrazzo</a></td>
             <td>2012-09-05</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>569</td>
             <td>15015</td>
@@ -100,7 +100,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DebraleeHein">DebraleeHein</a></td>
             <td>2021-01-20</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>2902</td>
             <td>51099</td>
@@ -632,7 +632,7 @@ Found 2445 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/seyfulla_hattat">seyfulla_hattat</a></td>
             <td>2018-01-25</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>9037</td>
         </tr>
@@ -1149,7 +1149,7 @@ Found 2445 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Muhamma73705576">Muhamma73705576</a></td>
             <td>2022-01-04</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1979</td>
         </tr>
@@ -1270,7 +1270,7 @@ Found 2445 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZoeJRolt">ZoeJRolt</a></td>
             <td>2010-10-14</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1771</td>
         </tr>

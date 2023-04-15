@@ -1414,7 +1414,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MercShefali">MercShefali</a></td>
             <td>2021-07-20</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1714</td>
         </tr>

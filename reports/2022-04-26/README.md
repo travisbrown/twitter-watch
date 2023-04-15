@@ -360,7 +360,7 @@ Found 409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/poorteffy">poorteffy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1137423457669566465">1 other</a>)&nbsp;</td>
             <td>2019-06-08</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>26211</td>
         </tr>

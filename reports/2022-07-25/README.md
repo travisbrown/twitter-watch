@@ -2504,7 +2504,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/XsEdinho">XsEdinho</a></td>
             <td>2018-07-31</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1842</td>
         </tr>

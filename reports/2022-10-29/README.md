@@ -17901,7 +17901,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chuck4Trump2020">Chuck4Trump2020</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1045382526829842433">1 other</a>)&nbsp;</td>
             <td>2018-09-27</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>2214</td>
         </tr>

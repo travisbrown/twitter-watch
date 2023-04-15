@@ -3496,7 +3496,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/kelli3545">kelli3545</a></td>
             <td>2019-11-19</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1838</td>
             <td>39628</td>

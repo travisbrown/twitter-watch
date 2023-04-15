@@ -232,7 +232,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/teaktreeturmoil">teaktreeturmoil</a></td>
             <td>2022-01-12</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>605</td>
             <td>3201</td>

@@ -373,7 +373,7 @@ Found 1729 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Svimasamdavala">Svimasamdavala</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/174207636">2 others</a>)&nbsp;</td>
             <td>2010-08-03</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1846</td>
         </tr>

@@ -2854,7 +2854,7 @@ Found 3112 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RaymondoGraham">RaymondoGraham</a></td>
             <td>2021-10-27</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>1198</td>
         </tr>

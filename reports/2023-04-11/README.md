@@ -64,7 +64,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JOEHUSSAINMAMA">JOEHUSSAINMAMA</a></td>
             <td>2021-10-17</td>
-            <td></td>
+            <td>2023-04-12</td>
             <td align="center"></td>
             <td>147</td>
             <td>13142</td>
@@ -1017,7 +1017,7 @@ Found 2523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StefanMller21">StefanMller21</a></td>
             <td>2022-07-26</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1351</td>
         </tr>

@@ -1379,7 +1379,7 @@ Found 4077 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cajunQueeen">cajunQueeen</a></td>
             <td>2009-06-23</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1672</td>
         </tr>

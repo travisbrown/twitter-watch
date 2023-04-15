@@ -1434,7 +1434,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/loafnw">loafnw</a></td>
             <td>2021-11-03</td>
-            <td></td>
+            <td>2023-04-13</td>
             <td align="center"></td>
             <td>1100</td>
         </tr>
