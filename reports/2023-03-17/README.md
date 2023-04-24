@@ -210,7 +210,7 @@ Found 1242 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_AnnaLauraTop">_AnnaLauraTop</a></td>
             <td>2021-03-11</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>12505</td>
         </tr>

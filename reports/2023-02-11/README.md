@@ -434,7 +434,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/papaSerafimki73">papaSerafimki73</a></td>
             <td>2022-06-20</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>1860</td>
         </tr>

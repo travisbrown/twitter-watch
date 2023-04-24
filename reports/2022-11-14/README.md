@@ -1885,7 +1885,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_ZACK_ZACK_ZACK">_ZACK_ZACK_ZACK</a></td>
             <td>2011-08-19</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>5609</td>
         </tr>

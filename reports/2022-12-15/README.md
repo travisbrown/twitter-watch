@@ -335,7 +335,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Yazmincristens">Yazmincristens</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/795641762">6 others</a>)&nbsp;</td>
             <td>2012-09-01</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center"></td>
             <td>281191</td>
         </tr>

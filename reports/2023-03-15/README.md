@@ -964,7 +964,7 @@ Found 1839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dickiejackie51">dickiejackie51</a></td>
             <td>2020-11-11</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>1004</td>
         </tr></table>

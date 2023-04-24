@@ -264,7 +264,7 @@ Found 1984 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CamusOverEasy">CamusOverEasy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/20843686">1 other</a>)&nbsp;</td>
             <td>2009-02-14</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>20212</td>
         </tr>

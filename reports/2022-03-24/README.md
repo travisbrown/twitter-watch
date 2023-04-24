@@ -1570,7 +1570,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/strjfak">strjfak</a></td>
             <td>2014-03-07</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center"></td>
             <td>1162</td>
         </tr>

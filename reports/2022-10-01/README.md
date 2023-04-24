@@ -984,7 +984,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RAWLIFE247">RAWLIFE247</a></td>
             <td>2012-05-25</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>36405</td>
         </tr>

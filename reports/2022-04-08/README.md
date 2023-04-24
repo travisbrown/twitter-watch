@@ -1881,7 +1881,7 @@ Found 620 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Klaskow3">Klaskow3</a></td>
             <td>2021-04-15</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>1002</td>
         </tr></table>

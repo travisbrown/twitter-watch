@@ -88,7 +88,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/zendercritical">zendercritical</a></td>
             <td>2022-06-14</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>1730</td>
             <td>14532</td>

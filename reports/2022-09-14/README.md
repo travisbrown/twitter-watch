@@ -466,7 +466,7 @@ Found 1591 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alnassar1973_">alnassar1973_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2287416195">8 others</a>)&nbsp;</td>
             <td>2014-01-17</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>517538</td>
         </tr>

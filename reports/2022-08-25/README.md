@@ -976,7 +976,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RJ_Luzetti">RJ_Luzetti</a></td>
             <td>2018-03-13</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>7108</td>
         </tr>
@@ -1086,7 +1086,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bbverssub">bbverssub</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1052977475523874816">1 other</a>)&nbsp;</td>
             <td>2018-10-18</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>5791</td>
         </tr>

@@ -403,7 +403,7 @@ Found 994 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CZ">CZ</a></td>
             <td>2007-03-02</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center">🔒</td>
             <td>5400</td>
         </tr>

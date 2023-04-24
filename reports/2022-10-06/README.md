@@ -1105,7 +1105,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bourdin_fred">bourdin_fred</a></td>
             <td>2022-05-10</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>7233</td>
         </tr>

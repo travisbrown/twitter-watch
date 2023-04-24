@@ -1770,7 +1770,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shyroma1">shyroma1</a></td>
             <td>2021-05-10</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>1185</td>
         </tr>

@@ -1363,7 +1363,7 @@ Found 925 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eurokrats">eurokrats</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/112724700">1 other</a>)&nbsp;</td>
             <td>2010-02-09</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>2964</td>
         </tr>

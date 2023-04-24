@@ -684,7 +684,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stevesnr50">stevesnr50</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4144410436">1 other</a>)&nbsp;</td>
             <td>2015-11-08</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>12901</td>
         </tr>
@@ -827,7 +827,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/noblebutts">noblebutts</a></td>
             <td>2011-08-31</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>7326</td>
         </tr>

@@ -592,7 +592,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yefanatics">yefanatics</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1733</td>
         </tr>

@@ -1694,7 +1694,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LZatYT">LZatYT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/39300243">3 others</a>)&nbsp;</td>
             <td>2009-05-11</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>5777</td>
         </tr>

@@ -921,7 +921,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/unlibUSA">unlibUSA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/35034578">1 other</a>)&nbsp;</td>
             <td>2009-04-24</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>12787</td>
         </tr>
@@ -1515,7 +1515,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MIGAchallenge">MIGAchallenge</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1021417598590865408">4 others</a>)&nbsp;</td>
             <td>2018-07-23</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>2063</td>
         </tr>

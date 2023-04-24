@@ -1073,7 +1073,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/beluzziapi">beluzziapi</a></td>
             <td>2014-06-14</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>4258</td>
         </tr>
@@ -1854,7 +1854,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OriginalAssh0le">OriginalAssh0le</a></td>
             <td>2018-04-08</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>1358</td>
         </tr>

@@ -869,7 +869,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MeghanMcCarthy_">MeghanMcCarthy_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/155973490">1 other</a>)&nbsp;</td>
             <td>2010-06-15</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>3240</td>
         </tr>

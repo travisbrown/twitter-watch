@@ -2350,7 +2350,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Vitor_Muniz">Vitor_Muniz</a></td>
             <td>2010-04-24</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1390</td>
         </tr>

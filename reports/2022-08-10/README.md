@@ -3289,7 +3289,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FNsNDracos">FNsNDracos</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1453657796637913088">1 other</a>)&nbsp;</td>
             <td>2021-10-28</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>1159</td>
         </tr>

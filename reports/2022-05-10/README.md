@@ -1100,7 +1100,7 @@ Found 1075 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nbahitler">nbahitler</a></td>
             <td>2022-01-23</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center">🔒</td>
             <td>1883</td>
         </tr>

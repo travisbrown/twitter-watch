@@ -1226,7 +1226,7 @@ Found 1487 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/epr0x">epr0x</a></td>
             <td>2021-03-21</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>1810</td>
         </tr>

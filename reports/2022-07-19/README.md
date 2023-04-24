@@ -935,7 +935,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Runner_2022">Runner_2022</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1210262790566502401">8 others</a>)&nbsp;</td>
             <td>2019-12-26</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center"></td>
             <td>7629</td>
         </tr>

@@ -349,7 +349,7 @@ Found 2957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnDavisJDLLM">JohnDavisJDLLM</a></td>
             <td>2014-05-12</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>12005</td>
         </tr>
@@ -404,7 +404,7 @@ Found 2957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/drcharlesss">drcharlesss</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2741133837">1 other</a>)&nbsp;</td>
             <td>2014-08-12</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center"></td>
             <td>6961</td>
         </tr>

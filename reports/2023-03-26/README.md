@@ -52,7 +52,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MILEHIGHVIEWS">MILEHIGHVIEWS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/59074474">2 others</a>)&nbsp;</td>
             <td>2009-07-22</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>442</td>
             <td>21478</td>

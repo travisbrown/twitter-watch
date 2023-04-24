@@ -1275,7 +1275,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MelFarnwalt">MelFarnwalt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1691480286">1 other</a>)&nbsp;</td>
             <td>2013-08-22</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1486</td>
         </tr>

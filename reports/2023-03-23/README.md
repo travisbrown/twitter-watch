@@ -28,7 +28,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PogFishPoster">PogFishPoster</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1266866229047971842">2 others</a>)&nbsp;</td>
             <td>2020-05-30</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>1280</td>
             <td>1930</td>
@@ -233,7 +233,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/raghadm48">raghadm48</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1049938150775242752">1 other</a>)&nbsp;</td>
             <td>2018-10-10</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center"></td>
             <td>17879</td>
         </tr>
@@ -849,7 +849,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wINdiGowEnDigo">wINdiGowEnDigo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1163348080336330757">1 other</a>)&nbsp;</td>
             <td>2019-08-19</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>1376</td>
         </tr>
@@ -860,7 +860,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BigAtlHawksFan">BigAtlHawksFan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1245071302140059650">2 others</a>)&nbsp;</td>
             <td>2020-03-31</td>
-            <td></td>
+            <td>2023-04-22</td>
             <td align="center"></td>
             <td>1320</td>
         </tr>

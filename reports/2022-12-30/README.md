@@ -789,7 +789,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SarkcessObed">SarkcessObed</a></td>
             <td>2019-05-27</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>4219</td>
         </tr>

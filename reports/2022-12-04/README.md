@@ -2204,7 +2204,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lamemeranro1">lamemeranro1</a></td>
             <td>2022-07-08</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>1091</td>
         </tr>

@@ -790,7 +790,7 @@ Found 1278 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JerryNeff11">JerryNeff11</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2713479871">1 other</a>)&nbsp;</td>
             <td>2014-08-07</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>19241</td>
         </tr>

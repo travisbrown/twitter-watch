@@ -386,7 +386,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PFTGym">PFTGym</a></td>
             <td>2022-01-19</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>8152</td>
         </tr>
@@ -518,7 +518,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bestcryptotoken">bestcryptotoken</a></td>
             <td>2021-11-23</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center"></td>
             <td>4544</td>
         </tr>
@@ -826,7 +826,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NaseerAjumawa">NaseerAjumawa</a></td>
             <td>2017-10-05</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>2106</td>
         </tr>
@@ -1266,7 +1266,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmirGondal08">AmirGondal08</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/897881466494955520">2 others</a>)&nbsp;</td>
             <td>2017-08-16</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>1085</td>
         </tr>

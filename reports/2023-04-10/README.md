@@ -311,7 +311,7 @@ Found 2102 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EarnAlliance">EarnAlliance</a></td>
             <td>2022-02-18</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>13652</td>
         </tr>

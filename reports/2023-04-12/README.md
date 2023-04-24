@@ -88,7 +88,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/shmingram">shmingram</a></td>
             <td>2020-03-19</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center">🔒</td>
             <td>41</td>
             <td>49865</td>
@@ -136,7 +136,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WaffelDixie">WaffelDixie</a></td>
             <td>2022-10-04</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>52</td>
             <td>81131</td>
@@ -236,7 +236,7 @@ Found 2617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Abbakar1030">Abbakar1030</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1203652143124819969">2 others</a>)&nbsp;</td>
             <td>2019-12-08</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>18502</td>
         </tr>
@@ -269,7 +269,7 @@ Found 2617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xponzischeme">0xponzischeme</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381233955647578114">1 other</a>)&nbsp;</td>
             <td>2021-04-11</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>11544</td>
         </tr>
@@ -412,7 +412,7 @@ Found 2617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/allgagathings">allgagathings</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/866779069911846912">6 others</a>)&nbsp;</td>
             <td>2017-05-22</td>
-            <td></td>
+            <td>2023-04-16</td>
             <td align="center"></td>
             <td>3800</td>
         </tr>
@@ -434,7 +434,7 @@ Found 2617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PeteEscalante3">PeteEscalante3</a></td>
             <td>2022-01-13</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>3527</td>
         </tr>

@@ -2538,7 +2538,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GustaBonoro">GustaBonoro</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1129934481853505536">4 others</a>)&nbsp;</td>
             <td>2019-05-19</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>1909</td>
         </tr>

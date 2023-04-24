@@ -143,7 +143,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FrenchSissy62">FrenchSissy62</a></td>
             <td>2021-01-30</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>142871</td>
         </tr>

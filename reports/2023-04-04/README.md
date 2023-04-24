@@ -177,7 +177,7 @@ Found 2875 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DetectiveDrip_">DetectiveDrip_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3408716145">17 others</a>)&nbsp;</td>
             <td>2015-08-08</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>59662</td>
         </tr>
@@ -474,7 +474,7 @@ Found 2875 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thamzkancube">thamzkancube</a></td>
             <td>2014-06-25</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>4831</td>
         </tr>

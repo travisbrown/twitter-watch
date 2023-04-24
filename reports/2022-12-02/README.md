@@ -256,7 +256,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CapitalPig1508">CapitalPig1508</a></td>
             <td>2020-08-28</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>670</td>
             <td>57863</td>

@@ -1667,7 +1667,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lidiavalenmani">Lidiavalenmani</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1537106522840367104">2 others</a>)&nbsp;</td>
             <td>2022-06-15</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>6894</td>
         </tr>

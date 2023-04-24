@@ -345,7 +345,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/somersetspur">somersetspur</a></td>
             <td>2010-11-05</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>3286</td>
         </tr>
@@ -466,7 +466,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/usnquwangi25">usnquwangi25</a></td>
             <td>2021-08-26</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>1622</td>
         </tr>

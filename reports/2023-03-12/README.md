@@ -525,7 +525,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/moneyfreedom00">moneyfreedom00</a></td>
             <td>2021-08-23</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>1095</td>
         </tr>

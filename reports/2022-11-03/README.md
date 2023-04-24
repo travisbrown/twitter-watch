@@ -1953,7 +1953,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZZPopa">ZZPopa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1535659455207047168">4 others</a>)&nbsp;</td>
             <td>2022-06-11</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>2217</td>
         </tr>

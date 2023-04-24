@@ -183,7 +183,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WomanTotalPower">WomanTotalPower</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4872000017">1 other</a>)&nbsp;</td>
             <td>2016-02-02</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>22752</td>
         </tr>
@@ -359,7 +359,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ABDLLHSYLART">ABDLLHSYLART</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1352589383292100608">1 other</a>)&nbsp;</td>
             <td>2021-01-22</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>5531</td>
         </tr>

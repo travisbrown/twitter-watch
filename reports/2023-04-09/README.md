@@ -188,7 +188,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nhlamulo_Mlabya">Nhlamulo_Mlabya</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/929204369526009856">6 others</a>)&nbsp;</td>
             <td>2017-11-11</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>37363</td>
         </tr>
@@ -221,7 +221,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/leelasik">leelasik</a></td>
             <td>2015-05-05</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>22234</td>
         </tr>
@@ -298,7 +298,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntonioSabatoJr">AntonioSabatoJr</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>10178</td>
         </tr>
@@ -870,7 +870,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FatHenForager">FatHenForager</a></td>
             <td>2009-11-12</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>1578</td>
         </tr>
@@ -969,7 +969,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EnglishGlen">EnglishGlen</a></td>
             <td>2012-02-15</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>1460</td>
         </tr>
@@ -1035,7 +1035,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/haydencehlich">haydencehlich</a></td>
             <td>2019-06-27</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center">🔒</td>
             <td>1353</td>
         </tr>
@@ -1222,7 +1222,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheDrummerLady1">TheDrummerLady1</a></td>
             <td>2009-12-18</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center">🔒</td>
             <td>1013</td>
         </tr>

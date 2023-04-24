@@ -320,7 +320,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/17thshard">17thshard</a></td>
             <td>2010-03-03</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>9955</td>
         </tr>
@@ -397,7 +397,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Oxbigwinabee151">Oxbigwinabee151</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/881144572289482754">12 others</a>)&nbsp;</td>
             <td>2017-07-01</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>7442</td>
         </tr>
@@ -441,7 +441,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/riskandgrace">riskandgrace</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1173990668802428928">2 others</a>)&nbsp;</td>
             <td>2019-09-17</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>5866</td>
         </tr>
@@ -518,7 +518,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AngloBeat">AngloBeat</a></td>
             <td>2014-01-30</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>2727</td>
         </tr>

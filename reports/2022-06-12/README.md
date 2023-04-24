@@ -1627,7 +1627,7 @@ Found 1532 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/freedom_element">freedom_element</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1401385484673175555">1 other</a>)&nbsp;</td>
             <td>2021-06-06</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>3036</td>
         </tr>

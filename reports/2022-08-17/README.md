@@ -1333,7 +1333,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bikofiles">Bikofiles</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1014507244858302464">1 other</a>)&nbsp;</td>
             <td>2018-07-04</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>4113</td>
         </tr>

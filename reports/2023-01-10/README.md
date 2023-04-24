@@ -397,7 +397,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hodl_CT">hodl_CT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/182383749">3 others</a>)&nbsp;</td>
             <td>2010-08-24</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>35966</td>
         </tr>

@@ -2513,7 +2513,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_alienwalker_">_alienwalker_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/185252158">4 others</a>)&nbsp;</td>
             <td>2010-08-31</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>2129</td>
         </tr>

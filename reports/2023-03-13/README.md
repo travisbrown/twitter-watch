@@ -380,7 +380,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ryanbishop715">Ryanbishop715</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1376539263022534657">1 other</a>)&nbsp;</td>
             <td>2021-03-29</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>3377</td>
         </tr>

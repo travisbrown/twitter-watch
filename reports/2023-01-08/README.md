@@ -40,7 +40,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RunTheBreakKman">RunTheBreakKman</a></td>
             <td>2017-11-17</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>416</td>
             <td>6750</td>

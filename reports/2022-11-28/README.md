@@ -1549,7 +1549,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/French_NAFOneer">French_NAFOneer</a></td>
             <td>2020-07-29</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>4248</td>
         </tr>

@@ -64,7 +64,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Emilio2763">Emilio2763</a></td>
             <td>2021-05-30</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>5980</td>
             <td>57066</td>
@@ -395,7 +395,7 @@ Found 2317 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/leo_kell">leo_kell</a></td>
             <td>2011-08-12</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>4382</td>
         </tr>
@@ -549,7 +549,7 @@ Found 2317 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gopal_bharvad">gopal_bharvad</a></td>
             <td>2009-12-29</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>3148</td>
         </tr>

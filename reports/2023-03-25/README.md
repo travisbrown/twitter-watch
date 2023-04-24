@@ -211,7 +211,7 @@ Found 1999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JustinTrudeauNo">JustinTrudeauNo</a></td>
             <td>2022-05-15</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>13595</td>
         </tr>
@@ -794,7 +794,7 @@ Found 1999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KaiGalang10">KaiGalang10</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>1291</td>
         </tr>

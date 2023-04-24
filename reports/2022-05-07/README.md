@@ -28,7 +28,7 @@ Found 2 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FrenBarbarian">FrenBarbarian</a></td>
             <td>2021-11-11</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>2566</td>
             <td>1867</td>

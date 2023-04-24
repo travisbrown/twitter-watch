@@ -1488,7 +1488,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rmltpie">rmltpie</a></td>
             <td>2014-11-11</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>2317</td>
         </tr>
@@ -2115,7 +2115,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/purebloodzrule">purebloodzrule</a></td>
             <td>2022-01-10</td>
-            <td></td>
+            <td>2023-04-17</td>
             <td align="center"></td>
             <td>1332</td>
         </tr>

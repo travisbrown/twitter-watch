@@ -1150,7 +1150,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PARADEDRIVER">PARADEDRIVER</a></td>
             <td>2016-06-28</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>1646</td>
         </tr>

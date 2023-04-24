@@ -1074,7 +1074,7 @@ Found 1902 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lina_098765">lina_098765</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2258098365">4 others</a>)&nbsp;</td>
             <td>2014-01-02</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1377</td>
         </tr>

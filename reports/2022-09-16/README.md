@@ -917,7 +917,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Norah_Nova">Norah_Nova</a></td>
             <td>2014-06-22</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>39023</td>
         </tr>
@@ -2259,7 +2259,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheusIxion">TheusIxion</a></td>
             <td>2018-04-19</td>
-            <td></td>
+            <td>2023-04-18</td>
             <td align="center"></td>
             <td>1479</td>
         </tr>
@@ -2336,7 +2336,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Almightytrav13">Almightytrav13</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/826000495">1 other</a>)&nbsp;</td>
             <td>2012-09-15</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>1386</td>
         </tr>

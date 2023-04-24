@@ -32,15 +32,15 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 686676
-* Total number of suspension reversals detected: 56158
-* Mean number of followers for suspended accounts: 1165.35
+* Total number of suspensions detected: 700689
+* Total number of suspension reversals detected: 57295
+* Mean number of followers for suspended accounts: 1149.26
 * Median number of followers for suspended accounts: 37.0
-* Mean age of suspended accounts (days): 1192.63
-* Median age of suspended accounts (days): 402.0
-* Total number of verified accounts suspended: 220
-* Total number of protected accounts suspended: 45508
-* Total number of suspensions for accounts previously withheld in specific countries: 54
+* Mean age of suspended accounts (days): 1210.18
+* Median age of suspended accounts (days): 420.0
+* Total number of verified accounts suspended: 231
+* Total number of protected accounts suspended: 47677
+* Total number of suspensions for accounts previously withheld in specific countries: 55
 * Total number of screen name changes detected: 966283
 
 
@@ -158,6 +158,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>248</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1263061223341506560">
+                <img src="https://pbs.twimg.com/profile_images/1319698929248862209/gFPGWxjV_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/WargarW">WargarW</a></td>
+            <td>2020-05-20</td>
+            <td>2023-04-20</td>
+            <td>40447</td>
+            <td>250</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1517696955329228800">
                 <img src="https://pbs.twimg.com/profile_images/1517699728103948290/40DUxD4t_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -266,17 +277,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-04-04</td>
             <td>43511</td>
             <td>355</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1107696766344933376">
-                <img src="https://pbs.twimg.com/profile_images/1495149701959671815/p_lv9nfF_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/TeresaFreeThink">TeresaFreeThink</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1107696766344933376">1 other</a>)&nbsp;</td>
-            <td>2019-03-18</td>
-            <td>2022-09-21</td>
-            <td>34468</td>
-            <td>371</td>
         </tr></table>
 
 ## Daily reports
@@ -288,6 +288,78 @@ Current list of suspensions of accounts most central to far-right networks since
         <th align="left">Tracked suspensions</th>
         <th align="left">Tracked screen name changes</th>
     </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-24/">24 April 2023</a>
+            </td>
+            <td>2488</td>
+            <td>1</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-23/">23 April 2023</a>
+            </td>
+            <td>5962</td>
+            <td>8</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-22/">22 April 2023</a>
+            </td>
+            <td>2204</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-21/">21 April 2023</a>
+            </td>
+            <td>6807</td>
+            <td>7</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-20/">20 April 2023</a>
+            </td>
+            <td>7739</td>
+            <td>10</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-19/">19 April 2023</a>
+            </td>
+            <td>4829</td>
+            <td>15</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-18/">18 April 2023</a>
+            </td>
+            <td>9500</td>
+            <td>14</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-17/">17 April 2023</a>
+            </td>
+            <td>4618</td>
+            <td>3</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-04-16/">16 April 2023</a>
+            </td>
+            <td>4177</td>
+            <td>8</td>
+            <td>0</td>
+        </tr>
         <tr>
             <td>
                 <a href="reports/2023-04-15/">15 April 2023</a>

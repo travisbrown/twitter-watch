@@ -1341,7 +1341,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bronsons_Way">Bronsons_Way</a></td>
             <td>2021-11-22</td>
-            <td></td>
+            <td>2023-04-15</td>
             <td align="center"></td>
             <td>2664</td>
         </tr>

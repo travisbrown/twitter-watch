@@ -2298,7 +2298,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MindofaWomanist">MindofaWomanist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1433826314817921025">5 others</a>)&nbsp;</td>
             <td>2021-09-03</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>1405</td>
         </tr>

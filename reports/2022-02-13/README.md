@@ -76,7 +76,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SirDMTPhD">SirDMTPhD</a></td>
             <td>2009-06-10</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>958</td>
             <td>2270</td>
@@ -5791,7 +5791,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tim_Ludwig">Tim_Ludwig</a></td>
             <td>2009-03-27</td>
-            <td></td>
+            <td>2023-04-21</td>
             <td align="center"></td>
             <td>1919</td>
         </tr>

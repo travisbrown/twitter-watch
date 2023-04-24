@@ -164,7 +164,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nadia_cherryS2">Nadia_cherryS2</a></td>
             <td>2022-04-06</td>
-            <td></td>
+            <td>2023-04-19</td>
             <td align="center"></td>
             <td>53136</td>
         </tr>

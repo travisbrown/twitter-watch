@@ -1161,7 +1161,7 @@ Found 709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LogicalLonnie">LogicalLonnie</a></td>
             <td>2021-03-06</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>1489</td>
         </tr>

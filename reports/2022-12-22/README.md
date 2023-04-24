@@ -40,7 +40,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/rufusbrant">rufusbrant</a></td>
             <td>2022-06-16</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>176</td>
             <td>3541</td>
@@ -875,7 +875,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fast_eth">Fast_eth</a></td>
             <td>2022-02-05</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>2929</td>
         </tr>
@@ -1172,7 +1172,7 @@ Found 4302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bebekchita">bebekchita</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1353223622098182144">8 others</a>)&nbsp;</td>
             <td>2021-01-24</td>
-            <td></td>
+            <td>2023-04-20</td>
             <td align="center"></td>
             <td>2055</td>
         </tr>

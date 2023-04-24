@@ -1580,7 +1580,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Big_crusher1000">Big_crusher1000</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/779262744944119809">1 other</a>)&nbsp;</td>
             <td>2016-09-23</td>
-            <td></td>
+            <td>2023-04-14</td>
             <td align="center"></td>
             <td>4489</td>
         </tr>

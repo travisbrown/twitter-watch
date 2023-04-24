@@ -923,7 +923,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Coreykispertfan">Coreykispertfan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1286496932232343556">3 others</a>)&nbsp;</td>
             <td>2020-07-24</td>
-            <td></td>
+            <td>2023-04-22</td>
             <td align="center"></td>
             <td>1497</td>
         </tr>
