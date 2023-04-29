@@ -953,7 +953,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealKSridharan">RealKSridharan</a></td>
             <td>2017-03-07</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>2780</td>
         </tr>

@@ -2212,7 +2212,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BigCreedFren">BigCreedFren</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1470498987547447300">1 other</a>)&nbsp;</td>
             <td>2021-12-13</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>141</td>
             <td>28040</td>

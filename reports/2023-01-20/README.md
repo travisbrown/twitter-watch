@@ -974,7 +974,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FromSpace3D">FromSpace3D</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1393453257675132935">2 others</a>)&nbsp;</td>
             <td>2021-05-15</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>3012</td>
         </tr>
@@ -1282,7 +1282,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xEviso">0xEviso</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1181863570830548994">1 other</a>)&nbsp;</td>
             <td>2019-10-09</td>
-            <td></td>
+            <td>2023-04-26</td>
             <td align="center"></td>
             <td>1971</td>
         </tr>

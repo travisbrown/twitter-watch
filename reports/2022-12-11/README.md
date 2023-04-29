@@ -866,7 +866,7 @@ Found 1696 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Muhd_Augie">Muhd_Augie</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2556443389">1 other</a>)&nbsp;</td>
             <td>2014-06-09</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>2681</td>
         </tr>

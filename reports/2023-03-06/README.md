@@ -339,7 +339,7 @@ Found 636 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlvislandeRei">AlvislandeRei</a></td>
             <td>2015-10-30</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>3696</td>
         </tr>

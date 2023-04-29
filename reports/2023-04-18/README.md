@@ -184,7 +184,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/angrywetkitty">angrywetkitty</a></td>
             <td>2009-05-05</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>45</td>
             <td>88946</td>
@@ -568,7 +568,7 @@ Found 2246 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/deyoung_jack">deyoung_jack</a></td>
             <td>2022-04-08</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>4318</td>
         </tr>
@@ -920,7 +920,7 @@ Found 2246 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Goingbr0ke">Goingbr0ke</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2598497383">1 other</a>)&nbsp;</td>
             <td>2014-07-01</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1683</td>
         </tr>
@@ -997,7 +997,7 @@ Found 2246 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iBeingAli_Pasha">iBeingAli_Pasha</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1273357211914268672">5 others</a>)&nbsp;</td>
             <td>2020-06-17</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1444</td>
         </tr>
@@ -1008,7 +1008,7 @@ Found 2246 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/liberehaiti">liberehaiti</a></td>
             <td>2014-07-14</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1412</td>
         </tr>
@@ -1085,7 +1085,7 @@ Found 2246 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hideandseekrory">hideandseekrory</a></td>
             <td>2010-12-22</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1276</td>
         </tr>

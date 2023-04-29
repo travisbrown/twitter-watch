@@ -1171,7 +1171,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GeorgeeWBushh">GeorgeeWBushh</a></td>
             <td>2022-03-12</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>4278</td>
         </tr>

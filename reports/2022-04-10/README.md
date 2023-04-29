@@ -1179,7 +1179,7 @@ Found 746 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CtrlAltDel_USA">CtrlAltDel_USA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/787519106891259904">1 other</a>)&nbsp;</td>
             <td>2016-10-16</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>1807</td>
         </tr>

@@ -799,7 +799,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NickBuckleyMBE">NickBuckleyMBE</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/951222365878353922">1 other</a>)&nbsp;</td>
             <td>2018-01-10</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>19571</td>
         </tr>

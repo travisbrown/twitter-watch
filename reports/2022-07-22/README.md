@@ -1675,7 +1675,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ryan_ramshaw">ryan_ramshaw</a></td>
             <td>2016-08-22</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>4930</td>
         </tr>

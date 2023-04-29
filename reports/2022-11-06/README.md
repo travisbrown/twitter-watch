@@ -1816,7 +1816,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheKthatisUltra">TheKthatisUltra</a></td>
             <td>2022-07-19</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>329</td>
             <td>22134</td>
@@ -2200,7 +2200,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JackHwite">JackHwite</a></td>
             <td>2018-10-11</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>1226</td>
             <td>34710</td>

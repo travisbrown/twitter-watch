@@ -550,7 +550,7 @@ Found 1475 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HiVisDaddy">HiVisDaddy</a></td>
             <td>2020-09-03</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>16319</td>
         </tr>

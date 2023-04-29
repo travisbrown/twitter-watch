@@ -518,7 +518,7 @@ Found 3674 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tdayiswin">tdayiswin</a></td>
             <td>2022-06-22</td>
-            <td></td>
+            <td>2023-04-26</td>
             <td align="center"></td>
             <td>3407</td>
         </tr>

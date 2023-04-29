@@ -803,7 +803,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kordcross">kordcross</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2791614036">1 other</a>)&nbsp;</td>
             <td>2014-09-05</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>1890</td>
         </tr>

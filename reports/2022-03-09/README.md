@@ -760,7 +760,7 @@ Found 772 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vigolar">vigolar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/85405988">7 others</a>)&nbsp;</td>
             <td>2009-10-26</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>1322327</td>
         </tr>

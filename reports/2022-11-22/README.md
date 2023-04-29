@@ -52,7 +52,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/3ScotchEggs">3ScotchEggs</a></td>
             <td>2022-06-25</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>2280</td>
             <td>1925</td>

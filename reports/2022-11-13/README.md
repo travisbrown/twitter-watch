@@ -148,7 +148,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Kodie2038Donna">Kodie2038Donna</a></td>
             <td>2016-02-28</td>
-            <td></td>
+            <td>2023-04-23</td>
             <td align="center"></td>
             <td>4398</td>
             <td>91787</td>
@@ -1347,7 +1347,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ZiedeCM">ZiedeCM</a></td>
             <td>2009-08-24</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>1203</td>
         </tr>

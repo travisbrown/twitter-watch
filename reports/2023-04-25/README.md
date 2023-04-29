@@ -205,7 +205,7 @@ Found 1089 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TousAvecZemmour">TousAvecZemmour</a></td>
             <td>2021-12-26</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>15563</td>
         </tr>
@@ -513,7 +513,7 @@ Found 1089 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RobertD38259050">RobertD38259050</a></td>
             <td>2021-08-02</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1683</td>
         </tr>

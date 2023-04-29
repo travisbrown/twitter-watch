@@ -960,7 +960,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OsmarSantos_18">OsmarSantos_18</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/446871213">1 other</a>)&nbsp;</td>
             <td>2011-12-26</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>7264</td>
         </tr>

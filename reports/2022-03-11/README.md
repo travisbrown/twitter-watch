@@ -1061,7 +1061,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rabbit_rascally">rabbit_rascally</a></td>
             <td>2020-05-26</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>4209</td>
         </tr>

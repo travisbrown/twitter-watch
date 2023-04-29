@@ -799,7 +799,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreeGeneraxion">FreeGeneraxion</a></td>
             <td>2017-10-21</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>7238</td>
         </tr>

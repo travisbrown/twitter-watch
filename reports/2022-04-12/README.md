@@ -40,7 +40,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CannotHaveSex">CannotHaveSex</a></td>
             <td>2021-03-01</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>9582</td>
             <td>851</td>

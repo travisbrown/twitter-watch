@@ -214,7 +214,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Coopsgreenteam">Coopsgreenteam</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/257294613">2 others</a>)&nbsp;</td>
             <td>2011-02-25</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>56336</td>
         </tr>
@@ -1160,7 +1160,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gerard39delaney">Gerard39delaney</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/61740137">2 others</a>)&nbsp;</td>
             <td>2009-07-31</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>12886</td>
         </tr>
@@ -2854,7 +2854,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/77BlueJays">77BlueJays</a></td>
             <td>2011-05-12</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>4125</td>
         </tr>

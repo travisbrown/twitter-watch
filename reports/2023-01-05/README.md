@@ -88,7 +88,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NotAskedOrGiven">NotAskedOrGiven</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1134545476546715648">1 other</a>)&nbsp;</td>
             <td>2019-05-31</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>951</td>
             <td>23732</td>

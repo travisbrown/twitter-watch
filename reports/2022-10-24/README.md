@@ -124,7 +124,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheEmojiMan4">TheEmojiMan4</a></td>
             <td>2021-07-03</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>653</td>
             <td>58384</td>
@@ -851,7 +851,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xoxo_madison_m">xoxo_madison_m</a></td>
             <td>2017-06-23</td>
-            <td></td>
+            <td>2023-04-26</td>
             <td align="center"></td>
             <td>26708</td>
         </tr>
@@ -895,7 +895,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GuacamayanLeaks">GuacamayanLeaks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1498379159797645312">10 others</a>)&nbsp;</td>
             <td>2022-02-28</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>15859</td>
         </tr>

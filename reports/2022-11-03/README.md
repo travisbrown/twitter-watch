@@ -352,7 +352,7 @@ Found 60 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JoshuaD51522004">JoshuaD51522004</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>249</td>
             <td>28724</td>
@@ -1689,7 +1689,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Women4Wes">Women4Wes</a></td>
             <td>2022-02-03</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>3770</td>
         </tr>

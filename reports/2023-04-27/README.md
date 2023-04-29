@@ -397,7 +397,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/copperpeony">copperpeony</a></td>
             <td>2009-01-30</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>3259</td>
         </tr>

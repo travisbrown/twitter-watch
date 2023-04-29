@@ -3268,7 +3268,7 @@ Found 2361 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/marcellonavarro">marcellonavarro</a></td>
             <td>2009-07-10</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>1385</td>
         </tr>

@@ -3292,7 +3292,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/fakeclarkgable">fakeclarkgable</a></td>
             <td>2017-04-23</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>19</td>
             <td>34373</td>
@@ -3904,7 +3904,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/thesbgreport">thesbgreport</a></td>
             <td>2021-12-02</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>88</td>
             <td>51052</td>

@@ -521,7 +521,7 @@ Found 690 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheSolanaBoss">TheSolanaBoss</a></td>
             <td>2021-09-16</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>119447</td>
         </tr>

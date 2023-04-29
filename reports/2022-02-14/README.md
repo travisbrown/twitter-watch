@@ -497,7 +497,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Bianca09051997">Bianca09051997</a></td>
             <td>2016-11-16</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>12941</td>
         </tr>

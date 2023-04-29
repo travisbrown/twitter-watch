@@ -819,7 +819,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sugar_Tits_Bear">Sugar_Tits_Bear</a></td>
             <td>2016-02-11</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>46950</td>
         </tr>

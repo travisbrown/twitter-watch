@@ -485,7 +485,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarcioSalgues">MarcioSalgues</a></td>
             <td>2018-11-08</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>6582</td>
         </tr>

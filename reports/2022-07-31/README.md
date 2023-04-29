@@ -1230,7 +1230,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/smoogumin">smoogumin</a></td>
             <td>2021-04-29</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>3020</td>
         </tr>

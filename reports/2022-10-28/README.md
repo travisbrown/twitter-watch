@@ -1835,7 +1835,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mal_Flexutaro">Mal_Flexutaro</a></td>
             <td>2022-07-31</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>7566</td>
         </tr>

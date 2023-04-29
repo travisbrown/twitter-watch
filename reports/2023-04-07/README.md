@@ -144,7 +144,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jnkloops">jnkloops</a></td>
             <td>2017-09-17</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>311225</td>
         </tr>
@@ -210,7 +210,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mmd_000">mmd_000</a></td>
             <td>2018-12-03</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>25295</td>
         </tr>
@@ -265,7 +265,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeffreycruzly">jeffreycruzly</a></td>
             <td>2022-06-14</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>12197</td>
         </tr>
@@ -804,7 +804,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ericdupin">ericdupin</a></td>
             <td>2007-06-06</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1435</td>
         </tr>
@@ -815,7 +815,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/purplehatcyu">purplehatcyu</a></td>
             <td>2019-04-23</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1421</td>
         </tr>
@@ -881,7 +881,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/revurx">revurx</a></td>
             <td>2022-04-08</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1302</td>
         </tr>
@@ -925,7 +925,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vvotage">vvotage</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1106885410158854144">2 others</a>)&nbsp;</td>
             <td>2019-03-16</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1169</td>
         </tr>
@@ -1057,7 +1057,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/oatpasta">oatpasta</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1198983011733102592">3 others</a>)&nbsp;</td>
             <td>2019-11-25</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1039</td>
         </tr>

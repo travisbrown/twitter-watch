@@ -1817,7 +1817,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KobeBasedAF">KobeBasedAF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/992337506">1 other</a>)&nbsp;</td>
             <td>2012-12-06</td>
-            <td></td>
+            <td>2023-04-26</td>
             <td align="center"></td>
             <td>1742</td>
         </tr>

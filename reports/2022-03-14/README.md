@@ -1664,7 +1664,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KatieAn39048076">KatieAn39048076</a></td>
             <td>2021-09-29</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>1024</td>
         </tr>

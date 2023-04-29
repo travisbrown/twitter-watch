@@ -1332,7 +1332,7 @@ Found 817 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NESARA__GESARA">NESARA__GESARA</a></td>
             <td>2021-01-20</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>3245</td>
         </tr>

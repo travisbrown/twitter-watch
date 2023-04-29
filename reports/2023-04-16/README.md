@@ -364,7 +364,7 @@ Found 889 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xuediaoqiangguo">xuediaoqiangguo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/863648286611255297">1 other</a>)&nbsp;</td>
             <td>2017-05-14</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>4363</td>
         </tr>

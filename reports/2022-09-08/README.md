@@ -399,7 +399,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OfficialMiax">OfficialMiax</a></td>
             <td>2016-08-26</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>67240</td>
         </tr>
@@ -421,7 +421,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Minivampir">Minivampir</a></td>
             <td>2021-01-12</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>47915</td>
         </tr>

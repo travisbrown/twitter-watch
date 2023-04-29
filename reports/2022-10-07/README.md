@@ -940,7 +940,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brasuca2099">brasuca2099</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1265365301119647746">1 other</a>)&nbsp;</td>
             <td>2020-05-26</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>6842</td>
         </tr>

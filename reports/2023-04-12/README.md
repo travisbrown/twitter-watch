@@ -841,7 +841,7 @@ Found 2617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NativeIndianA">NativeIndianA</a></td>
             <td>2014-12-21</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1367</td>
         </tr>
@@ -874,7 +874,7 @@ Found 2617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoryArmbrecht">CoryArmbrecht</a></td>
             <td>2008-08-25</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>1254</td>
         </tr>

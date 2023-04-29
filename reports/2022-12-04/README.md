@@ -1038,7 +1038,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tvtc_m_dammam">tvtc_m_dammam</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/931266582">1 other</a>)&nbsp;</td>
             <td>2012-11-07</td>
-            <td></td>
+            <td>2023-04-22</td>
             <td align="center"></td>
             <td>3839</td>
         </tr>

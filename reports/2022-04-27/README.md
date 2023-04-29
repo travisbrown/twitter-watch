@@ -2891,7 +2891,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/violanteofnaxos">violanteofnaxos</a></td>
             <td>2017-07-27</td>
-            <td></td>
+            <td>2023-04-23</td>
             <td align="center"></td>
             <td>1372</td>
         </tr>

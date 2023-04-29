@@ -917,7 +917,7 @@ Found 601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GerardDelaney39">GerardDelaney39</a></td>
             <td>2021-09-23</td>
-            <td></td>
+            <td>2023-04-23</td>
             <td align="center"></td>
             <td>8169</td>
         </tr>

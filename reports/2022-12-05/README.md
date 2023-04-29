@@ -364,7 +364,7 @@ Found 41 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MsFreedomwatch">MsFreedomwatch</a></td>
             <td>2011-04-19</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>1104</td>
             <td>76861</td>

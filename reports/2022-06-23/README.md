@@ -578,7 +578,7 @@ Found 1499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DANIELFACESKEN">DANIELFACESKEN</a></td>
             <td>2012-08-17</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>3597</td>
         </tr>
@@ -1326,7 +1326,7 @@ Found 1499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SueSensus">SueSensus</a></td>
             <td>2016-04-19</td>
-            <td></td>
+            <td>2023-04-23</td>
             <td align="center"></td>
             <td>1343</td>
         </tr>

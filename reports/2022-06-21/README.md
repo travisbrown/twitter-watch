@@ -855,7 +855,7 @@ Found 824 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/urbubblebuddy">urbubblebuddy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2869137792">1 other</a>)&nbsp;</td>
             <td>2014-10-21</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>1480</td>
         </tr>

@@ -488,7 +488,7 @@ Found 4077 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DLgodlessbitch">DLgodlessbitch</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/897435979514081281">1 other</a>)&nbsp;</td>
             <td>2017-08-15</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>7282</td>
         </tr>

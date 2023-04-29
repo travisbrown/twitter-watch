@@ -692,7 +692,7 @@ Found 568 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jewtastic">Jewtastic</a></td>
             <td>2010-11-14</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>11686</td>
         </tr>

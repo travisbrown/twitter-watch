@@ -745,7 +745,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoseCastroVaca1">JoseCastroVaca1</a></td>
             <td>2017-09-13</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>9157</td>
         </tr>

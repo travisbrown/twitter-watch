@@ -112,7 +112,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/itsgiving5000">itsgiving5000</a></td>
             <td>2022-09-22</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>150</td>
             <td>22132</td>
@@ -1732,7 +1732,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cmlepsom">cmlepsom</a></td>
             <td>2013-10-14</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>2059</td>
         </tr>

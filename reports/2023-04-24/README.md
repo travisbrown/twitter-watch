@@ -144,7 +144,7 @@ Found 1384 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wangzhian8848">wangzhian8848</a></td>
             <td>2018-12-10</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>607248</td>
         </tr>
@@ -353,7 +353,7 @@ Found 1384 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntonioSabatoJr">AntonioSabatoJr</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>10178</td>
         </tr>
@@ -463,7 +463,7 @@ Found 1384 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeremythunder">jeremythunder</a></td>
             <td>2009-05-17</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>4283</td>
         </tr>
@@ -628,7 +628,7 @@ Found 1384 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/laghfiry">laghfiry</a></td>
             <td>2020-07-26</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>2314</td>
         </tr>

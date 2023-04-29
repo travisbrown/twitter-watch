@@ -40,7 +40,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/basedusmoment">basedusmoment</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518855992712351744">3 others</a>)&nbsp;</td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>17596</td>
             <td>613</td>

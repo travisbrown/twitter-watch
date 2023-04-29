@@ -172,7 +172,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/joebhoy1971">joebhoy1971</a></td>
             <td>2010-11-27</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>1070</td>
             <td>84382</td>

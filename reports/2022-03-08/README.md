@@ -848,7 +848,7 @@ Found 480 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Karl_Laulerbach">Karl_Laulerbach</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1350992898259636227">16 others</a>)&nbsp;</td>
             <td>2021-01-18</td>
-            <td></td>
+            <td>2023-04-23</td>
             <td align="center"></td>
             <td>4611</td>
         </tr>

@@ -2977,7 +2977,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alchemywizzard">Alchemywizzard</a></td>
             <td>2016-04-11</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>1128</td>
         </tr>

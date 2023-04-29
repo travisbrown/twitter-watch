@@ -208,7 +208,7 @@ Found 23 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Rozner11">Rozner11</a></td>
             <td>2019-07-19</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>1047</td>
             <td>40623</td>

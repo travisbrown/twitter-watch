@@ -744,7 +744,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yunglee78">yunglee78</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1257587324763979776">1 other</a>)&nbsp;</td>
             <td>2020-05-05</td>
-            <td></td>
+            <td>2023-04-26</td>
             <td align="center"></td>
             <td>2612</td>
         </tr>

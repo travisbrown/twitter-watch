@@ -1621,7 +1621,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stevelanebitch">stevelanebitch</a></td>
             <td>2014-01-17</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>5615</td>
         </tr>
@@ -2468,7 +2468,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/betynab22">betynab22</a></td>
             <td>2022-04-20</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>2441</td>
         </tr>

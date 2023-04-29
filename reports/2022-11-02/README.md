@@ -1415,7 +1415,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheStormRedux">TheStormRedux</a></td>
             <td>2022-10-28</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>8809</td>
         </tr>
@@ -2372,7 +2372,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/72_rededge">72_rededge</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4013179219">1 other</a>)&nbsp;</td>
             <td>2015-10-25</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>1473</td>
         </tr>

@@ -780,7 +780,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/casajuntoalrio">casajuntoalrio</a></td>
             <td>2021-11-19</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>5383</td>
         </tr>
@@ -1594,7 +1594,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jhashyam">jhashyam</a></td>
             <td>2009-11-25</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>1940</td>
         </tr>

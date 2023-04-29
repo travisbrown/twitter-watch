@@ -558,7 +558,7 @@ Found 2229 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zazami_D">zazami_D</a></td>
             <td>2013-08-30</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>23233</td>
         </tr>

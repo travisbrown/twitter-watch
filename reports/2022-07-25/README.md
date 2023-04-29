@@ -2339,7 +2339,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jumbotron74">jumbotron74</a></td>
             <td>2014-11-08</td>
-            <td></td>
+            <td>2023-04-23</td>
             <td align="center"></td>
             <td>2107</td>
         </tr>

@@ -538,7 +538,7 @@ Found 1729 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FortniteFactsfr">FortniteFactsfr</a></td>
             <td>2021-04-22</td>
-            <td></td>
+            <td>2023-04-22</td>
             <td align="center"></td>
             <td>1084</td>
         </tr>

@@ -434,7 +434,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LacarbonaRudy">LacarbonaRudy</a></td>
             <td>2022-01-10</td>
-            <td></td>
+            <td>2023-04-27</td>
             <td align="center"></td>
             <td>4677</td>
         </tr>
@@ -1127,7 +1127,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OtavioBedinelli">OtavioBedinelli</a></td>
             <td>2010-09-20</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>1009</td>
         </tr>

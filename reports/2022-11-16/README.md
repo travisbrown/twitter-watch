@@ -52,7 +52,7 @@ Found 24 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/g_deceiver">g_deceiver</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1049454721696714752">1 other</a>)&nbsp;</td>
             <td>2018-10-09</td>
-            <td></td>
+            <td>2023-04-25</td>
             <td align="center"></td>
             <td>246</td>
             <td>10836</td>

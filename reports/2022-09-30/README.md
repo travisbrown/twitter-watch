@@ -944,7 +944,7 @@ Found 1564 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Word_Massager">Word_Massager</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1624121300">1 other</a>)&nbsp;</td>
             <td>2013-07-26</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>2924</td>
         </tr>

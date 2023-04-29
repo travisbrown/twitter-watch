@@ -658,7 +658,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JodyBlaney">JodyBlaney</a></td>
             <td>2016-10-10</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>2198</td>
         </tr>
@@ -691,7 +691,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rktofficial_">rktofficial_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/995715116862586880">1 other</a>)&nbsp;</td>
             <td>2018-05-13</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>2148</td>
         </tr>

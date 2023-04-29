@@ -934,7 +934,7 @@ Found 2317 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/indianyogi">indianyogi</a></td>
             <td>2009-06-04</td>
-            <td></td>
+            <td>2023-04-24</td>
             <td align="center"></td>
             <td>1381</td>
         </tr>
