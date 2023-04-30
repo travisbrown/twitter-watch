@@ -347,7 +347,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrPa_Johnson">MrPa_Johnson</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/447757907">1 other</a>)&nbsp;</td>
             <td>2011-12-27</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>3377</td>
         </tr>

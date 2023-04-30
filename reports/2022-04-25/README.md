@@ -3801,7 +3801,7 @@ Found 939 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Roll_TideRoll">Roll_TideRoll</a></td>
             <td>2021-08-24</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1447</td>
         </tr>

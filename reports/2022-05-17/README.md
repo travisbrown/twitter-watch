@@ -1242,7 +1242,7 @@ Found 605 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Inglorious_v1C">Inglorious_v1C</a></td>
             <td>2011-02-14</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1196</td>
         </tr>

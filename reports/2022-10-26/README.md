@@ -2242,7 +2242,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vanessafonfig">vanessafonfig</a></td>
             <td>2010-06-24</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>1254</td>
         </tr>

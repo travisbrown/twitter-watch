@@ -2677,7 +2677,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brucehallsports">brucehallsports</a></td>
             <td>2011-07-05</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>2155</td>
         </tr>

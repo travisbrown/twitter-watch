@@ -1577,7 +1577,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatriotForeve11">PatriotForeve11</a></td>
             <td>2020-05-03</td>
-            <td></td>
+            <td>2023-04-28</td>
             <td align="center"></td>
             <td>1919</td>
         </tr>
