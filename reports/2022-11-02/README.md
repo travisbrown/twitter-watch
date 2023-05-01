@@ -1239,7 +1239,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/latinbeauty_1">latinbeauty_1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/968743457681440768">1 other</a>)&nbsp;</td>
             <td>2018-02-28</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>216298</td>
         </tr>

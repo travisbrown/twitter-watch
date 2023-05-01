@@ -40,7 +40,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/IAmAshAsh1">IAmAshAsh1</a></td>
             <td>2022-01-27</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>5462</td>
             <td>1156</td>

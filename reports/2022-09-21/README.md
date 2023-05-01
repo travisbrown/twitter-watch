@@ -3404,7 +3404,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TittySommelier">TittySommelier</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1486080976086343687">1 other</a>)&nbsp;</td>
             <td>2022-01-25</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>1858</td>
         </tr>

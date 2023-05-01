@@ -561,7 +561,7 @@ Found 5996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VerneFUNquist">VerneFUNquist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/143914975">4 others</a>)&nbsp;</td>
             <td>2010-05-14</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>7807</td>
         </tr>

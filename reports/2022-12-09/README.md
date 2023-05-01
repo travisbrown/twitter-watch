@@ -547,7 +547,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cptjoz">cptjoz</a></td>
             <td>2021-07-13</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>16939</td>
         </tr>

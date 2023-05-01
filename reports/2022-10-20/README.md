@@ -6808,7 +6808,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SallyTallywaggs">SallyTallywaggs</a></td>
             <td>2021-11-02</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>1174</td>
         </tr>

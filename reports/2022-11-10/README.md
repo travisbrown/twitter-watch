@@ -256,7 +256,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/gunzplay223">gunzplay223</a></td>
             <td>2022-05-13</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>240</td>
             <td>61406</td>

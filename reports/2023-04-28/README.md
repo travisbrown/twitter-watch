@@ -242,7 +242,7 @@ Found 830 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GabrielShipton">GabrielShipton</a></td>
             <td>2011-11-18</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>9845</td>
         </tr>

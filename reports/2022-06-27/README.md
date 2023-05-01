@@ -1294,7 +1294,7 @@ Found 749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SneakytheSnake">SneakytheSnake</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/804128171650072577">1 other</a>)&nbsp;</td>
             <td>2016-12-01</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>1724</td>
         </tr>

@@ -232,7 +232,7 @@ Found 58 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ScalitoUnbound">ScalitoUnbound</a></td>
             <td>2022-04-23</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>1049</td>
             <td>28357</td>

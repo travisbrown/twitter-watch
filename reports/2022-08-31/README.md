@@ -1191,7 +1191,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/icehood47">icehood47</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1387035601845645315">2 others</a>)&nbsp;</td>
             <td>2021-04-27</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>7825</td>
         </tr>

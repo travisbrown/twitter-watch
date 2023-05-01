@@ -2494,7 +2494,7 @@ Found 1557 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/W_Morales23">W_Morales23</a></td>
             <td>2012-05-31</td>
-            <td></td>
+            <td>2023-04-29</td>
             <td align="center"></td>
             <td>1269</td>
         </tr>
