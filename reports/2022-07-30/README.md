@@ -960,7 +960,7 @@ Found 1093 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlueParrotBooks">BlueParrotBooks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/31215430">2 others</a>)&nbsp;</td>
             <td>2009-04-14</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>1981</td>
         </tr>

@@ -227,7 +227,7 @@ Found 1816 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lobbybach">lobbybach</a></td>
             <td>2021-10-29</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>8458</td>
         </tr>

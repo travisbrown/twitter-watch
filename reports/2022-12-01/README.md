@@ -1192,7 +1192,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sammmnextdoor">sammmnextdoor</a></td>
             <td>2021-10-16</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>37769</td>
         </tr>

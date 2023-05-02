@@ -964,7 +964,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Laurinha_2050">Laurinha_2050</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1413997328462143496">2 others</a>)&nbsp;</td>
             <td>2021-07-10</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>10442</td>
         </tr>

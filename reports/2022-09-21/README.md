@@ -632,7 +632,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vickyyymatozah">vickyyymatozah</a></td>
             <td>2022-04-02</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>928796</td>
         </tr>

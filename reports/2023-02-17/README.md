@@ -579,7 +579,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SabrinaMeissnr">SabrinaMeissnr</a></td>
             <td>2018-02-20</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>2327</td>
         </tr>

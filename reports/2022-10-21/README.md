@@ -1534,7 +1534,7 @@ Found 1390 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sara_silvania">sara_silvania</a></td>
             <td>2019-03-05</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>2522</td>
         </tr>

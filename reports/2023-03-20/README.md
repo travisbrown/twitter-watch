@@ -913,7 +913,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ROIforLIFE">ROIforLIFE</a></td>
             <td>2008-09-20</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>3005</td>
         </tr>

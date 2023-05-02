@@ -954,7 +954,7 @@ Found 2957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StephanAJensen">StephanAJensen</a></td>
             <td>2015-12-18</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>1783</td>
         </tr>

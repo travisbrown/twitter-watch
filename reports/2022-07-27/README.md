@@ -3906,7 +3906,7 @@ Found 2116 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DanGaughan_">DanGaughan_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1142853848438071307">14 others</a>)&nbsp;</td>
             <td>2019-06-23</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>1133</td>
         </tr>

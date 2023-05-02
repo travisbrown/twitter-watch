@@ -1159,7 +1159,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CEOofKiyohime">CEOofKiyohime</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1427777056536993792">1 other</a>)&nbsp;</td>
             <td>2021-08-17</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>1882</td>
         </tr>

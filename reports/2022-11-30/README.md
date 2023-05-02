@@ -376,7 +376,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DaLongIslander">DaLongIslander</a></td>
             <td>2021-01-08</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>24</td>
             <td>87762</td>

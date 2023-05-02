@@ -2338,7 +2338,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/j_nehmeh">j_nehmeh</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2861345072">1 other</a>)&nbsp;</td>
             <td>2014-10-17</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>1560</td>
         </tr>

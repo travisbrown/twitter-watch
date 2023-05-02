@@ -1307,7 +1307,7 @@ Found 1951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EneideMattos">EneideMattos</a></td>
             <td>2019-09-19</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>4419</td>
         </tr>

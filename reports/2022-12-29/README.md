@@ -88,7 +88,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TheLastAnRkist">TheLastAnRkist</a></td>
             <td>2009-07-06</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>1071</td>
             <td>26421</td>

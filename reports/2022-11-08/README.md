@@ -1387,7 +1387,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/itspureluv">itspureluv</a></td>
             <td>2021-03-13</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>199931</td>
         </tr>

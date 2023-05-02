@@ -2115,7 +2115,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dr_EZwider">Dr_EZwider</a></td>
             <td>2009-04-11</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>1228</td>
         </tr>

@@ -834,7 +834,7 @@ Found 1344 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Big_BadTaco">Big_BadTaco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1574394054833422336">2 others</a>)&nbsp;</td>
             <td>2022-09-26</td>
-            <td></td>
+            <td>2023-04-30</td>
             <td align="center"></td>
             <td>1505</td>
         </tr>
