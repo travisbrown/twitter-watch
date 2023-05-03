@@ -52,7 +52,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/relevantmena">relevantmena</a></td>
             <td>2020-04-24</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>10032</td>
             <td>881</td>

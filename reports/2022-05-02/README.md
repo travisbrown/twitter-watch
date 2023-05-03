@@ -950,7 +950,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DanMeyerswords">DanMeyerswords</a></td>
             <td>2009-05-18</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>3426</td>
         </tr>

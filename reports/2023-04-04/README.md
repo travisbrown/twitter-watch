@@ -100,7 +100,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/joshqharris">joshqharris</a></td>
             <td>2019-09-17</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>6379</td>
             <td>83379</td>

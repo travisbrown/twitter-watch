@@ -28,7 +28,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dash_eats">dash_eats</a></td>
             <td>2015-01-17</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>62304</td>
             <td>8251</td>

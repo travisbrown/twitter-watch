@@ -1008,7 +1008,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aiga_mizuki">aiga_mizuki</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1174192779133620224">1 other</a>)&nbsp;</td>
             <td>2019-09-18</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>327050</td>
         </tr>

@@ -892,7 +892,7 @@ Found 3674 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_MirceaBarbu">_MirceaBarbu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/169718868">1 other</a>)&nbsp;</td>
             <td>2010-07-23</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>2037</td>
         </tr>

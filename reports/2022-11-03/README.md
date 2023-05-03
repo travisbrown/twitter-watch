@@ -2173,7 +2173,7 @@ Found 1739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vanessaaltin">vanessaaltin</a></td>
             <td>2011-08-11</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>1642</td>
         </tr>

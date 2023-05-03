@@ -1054,7 +1054,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AcardiJoao">AcardiJoao</a></td>
             <td>2019-04-30</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>6756</td>
         </tr>
@@ -1967,7 +1967,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Juanita87722370">Juanita87722370</a></td>
             <td>2019-03-26</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>1776</td>
         </tr>

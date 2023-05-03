@@ -2057,7 +2057,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Paid__Tourist">Paid__Tourist</a></td>
             <td>2021-11-15</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>1121</td>
         </tr>

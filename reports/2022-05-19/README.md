@@ -1359,7 +1359,7 @@ Found 841 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rabb1t_fr3n">rabb1t_fr3n</a></td>
             <td>2021-07-30</td>
-            <td></td>
+            <td>2023-05-01</td>
             <td align="center"></td>
             <td>7871</td>
         </tr>
