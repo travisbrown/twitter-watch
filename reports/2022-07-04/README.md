@@ -952,7 +952,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Juju_actu">Juju_actu</a></td>
             <td>2022-06-01</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>4598</td>
         </tr>

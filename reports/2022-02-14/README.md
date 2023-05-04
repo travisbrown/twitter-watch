@@ -937,7 +937,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/abd130usa22nq">abd130usa22nq</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1323002809">2 others</a>)&nbsp;</td>
             <td>2013-04-02</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>4456</td>
         </tr>

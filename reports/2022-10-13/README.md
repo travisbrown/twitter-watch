@@ -571,7 +571,7 @@ Found 1831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Le_General_sec">Le_General_sec</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1239638039716134914">4 others</a>)&nbsp;</td>
             <td>2020-03-16</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>12983</td>
         </tr>

@@ -876,7 +876,7 @@ Found 2246 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrainwashFree">BrainwashFree</a></td>
             <td>2021-08-11</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>1836</td>
         </tr>

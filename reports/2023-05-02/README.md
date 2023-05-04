@@ -409,7 +409,7 @@ Found 2622 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DellaGlidewell">DellaGlidewell</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1318905584213762049">21 others</a>)&nbsp;</td>
             <td>2020-10-21</td>
-            <td></td>
+            <td>2022-10-10</td>
             <td align="center"></td>
             <td>15186</td>
         </tr>

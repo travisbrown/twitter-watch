@@ -23291,7 +23291,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stevegrady14">stevegrady14</a></td>
             <td>2016-08-26</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>1725</td>
         </tr>
@@ -36458,7 +36458,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/farrahhastings">farrahhastings</a></td>
             <td>2011-01-12</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center">🔒</td>
             <td>1059</td>
         </tr>

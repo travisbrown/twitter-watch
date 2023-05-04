@@ -2339,7 +2339,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/manue99a">manue99a</a></td>
             <td>2017-03-18</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>1342</td>
         </tr>

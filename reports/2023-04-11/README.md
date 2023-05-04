@@ -280,7 +280,7 @@ Found 2523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MeebitsDAO">MeebitsDAO</a></td>
             <td>2021-05-08</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>21355</td>
         </tr>

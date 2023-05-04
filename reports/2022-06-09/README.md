@@ -1327,7 +1327,7 @@ Found 668 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ljcb12">ljcb12</a></td>
             <td>2011-10-30</td>
-            <td></td>
+            <td>2023-05-02</td>
             <td align="center"></td>
             <td>1622</td>
         </tr>

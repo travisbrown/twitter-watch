@@ -112,7 +112,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/The_Westernist">The_Westernist</a></td>
             <td>2018-08-20</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>361</td>
             <td>80234</td>

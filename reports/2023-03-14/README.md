@@ -457,7 +457,7 @@ Found 2404 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/favourafolabi">favourafolabi</a></td>
             <td>2009-04-20</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>3774</td>
         </tr>

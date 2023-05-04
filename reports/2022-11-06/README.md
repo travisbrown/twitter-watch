@@ -2932,7 +2932,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/hazel4trump02">hazel4trump02</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1495623441076023300">17 others</a>)&nbsp;</td>
             <td>2022-02-21</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>2321</td>
             <td>60040</td>
