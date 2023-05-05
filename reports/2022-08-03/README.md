@@ -1341,7 +1341,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stevet_140">stevet_140</a></td>
             <td>2014-02-01</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>3355</td>
         </tr>
@@ -2001,7 +2001,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_FR33DOMFIGHT3R">_FR33DOMFIGHT3R</a></td>
             <td>2022-05-12</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>1842</td>
         </tr>

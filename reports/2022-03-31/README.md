@@ -706,7 +706,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cowboyw2b2">Cowboyw2b2</a></td>
             <td>2021-11-04</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>11208</td>
         </tr>

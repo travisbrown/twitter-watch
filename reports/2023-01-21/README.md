@@ -205,7 +205,7 @@ Found 887 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alinanvayi">Alinanvayi</a></td>
             <td>2017-09-19</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>10869</td>
         </tr>

@@ -40,7 +40,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/5Never_Give_Up5">5Never_Give_Up5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1285409314945904640">1 other</a>)&nbsp;</td>
             <td>2020-07-21</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>4093</td>
             <td>1220</td>

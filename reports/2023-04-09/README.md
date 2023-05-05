@@ -40,7 +40,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dangainor">dangainor</a></td>
             <td>2008-07-21</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center">✔️</td>
             <td>23770</td>
             <td>18264</td>

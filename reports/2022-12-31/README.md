@@ -964,7 +964,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/esq_jam">esq_jam</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/470498137">1 other</a>)&nbsp;</td>
             <td>2012-01-21</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>2644</td>
         </tr>

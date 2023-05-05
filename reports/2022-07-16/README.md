@@ -1930,7 +1930,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kris_kinder">kris_kinder</a></td>
             <td>2011-07-24</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>4950</td>
         </tr>

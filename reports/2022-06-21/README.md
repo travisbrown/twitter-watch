@@ -646,7 +646,7 @@ Found 824 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MagnetoDark">MagnetoDark</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1395043395123482633">1 other</a>)&nbsp;</td>
             <td>2021-05-19</td>
-            <td></td>
+            <td>2023-05-03</td>
             <td align="center"></td>
             <td>2059</td>
         </tr>
