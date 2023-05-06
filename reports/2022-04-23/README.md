@@ -244,7 +244,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CSBoulder">CSBoulder</a></td>
             <td>2020-02-12</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center">🔒</td>
             <td>615</td>
             <td>3258</td>

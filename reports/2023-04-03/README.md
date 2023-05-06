@@ -52,7 +52,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Star77757557600">Star77757557600</a></td>
             <td>2021-02-13</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>2306</td>
             <td>33080</td>

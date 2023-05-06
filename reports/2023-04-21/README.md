@@ -253,7 +253,7 @@ Found 2239 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alfred_cabonena">alfred_cabonena</a></td>
             <td>2013-11-27</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>17452</td>
         </tr>
@@ -583,7 +583,7 @@ Found 2239 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Hakicat">Hakicat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2603606018">5 others</a>)&nbsp;</td>
             <td>2014-07-04</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>3555</td>
         </tr>

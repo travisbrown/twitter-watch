@@ -1313,7 +1313,7 @@ Found 518 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tatianaschild">tatianaschild</a></td>
             <td>2010-09-27</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>6147</td>
         </tr>

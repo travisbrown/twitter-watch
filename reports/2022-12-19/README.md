@@ -421,7 +421,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArjunVerma01">ArjunVerma01</a></td>
             <td>2017-04-11</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>13781</td>
         </tr>

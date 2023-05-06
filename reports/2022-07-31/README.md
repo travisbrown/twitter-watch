@@ -1978,7 +1978,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GenGen15N">GenGen15N</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3407964124">1 other</a>)&nbsp;</td>
             <td>2015-08-07</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center">🔒</td>
             <td>1244</td>
         </tr>

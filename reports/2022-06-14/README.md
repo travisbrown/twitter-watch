@@ -605,7 +605,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DoctorLordBasil">DoctorLordBasil</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3035275448">4 others</a>)&nbsp;</td>
             <td>2015-02-21</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>38358</td>
         </tr>

@@ -416,7 +416,7 @@ Found 1344 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jimstinson">jimstinson</a></td>
             <td>2008-04-07</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center">✔️</td>
             <td>3679</td>
         </tr>

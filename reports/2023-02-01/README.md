@@ -591,7 +591,7 @@ Found 3248 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/akinnapamaskoko">akinnapamaskoko</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1256601787550666753">19 others</a>)&nbsp;</td>
             <td>2020-05-02</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>1364</td>
         </tr>

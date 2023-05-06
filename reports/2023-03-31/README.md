@@ -345,7 +345,7 @@ Found 4077 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rajnayaknews">rajnayaknews</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/232240926">1 other</a>)&nbsp;</td>
             <td>2010-12-30</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>12761</td>
         </tr>

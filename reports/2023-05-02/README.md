@@ -211,7 +211,7 @@ Found 2622 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tugouivy">tugouivy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1229038317171179520">3 others</a>)&nbsp;</td>
             <td>2020-02-16</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>72170</td>
         </tr>

@@ -28,7 +28,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/kunley_drukpa">kunley_drukpa</a></td>
             <td>2020-12-05</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>24643</td>
             <td>559</td>

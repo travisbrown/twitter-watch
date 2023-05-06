@@ -710,7 +710,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gc_confidence">gc_confidence</a></td>
             <td>2018-01-19</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>1293</td>
         </tr>

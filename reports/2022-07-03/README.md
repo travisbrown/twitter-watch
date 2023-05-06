@@ -4232,7 +4232,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FreelanceGoon">FreelanceGoon</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2573397748">1 other</a>)&nbsp;</td>
             <td>2014-05-31</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>3469</td>
         </tr>

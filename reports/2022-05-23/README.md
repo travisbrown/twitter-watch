@@ -516,7 +516,7 @@ Found 977 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/delawaredave">delawaredave</a></td>
             <td>2008-02-29</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>2468</td>
         </tr>

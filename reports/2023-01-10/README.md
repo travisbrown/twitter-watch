@@ -683,7 +683,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/diegovalle_LTHM">diegovalle_LTHM</a></td>
             <td>2009-03-18</td>
-            <td></td>
+            <td>2023-05-04</td>
             <td align="center"></td>
             <td>9586</td>
         </tr>
