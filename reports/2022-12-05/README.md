@@ -595,7 +595,7 @@ Found 3485 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MacLopez769">MacLopez769</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1120351015385985029">2 others</a>)&nbsp;</td>
             <td>2019-04-22</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>71745</td>
         </tr>

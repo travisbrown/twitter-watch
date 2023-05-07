@@ -2200,7 +2200,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Yoshiyuki4192">Yoshiyuki4192</a></td>
             <td>2015-12-03</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>3192</td>
         </tr>
@@ -3674,7 +3674,7 @@ Found 4491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kazuhiro_Delete">kazuhiro_Delete</a></td>
             <td>2011-08-14</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>1332</td>
         </tr>

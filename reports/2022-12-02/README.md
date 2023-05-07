@@ -304,7 +304,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BrunoPug2">BrunoPug2</a></td>
             <td>2021-05-04</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>175</td>
             <td>74414</td>

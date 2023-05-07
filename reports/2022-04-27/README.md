@@ -2660,7 +2660,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/asm_leb">asm_leb</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/882977472106700800">2 others</a>)&nbsp;</td>
             <td>2017-07-06</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>1950</td>
         </tr>

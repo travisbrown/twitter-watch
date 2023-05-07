@@ -265,7 +265,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fatyhvarkal">fatyhvarkal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/98900468">3 others</a>)&nbsp;</td>
             <td>2009-12-23</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>15968</td>
         </tr>

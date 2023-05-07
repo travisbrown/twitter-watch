@@ -2279,7 +2279,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WaveRiptide3">WaveRiptide3</a></td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>1911</td>
         </tr>

@@ -1791,7 +1791,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Donaltrump_2024">Donaltrump_2024</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1311794533324161024">1 other</a>)&nbsp;</td>
             <td>2020-10-01</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>2111</td>
         </tr>

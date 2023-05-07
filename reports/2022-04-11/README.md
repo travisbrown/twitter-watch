@@ -810,7 +810,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gregorytheleast">gregorytheleast</a></td>
             <td>2011-11-13</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>1158</td>
         </tr>

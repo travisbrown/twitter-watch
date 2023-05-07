@@ -1322,7 +1322,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fvckbanksy">fvckbanksy</a></td>
             <td>2021-12-12</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>7248</td>
         </tr>

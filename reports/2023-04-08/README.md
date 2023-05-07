@@ -131,7 +131,7 @@ Found 6489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UnusableNameAAA">UnusableNameAAA</a></td>
             <td>2014-09-01</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>77359</td>
         </tr>
@@ -846,7 +846,7 @@ Found 6489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HaberSon_Dakika">HaberSon_Dakika</a></td>
             <td>2013-07-28</td>
-            <td></td>
+            <td>2023-05-05</td>
             <td align="center"></td>
             <td>1982</td>
         </tr>
