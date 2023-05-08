@@ -177,7 +177,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vikki0164">vikki0164</a></td>
             <td>2012-07-12</td>
-            <td></td>
+            <td>2023-05-07</td>
             <td align="center"></td>
             <td>16802</td>
         </tr>
@@ -243,7 +243,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/unblogd">unblogd</a></td>
             <td>2016-05-27</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>8610</td>
         </tr>
@@ -507,7 +507,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KloppKop6858">KloppKop6858</a></td>
             <td>2021-12-16</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>2237</td>
         </tr>

@@ -912,7 +912,7 @@ Found 1262 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HedgeyeRJM">HedgeyeRJM</a></td>
             <td>2022-10-19</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>2760</td>
         </tr>

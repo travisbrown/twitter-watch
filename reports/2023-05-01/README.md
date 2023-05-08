@@ -231,7 +231,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DanishaCarter4">DanishaCarter4</a></td>
             <td>2011-12-11</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>18621</td>
         </tr>
@@ -396,7 +396,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gus_802">Gus_802</a></td>
             <td>2011-01-13</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>5324</td>
         </tr>

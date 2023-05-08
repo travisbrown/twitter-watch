@@ -707,7 +707,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/undefeatedmatt">undefeatedmatt</a></td>
             <td>2020-05-20</td>
-            <td></td>
+            <td>2023-05-07</td>
             <td align="center"></td>
             <td>2751</td>
         </tr>

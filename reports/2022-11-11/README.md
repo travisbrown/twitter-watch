@@ -424,7 +424,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/creepymouse">creepymouse</a></td>
             <td>2009-03-11</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>2003</td>
             <td>62558</td>

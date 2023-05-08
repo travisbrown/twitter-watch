@@ -2647,7 +2647,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CourtenayTurner">CourtenayTurner</a></td>
             <td>2012-06-18</td>
-            <td></td>
+            <td>2023-05-06</td>
             <td align="center"></td>
             <td>1434</td>
         </tr>
