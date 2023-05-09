@@ -132,7 +132,7 @@ Found 617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BPBDJakarta">BPBDJakarta</a></td>
             <td>2012-01-10</td>
-            <td></td>
+            <td>2023-05-07</td>
             <td align="center">✔️</td>
             <td>301284</td>
         </tr>
@@ -154,7 +154,7 @@ Found 617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YishaiFleisher">YishaiFleisher</a></td>
             <td>2011-04-07</td>
-            <td></td>
+            <td>2023-05-07</td>
             <td align="center">✔️</td>
             <td>17581</td>
         </tr>

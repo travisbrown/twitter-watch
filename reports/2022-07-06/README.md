@@ -1426,7 +1426,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/snowqueen502">snowqueen502</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/155703067">1 other</a>)&nbsp;</td>
             <td>2010-06-14</td>
-            <td></td>
+            <td>2023-05-07</td>
             <td align="center"></td>
             <td>1254</td>
         </tr>

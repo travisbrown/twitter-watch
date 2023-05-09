@@ -614,7 +614,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StephenWNix">StephenWNix</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/518954029">3 others</a>)&nbsp;</td>
             <td>2012-03-08</td>
-            <td></td>
+            <td>2023-05-07</td>
             <td align="center"></td>
             <td>3056</td>
         </tr>
