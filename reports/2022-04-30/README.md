@@ -3748,7 +3748,7 @@ Found 1489 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kodiac_johnson">kodiac_johnson</a></td>
             <td>2013-11-26</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1282</td>
         </tr>

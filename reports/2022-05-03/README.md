@@ -1004,7 +1004,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Pete2Shawn">Pete2Shawn</a></td>
             <td>2018-09-01</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>3038</td>
         </tr>

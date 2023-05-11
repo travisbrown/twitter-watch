@@ -1318,7 +1318,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rlohmer">rlohmer</a></td>
             <td>2010-10-13</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>6137</td>
         </tr>

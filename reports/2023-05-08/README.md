@@ -316,7 +316,7 @@ Found 393 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bluestown901">bluestown901</a></td>
             <td>2022-04-15</td>
-            <td></td>
+            <td>2023-05-08</td>
             <td align="center"></td>
             <td>1096</td>
         </tr>

@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/iphone13king">iphone13king</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1528143970697564160">1 other</a>)&nbsp;</td>
             <td>2022-05-21</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>1093</td>
             <td>16156</td>

@@ -3006,7 +3006,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wishcraft8121">wishcraft8121</a></td>
             <td>2021-12-03</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>1174</td>
         </tr>

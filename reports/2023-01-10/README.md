@@ -220,7 +220,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/M_Ledford_Lee">M_Ledford_Lee</a></td>
             <td>2012-08-24</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>1195</td>
             <td>64834</td>

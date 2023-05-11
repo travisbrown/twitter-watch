@@ -6880,7 +6880,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Charlietooner">Charlietooner</a></td>
             <td>2019-11-22</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>1488</td>
         </tr>

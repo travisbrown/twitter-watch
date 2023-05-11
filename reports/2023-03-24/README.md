@@ -827,7 +827,7 @@ Found 1414 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Heretic__13">Heretic__13</a></td>
             <td>2012-11-27</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1075</td>
         </tr>

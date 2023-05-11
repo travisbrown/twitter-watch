@@ -250,7 +250,7 @@ Found 2957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/viralexposureco">viralexposureco</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3233862776">2 others</a>)&nbsp;</td>
             <td>2015-06-02</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>108753</td>
         </tr>

@@ -699,7 +699,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GeorgeWTrumpWon">GeorgeWTrumpWon</a></td>
             <td>2021-06-15</td>
-            <td></td>
+            <td>2023-05-08</td>
             <td align="center"></td>
             <td>1792</td>
         </tr>

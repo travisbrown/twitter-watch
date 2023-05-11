@@ -1108,7 +1108,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fiftymaker">fiftymaker</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/896757271">1 other</a>)&nbsp;</td>
             <td>2012-10-22</td>
-            <td></td>
+            <td>2023-05-08</td>
             <td align="center"></td>
             <td>2260</td>
         </tr>

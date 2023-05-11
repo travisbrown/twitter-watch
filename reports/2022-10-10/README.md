@@ -2008,7 +2008,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JS1ZL">JS1ZL</a></td>
             <td>2022-05-28</td>
-            <td></td>
+            <td>2023-05-08</td>
             <td align="center">🔒</td>
             <td>1247</td>
         </tr>

@@ -959,7 +959,7 @@ Found 1645 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Linton_Mosque">Linton_Mosque</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1536762120926375936">1 other</a>)&nbsp;</td>
             <td>2022-06-14</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>1466</td>
         </tr>

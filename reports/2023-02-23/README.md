@@ -534,7 +534,7 @@ Found 1219 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaggieMcGo">MaggieMcGo</a></td>
             <td>2013-12-27</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>2017</td>
         </tr>

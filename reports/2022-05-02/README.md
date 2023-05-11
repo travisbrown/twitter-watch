@@ -1434,7 +1434,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/biancaskullmask">biancaskullmask</a></td>
             <td>2022-02-02</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1244</td>
         </tr>

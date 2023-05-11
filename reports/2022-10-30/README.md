@@ -4492,7 +4492,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Digicultist">Digicultist</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1187140966559473664">1 other</a>)&nbsp;</td>
             <td>2019-10-23</td>
-            <td></td>
+            <td>2023-05-08</td>
             <td align="center"></td>
             <td>174</td>
             <td>97840</td>

@@ -679,7 +679,7 @@ Found 3248 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Edy_bigwins">Edy_bigwins</a></td>
             <td>2021-12-21</td>
-            <td></td>
+            <td>2023-05-09</td>
             <td align="center"></td>
             <td>1260</td>
         </tr>
