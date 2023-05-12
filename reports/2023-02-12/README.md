@@ -70,7 +70,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mafkont">mafkont</a></td>
             <td>2014-04-16</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>223057</td>
         </tr>
@@ -246,7 +246,7 @@ Found 1296 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NathOnSecurity">NathOnSecurity</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2788383706">1 other</a>)&nbsp;</td>
             <td>2014-09-28</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>8880</td>
         </tr>

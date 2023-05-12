@@ -1836,7 +1836,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ObaOfUniben">ObaOfUniben</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3807843625">1 other</a>)&nbsp;</td>
             <td>2015-10-06</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1903</td>
         </tr>

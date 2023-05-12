@@ -955,7 +955,7 @@ Found 1038 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/morenitadesal">morenitadesal</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1336882422">7 others</a>)&nbsp;</td>
             <td>2013-04-08</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>9402</td>
         </tr>

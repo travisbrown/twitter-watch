@@ -1203,7 +1203,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GailRule1">GailRule1</a></td>
             <td>2017-01-20</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>11305</td>
         </tr>
@@ -2787,7 +2787,7 @@ Found 2074 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tomas_coffee">tomas_coffee</a></td>
             <td>2022-03-19</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1019</td>
         </tr>

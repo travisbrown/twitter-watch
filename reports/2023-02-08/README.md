@@ -205,7 +205,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/denal_bash">denal_bash</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/959770373284868096">2 others</a>)&nbsp;</td>
             <td>2018-02-03</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>9398</td>
         </tr>

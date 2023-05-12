@@ -2454,7 +2454,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SnrgstcElements">SnrgstcElements</a></td>
             <td>2016-06-04</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>2418</td>
         </tr>

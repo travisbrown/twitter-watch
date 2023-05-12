@@ -6802,7 +6802,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MartinRiules">MartinRiules</a></td>
             <td>2015-08-07</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>5193</td>
         </tr>
@@ -11598,7 +11598,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cm_beachbum">cm_beachbum</a></td>
             <td>2011-01-26</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>3106</td>
         </tr>
@@ -12390,7 +12390,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SGM_P_2012">SGM_P_2012</a></td>
             <td>2016-11-27</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>2970</td>
         </tr>
@@ -31651,7 +31651,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KipperSkidller">KipperSkidller</a></td>
             <td>2016-09-27</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1249</td>
         </tr>
@@ -36887,7 +36887,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GratitudeDiva">GratitudeDiva</a></td>
             <td>2014-08-27</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1042</td>
         </tr>

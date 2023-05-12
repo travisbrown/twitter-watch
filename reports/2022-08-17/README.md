@@ -1212,7 +1212,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hrothenb">hrothenb</a></td>
             <td>2009-05-13</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>5223</td>
         </tr>
@@ -1597,7 +1597,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heatherstarr8">heatherstarr8</a></td>
             <td>2014-09-23</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>2866</td>
         </tr>

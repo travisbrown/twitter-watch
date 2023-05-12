@@ -210,7 +210,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Paraglobalism">Paraglobalism</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1285017087795245057">4 others</a>)&nbsp;</td>
             <td>2020-07-20</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>11952</td>
         </tr>

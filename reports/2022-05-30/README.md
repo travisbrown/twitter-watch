@@ -1073,7 +1073,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shahswj">shahswj</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/354126978">1 other</a>)&nbsp;</td>
             <td>2011-08-13</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1001</td>
         </tr></table>

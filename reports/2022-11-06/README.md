@@ -5399,7 +5399,7 @@ Found 1823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dave41Patriot">Dave41Patriot</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1159234463496384521">1 other</a>)&nbsp;</td>
             <td>2019-08-07</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1188</td>
         </tr>

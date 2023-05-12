@@ -593,7 +593,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dkgdelhi">dkgdelhi</a></td>
             <td>2011-03-03</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>15540</td>
         </tr>
@@ -1693,7 +1693,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LowRes_Refugee">LowRes_Refugee</a></td>
             <td>2021-12-17</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1095</td>
         </tr>

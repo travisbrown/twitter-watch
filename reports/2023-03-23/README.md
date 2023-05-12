@@ -882,7 +882,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VMozghovyi">VMozghovyi</a></td>
             <td>2016-07-12</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1275</td>
         </tr>

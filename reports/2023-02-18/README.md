@@ -198,7 +198,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Crazy_Sexy_Life">Crazy_Sexy_Life</a></td>
             <td>2014-11-22</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>92742</td>
         </tr>

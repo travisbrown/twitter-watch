@@ -2171,7 +2171,7 @@ Found 462 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/home_styler">home_styler</a></td>
             <td>2013-05-26</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>1933</td>
         </tr>

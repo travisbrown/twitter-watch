@@ -28,7 +28,7 @@ Found 3 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/credit2society">credit2society</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/704709840862445568">2 others</a>)&nbsp;</td>
             <td>2016-03-01</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>78</td>
             <td>8222</td>

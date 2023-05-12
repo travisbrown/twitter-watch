@@ -304,7 +304,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LetsCroatia">LetsCroatia</a></td>
             <td>2015-08-15</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>27139</td>
         </tr>

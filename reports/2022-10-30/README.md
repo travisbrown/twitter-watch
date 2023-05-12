@@ -2572,7 +2572,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/donny501st">donny501st</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1191431979067154433">3 others</a>)&nbsp;</td>
             <td>2019-11-04</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center">🔒</td>
             <td>129</td>
             <td>36379</td>

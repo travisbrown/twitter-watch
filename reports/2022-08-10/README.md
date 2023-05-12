@@ -1551,7 +1551,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlueDogEyes1">BlueDogEyes1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/964789152">1 other</a>)&nbsp;</td>
             <td>2012-11-22</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>3738</td>
         </tr>

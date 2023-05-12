@@ -927,7 +927,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WilliamMeierho1">WilliamMeierho1</a></td>
             <td>2022-05-01</td>
-            <td></td>
+            <td>2023-05-10</td>
             <td align="center"></td>
             <td>2642</td>
         </tr>
