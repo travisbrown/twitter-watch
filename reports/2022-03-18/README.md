@@ -694,7 +694,7 @@ Found 469 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/elizabeth_xo777">elizabeth_xo777</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/773944942506942464">2 others</a>)&nbsp;</td>
             <td>2016-09-08</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>34420</td>
         </tr>

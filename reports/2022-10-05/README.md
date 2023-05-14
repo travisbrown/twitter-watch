@@ -1204,7 +1204,7 @@ Found 1601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/antoniocozy0925">antoniocozy0925</a></td>
             <td>2015-10-04</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>4865</td>
         </tr>

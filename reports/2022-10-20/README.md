@@ -3530,7 +3530,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RegLee7">RegLee7</a></td>
             <td>2018-03-28</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>1901</td>
         </tr>
@@ -7930,7 +7930,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/vianazilton">vianazilton</a></td>
             <td>2022-03-23</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>1029</td>
         </tr>

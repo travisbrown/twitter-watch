@@ -2604,7 +2604,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VijaySBohara1">VijaySBohara1</a></td>
             <td>2018-11-16</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>50726</td>
         </tr>

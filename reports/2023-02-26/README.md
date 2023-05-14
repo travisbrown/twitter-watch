@@ -347,7 +347,7 @@ Found 872 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/imchinese66">imchinese66</a></td>
             <td>2014-07-24</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>2954</td>
         </tr>

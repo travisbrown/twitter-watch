@@ -657,7 +657,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cryptobellz">cryptobellz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/713376023233036288">8 others</a>)&nbsp;</td>
             <td>2016-03-25</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>4255</td>
         </tr>

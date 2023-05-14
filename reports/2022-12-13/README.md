@@ -2559,7 +2559,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NOT_LC_HODL">NOT_LC_HODL</a></td>
             <td>2022-02-03</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>1200</td>
         </tr>

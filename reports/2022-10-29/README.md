@@ -30397,7 +30397,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scott_heino">scott_heino</a></td>
             <td>2021-11-22</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1313</td>
         </tr>
@@ -32080,7 +32080,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CaptainPequod">CaptainPequod</a></td>
             <td>2020-05-25</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1229</td>
         </tr>
@@ -35985,7 +35985,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sargeinmi1">sargeinmi1</a></td>
             <td>2021-07-29</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1076</td>
         </tr>

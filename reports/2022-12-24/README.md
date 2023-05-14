@@ -534,7 +534,7 @@ Found 1341 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/civil_unrest21">civil_unrest21</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>3695</td>
         </tr>

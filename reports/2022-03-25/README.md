@@ -978,7 +978,7 @@ Found 804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/qui_est_J_Galt">qui_est_J_Galt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1408164961885425667">1 other</a>)&nbsp;</td>
             <td>2021-06-24</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1219</td>
         </tr>

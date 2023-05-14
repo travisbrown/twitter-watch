@@ -988,7 +988,7 @@ Found 2949 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Emerson93983042">Emerson93983042</a></td>
             <td>2020-05-16</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>4300</td>
         </tr>

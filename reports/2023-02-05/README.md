@@ -1996,7 +1996,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VladKravcov34">VladKravcov34</a></td>
             <td>2022-01-13</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1310</td>
         </tr>

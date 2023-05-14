@@ -1519,7 +1519,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jcdmachado">jcdmachado</a></td>
             <td>2018-03-26</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1297</td>
         </tr>

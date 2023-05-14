@@ -1160,7 +1160,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brent_youtube">brent_youtube</a></td>
             <td>2022-01-24</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>6374</td>
         </tr>
@@ -1820,7 +1820,7 @@ Found 1662 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Roberto68299795">Roberto68299795</a></td>
             <td>2019-09-06</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>2733</td>
         </tr>

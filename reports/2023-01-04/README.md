@@ -983,7 +983,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sam_ojei">sam_ojei</a></td>
             <td>2021-03-08</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1840</td>
         </tr>

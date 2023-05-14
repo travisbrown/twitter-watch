@@ -1899,7 +1899,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/truthseekeringa">truthseekeringa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/55431680">1 other</a>)&nbsp;</td>
             <td>2009-07-10</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>2166</td>
         </tr>

@@ -2462,7 +2462,7 @@ Found 962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/USAUSAU87240966">USAUSAU87240966</a></td>
             <td>2019-12-12</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>3166</td>
         </tr>

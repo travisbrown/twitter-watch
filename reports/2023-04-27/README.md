@@ -100,7 +100,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/burkewhy2">burkewhy2</a></td>
             <td>2021-09-04</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>32</td>
             <td>75962</td>

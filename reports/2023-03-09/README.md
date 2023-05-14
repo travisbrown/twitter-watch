@@ -666,7 +666,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GaladimaOFAkata">GaladimaOFAkata</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/713430098561613824">1 other</a>)&nbsp;</td>
             <td>2016-03-25</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center">🔒</td>
             <td>1369</td>
         </tr>

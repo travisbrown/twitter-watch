@@ -40,7 +40,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RickLazzarini">RickLazzarini</a></td>
             <td>2012-02-29</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>629</td>
             <td>2087</td>

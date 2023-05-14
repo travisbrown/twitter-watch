@@ -1283,7 +1283,7 @@ Found 654 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/docsigma">docsigma</a></td>
             <td>2007-04-03</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1575</td>
         </tr>

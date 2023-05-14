@@ -261,7 +261,7 @@ Found 824 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/katemordor">katemordor</a></td>
             <td>2019-03-04</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center">🔒</td>
             <td>12803</td>
         </tr>

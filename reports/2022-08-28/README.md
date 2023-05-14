@@ -985,7 +985,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ObserverKurt">ObserverKurt</a></td>
             <td>2021-10-22</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>2322</td>
         </tr>

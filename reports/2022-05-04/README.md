@@ -862,7 +862,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nigelat34">nigelat34</a></td>
             <td>2015-02-01</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>3100</td>
         </tr>

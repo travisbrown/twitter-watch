@@ -1727,7 +1727,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sreateguir">sreateguir</a></td>
             <td>2017-04-02</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>2991</td>
         </tr>

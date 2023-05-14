@@ -52,7 +52,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/jeffaccordion">jeffaccordion</a></td>
             <td>2021-11-17</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>162</td>
             <td>3151</td>

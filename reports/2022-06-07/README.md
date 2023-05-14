@@ -172,7 +172,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JD51836519">JD51836519</a></td>
             <td>2020-03-19</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>305</td>
             <td>1971</td>
@@ -1955,7 +1955,7 @@ Found 751 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Barackoboehner">Barackoboehner</a></td>
             <td>2015-01-07</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>3531</td>
         </tr>

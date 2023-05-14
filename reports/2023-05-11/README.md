@@ -657,7 +657,7 @@ Found 1261 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SarahisCensored">SarahisCensored</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/302961644">2 others</a>)&nbsp;</td>
             <td>2011-05-22</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>1687</td>
         </tr>

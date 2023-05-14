@@ -681,7 +681,7 @@ Found 2415 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Artindgh">Artindgh</a></td>
             <td>2022-07-17</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1214</td>
         </tr>

@@ -589,7 +589,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Raphael_mus">Raphael_mus</a></td>
             <td>2016-09-17</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>48648</td>
         </tr>
@@ -1381,7 +1381,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/emangzal0">emangzal0</a></td>
             <td>2021-11-05</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>2179</td>
         </tr>

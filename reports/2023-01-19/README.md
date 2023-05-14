@@ -1175,7 +1175,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ClintK64">ClintK64</a></td>
             <td>2015-09-30</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>3652</td>
         </tr>
@@ -1329,7 +1329,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iAlessita">iAlessita</a></td>
             <td>2011-09-29</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>2778</td>
         </tr>

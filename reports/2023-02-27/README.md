@@ -606,7 +606,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/misskatt41">misskatt41</a></td>
             <td>2014-10-31</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>1935</td>
         </tr>

@@ -1920,7 +1920,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jcvr1994">jcvr1994</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/71381664">1 other</a>)&nbsp;</td>
             <td>2009-09-03</td>
-            <td></td>
+            <td>2023-05-12</td>
             <td align="center"></td>
             <td>1354</td>
         </tr>

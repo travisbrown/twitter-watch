@@ -1266,7 +1266,7 @@ Found 1444 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ctwittnc">ctwittnc</a></td>
             <td>2016-04-23</td>
-            <td></td>
+            <td>2023-05-11</td>
             <td align="center"></td>
             <td>3046</td>
         </tr>
