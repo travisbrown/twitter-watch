@@ -394,7 +394,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jamucsb">jamucsb</a></td>
             <td>2009-04-08</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center">🔒</td>
             <td>3292</td>
         </tr>

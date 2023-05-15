@@ -704,7 +704,7 @@ Found 1150 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/akaCurt">akaCurt</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1044634861686771712">1 other</a>)&nbsp;</td>
             <td>2018-09-25</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>10107</td>
         </tr>

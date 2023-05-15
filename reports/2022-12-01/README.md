@@ -2248,7 +2248,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RodrigoBatalha1">RodrigoBatalha1</a></td>
             <td>2009-07-12</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>3604</td>
         </tr>

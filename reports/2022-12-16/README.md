@@ -364,7 +364,7 @@ Found 66 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BreezesCool">BreezesCool</a></td>
             <td>2019-01-24</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>1696</td>
             <td>48184</td>

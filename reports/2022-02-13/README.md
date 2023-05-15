@@ -2315,7 +2315,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pan_dejo_">pan_dejo_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1341201618038116353">3 others</a>)&nbsp;</td>
             <td>2020-12-22</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>5701</td>
         </tr>

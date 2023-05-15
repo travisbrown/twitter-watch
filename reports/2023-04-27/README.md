@@ -771,7 +771,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChrisBullMT">ChrisBullMT</a></td>
             <td>2017-12-29</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>1353</td>
         </tr>

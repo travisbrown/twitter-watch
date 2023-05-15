@@ -76,7 +76,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BluSkiesBluEyes">BluSkiesBluEyes</a></td>
             <td>2021-09-24</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>1154</td>
             <td>68604</td>

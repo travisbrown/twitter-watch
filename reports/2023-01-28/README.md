@@ -306,7 +306,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NayebaleDavid">NayebaleDavid</a></td>
             <td>2021-10-12</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>7103</td>
         </tr>

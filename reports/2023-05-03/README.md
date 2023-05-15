@@ -394,7 +394,7 @@ Found 1996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FlexiSpot">FlexiSpot</a></td>
             <td>2016-07-06</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>10583</td>
         </tr>

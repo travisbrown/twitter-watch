@@ -1053,7 +1053,7 @@ Found 2957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hrintuitive">hrintuitive</a></td>
             <td>2011-08-24</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center">🔒</td>
             <td>1612</td>
         </tr>

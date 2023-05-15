@@ -1049,7 +1049,7 @@ Found 725 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlackPegasus">BlackPegasus</a></td>
             <td>2009-02-26</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>2621</td>
         </tr>

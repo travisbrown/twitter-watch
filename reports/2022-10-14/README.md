@@ -1737,7 +1737,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BlagoCvetanov">BlagoCvetanov</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/535590021">1 other</a>)&nbsp;</td>
             <td>2012-03-24</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>2190</td>
         </tr>

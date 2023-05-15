@@ -4336,7 +4336,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dejaCorra">dejaCorra</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1492113409">5 others</a>)&nbsp;</td>
             <td>2013-06-08</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>1099</td>
             <td>92140</td>

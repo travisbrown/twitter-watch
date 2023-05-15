@@ -304,7 +304,7 @@ Found 1195 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Throw_2_Win">Throw_2_Win</a></td>
             <td>2020-03-22</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>3695</td>
         </tr>

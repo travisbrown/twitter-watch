@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/WLMCalifornia">WLMCalifornia</a></td>
             <td>2022-03-31</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>1627</td>
             <td>2147</td>

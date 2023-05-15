@@ -588,7 +588,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FieryRedhead8">FieryRedhead8</a></td>
             <td>2021-06-05</td>
-            <td></td>
+            <td>2023-05-13</td>
             <td align="center"></td>
             <td>23688</td>
         </tr>
