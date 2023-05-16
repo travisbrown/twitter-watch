@@ -1442,7 +1442,7 @@ Found 391 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cathyslifecc">cathyslifecc</a></td>
             <td>2010-01-29</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>1263</td>
         </tr>

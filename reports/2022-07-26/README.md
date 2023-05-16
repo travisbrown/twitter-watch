@@ -3275,7 +3275,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WalksWithEagles">WalksWithEagles</a></td>
             <td>2013-10-16</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>1735</td>
         </tr>

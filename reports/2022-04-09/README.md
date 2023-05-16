@@ -607,7 +607,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Yilmazfr1">Yilmazfr1</a></td>
             <td>2011-11-14</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>30668</td>
         </tr>
@@ -1014,7 +1014,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Citizen817">Citizen817</a></td>
             <td>2016-08-19</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>3067</td>
         </tr>

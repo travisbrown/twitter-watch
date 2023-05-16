@@ -1551,7 +1551,7 @@ Found 702 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/minimumizm">minimumizm</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1422973565087985665">1 other</a>)&nbsp;</td>
             <td>2021-08-04</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>4572</td>
         </tr>

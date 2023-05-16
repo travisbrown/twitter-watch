@@ -1732,7 +1732,7 @@ Found 1087 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zaman_nruhu">zaman_nruhu</a></td>
             <td>2019-07-06</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>1122</td>
         </tr>

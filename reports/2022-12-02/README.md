@@ -52,7 +52,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Catherine_LCP">Catherine_LCP</a></td>
             <td>2012-09-15</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>2801</td>
             <td>6380</td>

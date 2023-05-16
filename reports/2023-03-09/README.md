@@ -600,7 +600,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CyrusNotVyrus">CyrusNotVyrus</a></td>
             <td>2012-08-26</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>1695</td>
         </tr>

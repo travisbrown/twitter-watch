@@ -76,7 +76,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/w2we12">w2we12</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/99027768">1 other</a>)&nbsp;</td>
             <td>2009-12-24</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>0</td>
             <td>33407</td>

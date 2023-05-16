@@ -362,7 +362,7 @@ Found 2491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shyguysvault">shyguysvault</a></td>
             <td>2019-03-14</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>6451</td>
         </tr>

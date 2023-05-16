@@ -1336,7 +1336,7 @@ Found 2523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ebonyroleplayer">ebonyroleplayer</a></td>
             <td>2022-07-23</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>1040</td>
         </tr>

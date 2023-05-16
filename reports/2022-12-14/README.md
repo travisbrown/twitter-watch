@@ -2401,7 +2401,7 @@ Found 2429 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/janieidesoares">janieidesoares</a></td>
             <td>2010-11-18</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>1142</td>
         </tr>

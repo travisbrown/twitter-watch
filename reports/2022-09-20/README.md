@@ -1522,7 +1522,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/digitalgenxblog">digitalgenxblog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/97150289">2 others</a>)&nbsp;</td>
             <td>2009-12-16</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>4488</td>
         </tr>

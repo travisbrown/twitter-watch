@@ -2622,7 +2622,7 @@ Found 2137 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tetipaiva">tetipaiva</a></td>
             <td>2010-04-08</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>1485</td>
         </tr>
@@ -3040,7 +3040,7 @@ Found 2137 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DienaSabry">DienaSabry</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/483715763">3 others</a>)&nbsp;</td>
             <td>2012-02-05</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center">🔒</td>
             <td>1177</td>
         </tr>

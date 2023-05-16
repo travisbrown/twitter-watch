@@ -489,7 +489,7 @@ Found 2445 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/omerdennissnyd1">omerdennissnyd1</a></td>
             <td>2019-03-15</td>
-            <td></td>
+            <td>2023-05-14</td>
             <td align="center"></td>
             <td>20414</td>
         </tr>
