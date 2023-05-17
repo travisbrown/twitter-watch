@@ -120,7 +120,7 @@ Found 2188 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kendelkay">kendelkay</a></td>
             <td>2012-01-08</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>255287</td>
         </tr>

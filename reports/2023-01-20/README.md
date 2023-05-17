@@ -1315,7 +1315,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LionelJ44922157">LionelJ44922157</a></td>
             <td>2021-06-21</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>1943</td>
         </tr>

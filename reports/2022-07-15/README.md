@@ -1495,7 +1495,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ronaldonater">ronaldonater</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/255655044">1 other</a>)&nbsp;</td>
             <td>2011-02-21</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>2071</td>
         </tr>

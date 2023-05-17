@@ -1387,7 +1387,7 @@ Found 391 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ScaryLikeAFoxx">ScaryLikeAFoxx</a></td>
             <td>2020-11-21</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>1345</td>
         </tr>

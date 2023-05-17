@@ -28,7 +28,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/hartgoat">hartgoat</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/717847958432124929">1 other</a>)&nbsp;</td>
             <td>2016-04-06</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>3028</td>
             <td>1414</td>

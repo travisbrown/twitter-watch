@@ -1411,7 +1411,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DavidLWindt">DavidLWindt</a></td>
             <td>2009-12-30</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>9454</td>
         </tr>

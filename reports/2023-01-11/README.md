@@ -276,7 +276,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/roaya2019">roaya2019</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/996008186518925312">2 others</a>)&nbsp;</td>
             <td>2018-05-14</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>11605</td>
         </tr>

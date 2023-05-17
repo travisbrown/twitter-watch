@@ -339,7 +339,7 @@ Found 1996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UkrainianIsHere">UkrainianIsHere</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/703136460">5 others</a>)&nbsp;</td>
             <td>2012-07-18</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>15515</td>
         </tr>
@@ -1164,7 +1164,7 @@ Found 1996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CallmeRight1">CallmeRight1</a></td>
             <td>2021-10-17</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>1388</td>
         </tr>
@@ -1263,7 +1263,7 @@ Found 1996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DuanJon1483">DuanJon1483</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1436371021066604544">1 other</a>)&nbsp;</td>
             <td>2021-09-10</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>1121</td>
         </tr>

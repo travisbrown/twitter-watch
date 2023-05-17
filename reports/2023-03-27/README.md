@@ -824,7 +824,7 @@ Found 2317 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fulfifar">Fulfifar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/130166691">1 other</a>)&nbsp;</td>
             <td>2010-04-06</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>1661</td>
         </tr>

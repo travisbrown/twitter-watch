@@ -999,7 +999,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/COV_COPPERFIELD">COV_COPPERFIELD</a></td>
             <td>2020-10-09</td>
-            <td></td>
+            <td>2023-05-15</td>
             <td align="center"></td>
             <td>5956</td>
         </tr>
