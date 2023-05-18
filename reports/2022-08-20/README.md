@@ -1654,7 +1654,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wealdengirl">wealdengirl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2770753891">1 other</a>)&nbsp;</td>
             <td>2014-08-26</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>2954</td>
         </tr>

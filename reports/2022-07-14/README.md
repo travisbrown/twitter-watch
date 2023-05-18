@@ -1641,7 +1641,7 @@ Found 1147 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/doodlebugeye">doodlebugeye</a></td>
             <td>2021-05-15</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>4535</td>
         </tr>

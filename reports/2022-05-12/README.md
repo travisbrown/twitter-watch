@@ -313,7 +313,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chloe4Law">Chloe4Law</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1414357394264530946">1 other</a>)&nbsp;</td>
             <td>2021-07-11</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>8545</td>
         </tr>

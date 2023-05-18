@@ -628,7 +628,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StepNGame">StepNGame</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1451878606104268802">1 other</a>)&nbsp;</td>
             <td>2021-10-23</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>111740</td>
         </tr>

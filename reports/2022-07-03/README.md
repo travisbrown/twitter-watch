@@ -3176,7 +3176,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CovidMemo">CovidMemo</a></td>
             <td>2021-09-20</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>10410</td>
         </tr>

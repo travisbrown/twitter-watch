@@ -5896,7 +5896,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Narxism">Narxism</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1011812323802210305">2 others</a>)&nbsp;</td>
             <td>2018-06-27</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>7180</td>
         </tr>

@@ -150,7 +150,7 @@ Found 1320 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HofstraMLAX">HofstraMLAX</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/789394182">1 other</a>)&nbsp;</td>
             <td>2012-08-29</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center">✔️</td>
             <td>13269</td>
         </tr>

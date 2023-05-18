@@ -2980,7 +2980,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Indiana_Anne2">Indiana_Anne2</a></td>
             <td>2021-02-24</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>16235</td>
             <td>64521</td>

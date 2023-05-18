@@ -27581,7 +27581,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CJC98617496">CJC98617496</a></td>
             <td>2020-01-09</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>1458</td>
         </tr>

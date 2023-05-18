@@ -407,7 +407,7 @@ Found 617 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DanBegen">DanBegen</a></td>
             <td>2014-09-02</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>1189</td>
         </tr>

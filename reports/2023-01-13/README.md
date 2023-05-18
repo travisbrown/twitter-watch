@@ -1188,7 +1188,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AbadyAlshehri">AbadyAlshehri</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/17506002">2 others</a>)&nbsp;</td>
             <td>2008-11-20</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>2370</td>
         </tr>

@@ -332,7 +332,7 @@ Found 970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SnowEliora">SnowEliora</a></td>
             <td>2021-05-29</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>3835</td>
         </tr>

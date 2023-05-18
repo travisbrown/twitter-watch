@@ -1034,7 +1034,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/7Txt">7Txt</a></td>
             <td>2012-04-07</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>272210</td>
         </tr>

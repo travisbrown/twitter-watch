@@ -414,7 +414,7 @@ Found 519 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ingeallbeauty">ingeallbeauty</a></td>
             <td>2014-03-04</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>11182</td>
         </tr>

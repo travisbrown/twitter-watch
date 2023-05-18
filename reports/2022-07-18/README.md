@@ -2186,7 +2186,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/xxr_abdullah">xxr_abdullah</a></td>
             <td>2016-11-03</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>2722</td>
         </tr>

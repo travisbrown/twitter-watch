@@ -197,7 +197,7 @@ Found 2491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/daniil_donetsk">daniil_donetsk</a></td>
             <td>2019-08-18</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>33537</td>
         </tr>

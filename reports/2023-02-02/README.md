@@ -826,7 +826,7 @@ Found 2216 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nawras6234">nawras6234</a></td>
             <td>2014-12-09</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center">🔒</td>
             <td>2182</td>
         </tr>

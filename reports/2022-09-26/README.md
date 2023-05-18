@@ -1113,7 +1113,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheShr1nk">TheShr1nk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1067549401445527552">1 other</a>)&nbsp;</td>
             <td>2018-11-27</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>10841</td>
         </tr>

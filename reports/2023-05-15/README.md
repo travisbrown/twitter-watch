@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/toplobsta_">toplobsta_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1192959904757243909">1 other</a>)&nbsp;</td>
             <td>2019-11-09</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>7777</td>
             <td>828</td>

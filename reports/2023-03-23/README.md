@@ -178,7 +178,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chris_L_Wells">Chris_L_Wells</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/530950089">1 other</a>)&nbsp;</td>
             <td>2012-03-20</td>
-            <td></td>
+            <td>2023-05-16</td>
             <td align="center"></td>
             <td>62731</td>
         </tr>
