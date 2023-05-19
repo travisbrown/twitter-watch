@@ -612,7 +612,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jaysanchezdorta">jaysanchezdorta</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1255491920614371329">1 other</a>)&nbsp;</td>
             <td>2020-04-29</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>9913</td>
         </tr>

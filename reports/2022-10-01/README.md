@@ -1215,7 +1215,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/setu_2828">setu_2828</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/993533974109601792">1 other</a>)&nbsp;</td>
             <td>2018-05-07</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>8108</td>
         </tr>

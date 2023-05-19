@@ -1182,7 +1182,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JoannaTeglund">JoannaTeglund</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/439321373">1 other</a>)&nbsp;</td>
             <td>2011-12-17</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>5879</td>
         </tr>

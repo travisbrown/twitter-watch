@@ -148,7 +148,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/GhostofanOldFr1">GhostofanOldFr1</a></td>
             <td>2021-07-20</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>1397</td>
             <td>25691</td>

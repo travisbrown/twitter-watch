@@ -442,7 +442,7 @@ Found 754 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kim_KJF">Kim_KJF</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1230645472219615232">1 other</a>)&nbsp;</td>
             <td>2020-02-21</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>3363</td>
         </tr>

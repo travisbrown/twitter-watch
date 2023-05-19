@@ -1734,7 +1734,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DiePatriot4">DiePatriot4</a></td>
             <td>2020-06-19</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>1705</td>
         </tr>

@@ -747,7 +747,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/erickvegas4u2">erickvegas4u2</a></td>
             <td>2016-06-08</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>55885</td>
         </tr>
@@ -1704,7 +1704,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joshunittagouri">joshunittagouri</a></td>
             <td>2022-07-31</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>4790</td>
         </tr>

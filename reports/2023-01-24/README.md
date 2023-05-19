@@ -459,7 +459,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TradingTribe">TradingTribe</a></td>
             <td>2010-10-19</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>28581</td>
         </tr>

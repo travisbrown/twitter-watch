@@ -401,7 +401,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/adryanmiguel">adryanmiguel</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/227092614">3 others</a>)&nbsp;</td>
             <td>2010-12-15</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>99038</td>
         </tr>

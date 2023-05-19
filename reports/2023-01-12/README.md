@@ -417,7 +417,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/scanaranbaxy">scanaranbaxy</a></td>
             <td>2012-06-25</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>16142</td>
         </tr>
@@ -1924,7 +1924,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HabzyKing">HabzyKing</a></td>
             <td>2021-03-15</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>1420</td>
         </tr>

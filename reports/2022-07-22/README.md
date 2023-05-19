@@ -1466,7 +1466,7 @@ Found 1336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EGoldst13173585">EGoldst13173585</a></td>
             <td>2021-05-29</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>7416</td>
         </tr>

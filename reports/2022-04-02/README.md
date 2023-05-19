@@ -1135,7 +1135,7 @@ Found 825 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EKANEMUsen">EKANEMUsen</a></td>
             <td>2012-11-20</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>1539</td>
         </tr>

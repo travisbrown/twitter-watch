@@ -2201,7 +2201,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DianaMGallo">DianaMGallo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/537572195">1 other</a>)&nbsp;</td>
             <td>2012-03-26</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>2391</td>
         </tr>

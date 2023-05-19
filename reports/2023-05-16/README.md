@@ -124,7 +124,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/UndercoverTexa1">UndercoverTexa1</a></td>
             <td>2022-09-02</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>134</td>
             <td>98400</td>

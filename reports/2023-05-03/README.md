@@ -867,7 +867,7 @@ Found 1996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MyLinkToFreedom">MyLinkToFreedom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3042281044">2 others</a>)&nbsp;</td>
             <td>2015-02-17</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>2410</td>
         </tr>

@@ -6764,7 +6764,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GatorBarlow">GatorBarlow</a></td>
             <td>2022-08-26</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>1181</td>
         </tr>

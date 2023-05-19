@@ -2072,7 +2072,7 @@ Found 1114 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Danny_Santiago_">Danny_Santiago_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1403368389704355842">1 other</a>)&nbsp;</td>
             <td>2021-06-11</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>1201</td>
         </tr>

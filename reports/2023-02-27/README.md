@@ -144,7 +144,7 @@ Found 1014 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/abobasilghamdi">abobasilghamdi</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/392954936">1 other</a>)&nbsp;</td>
             <td>2011-10-17</td>
-            <td></td>
+            <td>2023-05-17</td>
             <td align="center"></td>
             <td>440139</td>
         </tr>
