@@ -566,7 +566,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lusciousxox">lusciousxox</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2927051240">3 others</a>)&nbsp;</td>
             <td>2014-12-11</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>74833</td>
         </tr>

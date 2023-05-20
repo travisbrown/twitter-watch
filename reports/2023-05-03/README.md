@@ -559,7 +559,7 @@ Found 1996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheNiftyShow">TheNiftyShow</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1308938310945964032">1 other</a>)&nbsp;</td>
             <td>2020-09-24</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>6001</td>
         </tr>

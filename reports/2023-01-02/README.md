@@ -232,7 +232,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Zealoussexpest">Zealoussexpest</a></td>
             <td>2021-02-01</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>337</td>
             <td>70951</td>

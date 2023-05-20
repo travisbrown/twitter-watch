@@ -2124,7 +2124,7 @@ Found 1456 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/minacious11">minacious11</a></td>
             <td>2020-12-06</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>1174</td>
         </tr>

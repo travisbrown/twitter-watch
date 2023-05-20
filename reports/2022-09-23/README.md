@@ -3565,7 +3565,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/goob8_">goob8_</a></td>
             <td>2021-11-29</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>1479</td>
         </tr>

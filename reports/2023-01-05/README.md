@@ -1410,7 +1410,7 @@ Found 1603 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Paulo_R_Bridi">Paulo_R_Bridi</a></td>
             <td>2011-05-20</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>1122</td>
         </tr>

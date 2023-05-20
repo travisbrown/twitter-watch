@@ -3107,7 +3107,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wealthcufu">wealthcufu</a></td>
             <td>2018-01-28</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>1398</td>
         </tr>

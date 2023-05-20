@@ -742,7 +742,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Killer_KBee">Killer_KBee</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/741283719433052160">1 other</a>)&nbsp;</td>
             <td>2016-06-10</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>4024</td>
         </tr>

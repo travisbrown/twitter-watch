@@ -330,7 +330,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jiqoorosa">jiqoorosa</a></td>
             <td>2014-08-11</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>19639</td>
         </tr>

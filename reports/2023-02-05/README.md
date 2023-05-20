@@ -1138,7 +1138,7 @@ Found 1648 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ACopperwhite">ACopperwhite</a></td>
             <td>2011-07-01</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>53235</td>
         </tr>

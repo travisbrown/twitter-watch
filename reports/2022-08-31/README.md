@@ -2027,7 +2027,7 @@ Found 1180 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JadenSEAA">JadenSEAA</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1301281018322714624">1 other</a>)&nbsp;</td>
             <td>2020-09-02</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>1772</td>
         </tr>

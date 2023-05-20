@@ -2547,7 +2547,7 @@ Found 1686 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jamon_Ancap">Jamon_Ancap</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1254557053835771904">2 others</a>)&nbsp;</td>
             <td>2020-04-26</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>1136</td>
         </tr>

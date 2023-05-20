@@ -714,7 +714,7 @@ Found 1624 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaDutchess5">DaDutchess5</a></td>
             <td>2021-12-31</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>6890</td>
         </tr>

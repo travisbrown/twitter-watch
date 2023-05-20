@@ -155,7 +155,7 @@ Found 3674 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Amandalatona">Amandalatona</a></td>
             <td>2010-08-14</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>77078</td>
         </tr>

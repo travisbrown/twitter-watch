@@ -707,7 +707,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/krypticrooks">krypticrooks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/961152019049443328">2 others</a>)&nbsp;</td>
             <td>2018-02-07</td>
-            <td></td>
+            <td>2023-05-18</td>
             <td align="center"></td>
             <td>8359</td>
         </tr>

@@ -2180,7 +2180,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gilledechicago">gilledechicago</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/863409862599954432">3 others</a>)&nbsp;</td>
             <td>2017-05-13</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>1382</td>
         </tr>
