@@ -608,7 +608,7 @@ Found 515 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/whitehatbuzz">whitehatbuzz</a></td>
             <td>2020-11-09</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>23664</td>
         </tr>

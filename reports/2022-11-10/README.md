@@ -1473,7 +1473,7 @@ Found 3438 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PaulDuddridge">PaulDuddridge</a></td>
             <td>2012-10-06</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>12901</td>
         </tr>

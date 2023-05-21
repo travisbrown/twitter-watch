@@ -1888,7 +1888,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Nobody11520311">Nobody11520311</a></td>
             <td>2020-09-13</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>185</td>
             <td>23652</td>

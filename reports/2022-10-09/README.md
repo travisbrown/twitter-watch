@@ -1096,7 +1096,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heiditheblogger">heiditheblogger</a></td>
             <td>2021-11-02</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>4582</td>
         </tr>

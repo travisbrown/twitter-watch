@@ -2464,7 +2464,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/thefroggypot">thefroggypot</a></td>
             <td>2022-04-26</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>954</td>
             <td>19515</td>
@@ -2788,7 +2788,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JustAnonterDuck">JustAnonterDuck</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1282038484694437888">1 other</a>)&nbsp;</td>
             <td>2020-07-11</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>30</td>
             <td>24218</td>
@@ -2812,7 +2812,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/thinkandprosper">thinkandprosper</a></td>
             <td>2009-06-08</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>343</td>
             <td>24913</td>

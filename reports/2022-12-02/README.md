@@ -1640,7 +1640,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OjitosDeBolillo">OjitosDeBolillo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1503578110184226818">1 other</a>)&nbsp;</td>
             <td>2022-03-15</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center">🔒</td>
             <td>6038</td>
         </tr>

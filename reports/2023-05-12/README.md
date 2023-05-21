@@ -372,7 +372,7 @@ Found 1010 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/roter_0ktober">roter_0ktober</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1572638971078889473">1 other</a>)&nbsp;</td>
             <td>2022-09-21</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>4311</td>
         </tr>

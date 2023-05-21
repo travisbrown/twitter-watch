@@ -574,7 +574,7 @@ Found 970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alex44639079">Alex44639079</a></td>
             <td>2022-06-19</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center">🔒</td>
             <td>1241</td>
         </tr>

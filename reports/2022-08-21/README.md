@@ -1007,7 +1007,7 @@ Found 1129 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/miss_anthrop75">miss_anthrop75</a></td>
             <td>2021-03-13</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>17097</td>
         </tr>

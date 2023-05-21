@@ -2465,7 +2465,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/battyrash">battyrash</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1419331683434876935">1 other</a>)&nbsp;</td>
             <td>2021-07-25</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>1362</td>
         </tr>

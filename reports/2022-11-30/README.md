@@ -1496,7 +1496,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LauraMo89019612">LauraMo89019612</a></td>
             <td>2022-08-24</td>
-            <td></td>
+            <td>2023-05-19</td>
             <td align="center"></td>
             <td>3331</td>
         </tr>
