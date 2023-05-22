@@ -492,7 +492,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jakejunkk">jakejunkk</a></td>
             <td>2019-10-01</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>32083</td>
         </tr>

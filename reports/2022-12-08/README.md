@@ -184,7 +184,7 @@ Found 25 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NewTypeOfGuy">NewTypeOfGuy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3303237640">1 other</a>)&nbsp;</td>
             <td>2015-05-29</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>419</td>
             <td>38639</td>

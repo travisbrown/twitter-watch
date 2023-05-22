@@ -194,7 +194,7 @@ Found 1195 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RSnpatel">RSnpatel</a></td>
             <td>2021-09-17</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>10420</td>
         </tr>

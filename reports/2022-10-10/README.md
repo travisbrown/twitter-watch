@@ -1062,7 +1062,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AfrikaThabiso">AfrikaThabiso</a></td>
             <td>2020-05-22</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>6031</td>
         </tr>

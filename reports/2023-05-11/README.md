@@ -28,7 +28,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/wanderous_soul">wanderous_soul</a></td>
             <td>2021-08-18</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>1945</td>
             <td>20887</td>

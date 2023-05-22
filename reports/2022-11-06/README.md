@@ -88,7 +88,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Dark_Asgard_">Dark_Asgard_</a></td>
             <td>2022-06-10</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>2729</td>
             <td>1746</td>
@@ -1024,7 +1024,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/onwardmyhawkmen">onwardmyhawkmen</a></td>
             <td>2011-11-21</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>559</td>
             <td>9516</td>
@@ -2044,7 +2044,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/marksaunders777">marksaunders777</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/156726383">1 other</a>)&nbsp;</td>
             <td>2010-06-17</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center">🔒</td>
             <td>52</td>
             <td>28666</td>

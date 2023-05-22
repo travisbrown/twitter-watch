@@ -293,7 +293,7 @@ Found 2424 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StudioAberrati1">StudioAberrati1</a></td>
             <td>2020-02-07</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>49626</td>
         </tr>

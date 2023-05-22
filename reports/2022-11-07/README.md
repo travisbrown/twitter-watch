@@ -1012,7 +1012,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ProgenyOfEurope">ProgenyOfEurope</a></td>
             <td>2016-03-12</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>674</td>
             <td>6590</td>
@@ -1120,7 +1120,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/KungFluBot">KungFluBot</a></td>
             <td>2020-04-16</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>455</td>
             <td>7298</td>
@@ -3268,7 +3268,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Bojakacha">Bojakacha</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>663</td>
             <td>33818</td>

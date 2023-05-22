@@ -136,7 +136,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/vesloveselo">vesloveselo</a></td>
             <td>2022-03-13</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>1041</td>
             <td>2506</td>

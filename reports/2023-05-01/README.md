@@ -407,7 +407,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CarterForNow">CarterForNow</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/45658608">3 others</a>)&nbsp;</td>
             <td>2009-06-08</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>5021</td>
         </tr>
@@ -440,7 +440,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UofGAsbs">UofGAsbs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/23579467">1 other</a>)&nbsp;</td>
             <td>2009-03-10</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>4566</td>
         </tr>

@@ -651,7 +651,7 @@ Found 1053 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rosqueNFT">rosqueNFT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1437407883856162818">1 other</a>)&nbsp;</td>
             <td>2021-09-13</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>1808</td>
         </tr>

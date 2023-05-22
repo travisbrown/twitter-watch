@@ -683,7 +683,7 @@ Found 3449 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EvaggelosGiann1">EvaggelosGiann1</a></td>
             <td>2021-03-05</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>1776</td>
         </tr>

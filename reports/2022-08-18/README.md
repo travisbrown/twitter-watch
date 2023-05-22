@@ -1414,7 +1414,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gujratlion">gujratlion</a></td>
             <td>2014-04-06</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>3007</td>
         </tr>

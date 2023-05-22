@@ -766,7 +766,7 @@ Found 1816 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TransfersIntel">TransfersIntel</a></td>
             <td>2022-02-20</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>1145</td>
         </tr>

@@ -240,7 +240,7 @@ Found 1010 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/juez_fpresencia">juez_fpresencia</a></td>
             <td>2021-12-22</td>
-            <td></td>
+            <td>2023-05-20</td>
             <td align="center"></td>
             <td>19394</td>
         </tr>
