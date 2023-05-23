@@ -784,7 +784,7 @@ Found 66 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/bigmountain1999">bigmountain1999</a></td>
             <td>2022-03-22</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>29</td>
             <td>97219</td>

@@ -2096,7 +2096,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnaliceB38">AnaliceB38</a></td>
             <td>2021-03-12</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>2120</td>
         </tr>

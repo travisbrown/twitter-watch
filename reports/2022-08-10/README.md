@@ -100,7 +100,7 @@ Found 13 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/FattyFren">FattyFren</a></td>
             <td>2022-07-21</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>921</td>
             <td>3053</td>

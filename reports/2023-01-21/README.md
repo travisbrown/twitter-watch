@@ -447,7 +447,7 @@ Found 887 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EnoArt8">EnoArt8</a></td>
             <td>2022-05-14</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>2181</td>
         </tr>

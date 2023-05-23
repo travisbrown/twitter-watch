@@ -1310,7 +1310,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/v_igatpurikar">v_igatpurikar</a></td>
             <td>2020-03-24</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>1062</td>
         </tr>

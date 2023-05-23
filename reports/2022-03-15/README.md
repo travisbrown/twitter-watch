@@ -991,7 +991,7 @@ Found 742 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/neon_freedom">neon_freedom</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1319624252623126528">2 others</a>)&nbsp;</td>
             <td>2020-10-23</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>3804</td>
         </tr>

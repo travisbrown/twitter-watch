@@ -3712,7 +3712,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SnagletoothBass">SnagletoothBass</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1368456103617589248">1 other</a>)&nbsp;</td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>28</td>
             <td>44636</td>

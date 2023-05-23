@@ -317,7 +317,7 @@ Found 1010 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Alexand85266011">Alexand85266011</a></td>
             <td>2020-12-26</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>6320</td>
         </tr>
@@ -647,7 +647,7 @@ Found 1010 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bunde_russ">bunde_russ</a></td>
             <td>2021-11-24</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>1470</td>
         </tr>

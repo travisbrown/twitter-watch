@@ -394,7 +394,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/virtualglfriday">virtualglfriday</a></td>
             <td>2008-10-23</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>3662</td>
         </tr>

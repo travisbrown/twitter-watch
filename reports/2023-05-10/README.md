@@ -456,7 +456,7 @@ Found 1076 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KontraA64">KontraA64</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1475608035959660559">1 other</a>)&nbsp;</td>
             <td>2021-12-27</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>3290</td>
         </tr>

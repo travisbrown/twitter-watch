@@ -2599,7 +2599,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WhiteDogPoo1">WhiteDogPoo1</a></td>
             <td>2021-05-31</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>2294</td>
         </tr>

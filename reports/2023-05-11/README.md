@@ -492,7 +492,7 @@ Found 1261 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MakunjaKyatiko">MakunjaKyatiko</a></td>
             <td>2017-10-12</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>2337</td>
         </tr>

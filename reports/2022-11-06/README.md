@@ -2704,7 +2704,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/xirishdemonx">xirishdemonx</a></td>
             <td>2021-04-08</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center">🔒</td>
             <td>27</td>
             <td>50724</td>

@@ -172,7 +172,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Noonekn79350147">Noonekn79350147</a></td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>1862</td>
             <td>84571</td>

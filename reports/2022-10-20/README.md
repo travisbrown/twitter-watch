@@ -6434,7 +6434,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/desi_mahapurush">desi_mahapurush</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/45780582">7 others</a>)&nbsp;</td>
             <td>2009-06-09</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>1231</td>
         </tr>

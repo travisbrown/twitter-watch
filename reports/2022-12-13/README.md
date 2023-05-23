@@ -1690,7 +1690,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheSarahDales">TheSarahDales</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/375199963">1 other</a>)&nbsp;</td>
             <td>2011-09-17</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>2155</td>
         </tr>
@@ -1712,7 +1712,7 @@ Found 3371 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MontrealIndian">MontrealIndian</a></td>
             <td>2008-11-28</td>
-            <td></td>
+            <td>2023-05-21</td>
             <td align="center"></td>
             <td>2131</td>
         </tr>
