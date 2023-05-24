@@ -2391,7 +2391,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnuParashar">AnuParashar</a></td>
             <td>2010-01-07</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>1138</td>
         </tr>

@@ -981,7 +981,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PC_GoneWild">PC_GoneWild</a></td>
             <td>2013-01-21</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>2373</td>
         </tr>

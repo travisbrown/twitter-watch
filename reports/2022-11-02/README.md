@@ -2438,7 +2438,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RanaCansada1">RanaCansada1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1486037035815165955">1 other</a>)&nbsp;</td>
             <td>2022-01-25</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>1366</td>
         </tr>

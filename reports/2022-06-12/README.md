@@ -100,7 +100,7 @@ Found 12 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Dead_like_you">Dead_like_you</a></td>
             <td>2022-01-17</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>1443</td>
             <td>2204</td>

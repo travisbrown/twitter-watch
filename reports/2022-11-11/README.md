@@ -316,7 +316,7 @@ Found 46 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PhillipUzzell">PhillipUzzell</a></td>
             <td>2009-04-13</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>667</td>
             <td>28528</td>

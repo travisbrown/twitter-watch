@@ -2570,7 +2570,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheBoatCapt">TheBoatCapt</a></td>
             <td>2015-08-06</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>1780</td>
         </tr>

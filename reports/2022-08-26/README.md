@@ -1063,7 +1063,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NFTsolutionNET">NFTsolutionNET</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1011687337368215555">2 others</a>)&nbsp;</td>
             <td>2018-06-26</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>54533</td>
         </tr>

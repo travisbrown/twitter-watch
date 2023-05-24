@@ -684,7 +684,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Revolution_IRL">Revolution_IRL</a></td>
             <td>2012-05-01</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>13094</td>
         </tr>

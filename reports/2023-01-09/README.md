@@ -1248,7 +1248,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kurtaytoros83">kurtaytoros83</a></td>
             <td>2015-02-10</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>1827</td>
         </tr>

@@ -3568,7 +3568,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BalkanGod">BalkanGod</a></td>
             <td>2017-11-02</td>
-            <td></td>
+            <td>2023-05-22</td>
             <td align="center"></td>
             <td>3265</td>
             <td>64329</td>
