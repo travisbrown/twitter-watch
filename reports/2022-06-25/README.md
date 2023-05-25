@@ -1390,7 +1390,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RogowskiBubba">RogowskiBubba</a></td>
             <td>2017-06-12</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>2771</td>
         </tr>

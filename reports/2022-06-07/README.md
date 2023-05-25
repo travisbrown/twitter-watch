@@ -64,7 +64,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/JDscramble425">JDscramble425</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3046666464">1 other</a>)&nbsp;</td>
             <td>2015-02-27</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>12511</td>
             <td>687</td>

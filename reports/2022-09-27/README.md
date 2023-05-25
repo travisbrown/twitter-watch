@@ -983,7 +983,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_f_ckyotweets">_f_ckyotweets</a></td>
             <td>2014-01-20</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>1828</td>
         </tr>

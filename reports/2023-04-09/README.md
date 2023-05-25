@@ -1211,7 +1211,7 @@ Found 4198 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alabo_pw">alabo_pw</a></td>
             <td>2020-10-11</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>1028</td>
         </tr>

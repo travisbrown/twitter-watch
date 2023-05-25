@@ -957,7 +957,7 @@ Found 620 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatrioticTrauma">PatrioticTrauma</a></td>
             <td>2021-04-04</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>18420</td>
         </tr>

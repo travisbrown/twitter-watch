@@ -966,7 +966,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/waxnear">waxnear</a></td>
             <td>2021-12-17</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>4683</td>
         </tr>

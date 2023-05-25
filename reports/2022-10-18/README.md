@@ -982,7 +982,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PLuWex">PLuWex</a></td>
             <td>2017-09-16</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>9661</td>
         </tr>
@@ -1873,7 +1873,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Adel_Isbaita">Adel_Isbaita</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2507103959">3 others</a>)&nbsp;</td>
             <td>2014-04-24</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>1854</td>
         </tr>

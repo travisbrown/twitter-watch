@@ -194,7 +194,7 @@ Found 998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gilcamposgoias">gilcamposgoias</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/124293813">2 others</a>)&nbsp;</td>
             <td>2010-03-18</td>
-            <td></td>
+            <td>2023-05-24</td>
             <td align="center"></td>
             <td>11885</td>
         </tr>

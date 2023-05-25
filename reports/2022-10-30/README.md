@@ -3268,7 +3268,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Paulie576">Paulie576</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1522051963114131456">1 other</a>)&nbsp;</td>
             <td>2022-05-05</td>
-            <td></td>
+            <td>2023-05-23</td>
             <td align="center"></td>
             <td>296</td>
             <td>53645</td>
