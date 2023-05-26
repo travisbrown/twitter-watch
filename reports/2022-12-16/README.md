@@ -1731,7 +1731,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NATruckers">NATruckers</a></td>
             <td>2022-02-12</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>3535</td>
         </tr>

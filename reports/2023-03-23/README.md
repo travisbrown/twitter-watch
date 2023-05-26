@@ -761,7 +761,7 @@ Found 2271 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chizoba1Mazi">Chizoba1Mazi</a></td>
             <td>2022-03-31</td>
-            <td></td>
+            <td>2023-05-24</td>
             <td align="center"></td>
             <td>1606</td>
         </tr>

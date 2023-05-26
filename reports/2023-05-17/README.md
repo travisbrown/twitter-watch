@@ -824,7 +824,7 @@ Found 1575 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theta1540">theta1540</a></td>
             <td>2017-02-19</td>
-            <td></td>
+            <td>2023-05-24</td>
             <td align="center"></td>
             <td>1016</td>
         </tr>

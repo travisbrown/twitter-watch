@@ -1322,7 +1322,7 @@ Found 767 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/welthman">welthman</a></td>
             <td>2021-06-28</td>
-            <td></td>
+            <td>2023-05-24</td>
             <td align="center"></td>
             <td>4194</td>
         </tr>

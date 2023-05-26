@@ -1114,7 +1114,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Takin_Thepis_s">Takin_Thepis_s</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4712037900">1 other</a>)&nbsp;</td>
             <td>2016-01-05</td>
-            <td></td>
+            <td>2023-05-24</td>
             <td align="center"></td>
             <td>4784</td>
         </tr>

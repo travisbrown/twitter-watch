@@ -3736,7 +3736,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Kittylenton">Kittylenton</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1528430407427010560">1 other</a>)&nbsp;</td>
             <td>2022-05-22</td>
-            <td></td>
+            <td>2023-05-24</td>
             <td align="center"></td>
             <td>736</td>
             <td>45156</td>
