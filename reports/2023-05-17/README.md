@@ -318,7 +318,7 @@ Found 1575 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/noahalishah">noahalishah</a></td>
             <td>2012-01-15</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>3700</td>
         </tr>
@@ -384,7 +384,7 @@ Found 1575 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coscorima1">coscorima1</a></td>
             <td>2019-12-21</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>2642</td>
         </tr>
@@ -637,7 +637,7 @@ Found 1575 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MindofRollins">MindofRollins</a></td>
             <td>2022-02-28</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>1383</td>
         </tr>

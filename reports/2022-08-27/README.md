@@ -28,7 +28,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/einstein_evans">einstein_evans</a></td>
             <td>2021-10-21</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>3824</td>
             <td>913</td>

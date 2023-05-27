@@ -1147,7 +1147,7 @@ Found 1205 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SabinaWalker18">SabinaWalker18</a></td>
             <td>2018-08-14</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>2359</td>
         </tr>

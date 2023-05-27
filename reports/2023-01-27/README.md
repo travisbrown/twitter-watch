@@ -251,7 +251,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/takaoweb">takaoweb</a></td>
             <td>2012-12-18</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>12106</td>
         </tr>

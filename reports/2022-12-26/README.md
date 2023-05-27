@@ -1360,7 +1360,7 @@ Found 1670 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/presidentdipoto">presidentdipoto</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1188930456722407424">2 others</a>)&nbsp;</td>
             <td>2019-10-28</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>1599</td>
         </tr>

@@ -1222,7 +1222,7 @@ Found 1640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eliascovo">eliascovo</a></td>
             <td>2008-08-03</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>3295</td>
         </tr>

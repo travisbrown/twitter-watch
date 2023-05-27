@@ -1828,7 +1828,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/moneybomber88">moneybomber88</a></td>
             <td>2022-05-29</td>
-            <td></td>
+            <td>2023-05-25</td>
             <td align="center"></td>
             <td>494</td>
             <td>13009</td>
