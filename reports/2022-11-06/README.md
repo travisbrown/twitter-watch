@@ -424,7 +424,7 @@ Found 286 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/YearsPastMatter">YearsPastMatter</a></td>
             <td>2012-09-12</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>654</td>
             <td>4233</td>

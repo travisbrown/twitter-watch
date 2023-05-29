@@ -5092,7 +5092,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GiancarloGarci6">GiancarloGarci6</a></td>
             <td>2011-12-08</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>1480</td>
         </tr>

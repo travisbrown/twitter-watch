@@ -52,7 +52,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Tleilaxu82">Tleilaxu82</a></td>
             <td>2013-09-22</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>207</td>
             <td>3955</td>

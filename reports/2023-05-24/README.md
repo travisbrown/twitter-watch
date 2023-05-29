@@ -52,7 +52,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/gatorhoosier">gatorhoosier</a></td>
             <td>2009-08-03</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>453</td>
             <td>9640</td>
@@ -64,7 +64,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ElHoselRocket">ElHoselRocket</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1270714708190883843">3 others</a>)&nbsp;</td>
             <td>2020-06-10</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>46</td>
             <td>12980</td>
@@ -724,7 +724,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AwlHatnOcattle">AwlHatnOcattle</a></td>
             <td>2013-01-18</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>1547</td>
         </tr>
@@ -856,7 +856,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnPReagles">JohnPReagles</a></td>
             <td>2022-10-05</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>1130</td>
         </tr>

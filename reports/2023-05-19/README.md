@@ -563,7 +563,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sepiroth1986">Sepiroth1986</a></td>
             <td>2016-03-18</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>1559</td>
         </tr>

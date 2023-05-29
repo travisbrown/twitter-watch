@@ -273,7 +273,7 @@ Found 1344 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JayceBryce">JayceBryce</a></td>
             <td>2021-09-19</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>7183</td>
         </tr>

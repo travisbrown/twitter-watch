@@ -2920,7 +2920,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fiondavision">fiondavision</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/575568811">1 other</a>)&nbsp;</td>
             <td>2012-05-09</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>3996</td>
         </tr>

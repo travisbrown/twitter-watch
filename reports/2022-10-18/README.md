@@ -1576,7 +1576,7 @@ Found 1608 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PaudoFigueiredo">PaudoFigueiredo</a></td>
             <td>2022-04-22</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>2537</td>
         </tr>

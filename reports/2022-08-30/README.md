@@ -830,7 +830,7 @@ Found 1516 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TinyFighterGirl">TinyFighterGirl</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1246374275688198145">2 others</a>)&nbsp;</td>
             <td>2020-04-04</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>5369</td>
         </tr>

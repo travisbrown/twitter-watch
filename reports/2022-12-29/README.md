@@ -926,7 +926,7 @@ Found 1920 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/applideveloper">applideveloper</a></td>
             <td>2010-07-15</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>3197</td>
         </tr>

@@ -1601,7 +1601,7 @@ Found 1499 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DoxxedYourMom">DoxxedYourMom</a></td>
             <td>2022-04-20</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>1002</td>
         </tr></table>

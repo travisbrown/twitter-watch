@@ -1096,7 +1096,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BayouCulture">BayouCulture</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/16563082">6 others</a>)&nbsp;</td>
             <td>2008-10-02</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>188</td>
             <td>7050</td>
@@ -4348,7 +4348,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ConfusedSlann">ConfusedSlann</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1197200662716702722">2 others</a>)&nbsp;</td>
             <td>2019-11-20</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>186</td>
             <td>64898</td>
@@ -4408,7 +4408,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/ByzantineKero">ByzantineKero</a></td>
             <td>2020-01-16</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>775</td>
             <td>67147</td>
@@ -6742,7 +6742,7 @@ Found 3286 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/unjailme80">unjailme80</a></td>
             <td>2022-01-13</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>2788</td>
         </tr>

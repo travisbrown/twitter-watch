@@ -1002,7 +1002,7 @@ Found 958 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NNaijaboy">NNaijaboy</a></td>
             <td>2020-06-19</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>1122</td>
         </tr>

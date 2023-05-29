@@ -2208,7 +2208,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Deletepoverty">Deletepoverty</a></td>
             <td>2013-09-09</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>2699</td>
         </tr>
@@ -2813,7 +2813,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DebDirtylooks">DebDirtylooks</a></td>
             <td>2020-05-30</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>1469</td>
         </tr>

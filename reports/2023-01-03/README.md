@@ -588,7 +588,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chemdawgin">Chemdawgin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/114064421">1 other</a>)&nbsp;</td>
             <td>2010-02-14</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>2211</td>
         </tr>

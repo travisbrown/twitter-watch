@@ -11928,7 +11928,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brad_caudill">brad_caudill</a></td>
             <td>2016-08-05</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>3053</td>
         </tr>
@@ -22092,7 +22092,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DianeM1966">DianeM1966</a></td>
             <td>2009-04-11</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>1830</td>
         </tr>
@@ -26712,7 +26712,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MJ_Scissorhands">MJ_Scissorhands</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/809244390">1 other</a>)&nbsp;</td>
             <td>2012-09-07</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>1511</td>
         </tr>

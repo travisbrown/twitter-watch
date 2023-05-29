@@ -793,7 +793,7 @@ Found 1384 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheRealSteveAU">TheRealSteveAU</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1466323840250699780">4 others</a>)&nbsp;</td>
             <td>2021-12-02</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>1393</td>
         </tr>

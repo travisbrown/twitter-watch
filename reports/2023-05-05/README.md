@@ -152,7 +152,7 @@ Found 2376 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/reNPCarts">reNPCarts</a></td>
             <td>2020-05-11</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>37308</td>
         </tr>

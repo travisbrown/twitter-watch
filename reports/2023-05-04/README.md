@@ -934,7 +934,7 @@ Found 2491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SimancasYazmina">SimancasYazmina</a></td>
             <td>2016-04-15</td>
-            <td></td>
+            <td>2023-05-26</td>
             <td align="center"></td>
             <td>1180</td>
         </tr>

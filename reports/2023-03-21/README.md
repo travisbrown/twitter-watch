@@ -265,7 +265,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brettruganalyst">brettruganalyst</a></td>
             <td>2012-01-11</td>
-            <td></td>
+            <td>2023-05-27</td>
             <td align="center"></td>
             <td>12015</td>
         </tr>
