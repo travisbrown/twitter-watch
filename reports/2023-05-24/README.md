@@ -124,7 +124,7 @@ Found 16 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MarkAkinsuli">MarkAkinsuli</a></td>
             <td>2021-01-17</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>544</td>
             <td>46339</td>
@@ -471,7 +471,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VflexSports">VflexSports</a></td>
             <td>2013-06-17</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>3506</td>
         </tr>

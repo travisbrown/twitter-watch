@@ -491,7 +491,7 @@ Found 1089 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/okmatewanker">okmatewanker</a></td>
             <td>2021-11-22</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>1772</td>
         </tr>

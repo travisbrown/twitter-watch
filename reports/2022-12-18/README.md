@@ -284,7 +284,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mewn21">mewn21</a></td>
             <td>2020-05-15</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center">🔒</td>
             <td>70281</td>
         </tr>

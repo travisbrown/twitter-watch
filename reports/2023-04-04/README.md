@@ -232,7 +232,7 @@ Found 2875 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nature_NeedsUs">Nature_NeedsUs</a></td>
             <td>2021-10-27</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>21282</td>
         </tr>

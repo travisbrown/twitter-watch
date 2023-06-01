@@ -1599,7 +1599,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RegoSmurfMamba">RegoSmurfMamba</a></td>
             <td>2019-06-09</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1211</td>
         </tr>

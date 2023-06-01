@@ -2322,7 +2322,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PresidentT4Me">PresidentT4Me</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/919935608">2 others</a>)&nbsp;</td>
             <td>2012-11-01</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>1486</td>
         </tr>

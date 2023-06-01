@@ -124,7 +124,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/David46359032">David46359032</a></td>
             <td>2021-01-28</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>433</td>
             <td>66454</td>

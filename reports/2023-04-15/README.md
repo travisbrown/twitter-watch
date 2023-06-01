@@ -52,7 +52,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BBN_bluecat42">BBN_bluecat42</a></td>
             <td>2011-12-08</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>513</td>
             <td>31598</td>

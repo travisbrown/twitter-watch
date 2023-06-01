@@ -1130,7 +1130,7 @@ Found 2957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SOSnation_">SOSnation_</a></td>
             <td>2020-09-29</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1499</td>
         </tr>

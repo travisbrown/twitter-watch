@@ -64,7 +64,7 @@ Found 15 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/LeGreentext">LeGreentext</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1483159690821484548">2 others</a>)&nbsp;</td>
             <td>2022-01-17</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1913</td>
             <td>1610</td>

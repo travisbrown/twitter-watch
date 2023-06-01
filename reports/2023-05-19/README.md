@@ -475,7 +475,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DiojiBarkerK9">DiojiBarkerK9</a></td>
             <td>2022-08-25</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>2167</td>
         </tr>

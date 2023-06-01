@@ -831,7 +831,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/finnereaux">finnereaux</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/413642155">1 other</a>)&nbsp;</td>
             <td>2011-11-16</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1416</td>
         </tr>

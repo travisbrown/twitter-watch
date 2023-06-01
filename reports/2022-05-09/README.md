@@ -1646,7 +1646,7 @@ Found 1090 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DipBuyPanic">DipBuyPanic</a></td>
             <td>2019-05-20</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1288</td>
         </tr>

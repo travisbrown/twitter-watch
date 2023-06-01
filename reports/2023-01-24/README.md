@@ -1053,7 +1053,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrackANaziMerc">TrackANaziMerc</a></td>
             <td>2022-09-24</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>3968</td>
         </tr>

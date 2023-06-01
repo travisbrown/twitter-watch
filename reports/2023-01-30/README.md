@@ -468,7 +468,7 @@ Found 2888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/adsiegel">adsiegel</a></td>
             <td>2009-10-08</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1638</td>
         </tr>

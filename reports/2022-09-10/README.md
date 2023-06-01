@@ -3714,7 +3714,7 @@ Found 1983 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReallyRickxoxo">ReallyRickxoxo</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1319124890">1 other</a>)&nbsp;</td>
             <td>2013-03-31</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>1040</td>
         </tr>

@@ -1211,7 +1211,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RonisBrazil">RonisBrazil</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/186675435">2 others</a>)&nbsp;</td>
             <td>2010-09-04</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>13242</td>
         </tr>

@@ -76,7 +76,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/StutlerDebra">StutlerDebra</a></td>
             <td>2013-01-16</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>3027</td>
             <td>93307</td>

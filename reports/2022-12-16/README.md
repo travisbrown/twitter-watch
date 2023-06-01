@@ -3216,7 +3216,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eiyaya555">eiyaya555</a></td>
             <td>2021-12-30</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>1282</td>
         </tr>

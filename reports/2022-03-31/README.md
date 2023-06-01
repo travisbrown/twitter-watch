@@ -1025,7 +1025,7 @@ Found 840 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tiagobatista20_">tiagobatista20_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/137249532">1 other</a>)&nbsp;</td>
             <td>2010-04-26</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1986</td>
         </tr>

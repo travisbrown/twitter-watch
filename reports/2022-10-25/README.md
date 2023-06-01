@@ -2327,7 +2327,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MoonerJohn">MoonerJohn</a></td>
             <td>2022-06-23</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1604</td>
         </tr>

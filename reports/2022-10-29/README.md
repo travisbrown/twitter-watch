@@ -5185,7 +5185,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stopinvasion1">stopinvasion1</a></td>
             <td>2017-04-23</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>6849</td>
         </tr>
@@ -9409,7 +9409,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/miopine1">miopine1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/41840838">1 other</a>)&nbsp;</td>
             <td>2009-05-22</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center">🔒</td>
             <td>3718</td>
         </tr>
@@ -23280,7 +23280,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MyDplace">MyDplace</a></td>
             <td>2015-04-30</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>1725</td>
         </tr>
@@ -27163,7 +27163,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KarenMa30812274">KarenMa30812274</a></td>
             <td>2016-05-25</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>1482</td>
         </tr>
@@ -31926,7 +31926,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BobMackmarine">BobMackmarine</a></td>
             <td>2015-06-26</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>1237</td>
         </tr>
@@ -34764,7 +34764,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/tubtimbaker">tubtimbaker</a></td>
             <td>2015-11-27</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>1124</td>
         </tr>

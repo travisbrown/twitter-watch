@@ -601,7 +601,7 @@ Found 806 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BoobsBarry">BoobsBarry</a></td>
             <td>2020-04-19</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>12336</td>
         </tr>

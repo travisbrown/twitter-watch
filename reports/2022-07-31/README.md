@@ -1142,7 +1142,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RobertEimiller">RobertEimiller</a></td>
             <td>2017-01-16</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>3444</td>
         </tr>

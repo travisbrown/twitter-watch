@@ -246,7 +246,7 @@ Found 981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GayYiffBot">GayYiffBot</a></td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>10346</td>
         </tr>
@@ -279,7 +279,7 @@ Found 981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/URdreamingnow">URdreamingnow</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/453437056">1 other</a>)&nbsp;</td>
             <td>2012-01-02</td>
-            <td></td>
+            <td>2023-05-28</td>
             <td align="center"></td>
             <td>8324</td>
         </tr>

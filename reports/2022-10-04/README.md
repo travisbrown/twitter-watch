@@ -2096,7 +2096,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DvmHord">DvmHord</a></td>
             <td>2020-11-19</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>1132</td>
         </tr>

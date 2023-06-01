@@ -542,7 +542,7 @@ Found 1691 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MizuhanaOVT">MizuhanaOVT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1400578118218358788">1 other</a>)&nbsp;</td>
             <td>2021-06-03</td>
-            <td></td>
+            <td>2023-05-29</td>
             <td align="center"></td>
             <td>3037</td>
         </tr>

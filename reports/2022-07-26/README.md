@@ -3770,7 +3770,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nlynnimani66">nlynnimani66</a></td>
             <td>2012-09-20</td>
-            <td></td>
+            <td>2023-05-30</td>
             <td align="center"></td>
             <td>1374</td>
         </tr>
