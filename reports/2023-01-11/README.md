@@ -474,7 +474,7 @@ Found 1523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/louisewamuhirwa">louisewamuhirwa</a></td>
             <td>2020-02-22</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>5998</td>
         </tr>

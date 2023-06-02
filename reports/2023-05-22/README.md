@@ -730,7 +730,7 @@ Found 981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SammysUniverse">SammysUniverse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1075789067051298821">1 other</a>)&nbsp;</td>
             <td>2018-12-20</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1035</td>
         </tr>

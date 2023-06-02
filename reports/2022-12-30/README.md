@@ -1537,7 +1537,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AumGensokyo">AumGensokyo</a></td>
             <td>2020-02-09</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>1234</td>
         </tr>

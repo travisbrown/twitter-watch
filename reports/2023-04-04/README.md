@@ -243,7 +243,7 @@ Found 2875 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/The_Antipodean_">The_Antipodean_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1281854238583189504">3 others</a>)&nbsp;</td>
             <td>2020-07-11</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>14754</td>
         </tr>

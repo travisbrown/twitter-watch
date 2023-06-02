@@ -1373,7 +1373,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/triangleDAYS">triangleDAYS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/29155260">1 other</a>)&nbsp;</td>
             <td>2009-04-06</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>6139</td>
         </tr>

@@ -1287,7 +1287,7 @@ Found 1995 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/worder_s">worder_s</a></td>
             <td>2018-12-13</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>1487</td>
         </tr>

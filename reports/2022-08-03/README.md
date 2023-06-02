@@ -1682,7 +1682,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChinonyelumH">ChinonyelumH</a></td>
             <td>2019-06-25</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>2395</td>
         </tr>

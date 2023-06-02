@@ -40,7 +40,7 @@ Found 5 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RudyHavenstein">RudyHavenstein</a></td>
             <td>2013-04-16</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>96627</td>
             <td>15018</td>

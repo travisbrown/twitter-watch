@@ -1213,7 +1213,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrianV1981">BrianV1981</a></td>
             <td>2014-07-02</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>3885</td>
         </tr>

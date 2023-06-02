@@ -2974,7 +2974,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stormgalNYC">stormgalNYC</a></td>
             <td>2013-09-28</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>1083</td>
         </tr>

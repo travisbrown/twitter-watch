@@ -601,7 +601,7 @@ Found 1107 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Miracdgr">Miracdgr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3153539548">2 others</a>)&nbsp;</td>
             <td>2015-04-10</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>69598</td>
         </tr>

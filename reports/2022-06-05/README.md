@@ -658,7 +658,7 @@ Found 1173 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/elvis_osawe">elvis_osawe</a></td>
             <td>2015-05-08</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>2803</td>
         </tr>

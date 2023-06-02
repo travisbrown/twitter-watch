@@ -1143,7 +1143,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChandleyJason">ChandleyJason</a></td>
             <td>2017-02-25</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>1179</td>
         </tr>

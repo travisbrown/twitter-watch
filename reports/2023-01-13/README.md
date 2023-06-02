@@ -2013,7 +2013,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TS_Krystal_Lynn">TS_Krystal_Lynn</a></td>
             <td>2021-08-15</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1133</td>
         </tr>

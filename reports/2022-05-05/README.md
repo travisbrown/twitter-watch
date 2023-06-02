@@ -1783,7 +1783,7 @@ Found 1179 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/13Bullitts">13Bullitts</a></td>
             <td>2017-06-29</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>6770</td>
         </tr>

@@ -222,7 +222,7 @@ Found 1855 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YukariKingdom18">YukariKingdom18</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1014914504314925056">2 others</a>)&nbsp;</td>
             <td>2018-07-05</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>48330</td>
         </tr>

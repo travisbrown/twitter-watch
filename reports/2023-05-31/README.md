@@ -220,7 +220,7 @@ Found 1119 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fukBidenHarris">fukBidenHarris</a></td>
             <td>2022-05-27</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>11906</td>
         </tr>

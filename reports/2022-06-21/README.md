@@ -1009,7 +1009,7 @@ Found 824 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/generaltudor">generaltudor</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1146432307752050688">1 other</a>)&nbsp;</td>
             <td>2019-07-03</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>1126</td>
         </tr>

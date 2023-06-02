@@ -28,7 +28,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/butt_watermelon">butt_watermelon</a></td>
             <td>2021-08-06</td>
-            <td></td>
+            <td>2023-05-31</td>
             <td align="center"></td>
             <td>11178</td>
             <td>834</td>
