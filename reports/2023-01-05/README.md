@@ -124,7 +124,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RitaRobinsonRi1">RitaRobinsonRi1</a></td>
             <td>2020-03-23</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>853</td>
             <td>93380</td>

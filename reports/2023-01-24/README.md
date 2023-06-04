@@ -206,7 +206,7 @@ Found 3667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SocialCaster">SocialCaster</a></td>
             <td>2010-06-25</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>93117</td>
         </tr>

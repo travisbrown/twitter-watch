@@ -4084,7 +4084,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/VibinApu">VibinApu</a></td>
             <td>2022-02-10</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>341</td>
             <td>56161</td>

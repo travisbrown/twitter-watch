@@ -1355,7 +1355,7 @@ Found 1359 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrinksStupid">DrinksStupid</a></td>
             <td>2020-01-02</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1237</td>
         </tr>

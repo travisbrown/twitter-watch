@@ -5500,7 +5500,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shinunao2">shinunao2</a></td>
             <td>2016-12-02</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>51752</td>
         </tr>

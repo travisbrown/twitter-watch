@@ -381,7 +381,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JdfixesCredit">JdfixesCredit</a></td>
             <td>2020-05-28</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>4318</td>
         </tr>
@@ -975,7 +975,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ForceTheQ17">ForceTheQ17</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1001940547278442497">3 others</a>)&nbsp;</td>
             <td>2018-05-30</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1793</td>
         </tr>

@@ -1039,7 +1039,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RickV3D">RickV3D</a></td>
             <td>2018-10-05</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>4349</td>
         </tr>

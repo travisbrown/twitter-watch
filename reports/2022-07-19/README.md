@@ -990,7 +990,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/atnight65">atnight65</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1276553642036920320">1 other</a>)&nbsp;</td>
             <td>2020-06-26</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>6300</td>
         </tr>

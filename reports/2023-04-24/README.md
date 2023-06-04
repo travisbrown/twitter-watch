@@ -551,7 +551,7 @@ Found 1384 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/flossfurman">flossfurman</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/826213575622524930">1 other</a>)&nbsp;</td>
             <td>2017-01-30</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>3111</td>
         </tr>

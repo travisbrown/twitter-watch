@@ -2487,7 +2487,7 @@ Found 1692 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EckertWaltraud">EckertWaltraud</a></td>
             <td>2021-11-12</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1083</td>
         </tr>

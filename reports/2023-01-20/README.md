@@ -655,7 +655,7 @@ Found 2033 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Q_Patriot_Gamer">Q_Patriot_Gamer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1359314806067638276">1 other</a>)&nbsp;</td>
             <td>2021-02-10</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>6168</td>
         </tr>

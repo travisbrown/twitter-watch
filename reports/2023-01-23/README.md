@@ -228,7 +228,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/termc1">termc1</a></td>
             <td>2009-04-29</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>7892</td>
         </tr>
@@ -646,7 +646,7 @@ Found 1290 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/llsch1">llsch1</a></td>
             <td>2015-08-28</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1163</td>
         </tr>

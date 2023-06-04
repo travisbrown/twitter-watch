@@ -76,7 +76,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RobLexar">RobLexar</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/13957012">2 others</a>)&nbsp;</td>
             <td>2008-02-25</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1195</td>
             <td>60787</td>
@@ -112,7 +112,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Gilbertrjg28">Gilbertrjg28</a></td>
             <td>2011-12-17</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>2526</td>
             <td>87889</td>
@@ -124,7 +124,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/track_worker">track_worker</a></td>
             <td>2021-10-20</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1324</td>
             <td>91857</td>
@@ -454,7 +454,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Derrick47886845">Derrick47886845</a></td>
             <td>2021-02-16</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>3846</td>
         </tr>
@@ -850,7 +850,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CalebBKent">CalebBKent</a></td>
             <td>2017-11-02</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1767</td>
         </tr>
@@ -883,7 +883,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PaullHutchh">PaullHutchh</a></td>
             <td>2012-10-04</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1712</td>
         </tr>

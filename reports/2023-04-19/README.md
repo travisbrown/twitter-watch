@@ -1031,7 +1031,7 @@ Found 2295 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gnanam_Suriya">Gnanam_Suriya</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1268129907550216197">2 others</a>)&nbsp;</td>
             <td>2020-06-03</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1586</td>
         </tr>

@@ -746,7 +746,7 @@ Found 1996 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealEstateSA_PK">RealEstateSA_PK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/158876399">1 other</a>)&nbsp;</td>
             <td>2010-06-23</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>3504</td>
         </tr>

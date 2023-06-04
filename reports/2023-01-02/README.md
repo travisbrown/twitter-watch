@@ -124,7 +124,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/noliberalloons">noliberalloons</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>2342</td>
             <td>24694</td>

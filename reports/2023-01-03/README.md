@@ -445,7 +445,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/alebejaranoz1">alebejaranoz1</a></td>
             <td>2019-11-15</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>4617</td>
         </tr>
@@ -511,7 +511,7 @@ Found 1915 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/El_Duende1">El_Duende1</a></td>
             <td>2009-08-27</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>3285</td>
         </tr>

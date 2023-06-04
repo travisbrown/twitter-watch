@@ -356,7 +356,7 @@ Found 981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoachJimClayton">CoachJimClayton</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/123258783">2 others</a>)&nbsp;</td>
             <td>2010-03-15</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>4791</td>
         </tr>

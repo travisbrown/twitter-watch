@@ -521,7 +521,7 @@ Found 947 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TimidAlicorn">TimidAlicorn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1381965124051738624">2 others</a>)&nbsp;</td>
             <td>2021-04-13</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1239</td>
         </tr>

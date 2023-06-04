@@ -1895,7 +1895,7 @@ Found 1683 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Detective007_">Detective007_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/813331872939986944">3 others</a>)&nbsp;</td>
             <td>2016-12-26</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1807</td>
         </tr>

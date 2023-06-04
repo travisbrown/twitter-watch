@@ -1745,7 +1745,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/561Marie">561Marie</a></td>
             <td>2012-04-29</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center">🔒</td>
             <td>1702</td>
         </tr>

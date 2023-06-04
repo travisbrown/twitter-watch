@@ -2121,7 +2121,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jimmycardentey">jimmycardentey</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/532499999">1 other</a>)&nbsp;</td>
             <td>2012-03-21</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>2369</td>
         </tr>

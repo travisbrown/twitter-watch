@@ -1761,7 +1761,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JAdamany">JAdamany</a></td>
             <td>2013-04-21</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1052</td>
         </tr>

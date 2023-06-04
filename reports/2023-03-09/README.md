@@ -446,7 +446,7 @@ Found 2170 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrMista50938375">MrMista50938375</a></td>
             <td>2020-09-22</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>2315</td>
         </tr>

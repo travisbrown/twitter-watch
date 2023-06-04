@@ -40,7 +40,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/TrashcanElvis">TrashcanElvis</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1481399437427503104">2 others</a>)&nbsp;</td>
             <td>2022-01-12</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>645</td>
             <td>2420</td>

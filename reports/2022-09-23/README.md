@@ -3026,7 +3026,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FalconsGotNext2">FalconsGotNext2</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1513924369965359107">1 other</a>)&nbsp;</td>
             <td>2022-04-12</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1762</td>
         </tr>

@@ -407,7 +407,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/51Prentice">51Prentice</a></td>
             <td>2012-05-29</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>16410</td>
         </tr>
@@ -1397,7 +1397,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SourceForTruth">SourceForTruth</a></td>
             <td>2022-06-06</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1227</td>
         </tr>
@@ -1452,7 +1452,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/edanbrick">edanbrick</a></td>
             <td>2022-10-07</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1151</td>
         </tr>

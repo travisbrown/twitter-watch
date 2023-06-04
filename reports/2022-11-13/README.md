@@ -1468,7 +1468,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CrissContino">CrissContino</a></td>
             <td>2010-03-04</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1132</td>
         </tr>

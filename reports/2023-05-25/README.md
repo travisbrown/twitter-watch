@@ -76,7 +76,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Houagg77">Houagg77</a></td>
             <td>2010-10-27</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>3621</td>
             <td>37547</td>
@@ -290,7 +290,7 @@ Found 1025 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BillyRalph">BillyRalph</a></td>
             <td>2009-02-16</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>6624</td>
         </tr>
@@ -455,7 +455,7 @@ Found 1025 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Stan71blue">Stan71blue</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>3054</td>
         </tr>
@@ -499,7 +499,7 @@ Found 1025 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/josephpapptheat">josephpapptheat</a></td>
             <td>2014-08-12</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1787</td>
         </tr>

@@ -323,7 +323,7 @@ Found 887 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brian_cunninghm">brian_cunninghm</a></td>
             <td>2013-04-24</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>2107</td>
         </tr>

@@ -1040,7 +1040,7 @@ Found 948 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mmaziarzivytec1">mmaziarzivytec1</a></td>
             <td>2018-07-17</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1013</td>
         </tr></table>

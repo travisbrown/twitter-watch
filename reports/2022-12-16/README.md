@@ -2721,7 +2721,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fuckboyphobic">Fuckboyphobic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2196905598">3 others</a>)&nbsp;</td>
             <td>2013-11-16</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1563</td>
         </tr>

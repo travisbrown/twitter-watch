@@ -383,7 +383,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cabaum1">cabaum1</a></td>
             <td>2011-07-29</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center">✔️</td>
             <td>7854</td>
         </tr>
@@ -537,7 +537,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eugene_shultz">eugene_shultz</a></td>
             <td>2020-06-29</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>2658</td>
         </tr>
@@ -647,7 +647,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PrinceMolekga">PrinceMolekga</a></td>
             <td>2020-03-15</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1729</td>
         </tr>

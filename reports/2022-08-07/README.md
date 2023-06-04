@@ -2165,7 +2165,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sperelli_">Sperelli_</a></td>
             <td>2021-08-26</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>1597</td>
         </tr>

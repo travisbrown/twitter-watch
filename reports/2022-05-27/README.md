@@ -810,7 +810,7 @@ Found 775 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/smaIIgum">smaIIgum</a></td>
             <td>2022-03-09</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>10020</td>
         </tr>

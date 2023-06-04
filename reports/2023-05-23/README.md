@@ -460,7 +460,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/artursorin">artursorin</a></td>
             <td>2011-12-07</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>2936</td>
         </tr>
@@ -526,7 +526,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/my_truth_post">my_truth_post</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1122143225622429696">2 others</a>)&nbsp;</td>
             <td>2019-04-27</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>2585</td>
         </tr>

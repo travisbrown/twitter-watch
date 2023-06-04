@@ -459,7 +459,7 @@ Found 3248 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brucegoldwell">brucegoldwell</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/16475395">3 others</a>)&nbsp;</td>
             <td>2008-09-26</td>
-            <td></td>
+            <td>2023-06-02</td>
             <td align="center"></td>
             <td>1785</td>
         </tr>

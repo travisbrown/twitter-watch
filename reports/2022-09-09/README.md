@@ -775,7 +775,7 @@ Found 1970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brandy_cheers">brandy_cheers</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/32933540">3 others</a>)&nbsp;</td>
             <td>2009-04-18</td>
-            <td></td>
+            <td>2023-06-01</td>
             <td align="center"></td>
             <td>32191</td>
         </tr>
