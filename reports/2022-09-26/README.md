@@ -2048,7 +2048,7 @@ Found 1466 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jivinmalc">jivinmalc</a></td>
             <td>2013-11-17</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1483</td>
         </tr>

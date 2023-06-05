@@ -439,7 +439,7 @@ Found 1572 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PurchaseNFTS">PurchaseNFTS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2989666739">6 others</a>)&nbsp;</td>
             <td>2015-01-21</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>3426</td>
         </tr>

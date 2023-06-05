@@ -64,7 +64,7 @@ Found 11 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/CheesedHammer">CheesedHammer</a></td>
             <td>2017-01-21</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>819</td>
             <td>32238</td>

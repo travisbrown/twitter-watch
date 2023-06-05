@@ -1590,7 +1590,7 @@ Found 525 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StiffNips2">StiffNips2</a></td>
             <td>2021-11-21</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1231</td>
         </tr>

@@ -40,7 +40,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/PatriotGirl__">PatriotGirl__</a></td>
             <td>2022-06-30</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>17726</td>
             <td>612</td>

@@ -383,7 +383,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cryptoking">Cryptoking</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/943378092059496448">1 other</a>)&nbsp;</td>
             <td>2017-12-20</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center">✔️</td>
             <td>106229</td>
         </tr>

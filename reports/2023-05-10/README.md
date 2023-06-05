@@ -214,7 +214,7 @@ Found 1076 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NZadourian">NZadourian</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1618537850">5 others</a>)&nbsp;</td>
             <td>2013-07-24</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>46248</td>
         </tr>

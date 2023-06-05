@@ -1817,7 +1817,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RehanMalikURL">RehanMalikURL</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/837971291353268224">1 other</a>)&nbsp;</td>
             <td>2017-03-04</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1894</td>
         </tr>

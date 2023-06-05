@@ -88,7 +88,7 @@ Found 10 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/mstandridge0630">mstandridge0630</a></td>
             <td>2017-08-23</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>3410</td>
             <td>61449</td>
@@ -916,7 +916,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CdnBitcoinConf">CdnBitcoinConf</a></td>
             <td>2022-07-14</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1666</td>
         </tr>
@@ -982,7 +982,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Drew_W5">Drew_W5</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1206643064439287808">1 other</a>)&nbsp;</td>
             <td>2019-12-16</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center">🔒</td>
             <td>1470</td>
         </tr>
@@ -1191,7 +1191,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TinyKhan7">TinyKhan7</a></td>
             <td>2022-04-09</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1052</td>
         </tr>
@@ -1202,7 +1202,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NoMore_Soon">NoMore_Soon</a></td>
             <td>2021-03-09</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1047</td>
         </tr>

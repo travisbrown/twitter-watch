@@ -370,7 +370,7 @@ Found 1839 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SamDreamsMaker">SamDreamsMaker</a></td>
             <td>2018-03-03</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>4777</td>
         </tr>

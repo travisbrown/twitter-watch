@@ -1068,7 +1068,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ramzaruglia">ramzaruglia</a></td>
             <td>2009-04-25</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>1835</td>
         </tr>

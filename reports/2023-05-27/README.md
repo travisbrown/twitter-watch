@@ -227,7 +227,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/clydecloutgod">clydecloutgod</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/278752114">17 others</a>)&nbsp;</td>
             <td>2011-04-07</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>6852</td>
         </tr>
@@ -370,7 +370,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BrainControl1">BrainControl1</a></td>
             <td>2009-09-28</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>4294</td>
         </tr>
@@ -403,7 +403,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VisceralVixen69">VisceralVixen69</a></td>
             <td>2020-11-14</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>3998</td>
         </tr>
@@ -656,7 +656,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/StockUnlocked">StockUnlocked</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/213559218">1 other</a>)&nbsp;</td>
             <td>2010-11-09</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>2026</td>
         </tr>

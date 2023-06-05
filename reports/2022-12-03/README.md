@@ -1100,7 +1100,7 @@ Found 4178 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sul6an_21">sul6an_21</a></td>
             <td>2019-06-27</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>5313</td>
         </tr>

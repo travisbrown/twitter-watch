@@ -278,7 +278,7 @@ Found 1454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eirgallant">eirgallant</a></td>
             <td>2018-07-21</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>11093</td>
         </tr>
@@ -322,7 +322,7 @@ Found 1454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ricky_sws">Ricky_sws</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/939122343724466177">1 other</a>)&nbsp;</td>
             <td>2017-12-08</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>7549</td>
         </tr>
@@ -641,7 +641,7 @@ Found 1454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CritiCatsNFT">CritiCatsNFT</a></td>
             <td>2022-05-21</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1859</td>
         </tr>

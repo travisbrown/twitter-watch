@@ -427,7 +427,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SpectrumHerald">SpectrumHerald</a></td>
             <td>2014-02-02</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>6019</td>
         </tr>
@@ -449,7 +449,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AussieBotStudio">AussieBotStudio</a></td>
             <td>2021-03-13</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>5604</td>
         </tr>
@@ -614,7 +614,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Redsun_NFT">Redsun_NFT</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1104287149">1 other</a>)&nbsp;</td>
             <td>2013-01-19</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>2699</td>
         </tr>
@@ -735,7 +735,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/czverse">czverse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/839759863437643776">11 others</a>)&nbsp;</td>
             <td>2017-03-09</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>2018</td>
         </tr>
@@ -1153,7 +1153,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dkcryptoking1">dkcryptoking1</a></td>
             <td>2021-04-18</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1019</td>
         </tr>

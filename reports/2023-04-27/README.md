@@ -694,7 +694,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Newcastle_FC">Newcastle_FC</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3240345578">4 others</a>)&nbsp;</td>
             <td>2015-06-09</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1514</td>
         </tr>

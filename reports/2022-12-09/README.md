@@ -767,7 +767,7 @@ Found 2587 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ProudDem83">ProudDem83</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1103887541676072961">2 others</a>)&nbsp;</td>
             <td>2019-03-08</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>6007</td>
         </tr>

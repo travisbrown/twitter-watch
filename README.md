@@ -32,14 +32,14 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 755778
-* Total number of suspension reversals detected: 63523
-* Mean number of followers for suspended accounts: 1079.84
+* Total number of suspensions detected: 756563
+* Total number of suspension reversals detected: 63706
+* Mean number of followers for suspended accounts: 1078.47
 * Median number of followers for suspended accounts: 35.0
-* Mean age of suspended accounts (days): 1299.46
-* Median age of suspended accounts (days): 495.0
+* Mean age of suspended accounts (days): 1300.92
+* Median age of suspended accounts (days): 496.0
 * Total number of verified accounts suspended: 263
-* Total number of protected accounts suspended: 54286
+* Total number of protected accounts suspended: 54365
 * Total number of suspensions for accounts previously withheld in specific countries: 58
 * Total number of screen name changes detected: 966283
 
@@ -290,10 +290,18 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2023-06-05/"> 5 June 2023</a>
+            </td>
+            <td>250</td>
+            <td>2</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2023-06-04/"> 4 June 2023</a>
             </td>
-            <td>1539</td>
-            <td>1</td>
+            <td>3598</td>
+            <td>4</td>
             <td>0</td>
         </tr>
         <tr>

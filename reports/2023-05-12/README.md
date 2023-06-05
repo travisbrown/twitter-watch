@@ -482,7 +482,7 @@ Found 1010 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/batshitape">batshitape</a></td>
             <td>2021-11-11</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>2905</td>
         </tr>

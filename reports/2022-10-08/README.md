@@ -1584,7 +1584,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DaveFromFlint2">DaveFromFlint2</a></td>
             <td>2022-04-28</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>1457</td>
         </tr>

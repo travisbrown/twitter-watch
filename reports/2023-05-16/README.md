@@ -244,7 +244,7 @@ Found 970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mutsuki18nyan">mutsuki18nyan</a></td>
             <td>2019-11-10</td>
-            <td></td>
+            <td>2023-06-03</td>
             <td align="center"></td>
             <td>9000</td>
         </tr>
