@@ -1738,7 +1738,7 @@ Found 1533 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnOrlinski">JohnOrlinski</a></td>
             <td>2014-06-16</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>1173</td>
         </tr>

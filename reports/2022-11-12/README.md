@@ -148,7 +148,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/RoshdyYann">RoshdyYann</a></td>
             <td>2021-08-27</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>1234</td>
             <td>44420</td>

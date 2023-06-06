@@ -218,7 +218,7 @@ Found 2529 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amandaterry">amandaterry</a></td>
             <td>2008-09-19</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>6961</td>
         </tr>
@@ -295,7 +295,7 @@ Found 2529 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/basheer_alturk">basheer_alturk</a></td>
             <td>2013-08-14</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>5083</td>
         </tr>

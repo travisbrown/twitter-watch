@@ -906,7 +906,7 @@ Found 858 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/claire312005">claire312005</a></td>
             <td>2009-12-01</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>2957</td>
         </tr>

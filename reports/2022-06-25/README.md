@@ -1016,7 +1016,7 @@ Found 1302 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NoSurrender200">NoSurrender200</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2299826742">2 others</a>)&nbsp;</td>
             <td>2014-01-19</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>12984</td>
         </tr>

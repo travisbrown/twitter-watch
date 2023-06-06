@@ -1461,7 +1461,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Aisshwarya_">Aisshwarya_</a></td>
             <td>2018-09-07</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>1498</td>
         </tr>

@@ -3781,7 +3781,7 @@ Found 3594 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mr_TeddyBR">Mr_TeddyBR</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/816376557174333440">1 other</a>)&nbsp;</td>
             <td>2017-01-03</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>5146</td>
         </tr>

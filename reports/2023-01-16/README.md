@@ -447,7 +447,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ASJ4T">ASJ4T</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1241541341613412352">1 other</a>)&nbsp;</td>
             <td>2020-03-22</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>3832</td>
         </tr>

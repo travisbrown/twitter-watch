@@ -634,7 +634,7 @@ Found 2635 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Zarwali_Khan_">Zarwali_Khan_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3032554639">2 others</a>)&nbsp;</td>
             <td>2015-02-20</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>11475</td>
         </tr>

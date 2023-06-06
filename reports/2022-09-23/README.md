@@ -2399,7 +2399,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/domingoparque">domingoparque</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2395003038">3 others</a>)&nbsp;</td>
             <td>2014-03-17</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>2541</td>
         </tr>
@@ -4203,7 +4203,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EBlondemaga">EBlondemaga</a></td>
             <td>2020-01-24</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1191</td>
         </tr>

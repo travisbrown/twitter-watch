@@ -244,7 +244,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hakangunery_">hakangunery_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/741535610561826816">2 others</a>)&nbsp;</td>
             <td>2016-06-11</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>7457</td>
         </tr>

@@ -429,7 +429,7 @@ Found 830 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kimcooper">kimcooper</a></td>
             <td>2007-04-09</td>
-            <td></td>
+            <td>2023-06-04</td>
             <td align="center"></td>
             <td>2058</td>
         </tr>
