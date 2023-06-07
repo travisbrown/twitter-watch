@@ -3433,7 +3433,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GiftEnyadikeJr">GiftEnyadikeJr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1018818818834096128">1 other</a>)&nbsp;</td>
             <td>2018-07-16</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1771</td>
         </tr>

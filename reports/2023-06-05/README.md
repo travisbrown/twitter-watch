@@ -40,7 +40,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HorrorsHand">HorrorsHand</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/192316264">13 others</a>)&nbsp;</td>
             <td>2010-09-18</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>555</td>
             <td>17237</td>

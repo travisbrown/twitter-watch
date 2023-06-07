@@ -1093,7 +1093,7 @@ Found 2155 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jackpoint188">jackpoint188</a></td>
             <td>2010-10-15</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1115</td>
         </tr>

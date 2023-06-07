@@ -370,7 +370,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarenHofstad">MarenHofstad</a></td>
             <td>2017-05-22</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>13989</td>
         </tr>

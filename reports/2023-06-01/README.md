@@ -1329,7 +1329,7 @@ Found 2529 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bystander210">bystander210</a></td>
             <td>2018-11-19</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1199</td>
         </tr>

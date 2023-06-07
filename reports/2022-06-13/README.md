@@ -2335,7 +2335,7 @@ Found 1530 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RosaWal90673631">RosaWal90673631</a></td>
             <td>2019-02-14</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1352</td>
         </tr>

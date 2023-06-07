@@ -3388,7 +3388,7 @@ Found 437 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/bot4928543">bot4928543</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4885525736">1 other</a>)&nbsp;</td>
             <td>2016-02-10</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>196</td>
             <td>36398</td>

@@ -2307,7 +2307,7 @@ Found 993 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fr_hess">fr_hess</a></td>
             <td>2016-07-20</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1011</td>
         </tr>

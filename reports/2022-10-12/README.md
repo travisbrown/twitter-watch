@@ -2646,7 +2646,7 @@ Found 1981 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zeoromao">zeoromao</a></td>
             <td>2022-05-25</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1599</td>
         </tr>

@@ -1922,7 +1922,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joaopulbat">joaopulbat</a></td>
             <td>2015-05-12</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>3786</td>
         </tr>

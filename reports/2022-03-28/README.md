@@ -832,7 +832,7 @@ Found 526 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jetcat_jesus">jetcat_jesus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3293407354">1 other</a>)&nbsp;</td>
             <td>2015-05-21</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>2409</td>
         </tr>

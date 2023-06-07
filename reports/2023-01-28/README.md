@@ -438,7 +438,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sweetboyfola">Sweetboyfola</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/970585322823344128">1 other</a>)&nbsp;</td>
             <td>2018-03-05</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>2617</td>
         </tr>

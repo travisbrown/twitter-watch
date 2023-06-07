@@ -884,7 +884,7 @@ Found 420 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brienico">brienico</a></td>
             <td>2014-11-10</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>5082</td>
         </tr>

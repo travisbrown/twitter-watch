@@ -2095,7 +2095,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NYCbtmboi">NYCbtmboi</a></td>
             <td>2021-11-24</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1396</td>
         </tr>

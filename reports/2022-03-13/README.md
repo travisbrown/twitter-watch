@@ -557,7 +557,7 @@ Found 519 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CiuroKathryn">CiuroKathryn</a></td>
             <td>2018-09-16</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>3520</td>
         </tr>

@@ -230,7 +230,7 @@ Found 2491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Solgurusol">Solgurusol</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/325806410">19 others</a>)&nbsp;</td>
             <td>2011-06-28</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>22385</td>
         </tr>

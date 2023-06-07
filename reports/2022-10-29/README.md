@@ -5999,7 +5999,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmericanExcept2">AmericanExcept2</a></td>
             <td>2019-10-10</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>5911</td>
         </tr>
@@ -28098,7 +28098,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TrumpOnStump">TrumpOnStump</a></td>
             <td>2009-07-02</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1431</td>
         </tr>

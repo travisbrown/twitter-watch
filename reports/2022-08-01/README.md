@@ -1407,7 +1407,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JamesayDer">JamesayDer</a></td>
             <td>2020-04-05</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>1339</td>
         </tr>

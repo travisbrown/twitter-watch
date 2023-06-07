@@ -934,7 +934,7 @@ Found 507 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wjamesawill">wjamesawill</a></td>
             <td>2011-11-08</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>3173</td>
         </tr>

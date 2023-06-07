@@ -1962,7 +1962,7 @@ Found 2759 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Edu27A">Edu27A</a></td>
             <td>2019-10-26</td>
-            <td></td>
+            <td>2023-06-05</td>
             <td align="center"></td>
             <td>3430</td>
         </tr>
