@@ -739,7 +739,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LuisMarzagao">LuisMarzagao</a></td>
             <td>2013-05-05</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>11908</td>
         </tr>

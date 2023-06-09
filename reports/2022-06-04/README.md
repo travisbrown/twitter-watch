@@ -1783,7 +1783,7 @@ Found 987 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/drumsolo1950">drumsolo1950</a></td>
             <td>2016-05-31</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>2120</td>
         </tr>

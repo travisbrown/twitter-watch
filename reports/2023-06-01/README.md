@@ -889,7 +889,7 @@ Found 2529 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dollazblock">dollazblock</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1401697775671205889">1 other</a>)&nbsp;</td>
             <td>2021-06-07</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1910</td>
         </tr>

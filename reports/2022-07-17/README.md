@@ -2328,7 +2328,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joneswave">joneswave</a></td>
             <td>2011-07-25</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1650</td>
         </tr>

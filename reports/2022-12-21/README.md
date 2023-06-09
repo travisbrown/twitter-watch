@@ -1438,7 +1438,7 @@ Found 1569 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/just_fish_uwu">just_fish_uwu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1186389000065564680">3 others</a>)&nbsp;</td>
             <td>2019-10-21</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1195</td>
         </tr>

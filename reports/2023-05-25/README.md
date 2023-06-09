@@ -554,7 +554,7 @@ Found 1025 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AsengiA">AsengiA</a></td>
             <td>2013-03-05</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1401</td>
         </tr>

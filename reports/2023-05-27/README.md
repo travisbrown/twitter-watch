@@ -381,7 +381,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Narrator_Wuten">Narrator_Wuten</a></td>
             <td>2014-05-26</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>4139</td>
         </tr>
@@ -458,7 +458,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gaksukanekoneko">gaksukanekoneko</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1319516701956870144">14 others</a>)&nbsp;</td>
             <td>2020-10-23</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>3268</td>
         </tr>

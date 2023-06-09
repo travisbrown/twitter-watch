@@ -76,7 +76,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Proparazzi">Proparazzi</a></td>
             <td>2013-03-14</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>606</td>
             <td>77847</td>

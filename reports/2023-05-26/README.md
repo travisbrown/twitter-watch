@@ -388,7 +388,7 @@ Found 1454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EndTheParanoia">EndTheParanoia</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1380287018475925504">1 other</a>)&nbsp;</td>
             <td>2021-04-08</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>4970</td>
         </tr>

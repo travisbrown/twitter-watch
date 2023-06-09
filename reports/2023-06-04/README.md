@@ -547,7 +547,7 @@ Found 1034 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mr_Now_Or_Never">Mr_Now_Or_Never</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1370680237781098498">1 other</a>)&nbsp;</td>
             <td>2021-03-13</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1077</td>
         </tr>

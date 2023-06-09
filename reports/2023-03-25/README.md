@@ -673,7 +673,7 @@ Found 1999 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mcdonough_juli">mcdonough_juli</a></td>
             <td>2009-10-02</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1540</td>
         </tr>

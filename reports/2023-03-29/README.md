@@ -332,7 +332,7 @@ Found 1855 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/soulbound_UK">soulbound_UK</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4174383736">14 others</a>)&nbsp;</td>
             <td>2015-11-12</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>7277</td>
         </tr>

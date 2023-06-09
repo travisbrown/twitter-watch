@@ -316,7 +316,7 @@ Found 30 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Guy_Knob">Guy_Knob</a></td>
             <td>2016-02-04</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>3465</td>
             <td>88391</td>

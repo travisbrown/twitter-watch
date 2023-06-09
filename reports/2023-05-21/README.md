@@ -400,7 +400,7 @@ Found 887 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JamesKagulu">JamesKagulu</a></td>
             <td>2017-10-05</td>
-            <td></td>
+            <td>2023-06-06</td>
             <td align="center"></td>
             <td>1502</td>
         </tr>
