@@ -2282,7 +2282,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UVichier">UVichier</a></td>
             <td>2019-06-18</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>3323</td>
         </tr>
@@ -3349,7 +3349,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pavan_abilio">pavan_abilio</a></td>
             <td>2017-03-21</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1884</td>
         </tr>
@@ -3602,7 +3602,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wharrrgarrbl">wharrrgarrbl</a></td>
             <td>2016-10-04</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>1665</td>
         </tr>

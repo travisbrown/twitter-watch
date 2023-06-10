@@ -1578,7 +1578,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Temitope_topper">Temitope_topper</a></td>
             <td>2012-04-27</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>1473</td>
         </tr>

@@ -583,7 +583,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mindollmindoll">mindollmindoll</a></td>
             <td>2018-03-20</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>3061</td>
         </tr>

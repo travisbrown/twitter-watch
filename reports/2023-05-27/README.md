@@ -392,7 +392,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/edwereddie">edwereddie</a></td>
             <td>2013-10-12</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>4127</td>
         </tr>
@@ -832,7 +832,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CPLRusso2">CPLRusso2</a></td>
             <td>2008-05-03</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1396</td>
         </tr>
@@ -1107,7 +1107,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cevipat">cevipat</a></td>
             <td>2011-07-29</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>1017</td>
         </tr>

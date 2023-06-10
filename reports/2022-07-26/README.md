@@ -3055,7 +3055,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/uelintonolive10">uelintonolive10</a></td>
             <td>2017-07-30</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>2010</td>
         </tr>
@@ -3176,7 +3176,7 @@ Found 2812 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaluBolsonaro">MaluBolsonaro</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/853372346903744514">2 others</a>)&nbsp;</td>
             <td>2017-04-15</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1846</td>
         </tr>

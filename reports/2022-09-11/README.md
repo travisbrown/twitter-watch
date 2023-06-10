@@ -898,7 +898,7 @@ Found 1162 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Geopolog">Geopolog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2857994147">1 other</a>)&nbsp;</td>
             <td>2014-11-03</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>6707</td>
         </tr>

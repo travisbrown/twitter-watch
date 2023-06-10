@@ -1403,7 +1403,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/whaditizzz">whaditizzz</a></td>
             <td>2016-10-14</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>4830</td>
         </tr>

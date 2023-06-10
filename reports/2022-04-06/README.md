@@ -1261,7 +1261,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BattulgaT">BattulgaT</a></td>
             <td>2010-05-11</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>8342</td>
         </tr>

@@ -755,7 +755,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ca_Moredi">Ca_Moredi</a></td>
             <td>2009-06-26</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>9850</td>
         </tr>
@@ -1217,7 +1217,7 @@ Found 1283 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SamuelF41739906">SamuelF41739906</a></td>
             <td>2017-07-16</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>2846</td>
         </tr>

@@ -469,7 +469,7 @@ Found 1035 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Binary_Punks">Binary_Punks</a></td>
             <td>2021-09-15</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>3689</td>
         </tr>

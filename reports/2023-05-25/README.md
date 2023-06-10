@@ -312,7 +312,7 @@ Found 1025 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MikuIsMaiWaifu">MikuIsMaiWaifu</a></td>
             <td>2012-07-19</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>5265</td>
         </tr>

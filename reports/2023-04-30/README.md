@@ -218,7 +218,7 @@ Found 857 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/racal_ra">racal_ra</a></td>
             <td>2019-11-26</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>8859</td>
         </tr>

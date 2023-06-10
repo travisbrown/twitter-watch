@@ -1218,7 +1218,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/solidjim">solidjim</a></td>
             <td>2009-03-19</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center">🔒</td>
             <td>1767</td>
         </tr>

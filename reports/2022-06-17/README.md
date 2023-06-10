@@ -992,7 +992,7 @@ Found 1561 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pamadkisson">pamadkisson</a></td>
             <td>2008-12-21</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>3093</td>
         </tr>

@@ -758,7 +758,7 @@ Found 1517 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rowan8413">Rowan8413</a></td>
             <td>2022-03-27</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>10104</td>
         </tr>

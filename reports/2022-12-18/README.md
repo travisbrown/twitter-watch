@@ -1659,7 +1659,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zopazoza">zopazoza</a></td>
             <td>2010-07-06</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1301</td>
         </tr>

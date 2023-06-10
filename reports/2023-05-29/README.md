@@ -477,7 +477,7 @@ Found 2155 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/atmanifarid">atmanifarid</a></td>
             <td>2012-04-18</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>4132</td>
         </tr>
@@ -1016,7 +1016,7 @@ Found 2155 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/serwer_sheraz">serwer_sheraz</a></td>
             <td>2018-04-05</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1248</td>
         </tr>

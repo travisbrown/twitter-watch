@@ -2018,7 +2018,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/failscaptain">failscaptain</a></td>
             <td>2021-08-12</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1031</td>
         </tr>

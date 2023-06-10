@@ -699,7 +699,7 @@ Found 1544 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/acfisher">acfisher</a></td>
             <td>2008-03-10</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>17542</td>
         </tr>

@@ -1325,7 +1325,7 @@ Found 1419 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SorosMustPay">SorosMustPay</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2710061300">1 other</a>)&nbsp;</td>
             <td>2014-08-05</td>
-            <td></td>
+            <td>2023-06-08</td>
             <td align="center"></td>
             <td>2489</td>
         </tr>

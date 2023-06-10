@@ -849,7 +849,7 @@ Found 374 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ned4zsp">ned4zsp</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3041561899">4 others</a>)&nbsp;</td>
             <td>2015-02-25</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center">🔒</td>
             <td>1349</td>
         </tr>

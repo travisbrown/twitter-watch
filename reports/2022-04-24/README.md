@@ -4244,7 +4244,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SkittlezSmacker">SkittlezSmacker</a></td>
             <td>2020-11-22</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1012</td>
         </tr>

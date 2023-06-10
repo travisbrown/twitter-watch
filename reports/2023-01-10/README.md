@@ -1948,7 +1948,7 @@ Found 1815 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rikschmitz1">rikschmitz1</a></td>
             <td>2014-11-19</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1273</td>
         </tr>

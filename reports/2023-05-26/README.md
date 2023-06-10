@@ -773,7 +773,7 @@ Found 1454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BosshogAZ">BosshogAZ</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/862283251">8 others</a>)&nbsp;</td>
             <td>2012-10-05</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1365</td>
         </tr>

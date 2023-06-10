@@ -339,7 +339,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BenjaminZoe3">BenjaminZoe3</a></td>
             <td>2020-04-07</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>4567</td>
         </tr>
@@ -460,7 +460,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BohoArtRunway">BohoArtRunway</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/934103410495848448">1 other</a>)&nbsp;</td>
             <td>2017-11-24</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>2799</td>
         </tr>
@@ -691,7 +691,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jeeff_Eth">Jeeff_Eth</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1371783577113878533">2 others</a>)&nbsp;</td>
             <td>2021-03-16</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1931</td>
         </tr>
@@ -790,7 +790,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SeriousBlick">SeriousBlick</a></td>
             <td>2022-01-04</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>1604</td>
         </tr>
@@ -966,7 +966,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TonyBenge">TonyBenge</a></td>
             <td>2010-03-29</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>1181</td>
         </tr>

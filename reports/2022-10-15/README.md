@@ -2289,7 +2289,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EdicarlosOli">EdicarlosOli</a></td>
             <td>2015-09-25</td>
-            <td></td>
+            <td>2023-06-07</td>
             <td align="center"></td>
             <td>2606</td>
         </tr>
