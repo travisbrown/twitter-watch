@@ -339,7 +339,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/andrewellson">andrewellson</a></td>
             <td>2009-05-08</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center">✔️</td>
             <td>10580</td>
         </tr>

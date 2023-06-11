@@ -472,7 +472,7 @@ Found 66 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/smart_ass_man">smart_ass_man</a></td>
             <td>2022-02-06</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>731</td>
             <td>63935</td>

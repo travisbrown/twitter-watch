@@ -1278,7 +1278,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/suspicious_slut">suspicious_slut</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/43941903">1 other</a>)&nbsp;</td>
             <td>2009-06-01</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>1254</td>
         </tr>

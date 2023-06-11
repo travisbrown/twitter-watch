@@ -1695,7 +1695,7 @@ Found 2859 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2gAtlas">2gAtlas</a></td>
             <td>2021-10-13</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>1105</td>
         </tr>

@@ -262,7 +262,7 @@ Found 719 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ColinCesvette">ColinCesvette</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/46729702">1 other</a>)&nbsp;</td>
             <td>2009-06-12</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>5746</td>
         </tr>

@@ -1407,7 +1407,7 @@ Found 739 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AndreeDarphin">AndreeDarphin</a></td>
             <td>2014-10-07</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>1865</td>
         </tr>

@@ -1484,7 +1484,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Schulze_Eckhard">Schulze_Eckhard</a></td>
             <td>2017-01-13</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>2101</td>
         </tr>

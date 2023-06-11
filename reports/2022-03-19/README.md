@@ -700,7 +700,7 @@ Found 1088 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/boneslingernyc">boneslingernyc</a></td>
             <td>2018-09-18</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>11070</td>
         </tr>

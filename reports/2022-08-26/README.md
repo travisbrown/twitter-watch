@@ -2053,7 +2053,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LenyPatriota">LenyPatriota</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/131944959">1 other</a>)&nbsp;</td>
             <td>2010-04-11</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>4192</td>
         </tr>

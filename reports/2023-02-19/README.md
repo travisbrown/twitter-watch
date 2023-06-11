@@ -230,7 +230,7 @@ Found 2294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MarielaReyesTX">MarielaReyesTX</a></td>
             <td>2022-06-30</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>31867</td>
         </tr>

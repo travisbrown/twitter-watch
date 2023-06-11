@@ -2730,7 +2730,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rachy_0101">rachy_0101</a></td>
             <td>2022-02-06</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>1105</td>
         </tr>

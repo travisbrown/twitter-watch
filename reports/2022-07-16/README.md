@@ -2073,7 +2073,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GhostOfNakadai">GhostOfNakadai</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1433911534519046150">1 other</a>)&nbsp;</td>
             <td>2021-09-03</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>4700</td>
         </tr>

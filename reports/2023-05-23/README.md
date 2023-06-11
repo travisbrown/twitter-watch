@@ -405,7 +405,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Geek_News">Geek_News</a></td>
             <td>2008-09-26</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>3482</td>
         </tr>

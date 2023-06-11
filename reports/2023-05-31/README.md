@@ -76,7 +76,7 @@ Found 7 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/geeliving24">geeliving24</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1178161988670615552">2 others</a>)&nbsp;</td>
             <td>2019-09-29</td>
-            <td></td>
+            <td>2023-06-09</td>
             <td align="center"></td>
             <td>2025</td>
             <td>81227</td>
