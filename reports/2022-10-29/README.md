@@ -8639,7 +8639,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MojoGeneral">MojoGeneral</a></td>
             <td>2021-01-23</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>4081</td>
         </tr>

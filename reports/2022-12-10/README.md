@@ -244,7 +244,7 @@ Found 20 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/cpmmk4">cpmmk4</a></td>
             <td>2010-07-18</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>311</td>
             <td>87502</td>

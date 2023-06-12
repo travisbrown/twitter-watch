@@ -3428,7 +3428,7 @@ Found 1694 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Virgilsolomon8">Virgilsolomon8</a></td>
             <td>2018-04-11</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>1100</td>
         </tr>

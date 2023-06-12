@@ -207,7 +207,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RamRshiv38">RamRshiv38</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/591704041">1 other</a>)&nbsp;</td>
             <td>2012-05-27</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>9177</td>
         </tr>
@@ -515,7 +515,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChainVirus">ChainVirus</a></td>
             <td>2022-06-20</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>2497</td>
         </tr>

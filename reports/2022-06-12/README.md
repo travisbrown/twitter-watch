@@ -2045,7 +2045,7 @@ Found 1532 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coolmofo">coolmofo</a></td>
             <td>2011-06-21</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>2025</td>
         </tr>

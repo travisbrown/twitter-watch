@@ -272,7 +272,7 @@ Found 937 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JLongBeats">JLongBeats</a></td>
             <td>2021-11-07</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>2463</td>
         </tr>

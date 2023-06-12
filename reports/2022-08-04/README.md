@@ -2020,7 +2020,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mauhome7">mauhome7</a></td>
             <td>2013-04-24</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center">🔒</td>
             <td>2289</td>
         </tr>

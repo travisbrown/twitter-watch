@@ -536,7 +536,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/lukewiwa">lukewiwa</a></td>
             <td>2009-07-16</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>1094</td>
         </tr>

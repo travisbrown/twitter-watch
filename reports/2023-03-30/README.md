@@ -794,7 +794,7 @@ Found 2535 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AntiKomm_1968">AntiKomm_1968</a></td>
             <td>2022-05-07</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>2647</td>
         </tr>

@@ -2057,7 +2057,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tringaliiii">Tringaliiii</a></td>
             <td>2022-10-28</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>1776</td>
         </tr>

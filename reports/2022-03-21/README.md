@@ -1191,7 +1191,7 @@ Found 515 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Brizaldo">Brizaldo</a></td>
             <td>2010-10-30</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>1032</td>
         </tr>

@@ -1243,7 +1243,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/smbraun">smbraun</a></td>
             <td>2010-07-16</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>1106</td>
         </tr>

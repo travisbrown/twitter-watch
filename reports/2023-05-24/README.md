@@ -713,7 +713,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ShehabMakahleh">ShehabMakahleh</a></td>
             <td>2015-12-13</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>1552</td>
         </tr>

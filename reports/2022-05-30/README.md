@@ -435,7 +435,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChristopheBene6">ChristopheBene6</a></td>
             <td>2020-03-15</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>4222</td>
         </tr>

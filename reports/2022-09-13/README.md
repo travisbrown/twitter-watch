@@ -1071,7 +1071,7 @@ Found 2012 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Oh_Annasthesia">Oh_Annasthesia</a></td>
             <td>2015-03-18</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>5973</td>
         </tr>

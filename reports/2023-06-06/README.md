@@ -217,7 +217,7 @@ Found 1306 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/joanadiskurs">joanadiskurs</a></td>
             <td>2019-09-14</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>6066</td>
         </tr>
@@ -272,7 +272,7 @@ Found 1306 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnDub62">JohnDub62</a></td>
             <td>2017-01-23</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>5174</td>
         </tr>

@@ -1652,7 +1652,7 @@ Found 1498 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/keelsheelsIV">keelsheelsIV</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1401230968925589510">1 other</a>)&nbsp;</td>
             <td>2021-06-05</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>2254</td>
         </tr>

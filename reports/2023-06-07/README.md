@@ -178,7 +178,7 @@ Found 1749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/juez_fpresencia">juez_fpresencia</a></td>
             <td>2021-12-22</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>19394</td>
         </tr>
@@ -343,7 +343,7 @@ Found 1749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/janiesaysyay">janiesaysyay</a></td>
             <td>2021-04-11</td>
-            <td></td>
+            <td>2023-06-10</td>
             <td align="center"></td>
             <td>5278</td>
         </tr>
