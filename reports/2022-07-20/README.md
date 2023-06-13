@@ -1375,7 +1375,7 @@ Found 1335 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Drunken2Shadow">Drunken2Shadow</a></td>
             <td>2019-11-29</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>2194</td>
         </tr>

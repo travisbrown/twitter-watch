@@ -2837,7 +2837,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/brightopare_">brightopare_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2438374744">3 others</a>)&nbsp;</td>
             <td>2014-03-26</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>1088</td>
         </tr>

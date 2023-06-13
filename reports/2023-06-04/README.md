@@ -52,7 +52,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Pelerin58580892">Pelerin58580892</a></td>
             <td>2021-11-28</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>982</td>
             <td>79638</td>
@@ -481,7 +481,7 @@ Found 1034 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/samurai_der">samurai_der</a></td>
             <td>2019-08-06</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>1178</td>
         </tr>

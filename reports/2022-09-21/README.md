@@ -1457,7 +1457,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MrciaGa90848144">MrciaGa90848144</a></td>
             <td>2018-11-17</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>7016</td>
         </tr>
@@ -4658,7 +4658,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Francis43279937">Francis43279937</a></td>
             <td>2020-06-23</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>1080</td>
         </tr>

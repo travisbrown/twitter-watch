@@ -64,7 +64,7 @@ Found 8 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SonnyCo5">SonnyCo5</a></td>
             <td>2017-12-08</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>168</td>
             <td>42533</td>

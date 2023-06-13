@@ -732,7 +732,7 @@ Found 669 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tavia_spencer">Tavia_spencer</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/895988217207554048">1 other</a>)&nbsp;</td>
             <td>2017-08-11</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>1698</td>
         </tr>

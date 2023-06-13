@@ -1307,7 +1307,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ESPARTANO01234">ESPARTANO01234</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1271357628">1 other</a>)&nbsp;</td>
             <td>2013-03-16</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>9906</td>
         </tr>

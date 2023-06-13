@@ -999,7 +999,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnosheKita">AnosheKita</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4698455060">1 other</a>)&nbsp;</td>
             <td>2016-01-02</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>1163</td>
         </tr>

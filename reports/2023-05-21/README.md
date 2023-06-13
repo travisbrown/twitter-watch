@@ -312,7 +312,7 @@ Found 887 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChristyH9">ChristyH9</a></td>
             <td>2009-05-07</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>2175</td>
         </tr>

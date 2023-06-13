@@ -1459,7 +1459,7 @@ Found 1779 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Vipper1711">Vipper1711</a></td>
             <td>2021-06-22</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center">🔒</td>
             <td>6699</td>
         </tr>

@@ -338,7 +338,7 @@ Found 1306 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JackieC49305942">JackieC49305942</a></td>
             <td>2021-08-06</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>3298</td>
         </tr>

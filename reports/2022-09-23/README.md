@@ -1013,7 +1013,7 @@ Found 5318 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_IsabellaDeLuna">_IsabellaDeLuna</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1105871663290298368">1 other</a>)&nbsp;</td>
             <td>2019-03-13</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>12107</td>
         </tr>

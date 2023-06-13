@@ -1448,7 +1448,7 @@ Found 1829 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Phuthi02734383">Phuthi02734383</a></td>
             <td>2019-10-02</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>2787</td>
         </tr>

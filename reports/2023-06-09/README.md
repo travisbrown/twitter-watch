@@ -245,7 +245,7 @@ Found 1496 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ExoticTreasure1">ExoticTreasure1</a></td>
             <td>2013-09-20</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>10200</td>
         </tr>

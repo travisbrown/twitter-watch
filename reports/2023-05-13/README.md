@@ -151,7 +151,7 @@ Found 670 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kiche_allan">kiche_allan</a></td>
             <td>2018-01-22</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>11995</td>
         </tr>

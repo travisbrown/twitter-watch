@@ -1010,7 +1010,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Patrick_Seller">Patrick_Seller</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1404724424532692994">1 other</a>)&nbsp;</td>
             <td>2021-06-15</td>
-            <td></td>
+            <td>2023-06-11</td>
             <td align="center"></td>
             <td>1200</td>
         </tr>
