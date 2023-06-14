@@ -189,7 +189,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/history0fthemcu">history0fthemcu</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3092976699">8 others</a>)&nbsp;</td>
             <td>2015-03-17</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>31385</td>
         </tr>

@@ -1162,7 +1162,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KungPao19">KungPao19</a></td>
             <td>2018-04-01</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>5919</td>
         </tr>
@@ -1327,7 +1327,7 @@ Found 1215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RodSilliphant">RodSilliphant</a></td>
             <td>2012-02-25</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>3423</td>
         </tr>

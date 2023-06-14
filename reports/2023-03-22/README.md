@@ -862,7 +862,7 @@ Found 2409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Leo_is_choice">Leo_is_choice</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/370252007">3 others</a>)&nbsp;</td>
             <td>2011-09-08</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>1858</td>
         </tr>

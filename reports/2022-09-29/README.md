@@ -1228,7 +1228,7 @@ Found 1695 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChrisDo13718796">ChrisDo13718796</a></td>
             <td>2018-10-28</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>3310</td>
         </tr>

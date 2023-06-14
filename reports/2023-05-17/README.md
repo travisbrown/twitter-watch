@@ -186,7 +186,7 @@ Found 1575 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ACODAP1">ACODAP1</a></td>
             <td>2019-01-02</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>7540</td>
         </tr>

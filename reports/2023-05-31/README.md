@@ -781,7 +781,7 @@ Found 1119 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fredchristNFT">fredchristNFT</a></td>
             <td>2021-09-19</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>1223</td>
         </tr>

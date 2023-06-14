@@ -1379,7 +1379,7 @@ Found 601 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/myriam_der">myriam_der</a></td>
             <td>2019-10-18</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>1624</td>
         </tr>

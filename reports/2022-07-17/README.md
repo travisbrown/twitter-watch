@@ -1492,7 +1492,7 @@ Found 1704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/loretta_stiles">loretta_stiles</a></td>
             <td>2015-02-13</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>3144</td>
         </tr>

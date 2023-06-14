@@ -1022,7 +1022,7 @@ Found 904 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Powerful_Memes">Powerful_Memes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3316305037">2 others</a>)&nbsp;</td>
             <td>2015-08-15</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>2314</td>
         </tr>

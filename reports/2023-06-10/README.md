@@ -942,7 +942,7 @@ Found 1791 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TruthReporter20">TruthReporter20</a></td>
             <td>2022-09-25</td>
-            <td></td>
+            <td>2023-06-12</td>
             <td align="center"></td>
             <td>1007</td>
         </tr></table>

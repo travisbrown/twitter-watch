@@ -8628,7 +8628,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/71_blazer">71_blazer</a></td>
             <td>2018-03-06</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>4083</td>
         </tr>
