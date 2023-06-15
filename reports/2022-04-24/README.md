@@ -2198,7 +2198,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/calcazar30">calcazar30</a></td>
             <td>2012-12-13</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>2661</td>
         </tr>

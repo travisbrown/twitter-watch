@@ -676,7 +676,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nanndo_SP">Nanndo_SP</a></td>
             <td>2009-08-07</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>4006</td>
         </tr>

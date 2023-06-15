@@ -890,7 +890,7 @@ Found 1572 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Katthukutty">Katthukutty</a></td>
             <td>2011-05-21</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>1148</td>
         </tr>

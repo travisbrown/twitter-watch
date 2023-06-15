@@ -1532,7 +1532,7 @@ Found 1261 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WAZUKA11">WAZUKA11</a></td>
             <td>2022-04-07</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>2551</td>
         </tr>

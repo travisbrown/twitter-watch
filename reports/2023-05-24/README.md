@@ -361,7 +361,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/laligafrauds">laligafrauds</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1198258920185323520">4 others</a>)&nbsp;</td>
             <td>2019-11-23</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>9351</td>
         </tr>

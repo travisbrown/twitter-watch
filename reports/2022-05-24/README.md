@@ -1746,7 +1746,7 @@ Found 700 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GanitPremy">GanitPremy</a></td>
             <td>2014-12-03</td>
-            <td></td>
+            <td>2023-06-13</td>
             <td align="center"></td>
             <td>1130</td>
         </tr>
