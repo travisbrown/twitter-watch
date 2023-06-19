@@ -152,7 +152,7 @@ Found 851 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Igor_from_Kyiv_">Igor_from_Kyiv_</a></td>
             <td>2022-03-21</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>15422</td>
         </tr>

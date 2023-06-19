@@ -3113,7 +3113,7 @@ Found 1667 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/franka_von">franka_von</a></td>
             <td>2021-09-13</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1252</td>
         </tr>

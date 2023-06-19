@@ -317,7 +317,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/giovansouness">giovansouness</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1319775051353292801">1 other</a>)&nbsp;</td>
             <td>2020-10-23</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>13350</td>
         </tr>

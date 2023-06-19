@@ -1021,7 +1021,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/piotr_spik">piotr_spik</a></td>
             <td>2021-02-04</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1092</td>
         </tr>

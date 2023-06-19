@@ -144,7 +144,7 @@ Found 1673 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jopower666">jopower666</a></td>
             <td>2011-05-12</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>575978</td>
         </tr>

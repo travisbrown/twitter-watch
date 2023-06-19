@@ -32,15 +32,15 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 772061
-* Total number of suspension reversals detected: 65353
-* Mean number of followers for suspended accounts: 1065.97
-* Median number of followers for suspended accounts: 35.0
-* Mean age of suspended accounts (days): 1329.15
-* Median age of suspended accounts (days): 521.0
-* Total number of verified accounts suspended: 269
-* Total number of protected accounts suspended: 55845
-* Total number of suspensions for accounts previously withheld in specific countries: 61
+* Total number of suspensions detected: 779748
+* Total number of suspension reversals detected: 65558
+* Mean number of followers for suspended accounts: 1059.53
+* Median number of followers for suspended accounts: 34.0
+* Mean age of suspended accounts (days): 1340.14
+* Median age of suspended accounts (days): 531.0
+* Total number of verified accounts suspended: 274
+* Total number of protected accounts suspended: 56704
+* Total number of suspensions for accounts previously withheld in specific countries: 63
 * Total number of screen name changes detected: 966283
 
 
@@ -290,10 +290,42 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2023-06-19/">19 June 2023</a>
+            </td>
+            <td>376</td>
+            <td>1</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-06-18/">18 June 2023</a>
+            </td>
+            <td>3567</td>
+            <td>5</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-06-17/">17 June 2023</a>
+            </td>
+            <td>5098</td>
+            <td>8</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-06-16/">16 June 2023</a>
+            </td>
+            <td>5063</td>
+            <td>20</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2023-06-15/">15 June 2023</a>
             </td>
-            <td>712</td>
-            <td>3</td>
+            <td>5624</td>
+            <td>27</td>
             <td>0</td>
         </tr>
         <tr>

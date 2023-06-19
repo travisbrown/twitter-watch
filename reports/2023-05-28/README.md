@@ -366,7 +366,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/amirulhanafy">amirulhanafy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/363790809">5 others</a>)&nbsp;</td>
             <td>2011-08-28</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>4916</td>
         </tr>

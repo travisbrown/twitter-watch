@@ -799,7 +799,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DerpKraken">DerpKraken</a></td>
             <td>2021-03-15</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1566</td>
         </tr>

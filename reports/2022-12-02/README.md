@@ -88,7 +88,7 @@ Found 27 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/stony2point0">stony2point0</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2540712878">1 other</a>)&nbsp;</td>
             <td>2014-06-02</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1921</td>
             <td>19693</td>

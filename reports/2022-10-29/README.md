@@ -11972,7 +11972,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CaquilterHowell">CaquilterHowell</a></td>
             <td>2017-01-24</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>3051</td>
         </tr>

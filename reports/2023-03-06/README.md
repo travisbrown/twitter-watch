@@ -548,7 +548,7 @@ Found 636 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaxH26123780">MaxH26123780</a></td>
             <td>2021-07-26</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1209</td>
         </tr>

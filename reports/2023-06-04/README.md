@@ -459,7 +459,7 @@ Found 1034 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/abeerjk13">abeerjk13</a></td>
             <td>2022-03-25</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1193</td>
         </tr>

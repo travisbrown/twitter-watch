@@ -2469,7 +2469,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/juanitotmax">juanitotmax</a></td>
             <td>2016-04-17</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>2216</td>
         </tr>
@@ -3272,7 +3272,7 @@ Found 1962 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/javiergiza">javiergiza</a></td>
             <td>2011-07-08</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1256</td>
         </tr>

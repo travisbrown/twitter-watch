@@ -199,7 +199,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AzzatAlsaleem">AzzatAlsaleem</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/764574111842598912">3 others</a>)&nbsp;</td>
             <td>2016-08-13</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>20741</td>
         </tr>

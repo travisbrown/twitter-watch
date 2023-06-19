@@ -322,7 +322,7 @@ Found 1496 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LolitaLeRetour">LolitaLeRetour</a></td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>5856</td>
         </tr>

@@ -601,7 +601,7 @@ Found 708 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NoSoyAlecz">NoSoyAlecz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1249710938846113792">2 others</a>)&nbsp;</td>
             <td>2020-04-13</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center">🔒</td>
             <td>1904</td>
         </tr>

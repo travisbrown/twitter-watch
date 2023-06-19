@@ -2068,7 +2068,7 @@ Found 2891 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/madebypayge">madebypayge</a></td>
             <td>2021-03-07</td>
-            <td></td>
+            <td>2023-06-14</td>
             <td align="center"></td>
             <td>1884</td>
         </tr>
