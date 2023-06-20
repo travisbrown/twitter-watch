@@ -414,7 +414,7 @@ Found 1791 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DJELLE_">DJELLE_</a></td>
             <td>2009-04-18</td>
-            <td></td>
+            <td>2023-06-18</td>
             <td align="center"></td>
             <td>3317</td>
         </tr>

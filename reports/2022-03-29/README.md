@@ -735,7 +735,7 @@ Found 831 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Nashpluto_">Nashpluto_</a></td>
             <td>2017-12-25</td>
-            <td></td>
+            <td>2023-06-18</td>
             <td align="center"></td>
             <td>2668</td>
         </tr>

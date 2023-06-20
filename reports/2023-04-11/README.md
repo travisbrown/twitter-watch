@@ -192,7 +192,7 @@ Found 2523 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/menbow_">menbow_</a></td>
             <td>2010-04-27</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>74755</td>
         </tr>

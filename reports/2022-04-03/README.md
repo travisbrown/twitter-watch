@@ -991,7 +991,7 @@ Found 958 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ThewheeldealM">ThewheeldealM</a></td>
             <td>2020-08-20</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>1131</td>
         </tr>

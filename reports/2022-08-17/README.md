@@ -2576,7 +2576,7 @@ Found 1551 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Jomau_Carneiro">Jomau_Carneiro</a></td>
             <td>2009-08-06</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>1257</td>
         </tr>

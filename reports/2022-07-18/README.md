@@ -1240,7 +1240,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/paola_maglietti">paola_maglietti</a></td>
             <td>2017-04-29</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>47756</td>
         </tr>

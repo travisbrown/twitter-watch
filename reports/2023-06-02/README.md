@@ -526,7 +526,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cgrace1998">cgrace1998</a></td>
             <td>2009-03-17</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>2476</td>
         </tr>
@@ -1010,7 +1010,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Shiroishii8964">Shiroishii8964</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2894468900">1 other</a>)&nbsp;</td>
             <td>2014-11-09</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>1150</td>
         </tr>
@@ -1065,7 +1065,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bojan_nft">bojan_nft</a></td>
             <td>2022-02-14</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>1003</td>
         </tr></table>

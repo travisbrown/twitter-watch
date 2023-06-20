@@ -1181,7 +1181,7 @@ Found 1543 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AsianDigest">AsianDigest</a></td>
             <td>2021-04-09</td>
-            <td></td>
+            <td>2023-06-18</td>
             <td align="center"></td>
             <td>8851</td>
         </tr>

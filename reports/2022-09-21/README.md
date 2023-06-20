@@ -2150,7 +2150,7 @@ Found 4756 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ebermsousa">Ebermsousa</a></td>
             <td>2018-09-04</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>3540</td>
         </tr>

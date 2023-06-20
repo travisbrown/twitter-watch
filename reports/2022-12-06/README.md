@@ -28,7 +28,7 @@ Found 31 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DrLeoMarvin5">DrLeoMarvin5</a></td>
             <td>2020-09-24</td>
-            <td></td>
+            <td>2023-06-18</td>
             <td align="center"></td>
             <td>2203</td>
             <td>862</td>

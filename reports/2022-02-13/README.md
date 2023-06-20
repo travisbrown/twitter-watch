@@ -4196,7 +4196,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CaesarSalad99">CaesarSalad99</a></td>
             <td>2018-06-19</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>2732</td>
         </tr>
@@ -8057,7 +8057,7 @@ Found 2762 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fire_straight">fire_straight</a></td>
             <td>2021-04-13</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>1169</td>
         </tr>

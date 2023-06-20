@@ -1546,7 +1546,7 @@ Found 1367 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/GlennQuagmeier">GlennQuagmeier</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1139264397644357634">2 others</a>)&nbsp;</td>
             <td>2019-06-13</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>3639</td>
         </tr>

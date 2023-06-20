@@ -1486,7 +1486,7 @@ Found 391 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dsuminski95">dsuminski95</a></td>
             <td>2022-05-28</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>1196</td>
         </tr>

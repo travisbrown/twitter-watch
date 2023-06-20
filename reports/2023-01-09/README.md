@@ -940,7 +940,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hall_was">hall_was</a></td>
             <td>2019-01-09</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>2710</td>
         </tr>

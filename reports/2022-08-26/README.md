@@ -2889,7 +2889,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tina13uk">Tina13uk</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/21561223">1 other</a>)&nbsp;</td>
             <td>2009-02-22</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>2054</td>
         </tr>

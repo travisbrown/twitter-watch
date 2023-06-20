@@ -849,7 +849,7 @@ Found 1749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IMEGA_Arts">IMEGA_Arts</a></td>
             <td>2018-07-22</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>1315</td>
         </tr>

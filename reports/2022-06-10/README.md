@@ -896,7 +896,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CoronapassCy">CoronapassCy</a></td>
             <td>2021-05-06</td>
-            <td></td>
+            <td>2023-06-18</td>
             <td align="center"></td>
             <td>2363</td>
         </tr>

@@ -1305,7 +1305,7 @@ Found 1998 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/calidesertgirl">calidesertgirl</a></td>
             <td>2009-07-06</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>4533</td>
         </tr>

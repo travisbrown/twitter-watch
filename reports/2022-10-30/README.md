@@ -6457,7 +6457,7 @@ Found 3199 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kennydeshields">kennydeshields</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/36958501">1 other</a>)&nbsp;</td>
             <td>2009-05-01</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>2543</td>
         </tr>

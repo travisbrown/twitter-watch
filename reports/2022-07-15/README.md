@@ -1132,7 +1132,7 @@ Found 2215 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PNWSensuousMuse">PNWSensuousMuse</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/32755233">3 others</a>)&nbsp;</td>
             <td>2009-04-18</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>2921</td>
         </tr>

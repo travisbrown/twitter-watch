@@ -240,7 +240,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Givemethelefty">Givemethelefty</a></td>
             <td>2012-03-16</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center">✔️</td>
             <td>9802</td>
         </tr>

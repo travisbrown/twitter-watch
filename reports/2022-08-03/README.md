@@ -1066,7 +1066,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pureangel40">pureangel40</a></td>
             <td>2016-10-04</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>7572</td>
         </tr>

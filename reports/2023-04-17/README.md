@@ -139,7 +139,7 @@ Found 1816 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/minimaxaminim">minimaxaminim</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2732671226">2 others</a>)&nbsp;</td>
             <td>2014-08-14</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>40854</td>
         </tr>

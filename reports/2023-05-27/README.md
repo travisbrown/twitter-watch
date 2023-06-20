@@ -491,7 +491,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ptornroth">ptornroth</a></td>
             <td>2011-11-07</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>2808</td>
         </tr>
@@ -1030,7 +1030,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kipp63308417">Kipp63308417</a></td>
             <td>2019-02-14</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>1105</td>
         </tr>

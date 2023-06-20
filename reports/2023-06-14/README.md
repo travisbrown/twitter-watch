@@ -76,7 +76,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/Zalmoxis15">Zalmoxis15</a></td>
             <td>2020-01-04</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>264</td>
             <td>30198</td>
@@ -2636,7 +2636,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LioUrKing">LioUrKing</a></td>
             <td>2021-08-22</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>1181</td>
         </tr>
@@ -2691,7 +2691,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReedHearted">ReedHearted</a></td>
             <td>2021-09-02</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>1129</td>
         </tr>

@@ -745,7 +745,7 @@ Found 843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Gibson4NYS">Gibson4NYS</a></td>
             <td>2020-01-30</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>17820</td>
         </tr>

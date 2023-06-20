@@ -292,7 +292,7 @@ Found 26 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/DorseyGhost">DorseyGhost</a></td>
             <td>2022-01-25</td>
-            <td></td>
+            <td>2023-06-18</td>
             <td align="center"></td>
             <td>62</td>
             <td>83949</td>

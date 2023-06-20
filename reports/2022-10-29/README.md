@@ -18011,7 +18011,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/califnative4">califnative4</a></td>
             <td>2016-10-11</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>2204</td>
         </tr>
@@ -19936,7 +19936,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/underhillal">underhillal</a></td>
             <td>2014-01-03</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>2013</td>
         </tr>

@@ -1907,7 +1907,7 @@ Found 2471 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ProfessorETHH">ProfessorETHH</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1171250553206259715">1 other</a>)&nbsp;</td>
             <td>2019-09-10</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>5267</td>
         </tr>

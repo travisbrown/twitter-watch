@@ -1885,7 +1885,7 @@ Found 710 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Brunoe_Banane">Brunoe_Banane</a></td>
             <td>2018-03-12</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>1195</td>
         </tr>

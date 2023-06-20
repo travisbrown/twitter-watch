@@ -184,7 +184,7 @@ Found 937 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Lost_Kashmir">Lost_Kashmir</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1249782475242364928">3 others</a>)&nbsp;</td>
             <td>2020-04-13</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>3785</td>
         </tr>
@@ -470,7 +470,7 @@ Found 937 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jamilahmedqure2">jamilahmedqure2</a></td>
             <td>2013-12-05</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>1186</td>
         </tr>

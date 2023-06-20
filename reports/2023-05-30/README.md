@@ -900,7 +900,7 @@ Found 1888 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/janvoss81">janvoss81</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3357661984">2 others</a>)&nbsp;</td>
             <td>2015-07-03</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>1376</td>
         </tr>

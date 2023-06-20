@@ -253,7 +253,7 @@ Found 1119 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/emymark">emymark</a></td>
             <td>2011-01-29</td>
-            <td></td>
+            <td>2023-06-15</td>
             <td align="center"></td>
             <td>8163</td>
         </tr>
@@ -330,7 +330,7 @@ Found 1119 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xsoupnft">0xsoupnft</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1395154870932541446">1 other</a>)&nbsp;</td>
             <td>2021-05-19</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>5033</td>
         </tr>

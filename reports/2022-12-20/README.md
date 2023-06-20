@@ -661,7 +661,7 @@ Found 1567 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ddsnorth">ddsnorth</a></td>
             <td>2008-11-11</td>
-            <td></td>
+            <td>2023-06-16</td>
             <td align="center"></td>
             <td>3978</td>
         </tr>

@@ -2446,7 +2446,7 @@ Found 2137 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dia_izquierdo">dia_izquierdo</a></td>
             <td>2019-07-15</td>
-            <td></td>
+            <td>2023-06-17</td>
             <td align="center"></td>
             <td>1627</td>
         </tr>
