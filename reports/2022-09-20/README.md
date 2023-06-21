@@ -1324,7 +1324,7 @@ Found 2843 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gan_sub_2">gan_sub_2</a></td>
             <td>2017-05-31</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>6407</td>
         </tr>

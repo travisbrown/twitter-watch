@@ -184,7 +184,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/HTownfromOregon">HTownfromOregon</a></td>
             <td>2016-05-04</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>111</td>
             <td>88352</td>

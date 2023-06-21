@@ -528,7 +528,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_jollypapa">_jollypapa</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2781386386">1 other</a>)&nbsp;</td>
             <td>2014-09-23</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>5248</td>
         </tr>

@@ -23929,7 +23929,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/celtic_gdb">celtic_gdb</a></td>
             <td>2021-10-09</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>1679</td>
         </tr>
@@ -27614,7 +27614,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/inbackwoods8082">inbackwoods8082</a></td>
             <td>2021-10-26</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>1456</td>
         </tr>
@@ -35479,7 +35479,7 @@ Found 12640 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/shannonpadgett8">shannonpadgett8</a></td>
             <td>2016-09-26</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>1093</td>
         </tr>

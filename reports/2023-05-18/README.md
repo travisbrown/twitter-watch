@@ -178,7 +178,7 @@ Found 1053 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/caburibbon">caburibbon</a></td>
             <td>2021-10-18</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>71442</td>
         </tr>

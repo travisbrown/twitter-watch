@@ -1455,7 +1455,7 @@ Found 1369 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/catholichiara">catholichiara</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1385697158821732356">1 other</a>)&nbsp;</td>
             <td>2021-04-23</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>1133</td>
         </tr>

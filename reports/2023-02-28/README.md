@@ -395,7 +395,7 @@ Found 1312 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PSlaw314">PSlaw314</a></td>
             <td>2022-01-09</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>3578</td>
         </tr>

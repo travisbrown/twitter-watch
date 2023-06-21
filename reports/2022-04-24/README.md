@@ -3155,7 +3155,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/salzer_laura">salzer_laura</a></td>
             <td>2017-05-17</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>1464</td>
         </tr>

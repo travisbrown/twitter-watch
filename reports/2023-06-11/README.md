@@ -422,7 +422,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Qanon4Trump">Qanon4Trump</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4534742669">4 others</a>)&nbsp;</td>
             <td>2015-12-19</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>4729</td>
         </tr>
@@ -444,7 +444,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/phvnty">phvnty</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1355160916745199617">2 others</a>)&nbsp;</td>
             <td>2021-01-29</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>4170</td>
         </tr>

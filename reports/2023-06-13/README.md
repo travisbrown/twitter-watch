@@ -639,7 +639,7 @@ Found 2134 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bingbadabing">bingbadabing</a></td>
             <td>2009-03-31</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>8670</td>
         </tr>
@@ -2102,7 +2102,7 @@ Found 2134 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/defi_raf">defi_raf</a></td>
             <td>2021-10-05</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>1197</td>
         </tr>

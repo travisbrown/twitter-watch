@@ -2215,7 +2215,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/burzel55a">burzel55a</a></td>
             <td>2016-01-19</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>1412</td>
         </tr>

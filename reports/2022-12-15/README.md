@@ -1798,7 +1798,7 @@ Found 2850 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_moneysignsarah">_moneysignsarah</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/819637548314230784">2 others</a>)&nbsp;</td>
             <td>2017-01-12</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>1819</td>
         </tr>

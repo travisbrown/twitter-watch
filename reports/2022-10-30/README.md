@@ -3808,7 +3808,7 @@ Found 377 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/BlueLiguid">BlueLiguid</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/966511004996788224">1 other</a>)&nbsp;</td>
             <td>2018-02-22</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>52</td>
             <td>74348</td>

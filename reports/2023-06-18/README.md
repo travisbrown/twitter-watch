@@ -141,7 +141,7 @@ Found 1231 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ManchesterNews8">ManchesterNews8</a></td>
             <td>2011-11-23</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>16549</td>
         </tr>

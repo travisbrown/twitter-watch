@@ -959,7 +959,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ConservativeO17">ConservativeO17</a></td>
             <td>2022-05-27</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>4923</td>
         </tr>
@@ -1806,7 +1806,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PamelaE83716920">PamelaE83716920</a></td>
             <td>2022-08-19</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>2003</td>
         </tr>

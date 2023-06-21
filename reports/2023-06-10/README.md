@@ -370,7 +370,7 @@ Found 1791 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmericanVoice14">AmericanVoice14</a></td>
             <td>2022-07-07</td>
-            <td></td>
+            <td>2023-06-19</td>
             <td align="center"></td>
             <td>4135</td>
         </tr>
