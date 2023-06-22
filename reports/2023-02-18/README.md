@@ -319,7 +319,7 @@ Found 2236 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Afromonstas">Afromonstas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/384629254">2 others</a>)&nbsp;</td>
             <td>2011-10-04</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>20241</td>
         </tr>

@@ -846,7 +846,7 @@ Found 1572 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FightForRetail">FightForRetail</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2244315639">4 others</a>)&nbsp;</td>
             <td>2013-12-26</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>1240</td>
         </tr>

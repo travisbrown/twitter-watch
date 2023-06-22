@@ -559,7 +559,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/OfficialKMBooty">OfficialKMBooty</a></td>
             <td>2016-08-19</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>352877</td>
         </tr>
@@ -669,7 +669,7 @@ Found 1063 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KrystalDavisXXX">KrystalDavisXXX</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/779445124795281408">1 other</a>)&nbsp;</td>
             <td>2016-09-23</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>105378</td>
         </tr>

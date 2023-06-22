@@ -1619,7 +1619,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/storew1re">storew1re</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/874466356220968961">1 other</a>)&nbsp;</td>
             <td>2017-06-13</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>2264</td>
         </tr>

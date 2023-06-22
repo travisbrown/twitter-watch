@@ -505,7 +505,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ang4lheart">ang4lheart</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/744108480827691008">3 others</a>)&nbsp;</td>
             <td>2016-06-18</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center">🔒</td>
             <td>46333</td>
         </tr>

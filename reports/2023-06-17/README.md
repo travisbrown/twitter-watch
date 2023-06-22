@@ -1167,7 +1167,7 @@ Found 2454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/perfildehugo">perfildehugo</a></td>
             <td>2012-09-29</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>1193</td>
         </tr>

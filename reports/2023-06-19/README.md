@@ -412,7 +412,7 @@ Found 1349 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RoboticsAINews">RoboticsAINews</a></td>
             <td>2021-05-05</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>4752</td>
         </tr>
@@ -456,7 +456,7 @@ Found 1349 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wawrzyniak9">wawrzyniak9</a></td>
             <td>2012-09-11</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>4315</td>
         </tr>

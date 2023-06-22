@@ -475,7 +475,7 @@ Found 2625 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/blackedbbcfan">blackedbbcfan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/912146077662429184">1 other</a>)&nbsp;</td>
             <td>2017-09-25</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>24970</td>
         </tr>

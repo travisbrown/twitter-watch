@@ -1019,7 +1019,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/numizarah">numizarah</a></td>
             <td>2020-06-15</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>68898</td>
         </tr>

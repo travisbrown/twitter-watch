@@ -100,7 +100,7 @@ Found 9 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/NoahRevoy">NoahRevoy</a></td>
             <td>2012-04-06</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>10569</td>
             <td>41240</td>

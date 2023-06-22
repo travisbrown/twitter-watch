@@ -3870,7 +3870,7 @@ Found 2183 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AGM119Penguin">AGM119Penguin</a></td>
             <td>2022-09-08</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>1610</td>
         </tr>

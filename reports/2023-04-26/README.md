@@ -185,7 +185,7 @@ Found 1344 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/polo_kimani">polo_kimani</a></td>
             <td>2022-03-09</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>17084</td>
         </tr>

@@ -328,7 +328,7 @@ Found 38 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/bigjordan924">bigjordan924</a></td>
             <td>2013-01-09</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>317</td>
             <td>59318</td>

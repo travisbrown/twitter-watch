@@ -238,7 +238,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PhenomRadio">PhenomRadio</a></td>
             <td>2010-06-29</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>25076</td>
         </tr>
@@ -359,7 +359,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dpistulka">dpistulka</a></td>
             <td>2009-04-25</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>15920</td>
         </tr>
@@ -1294,7 +1294,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/incineratorinfo">incineratorinfo</a></td>
             <td>2016-03-14</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>3536</td>
         </tr>
@@ -1745,7 +1745,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/davidfromkansas">davidfromkansas</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2764573556">1 other</a>)&nbsp;</td>
             <td>2014-08-25</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>2215</td>
         </tr>

@@ -1442,7 +1442,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/twinqr">twinqr</a></td>
             <td>2020-08-11</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>17618</td>
         </tr>

@@ -162,7 +162,7 @@ Found 1306 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cherri2290">Cherri2290</a></td>
             <td>2011-11-16</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center">🔒</td>
             <td>16448</td>
         </tr>
@@ -514,7 +514,7 @@ Found 1306 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bearman0142">bearman0142</a></td>
             <td>2014-07-11</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>1478</td>
         </tr>

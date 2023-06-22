@@ -353,7 +353,7 @@ Found 3189 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArbitrumDevs">ArbitrumDevs</a></td>
             <td>2022-06-09</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>8473</td>
         </tr>

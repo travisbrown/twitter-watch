@@ -763,7 +763,7 @@ Found 1045 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Carla_Parrish">Carla_Parrish</a></td>
             <td>2012-05-24</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>4239</td>
         </tr>

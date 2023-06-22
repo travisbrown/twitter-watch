@@ -647,7 +647,7 @@ Found 1231 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RobertC31344949">RobertC31344949</a></td>
             <td>2013-04-23</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>2130</td>
         </tr>

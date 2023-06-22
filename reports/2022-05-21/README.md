@@ -1036,7 +1036,7 @@ Found 951 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KlTTYXO">KlTTYXO</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1281528521756741634">1 other</a>)&nbsp;</td>
             <td>2020-07-10</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center">🔒</td>
             <td>80828</td>
         </tr>

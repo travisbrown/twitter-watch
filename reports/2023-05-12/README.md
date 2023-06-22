@@ -141,7 +141,7 @@ Found 1010 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ssssskull_03">ssssskull_03</a></td>
             <td>2009-10-13</td>
-            <td></td>
+            <td>2023-06-20</td>
             <td align="center"></td>
             <td>54426</td>
         </tr>
