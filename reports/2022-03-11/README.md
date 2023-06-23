@@ -1204,7 +1204,7 @@ Found 814 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UsagikoNat">UsagikoNat</a></td>
             <td>2019-09-17</td>
-            <td></td>
+            <td>2023-06-22</td>
             <td align="center"></td>
             <td>2971</td>
         </tr>

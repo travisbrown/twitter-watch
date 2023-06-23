@@ -260,7 +260,7 @@ Found 1791 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HacAyvat">HacAyvat</a></td>
             <td>2016-10-13</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>5158</td>
         </tr>
@@ -491,7 +491,7 @@ Found 1791 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/juliano_wilchen">juliano_wilchen</a></td>
             <td>2022-04-24</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>2706</td>
         </tr>

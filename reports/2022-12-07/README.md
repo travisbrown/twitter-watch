@@ -634,7 +634,7 @@ Found 4580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FBaruchBrasil">FBaruchBrasil</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2585952205">1 other</a>)&nbsp;</td>
             <td>2014-06-24</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>13928</td>
         </tr>

@@ -40,7 +40,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/MencianLegalism">MencianLegalism</a></td>
             <td>2019-11-03</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>2109</td>
             <td>1794</td>

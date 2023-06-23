@@ -535,7 +535,7 @@ Found 1195 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/gavi_szn_">gavi_szn_</a></td>
             <td>2020-09-05</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>1023</td>
         </tr>

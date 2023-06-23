@@ -88,7 +88,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SchwabBlofeld">SchwabBlofeld</a></td>
             <td>2022-04-16</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>399</td>
             <td>99609</td>

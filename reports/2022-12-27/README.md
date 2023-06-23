@@ -1516,7 +1516,7 @@ Found 1472 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Captain45_">Captain45_</a></td>
             <td>2022-09-05</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>1235</td>
         </tr>

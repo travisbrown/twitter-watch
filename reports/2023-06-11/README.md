@@ -312,7 +312,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ReligionProf">ReligionProf</a></td>
             <td>2009-12-10</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>7803</td>
         </tr>
@@ -785,7 +785,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Clubhouseera">Clubhouseera</a></td>
             <td>2022-03-23</td>
-            <td></td>
+            <td>2023-06-21</td>
             <td align="center"></td>
             <td>1411</td>
         </tr>
