@@ -1697,7 +1697,7 @@ Found 1072 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Michael67113532">Michael67113532</a></td>
             <td>2018-08-13</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>1173</td>
         </tr>

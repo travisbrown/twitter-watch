@@ -562,7 +562,7 @@ Found 2454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JohnBeaudoinSr">JohnBeaudoinSr</a></td>
             <td>2013-04-04</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>3497</td>
         </tr>

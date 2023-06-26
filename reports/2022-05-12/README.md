@@ -775,7 +775,7 @@ Found 894 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/steve_carstairs">steve_carstairs</a></td>
             <td>2022-03-10</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>2060</td>
         </tr>

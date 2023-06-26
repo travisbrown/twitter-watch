@@ -618,7 +618,7 @@ Found 905 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SenSen_93">SenSen_93</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1898284244">3 others</a>)&nbsp;</td>
             <td>2013-09-23</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>1447</td>
         </tr>

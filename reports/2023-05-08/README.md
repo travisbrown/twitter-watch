@@ -217,7 +217,7 @@ Found 393 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/laurayatesUK">laurayatesUK</a></td>
             <td>2013-05-23</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>1932</td>
         </tr>

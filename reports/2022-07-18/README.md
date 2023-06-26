@@ -1350,7 +1350,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/saelols">saelols</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1023048744135217152">13 others</a>)&nbsp;</td>
             <td>2018-07-28</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>18600</td>
         </tr>

@@ -64,7 +64,7 @@ Found 19 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/AdamLowisz">AdamLowisz</a></td>
             <td>2008-10-29</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>4046</td>
             <td>14224</td>
@@ -518,7 +518,7 @@ Found 1368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PaulLouisThoma1">PaulLouisThoma1</a></td>
             <td>2015-12-22</td>
-            <td></td>
+            <td>2023-06-22</td>
             <td align="center"></td>
             <td>9459</td>
         </tr>
@@ -914,7 +914,7 @@ Found 1368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kinocopter">kinocopter</a></td>
             <td>2021-12-13</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>3544</td>
         </tr>

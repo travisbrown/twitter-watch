@@ -1284,7 +1284,7 @@ Found 1482 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IABuckboy">IABuckboy</a></td>
             <td>2020-09-04</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center">🔒</td>
             <td>1687</td>
         </tr>

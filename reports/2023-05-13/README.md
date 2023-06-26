@@ -64,7 +64,7 @@ Found 4 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SarahCo1985">SarahCo1985</a></td>
             <td>2022-08-22</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>915</td>
             <td>89124</td>

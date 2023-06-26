@@ -1144,7 +1144,7 @@ Found 813 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MaryHofstette17">MaryHofstette17</a></td>
             <td>2021-02-18</td>
-            <td></td>
+            <td>2023-06-22</td>
             <td align="center"></td>
             <td>3197</td>
         </tr>

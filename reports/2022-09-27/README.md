@@ -532,7 +532,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MCBRASIL2022">MCBRASIL2022</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1100814835082772480">1 other</a>)&nbsp;</td>
             <td>2019-02-27</td>
-            <td></td>
+            <td>2023-06-22</td>
             <td align="center"></td>
             <td>4106</td>
         </tr>

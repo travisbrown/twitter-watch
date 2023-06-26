@@ -491,7 +491,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nick_chater">nick_chater</a></td>
             <td>2007-03-24</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>12803</td>
         </tr>

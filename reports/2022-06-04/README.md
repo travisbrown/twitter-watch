@@ -1321,7 +1321,7 @@ Found 987 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/jeranism">jeranism</a></td>
             <td>2014-05-01</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>8556</td>
         </tr>

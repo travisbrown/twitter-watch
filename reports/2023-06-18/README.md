@@ -416,7 +416,7 @@ Found 1231 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AlbertaGirl34">AlbertaGirl34</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/22575373">1 other</a>)&nbsp;</td>
             <td>2009-03-02</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>4548</td>
         </tr>

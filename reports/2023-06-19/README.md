@@ -533,7 +533,7 @@ Found 1349 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/STHatesTrudeau">STHatesTrudeau</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1479853992809308172">1 other</a>)&nbsp;</td>
             <td>2022-01-08</td>
-            <td></td>
+            <td>2023-06-23</td>
             <td align="center"></td>
             <td>3394</td>
         </tr>
