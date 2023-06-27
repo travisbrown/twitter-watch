@@ -2413,7 +2413,7 @@ Found 4434 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/farano">farano</a></td>
             <td>2008-12-15</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>3035</td>
         </tr>

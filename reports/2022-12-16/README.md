@@ -1467,7 +1467,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealSmokingGnu">RealSmokingGnu</a></td>
             <td>2015-05-06</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>4944</td>
         </tr>

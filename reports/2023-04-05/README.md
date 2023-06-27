@@ -1479,7 +1479,7 @@ Found 2445 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/VCanzuk">VCanzuk</a></td>
             <td>2020-12-11</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1234</td>
         </tr>

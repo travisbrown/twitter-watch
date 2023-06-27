@@ -988,7 +988,7 @@ Found 3491 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fawasmk1999">fawasmk1999</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/748977878">2 others</a>)&nbsp;</td>
             <td>2012-08-10</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1094</td>
         </tr>

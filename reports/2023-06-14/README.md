@@ -28,7 +28,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/joy2850">joy2850</a></td>
             <td>2012-02-02</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>10045</td>
             <td>10495</td>
@@ -1074,7 +1074,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rvp">rvp</a></td>
             <td>2008-02-17</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>4831</td>
         </tr>

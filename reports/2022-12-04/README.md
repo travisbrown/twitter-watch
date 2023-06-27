@@ -2336,7 +2336,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FabiaTate">FabiaTate</a></td>
             <td>2012-08-06</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1006</td>
         </tr>

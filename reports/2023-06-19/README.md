@@ -511,7 +511,7 @@ Found 1349 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AngelGGuadiania">AngelGGuadiania</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2572226646">5 others</a>)&nbsp;</td>
             <td>2014-06-17</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>3477</td>
         </tr>
@@ -962,7 +962,7 @@ Found 1349 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/IXlNBqVw6DZZ230">IXlNBqVw6DZZ230</a></td>
             <td>2016-03-30</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1492</td>
         </tr>

@@ -3494,7 +3494,7 @@ Found 5398 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/noiwillnotsmile">noiwillnotsmile</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2489138550">7 others</a>)&nbsp;</td>
             <td>2014-05-11</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1059</td>
         </tr>

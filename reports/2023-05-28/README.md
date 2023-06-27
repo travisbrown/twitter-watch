@@ -333,7 +333,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Psalmylicious">Psalmylicious</a></td>
             <td>2011-04-30</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>5957</td>
         </tr>
@@ -795,7 +795,7 @@ Found 1508 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/sris19781">sris19781</a></td>
             <td>2019-02-12</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1786</td>
         </tr>

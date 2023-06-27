@@ -557,7 +557,7 @@ Found 809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Luminaria98">Luminaria98</a></td>
             <td>2009-06-18</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>5915</td>
         </tr>

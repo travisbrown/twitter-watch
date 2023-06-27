@@ -364,7 +364,7 @@ Found 1368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/francklyspoken">francklyspoken</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/923117164181176320">1 other</a>)&nbsp;</td>
             <td>2017-10-25</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>16748</td>
         </tr>

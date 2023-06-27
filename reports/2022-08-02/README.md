@@ -1146,7 +1146,7 @@ Found 982 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/diegoazevedo">diegoazevedo</a></td>
             <td>2009-01-19</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1593</td>
         </tr>

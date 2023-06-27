@@ -600,7 +600,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PeterKariukiKE">PeterKariukiKE</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1192006991734022144">6 others</a>)&nbsp;</td>
             <td>2019-11-06</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>41389</td>
         </tr>

@@ -172,7 +172,7 @@ Found 1791 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/UFOinsightcom">UFOinsightcom</a></td>
             <td>2012-02-14</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>6672</td>
         </tr>
@@ -832,7 +832,7 @@ Found 1791 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/coyotecoco">coyotecoco</a></td>
             <td>2010-02-10</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1212</td>
         </tr>

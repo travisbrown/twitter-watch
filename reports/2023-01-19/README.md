@@ -1725,7 +1725,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hadisulisdado">hadisulisdado</a></td>
             <td>2018-02-20</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1966</td>
         </tr>
@@ -2561,7 +2561,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kryseldhiver">kryseldhiver</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/448645219">3 others</a>)&nbsp;</td>
             <td>2011-12-28</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1233</td>
         </tr>
@@ -2660,7 +2660,7 @@ Found 2657 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dapatconge">dapatconge</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2965986834">2 others</a>)&nbsp;</td>
             <td>2015-01-08</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1177</td>
         </tr>

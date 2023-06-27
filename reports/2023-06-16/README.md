@@ -343,7 +343,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SecurityNewsbot">SecurityNewsbot</a></td>
             <td>2014-05-03</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>17851</td>
         </tr>
@@ -453,7 +453,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/stormrobinson">stormrobinson</a></td>
             <td>2009-06-26</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>13182</td>
         </tr>
@@ -508,7 +508,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Wave80radio">Wave80radio</a></td>
             <td>2016-05-05</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>12540</td>
         </tr>
@@ -695,7 +695,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dfv1nj9qfBdImTT">dfv1nj9qfBdImTT</a></td>
             <td>2019-09-21</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>8265</td>
         </tr>
@@ -717,7 +717,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/wealthofgeeks">wealthofgeeks</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/922249008462090240">1 other</a>)&nbsp;</td>
             <td>2017-10-22</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>8198</td>
         </tr>
@@ -838,7 +838,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Fiori_aus">Fiori_aus</a></td>
             <td>2011-04-10</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>6477</td>
         </tr>
@@ -882,7 +882,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MMACourier">MMACourier</a></td>
             <td>2015-07-05</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>5629</td>
         </tr>
@@ -893,7 +893,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MoGalore">MoGalore</a></td>
             <td>2012-02-23</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>5389</td>
         </tr>
@@ -1168,7 +1168,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/fandompost">fandompost</a></td>
             <td>2011-02-17</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>3705</td>
         </tr>
@@ -1366,7 +1366,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Go2Tubebular">Go2Tubebular</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/21158016">3 others</a>)&nbsp;</td>
             <td>2009-02-18</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>3118</td>
         </tr>
@@ -1663,7 +1663,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/donthegodd">donthegodd</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/397719966">13 others</a>)&nbsp;</td>
             <td>2011-10-25</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>2210</td>
         </tr>
@@ -2158,7 +2158,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/greylockglass">greylockglass</a></td>
             <td>2015-02-05</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1455</td>
         </tr>

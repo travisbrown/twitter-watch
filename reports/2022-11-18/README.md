@@ -2282,7 +2282,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JuanMiguelCQ">JuanMiguelCQ</a></td>
             <td>2009-07-29</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1289</td>
         </tr>

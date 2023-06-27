@@ -136,7 +136,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/dtlewis6">dtlewis6</a></td>
             <td>2009-04-26</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1262</td>
             <td>64366</td>
@@ -348,7 +348,7 @@ Found 1115 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChappyLeo">ChappyLeo</a></td>
             <td>2010-09-03</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>11085</td>
         </tr>

@@ -786,7 +786,7 @@ Found 1076 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/LoveJaLiaS">LoveJaLiaS</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/98814445">1 other</a>)&nbsp;</td>
             <td>2009-12-23</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center">🔒</td>
             <td>1220</td>
         </tr>

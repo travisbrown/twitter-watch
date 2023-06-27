@@ -507,7 +507,7 @@ Found 2134 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mikee_lee">mikee_lee</a></td>
             <td>2009-02-28</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>11634</td>
         </tr>
@@ -617,7 +617,7 @@ Found 2134 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RedWaveBreaking">RedWaveBreaking</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/55155523">4 others</a>)&nbsp;</td>
             <td>2009-07-09</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>9039</td>
         </tr>
@@ -804,7 +804,7 @@ Found 2134 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MimiTexasAngel">MimiTexasAngel</a></td>
             <td>2012-04-02</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>5681</td>
         </tr>
@@ -1541,7 +1541,7 @@ Found 2134 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CyberIQs_">CyberIQs_</a></td>
             <td>2020-12-27</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2164</td>
         </tr>
@@ -2212,7 +2212,7 @@ Found 2134 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/eurojournalENG">eurojournalENG</a></td>
             <td>2019-02-04</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1125</td>
         </tr>

@@ -394,7 +394,7 @@ Found 2131 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EmergMedDr">EmergMedDr</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/985523859179925504">3 others</a>)&nbsp;</td>
             <td>2018-04-15</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>39175</td>
         </tr>
@@ -867,7 +867,7 @@ Found 2131 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/debruning">debruning</a></td>
             <td>2009-11-15</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>6208</td>
         </tr>

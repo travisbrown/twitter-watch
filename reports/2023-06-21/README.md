@@ -627,7 +627,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/QueeniePi">QueeniePi</a></td>
             <td>2012-07-06</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>5853</td>
         </tr>
@@ -1617,7 +1617,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/realSasaMilic">realSasaMilic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/168833240">1 other</a>)&nbsp;</td>
             <td>2010-07-20</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1180</td>
         </tr>

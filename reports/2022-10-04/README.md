@@ -1084,7 +1084,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/narodowylublin">narodowylublin</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1215320585091371008">1 other</a>)&nbsp;</td>
             <td>2020-01-09</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>4171</td>
         </tr>

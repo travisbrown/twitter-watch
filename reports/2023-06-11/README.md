@@ -378,7 +378,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BizPartnerMag">BizPartnerMag</a></td>
             <td>2014-10-16</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>5265</td>
         </tr>

@@ -1052,7 +1052,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/karlvalhb">karlvalhb</a></td>
             <td>2017-04-05</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>2394</td>
         </tr>

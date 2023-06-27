@@ -4262,7 +4262,7 @@ Found 2395 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/rolf_hofsink">rolf_hofsink</a></td>
             <td>2012-05-27</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1834</td>
         </tr>

@@ -200,7 +200,7 @@ Found 2535 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RealScottRitter">RealScottRitter</a></td>
             <td>2018-07-15</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>88104</td>
         </tr>

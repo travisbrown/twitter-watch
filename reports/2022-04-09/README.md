@@ -1234,7 +1234,7 @@ Found 892 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/pjmckeever1">pjmckeever1</a></td>
             <td>2016-01-19</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>1803</td>
         </tr>

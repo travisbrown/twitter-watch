@@ -671,7 +671,7 @@ Found 332 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/venenopuro12345">venenopuro12345</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/223215153">2 others</a>)&nbsp;</td>
             <td>2010-12-05</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>26742</td>
         </tr>

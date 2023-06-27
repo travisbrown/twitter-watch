@@ -96,7 +96,7 @@ Found 4139 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DivineProverbs">DivineProverbs</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1297763090">8 others</a>)&nbsp;</td>
             <td>2013-03-25</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>303814</td>
         </tr>

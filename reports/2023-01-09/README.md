@@ -247,7 +247,7 @@ Found 1906 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TurkAvaz">TurkAvaz</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1055071995321298944">4 others</a>)&nbsp;</td>
             <td>2018-10-24</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>86558</td>
         </tr>

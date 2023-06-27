@@ -1286,7 +1286,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_JonathanWillis">_JonathanWillis</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1265520855800479745">1 other</a>)&nbsp;</td>
             <td>2020-05-27</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>5746</td>
         </tr>

@@ -1052,7 +1052,7 @@ Found 1256 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WolfGal_W_Horns">WolfGal_W_Horns</a></td>
             <td>2020-11-04</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1084</td>
         </tr>

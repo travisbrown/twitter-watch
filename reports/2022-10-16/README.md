@@ -639,7 +639,7 @@ Found 980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hizeekyoung">hizeekyoung</a></td>
             <td>2013-04-26</td>
-            <td></td>
+            <td>2023-06-25</td>
             <td align="center"></td>
             <td>15148</td>
         </tr>
