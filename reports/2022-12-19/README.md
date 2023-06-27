@@ -355,7 +355,7 @@ Found 1373 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Footballtime___">Footballtime___</a></td>
             <td>2021-04-22</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>42660</td>
         </tr>

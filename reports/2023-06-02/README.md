@@ -350,7 +350,7 @@ Found 1616 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Rozglosnia3">Rozglosnia3</a></td>
             <td>2022-08-07</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>4465</td>
         </tr>

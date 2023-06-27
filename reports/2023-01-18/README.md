@@ -1112,7 +1112,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Outsiderdaichi">Outsiderdaichi</a></td>
             <td>2021-08-02</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1810</td>
         </tr>
@@ -1453,7 +1453,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/oreocokii">oreocokii</a></td>
             <td>2022-03-29</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1352</td>
         </tr>

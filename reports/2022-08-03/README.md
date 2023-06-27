@@ -945,7 +945,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/galaxypussci">galaxypussci</a></td>
             <td>2021-10-23</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>11030</td>
         </tr>

@@ -2141,7 +2141,7 @@ Found 1308 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Capt_Cave_Dood">Capt_Cave_Dood</a></td>
             <td>2021-08-06</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2031</td>
         </tr>

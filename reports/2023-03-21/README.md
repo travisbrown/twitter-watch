@@ -210,7 +210,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Sophia36982957">Sophia36982957</a></td>
             <td>2012-04-08</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>17278</td>
         </tr>

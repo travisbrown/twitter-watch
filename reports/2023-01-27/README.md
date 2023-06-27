@@ -691,7 +691,7 @@ Found 3254 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/0xTuti">0xTuti</a></td>
             <td>2021-09-20</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1298</td>
         </tr>

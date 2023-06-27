@@ -640,7 +640,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nyxtokavalars">nyxtokavalars</a></td>
             <td>2021-08-24</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>8907</td>
         </tr>
@@ -1795,7 +1795,7 @@ Found 1980 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Michael44Blood">Michael44Blood</a></td>
             <td>2022-04-27</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2033</td>
         </tr>

@@ -694,7 +694,7 @@ Found 1368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/YankeeCowboy24">YankeeCowboy24</a></td>
             <td>2022-05-01</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>5050</td>
         </tr>
@@ -1123,7 +1123,7 @@ Found 1368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SurrealDB">SurrealDB</a></td>
             <td>2021-09-21</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2194</td>
         </tr>
@@ -1134,7 +1134,7 @@ Found 1368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mbblaksley">mbblaksley</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/458672938">1 other</a>)&nbsp;</td>
             <td>2012-01-08</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2168</td>
         </tr>

@@ -810,7 +810,7 @@ Found 1115 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArmedJ0y">ArmedJ0y</a></td>
             <td>2022-07-02</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2174</td>
         </tr>
@@ -1206,7 +1206,7 @@ Found 1115 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TaloBrent">TaloBrent</a></td>
             <td>2022-04-05</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1162</td>
         </tr>

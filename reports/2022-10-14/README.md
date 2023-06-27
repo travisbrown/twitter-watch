@@ -1253,7 +1253,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EL_czarcasmagoy">EL_czarcasmagoy</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1543188656">2 others</a>)&nbsp;</td>
             <td>2013-06-24</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>4558</td>
         </tr>

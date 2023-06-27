@@ -422,7 +422,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PGSupremacy">PGSupremacy</a></td>
             <td>2022-01-21</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>5761</td>
         </tr>

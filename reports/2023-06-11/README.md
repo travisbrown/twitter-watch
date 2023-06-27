@@ -455,7 +455,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Dfdevotions">Dfdevotions</a></td>
             <td>2021-11-30</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>4151</td>
         </tr>

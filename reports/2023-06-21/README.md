@@ -561,7 +561,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/thehivenftapp">thehivenftapp</a></td>
             <td>2022-09-23</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>6949</td>
         </tr>
@@ -693,7 +693,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatriotVoice3">PatriotVoice3</a></td>
             <td>2022-07-09</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>5183</td>
         </tr>
@@ -1144,7 +1144,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MediaOpinion19">MediaOpinion19</a></td>
             <td>2022-09-25</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2063</td>
         </tr>
@@ -1221,7 +1221,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/msdian__fan">msdian__fan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1415029282397585412">1 other</a>)&nbsp;</td>
             <td>2021-07-13</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1913</td>
         </tr>

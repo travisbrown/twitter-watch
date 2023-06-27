@@ -463,7 +463,7 @@ Found 1663 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zack_seal">zack_seal</a></td>
             <td>2021-08-14</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2445</td>
         </tr>

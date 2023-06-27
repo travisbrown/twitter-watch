@@ -1711,7 +1711,7 @@ Found 1405 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/schism1221">schism1221</a></td>
             <td>2013-04-02</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1503</td>
         </tr>

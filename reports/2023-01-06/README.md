@@ -1342,7 +1342,7 @@ Found 1294 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/WSSMomma">WSSMomma</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1186630772683354112">1 other</a>)&nbsp;</td>
             <td>2019-10-22</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1302</td>
         </tr>

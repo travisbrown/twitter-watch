@@ -618,7 +618,7 @@ Found 1749 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PyroDzeus">PyroDzeus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/933731485684813824">1 other</a>)&nbsp;</td>
             <td>2017-11-23</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2134</td>
         </tr>

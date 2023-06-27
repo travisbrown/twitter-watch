@@ -396,7 +396,7 @@ Found 1119 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/cdkns93">cdkns93</a></td>
             <td>2021-09-26</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>3232</td>
         </tr>

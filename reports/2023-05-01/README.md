@@ -1001,7 +1001,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/iVizionVFX">iVizionVFX</a></td>
             <td>2022-04-21</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1493</td>
         </tr>

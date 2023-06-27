@@ -931,7 +931,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AaronDobbins_">AaronDobbins_</a></td>
             <td>2021-06-11</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>5646</td>
         </tr>

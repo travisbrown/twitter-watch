@@ -351,7 +351,7 @@ Found 2220 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/heelayan_">heelayan_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1476990938081755138">1 other</a>)&nbsp;</td>
             <td>2021-12-31</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>19024</td>
         </tr>
@@ -736,7 +736,7 @@ Found 2220 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/peterbierhof">peterbierhof</a></td>
             <td>2011-04-07</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>4885</td>
         </tr>
@@ -1011,7 +1011,7 @@ Found 2220 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/TheBFD_nz">TheBFD_nz</a></td>
             <td>2019-05-27</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>2783</td>
         </tr>

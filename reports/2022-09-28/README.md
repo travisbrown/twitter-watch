@@ -2311,7 +2311,7 @@ Found 1580 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Yanrahi_">Yanrahi_</a></td>
             <td>2021-11-08</td>
-            <td></td>
+            <td>2023-06-26</td>
             <td align="center"></td>
             <td>1493</td>
         </tr>
