@@ -1354,7 +1354,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Chuanese">Chuanese</a></td>
             <td>2015-09-25</td>
-            <td></td>
+            <td>2023-06-27</td>
             <td align="center"></td>
             <td>10127</td>
         </tr>

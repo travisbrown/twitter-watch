@@ -329,7 +329,7 @@ Found 3149 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DwellingDeep_">DwellingDeep_</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/140896649">2 others</a>)&nbsp;</td>
             <td>2010-05-06</td>
-            <td></td>
+            <td>2023-06-27</td>
             <td align="center"></td>
             <td>6533</td>
         </tr>

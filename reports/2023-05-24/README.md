@@ -372,7 +372,7 @@ Found 1651 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/misyrlena">misyrlena</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/20419538">1 other</a>)&nbsp;</td>
             <td>2009-02-09</td>
-            <td></td>
+            <td>2023-06-27</td>
             <td align="center">✔️</td>
             <td>8736</td>
         </tr>

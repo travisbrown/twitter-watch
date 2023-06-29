@@ -2349,7 +2349,7 @@ Found 1385 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/megamilkfan">megamilkfan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1537234888121847810">2 others</a>)&nbsp;</td>
             <td>2022-06-16</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1490</td>
         </tr>

@@ -1082,7 +1082,7 @@ Found 2409 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/borisnovenkij">borisnovenkij</a></td>
             <td>2012-07-12</td>
-            <td></td>
+            <td>2023-06-27</td>
             <td align="center"></td>
             <td>1379</td>
         </tr>

@@ -2006,7 +2006,7 @@ Found 4077 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SecondraC">SecondraC</a></td>
             <td>2019-07-03</td>
-            <td></td>
+            <td>2023-06-27</td>
             <td align="center"></td>
             <td>1046</td>
         </tr>

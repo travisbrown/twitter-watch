@@ -349,7 +349,7 @@ Found 1034 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ToneyTouchdown">ToneyTouchdown</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1288837544277311488">1 other</a>)&nbsp;</td>
             <td>2020-07-30</td>
-            <td></td>
+            <td>2023-06-27</td>
             <td align="center"></td>
             <td>1710</td>
         </tr>

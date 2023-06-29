@@ -2102,7 +2102,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ricardolrguerra">ricardolrguerra</a></td>
             <td>2013-08-29</td>
-            <td></td>
+            <td>2023-06-27</td>
             <td align="center"></td>
             <td>3307</td>
         </tr>
