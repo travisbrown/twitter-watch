@@ -989,7 +989,7 @@ Found 2220 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mahvros27">mahvros27</a></td>
             <td>2010-11-24</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>2913</td>
         </tr>
@@ -1935,7 +1935,7 @@ Found 2220 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/nlpedwards">nlpedwards</a></td>
             <td>2011-04-29</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1007</td>
         </tr>

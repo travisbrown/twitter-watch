@@ -684,7 +684,7 @@ Found 1645 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/SuziUrell">SuziUrell</a></td>
             <td>2013-10-08</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>3030</td>
         </tr>

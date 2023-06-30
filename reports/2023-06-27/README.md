@@ -389,7 +389,7 @@ Found 970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AmericazOutlaw">AmericazOutlaw</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1518700962852085760">1 other</a>)&nbsp;</td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>3728</td>
         </tr>

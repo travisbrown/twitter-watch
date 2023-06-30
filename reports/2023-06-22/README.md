@@ -590,7 +590,7 @@ Found 1115 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PauleyDaryl">PauleyDaryl</a></td>
             <td>2020-03-07</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>3552</td>
         </tr>

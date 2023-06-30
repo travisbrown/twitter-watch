@@ -592,7 +592,7 @@ Found 636 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NatureSpeaks6">NatureSpeaks6</a></td>
             <td>2022-05-25</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1050</td>
         </tr>

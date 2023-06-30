@@ -154,7 +154,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kuroprpr_bot">kuroprpr_bot</a></td>
             <td>2019-10-12</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>82003</td>
         </tr>

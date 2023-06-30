@@ -76,7 +76,7 @@ Found 6 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/jeffnewberry">jeffnewberry</a></td>
             <td>2009-06-17</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>937</td>
             <td>77591</td>

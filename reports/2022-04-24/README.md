@@ -2968,7 +2968,7 @@ Found 3368 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/2_Surendra">2_Surendra</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/844986076871774210">1 other</a>)&nbsp;</td>
             <td>2017-03-23</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1638</td>
         </tr>

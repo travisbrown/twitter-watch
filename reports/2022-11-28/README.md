@@ -2858,7 +2858,7 @@ Found 3143 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KishMinTuches">KishMinTuches</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/18358551">1 other</a>)&nbsp;</td>
             <td>2008-12-24</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1267</td>
         </tr>

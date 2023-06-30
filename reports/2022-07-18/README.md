@@ -2890,7 +2890,7 @@ Found 1406 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RogrioPiva1">RogrioPiva1</a></td>
             <td>2021-11-26</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1394</td>
         </tr>

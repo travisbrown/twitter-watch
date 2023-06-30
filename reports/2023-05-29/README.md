@@ -1126,7 +1126,7 @@ Found 2155 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NajadKibar">NajadKibar</a></td>
             <td>2013-03-08</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1035</td>
         </tr></table>

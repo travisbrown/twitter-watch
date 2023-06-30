@@ -389,7 +389,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/CSPANschedule">CSPANschedule</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/372390671">1 other</a>)&nbsp;</td>
             <td>2011-09-12</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>5079</td>
         </tr>
@@ -653,7 +653,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/willclrk5">willclrk5</a></td>
             <td>2012-01-23</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>2123</td>
         </tr>

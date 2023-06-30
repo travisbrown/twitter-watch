@@ -603,7 +603,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/btcmvmnt">btcmvmnt</a></td>
             <td>2019-12-02</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>6567</td>
         </tr>
@@ -1428,7 +1428,7 @@ Found 2280 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/emistt111">emistt111</a></td>
             <td>2014-04-06</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1517</td>
         </tr>

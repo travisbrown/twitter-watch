@@ -226,7 +226,7 @@ Found 1031 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ivynile_wwe">ivynile_wwe</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2312371534">1 other</a>)&nbsp;</td>
             <td>2014-01-29</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center">✔️</td>
             <td>44110</td>
         </tr>

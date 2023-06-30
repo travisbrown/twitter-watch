@@ -696,7 +696,7 @@ Found 2322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/73806ad7aecd444">73806ad7aecd444</a></td>
             <td>2015-01-16</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>4850</td>
         </tr>
@@ -916,7 +916,7 @@ Found 2322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ArabianSword">ArabianSword</a></td>
             <td>2011-08-06</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center">🔒</td>
             <td>2733</td>
         </tr>

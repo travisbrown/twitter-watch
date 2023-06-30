@@ -1376,7 +1376,7 @@ Found 4957 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ravisha23624235">Ravisha23624235</a></td>
             <td>2019-10-25</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>9686</td>
         </tr>

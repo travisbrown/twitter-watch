@@ -2180,7 +2180,7 @@ Found 1770 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Xvansic">Xvansic</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2430903222">1 other</a>)&nbsp;</td>
             <td>2014-04-06</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1017</td>
         </tr>

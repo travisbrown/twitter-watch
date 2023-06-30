@@ -449,7 +449,7 @@ Found 1231 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/zaswadosaze">zaswadosaze</a></td>
             <td>2009-08-05</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>3711</td>
         </tr>
@@ -779,7 +779,7 @@ Found 1231 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChrisHosek">ChrisHosek</a></td>
             <td>2008-06-20</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1739</td>
         </tr>

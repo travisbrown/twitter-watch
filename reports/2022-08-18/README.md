@@ -2019,7 +2019,7 @@ Found 1245 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/_chris_dorsey">_chris_dorsey</a></td>
             <td>2009-05-20</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1697</td>
         </tr>

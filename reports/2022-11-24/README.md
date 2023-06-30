@@ -340,7 +340,7 @@ Found 35 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/josh_rieuf">josh_rieuf</a></td>
             <td>2021-10-31</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1343</td>
             <td>66430</td>
@@ -3370,7 +3370,7 @@ Found 2137 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Ashish14new">Ashish14new</a></td>
             <td>2022-04-03</td>
-            <td></td>
+            <td>2023-06-28</td>
             <td align="center"></td>
             <td>1006</td>
         </tr>
