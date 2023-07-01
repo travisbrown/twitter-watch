@@ -3226,7 +3226,7 @@ Found 1365 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/maia_marcilene">maia_marcilene</a></td>
             <td>2015-03-08</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1000</td>
         </tr>

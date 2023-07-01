@@ -1067,7 +1067,7 @@ Found 332 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/panterajapan">panterajapan</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/15644406">1 other</a>)&nbsp;</td>
             <td>2008-07-29</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1008</td>
         </tr></table>

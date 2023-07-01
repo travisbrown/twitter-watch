@@ -469,7 +469,7 @@ Found 809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/PatrickCMiller">PatrickCMiller</a></td>
             <td>2009-03-09</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>8298</td>
         </tr>
@@ -535,7 +535,7 @@ Found 809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/badrAlsunbul">badrAlsunbul</a></td>
             <td>2012-01-24</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>6209</td>
         </tr>
@@ -1162,7 +1162,7 @@ Found 809 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Tracey137695622">Tracey137695622</a></td>
             <td>2022-04-22</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1151</td>
         </tr>

@@ -1913,7 +1913,7 @@ Found 2056 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/layr951">layr951</a></td>
             <td>2021-02-16</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1776</td>
         </tr>

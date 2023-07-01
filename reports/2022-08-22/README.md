@@ -2620,7 +2620,7 @@ Found 1804 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AnaSamp78265731">AnaSamp78265731</a></td>
             <td>2020-08-02</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1122</td>
         </tr>

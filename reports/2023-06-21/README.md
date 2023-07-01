@@ -836,7 +836,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/JeronArtest">JeronArtest</a></td>
             <td>2009-04-25</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>4030</td>
         </tr>

@@ -1039,7 +1039,7 @@ Found 1037 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/governor01">governor01</a></td>
             <td>2009-03-08</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1713</td>
         </tr>

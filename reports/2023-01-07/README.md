@@ -920,7 +920,7 @@ Found 1861 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/dregistblog">dregistblog</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3285266377">2 others</a>)&nbsp;</td>
             <td>2015-07-20</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>2817</td>
         </tr>

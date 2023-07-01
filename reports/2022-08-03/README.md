@@ -1473,7 +1473,7 @@ Found 919 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/HaziqAlafasy">HaziqAlafasy</a></td>
             <td>2009-12-06</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>2878</td>
         </tr>

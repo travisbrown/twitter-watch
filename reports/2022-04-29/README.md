@@ -601,7 +601,7 @@ Found 504 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Grammy9175">Grammy9175</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/3065356856">1 other</a>)&nbsp;</td>
             <td>2015-03-06</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>3512</td>
         </tr>

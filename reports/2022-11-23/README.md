@@ -2697,7 +2697,7 @@ Found 1964 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/hesbonmogire11">hesbonmogire11</a></td>
             <td>2021-12-27</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1300</td>
         </tr>

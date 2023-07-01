@@ -2563,7 +2563,7 @@ Found 3709 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/agekg">agekg</a></td>
             <td>2012-03-18</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>1213</td>
         </tr>

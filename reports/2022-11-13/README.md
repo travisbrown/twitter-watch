@@ -192,7 +192,7 @@ Found 2060 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Freaki_posts">Freaki_posts</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/116409573">19 others</a>)&nbsp;</td>
             <td>2010-02-22</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>371233</td>
         </tr>

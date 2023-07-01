@@ -254,7 +254,7 @@ Found 1511 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/steveolatips">steveolatips</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1420972817743503364">1 other</a>)&nbsp;</td>
             <td>2021-07-30</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>55257</td>
         </tr>

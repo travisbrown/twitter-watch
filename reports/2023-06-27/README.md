@@ -455,7 +455,7 @@ Found 970 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ChristopherVvio">ChristopherVvio</a></td>
             <td>2011-10-17</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center"></td>
             <td>2789</td>
         </tr>

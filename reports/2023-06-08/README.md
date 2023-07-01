@@ -320,7 +320,7 @@ Found 1585 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/beccabigwords">beccabigwords</a></td>
             <td>2009-09-10</td>
-            <td></td>
+            <td>2023-06-29</td>
             <td align="center">✔️</td>
             <td>5492</td>
         </tr>
