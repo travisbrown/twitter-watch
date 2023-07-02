@@ -659,7 +659,7 @@ Found 1187 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/psyched_Anon">psyched_Anon</a></td>
             <td>2021-10-24</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>2174</td>
         </tr>

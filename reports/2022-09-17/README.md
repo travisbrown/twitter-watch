@@ -720,7 +720,7 @@ Found 1877 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/saqrA55">saqrA55</a></td>
             <td>2018-06-03</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>25667</td>
         </tr>

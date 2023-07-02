@@ -265,7 +265,7 @@ Found 2454 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KimRhode">KimRhode</a></td>
             <td>2009-11-11</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center">✔️</td>
             <td>13351</td>
         </tr>

@@ -1998,7 +1998,7 @@ Found 2401 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/swt_steve01">swt_steve01</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/998079249465643008">1 other</a>)&nbsp;</td>
             <td>2018-05-20</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>4433</td>
         </tr>

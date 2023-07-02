@@ -1542,7 +1542,7 @@ Found 1688 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/aPolishgirl">aPolishgirl</a></td>
             <td>2009-06-02</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>1926</td>
         </tr>

@@ -202,7 +202,7 @@ Found 396 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Space_Fabian">Space_Fabian</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/534348118">1 other</a>)&nbsp;</td>
             <td>2012-03-23</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>15120</td>
         </tr>
@@ -213,7 +213,7 @@ Found 396 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/putino">putino</a></td>
             <td>2009-06-02</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>11404</td>
         </tr>
@@ -224,7 +224,7 @@ Found 396 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MillerForTexas">MillerForTexas</a></td>
             <td>2013-10-17</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>8174</td>
         </tr>

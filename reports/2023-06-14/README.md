@@ -1437,7 +1437,7 @@ Found 2145 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/EliteMahomes">EliteMahomes</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1156800733766963200">2 others</a>)&nbsp;</td>
             <td>2019-08-01</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>2924</td>
         </tr>

@@ -466,7 +466,7 @@ Found 4313 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Mikethewander1">Mikethewander1</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1321866463993602050">1 other</a>)&nbsp;</td>
             <td>2020-10-29</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>16237</td>
         </tr>

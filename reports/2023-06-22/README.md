@@ -304,7 +304,7 @@ Found 1115 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/AZKellyT">AZKellyT</a></td>
             <td>2021-04-22</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>15915</td>
         </tr>

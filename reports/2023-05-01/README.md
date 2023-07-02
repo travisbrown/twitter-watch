@@ -869,7 +869,7 @@ Found 1736 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/semayesilyaprk">semayesilyaprk</a></td>
             <td>2021-10-04</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>1799</td>
         </tr>

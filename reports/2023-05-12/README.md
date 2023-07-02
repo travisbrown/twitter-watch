@@ -295,7 +295,7 @@ Found 1010 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/6Attaullah">6Attaullah</a></td>
             <td>2017-08-21</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>9028</td>
         </tr>

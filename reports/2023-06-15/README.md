@@ -856,7 +856,7 @@ Found 2131 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ahmed33_ied">ahmed33_ied</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1190620645299773442">1 other</a>)&nbsp;</td>
             <td>2019-11-02</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>6378</td>
         </tr>

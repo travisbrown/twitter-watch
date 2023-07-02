@@ -3477,7 +3477,7 @@ Found 7001 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mm_shohidul">mm_shohidul</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1127026477">3 others</a>)&nbsp;</td>
             <td>2013-01-28</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>2810</td>
         </tr>

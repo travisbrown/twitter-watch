@@ -872,7 +872,7 @@ Found 2322 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/kufarooq">kufarooq</a></td>
             <td>2010-04-23</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>2957</td>
         </tr>

@@ -209,7 +209,7 @@ Found 1396 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/ryancoxxx">ryancoxxx</a></td>
             <td>2011-07-13</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>28597</td>
         </tr>

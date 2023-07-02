@@ -2357,7 +2357,7 @@ Found 1968 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/samyalbalgh">samyalbalgh</a></td>
             <td>2021-03-29</td>
-            <td></td>
+            <td>2023-06-30</td>
             <td align="center"></td>
             <td>1046</td>
         </tr>
