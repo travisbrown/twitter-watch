@@ -406,7 +406,7 @@ Found 3149 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/mamiesmith">mamiesmith</a></td>
             <td>2009-06-22</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>5286</td>
         </tr>

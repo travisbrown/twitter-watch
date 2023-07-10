@@ -618,7 +618,7 @@ Found 2704 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Wat_the_deuce">Wat_the_deuce</a></td>
             <td>2020-02-15</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>19648</td>
         </tr>

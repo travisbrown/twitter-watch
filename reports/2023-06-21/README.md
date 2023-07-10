@@ -1067,7 +1067,7 @@ Found 1545 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/MsMigot">MsMigot</a></td>
             <td>2009-08-20</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>2336</td>
         </tr>

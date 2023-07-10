@@ -1494,7 +1494,7 @@ Found 997 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/FrancePatrioteZ">FrancePatrioteZ</a></td>
             <td>2022-01-20</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>2032</td>
         </tr>

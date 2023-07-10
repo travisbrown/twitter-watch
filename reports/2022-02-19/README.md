@@ -844,7 +844,7 @@ Found 493 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/KeaneaJane">KeaneaJane</a></td>
             <td>2009-03-24</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>2954</td>
         </tr>

@@ -1408,7 +1408,7 @@ Found 1641 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DrBabydoge">DrBabydoge</a></td>
             <td>2021-10-01</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>1770</td>
         </tr>

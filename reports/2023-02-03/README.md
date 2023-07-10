@@ -2188,7 +2188,7 @@ Found 2733 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/bobbymunk_efc">bobbymunk_efc</a></td>
             <td>2022-07-11</td>
-            <td></td>
+            <td>2023-07-02</td>
             <td align="center"></td>
             <td>2050</td>
         </tr>

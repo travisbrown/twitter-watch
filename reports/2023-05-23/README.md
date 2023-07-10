@@ -174,7 +174,7 @@ Found 1232 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Kelly_jessicaaa">Kelly_jessicaaa</a></td>
             <td>2019-12-08</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>22283</td>
         </tr>

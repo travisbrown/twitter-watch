@@ -1238,7 +1238,7 @@ Found 823 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/evans_kasey">evans_kasey</a></td>
             <td>2014-07-06</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>3250</td>
         </tr>

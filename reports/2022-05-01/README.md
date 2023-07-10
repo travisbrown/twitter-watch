@@ -1364,7 +1364,7 @@ Found 638 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Horror_Inc_">Horror_Inc_</a></td>
             <td>2021-01-22</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>1847</td>
         </tr>

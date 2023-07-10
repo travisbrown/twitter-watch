@@ -112,7 +112,7 @@ Found 14 suspensions for tracked accounts.
             <td>
                 <a href="https://twitter.com/SportsFanGirl22">SportsFanGirl22</a></td>
             <td>2021-03-02</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>12291</td>
             <td>51746</td>
@@ -799,7 +799,7 @@ Found 1115 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/DianeDauer007">DianeDauer007</a></td>
             <td>2022-05-03</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>2198</td>
         </tr>

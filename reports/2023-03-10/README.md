@@ -557,7 +557,7 @@ Found 1542 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/NuruAbdulAliyu4">NuruAbdulAliyu4</a></td>
             <td>2018-06-19</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>1669</td>
         </tr>

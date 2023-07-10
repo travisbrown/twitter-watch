@@ -7380,7 +7380,7 @@ Found 7336 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/Cefco1953">Cefco1953</a></td>
             <td>2022-04-25</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>1105</td>
         </tr>

@@ -2674,7 +2674,7 @@ Found 1642 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/BobTheCaptainn">BobTheCaptainn</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/111665450">3 others</a>)&nbsp;</td>
             <td>2010-02-05</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center">🔒</td>
             <td>1835</td>
         </tr>

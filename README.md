@@ -32,15 +32,15 @@ which in some cases may be up to several days after the change occurred.
 
 ## Overview
 
-* Total number of suspensions detected: 799359
-* Total number of suspension reversals detected: 67877
-* Mean number of followers for suspended accounts: 1040.28
+* Total number of suspensions detected: 819931
+* Total number of suspension reversals detected: 68165
+* Mean number of followers for suspended accounts: 1061.82
 * Median number of followers for suspended accounts: 34.0
-* Mean age of suspended accounts (days): 1358.88
-* Median age of suspended accounts (days): 554.0
-* Total number of verified accounts suspended: 282
-* Total number of protected accounts suspended: 58989
-* Total number of suspensions for accounts previously withheld in specific countries: 67
+* Mean age of suspended accounts (days): 1390.2
+* Median age of suspended accounts (days): 586.0
+* Total number of verified accounts suspended: 287
+* Total number of protected accounts suspended: 61093
+* Total number of suspensions for accounts previously withheld in specific countries: 70
 * Total number of screen name changes detected: 966283
 
 
@@ -202,6 +202,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>292</td>
         </tr>
         <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=533244494">
+                <img src="https://pbs.twimg.com/profile_images/1563171401829318656/7RdFNjSE_normal.jpg" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/Maza667">Maza667</a></td>
+            <td>2012-03-22</td>
+            <td>2023-07-08</td>
+            <td>10984</td>
+            <td>293</td>
+        </tr>
+        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1515796842532978688">
                 <img src="https://pbs.twimg.com/profile_images/1519462793644290048/V6IVOr99_normal.jpg" width="40px" height="40px" align="center"/></a>
             </td>
@@ -266,17 +277,6 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-07-16</td>
             <td>34593</td>
             <td>352</td>
-        </tr>
-        <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=1468802750041497608">
-                <img src="https://pbs.twimg.com/profile_images/1494694439427710978/5XKsVV2l_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/AJWins2">AJWins2</a></td>
-            <td>2021-12-09</td>
-            <td>2022-04-04</td>
-            <td>43511</td>
-            <td>355</td>
         </tr></table>
 
 ## Daily reports
@@ -290,10 +290,74 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td>
+                <a href="reports/2023-07-10/">10 July 2023</a>
+            </td>
+            <td>8919</td>
+            <td>10</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-07-09/"> 9 July 2023</a>
+            </td>
+            <td>5527</td>
+            <td>4</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-07-08/"> 8 July 2023</a>
+            </td>
+            <td>5881</td>
+            <td>4</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-07-07/"> 7 July 2023</a>
+            </td>
+            <td>14002</td>
+            <td>16</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-07-06/"> 6 July 2023</a>
+            </td>
+            <td>24317</td>
+            <td>13</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-07-05/"> 5 July 2023</a>
+            </td>
+            <td>8664</td>
+            <td>13</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-07-04/"> 4 July 2023</a>
+            </td>
+            <td>8741</td>
+            <td>15</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="reports/2023-07-03/"> 3 July 2023</a>
+            </td>
+            <td>1991</td>
+            <td>9</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="reports/2023-07-02/"> 2 July 2023</a>
             </td>
-            <td>329</td>
-            <td>0</td>
+            <td>5302</td>
+            <td>7</td>
             <td>0</td>
         </tr>
         <tr>

@@ -2156,7 +2156,7 @@ Found 1036 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/yamaShir0__kaI3">yamaShir0__kaI3</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/2426879564">1 other</a>)&nbsp;</td>
             <td>2014-04-04</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>1473</td>
         </tr>

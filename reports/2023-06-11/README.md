@@ -367,7 +367,7 @@ Found 1047 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/theluckyman">theluckyman</a></td>
             <td>2007-07-03</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>5586</td>
         </tr>

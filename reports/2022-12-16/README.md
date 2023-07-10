@@ -2919,7 +2919,7 @@ Found 3916 suspensions for untracked accounts.
             <td>
                 <a href="https://twitter.com/RichQuackarmy">RichQuackarmy</a></td>
             <td>2022-01-09</td>
-            <td></td>
+            <td>2023-07-01</td>
             <td align="center"></td>
             <td>1432</td>
         </tr>
