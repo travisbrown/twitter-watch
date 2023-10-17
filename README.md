@@ -60,7 +60,7 @@ Current list of suspensions of accounts most central to far-right networks since
     </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=16703058">
-                <img src="https://pbs.twimg.com/profile_images/1112759817/BraveLad_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/BraveLad">BraveLad</a></td>
@@ -71,7 +71,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1226624031367073793">
-                <img src="https://pbs.twimg.com/profile_images/1375957476294717440/tVsfE0P8_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/ASBMilitary">ASBMilitary</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1226624031367073793">1 other</a>)&nbsp;</td>
@@ -93,7 +93,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=4764958742">
-                <img src="https://pbs.twimg.com/profile_images/1241698593330860033/MrHmJScY_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/QuarantinedCoof">QuarantinedCoof</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/4764958742">1 other</a>)&nbsp;</td>
@@ -104,7 +104,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1057187257558413312">
-                <img src="https://pbs.twimg.com/profile_images/1503581588663291907/Yj3M1zq3_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/realGonzaloLira">realGonzaloLira</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1057187257558413312">2 others</a>)&nbsp;</td>
@@ -115,7 +115,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=3243718433">
-                <img src="https://pbs.twimg.com/profile_images/1518713970965860354/_VVhwraM_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Youblacksoul">Youblacksoul</a></td>
@@ -126,7 +126,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1156317032171761664">
-                <img src="https://pbs.twimg.com/profile_images/1494172160889290754/APxkyYnk_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/streetpeopleLA">streetpeopleLA</a></td>
@@ -137,7 +137,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1416678409908928513">
-                <img src="https://pbs.twimg.com/profile_images/1475008136947847168/cZG93lGn_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/DJTTracker">DJTTracker</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1416678409908928513">1 other</a>)&nbsp;</td>
@@ -148,7 +148,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1506861231998652416">
-                <img src="https://pbs.twimg.com/profile_images/1518734382504230912/SUaS7Rs9_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/PapiTrumpo_">PapiTrumpo_</a></td>
@@ -159,7 +159,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1458246969990733828">
-                <img src="https://pbs.twimg.com/profile_images/1458251870766518274/liDRtnDH_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/vt_kek">vt_kek</a></td>
@@ -170,7 +170,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=734440531212673024">
-                <img src="https://pbs.twimg.com/profile_images/1184378107286835200/Qbu-YUy1_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/trutherbotnet">trutherbotnet</a></td>
@@ -181,7 +181,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1515796842532978688">
-                <img src="https://pbs.twimg.com/profile_images/1519462793644290048/V6IVOr99_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/PapiTrumpo__">PapiTrumpo__</a></td>
@@ -192,7 +192,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1562873560351133701">
-                <img src="https://pbs.twimg.com/profile_images/1582986889258184704/-cjknLkr_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/ArtCali818">ArtCali818</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1562873560351133701">1 other</a>)&nbsp;</td>
@@ -203,7 +203,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1055125529744101381">
-                <img src="https://pbs.twimg.com/profile_images/1214565518419456008/FA70zeDq_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/AquAhora1">AquAhora1</a></td>
@@ -214,7 +214,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1491461480734146566">
-                <img src="https://pbs.twimg.com/profile_images/1518593240844451840/Evu8n1BT_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/FACTSRTRUTH777">FACTSRTRUTH777</a></td>
@@ -225,7 +225,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1268328941678444544">
-                <img src="https://pbs.twimg.com/profile_images/1477677077168017415/GpajPISj_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/Most_Maximus">Most_Maximus</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1268328941678444544">1 other</a>)&nbsp;</td>
@@ -236,7 +236,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1325803514937872385">
-                <img src="https://pbs.twimg.com/profile_images/1326243418922754049/iCso-AKS_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/twk4usa">twk4usa</a></td>
@@ -247,7 +247,7 @@ Current list of suspensions of accounts most central to far-right networks since
         </tr>
         <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1468802750041497608">
-                <img src="https://pbs.twimg.com/profile_images/1494694439427710978/5XKsVV2l_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/AJWins2">AJWins2</a></td>
@@ -257,19 +257,8 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>355</td>
         </tr>
         <tr>
-            <td><a href="https://twitter.com/intent/user?user_id=739013222569807872">
-                <img src="https://pbs.twimg.com/profile_images/1475923391903318022/tIXscS95_normal.jpg" width="40px" height="40px" align="center"/></a>
-            </td>
-            <td>
-                <a href="https://twitter.com/shitbiscuit">shitbiscuit</a></td>
-            <td>2016-06-04</td>
-            <td>2022-10-30</td>
-            <td>33354</td>
-            <td>367</td>
-        </tr>
-        <tr>
             <td><a href="https://twitter.com/intent/user?user_id=1107696766344933376">
-                <img src="https://pbs.twimg.com/profile_images/1495149701959671815/p_lv9nfF_normal.jpg" width="40px" height="40px" align="center"/></a>
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
             </td>
             <td>
                 <a href="https://twitter.com/TeresaFreeThink">TeresaFreeThink</a>&nbsp;(<a href="https://api.memory.lol/v1/tw/id/1107696766344933376">1 other</a>)&nbsp;</td>
@@ -277,6 +266,17 @@ Current list of suspensions of accounts most central to far-right networks since
             <td>2022-09-21</td>
             <td>34468</td>
             <td>371</td>
+        </tr>
+        <tr>
+            <td><a href="https://twitter.com/intent/user?user_id=1406561266446082052">
+                <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" width="40px" height="40px" align="center"/></a>
+            </td>
+            <td>
+                <a href="https://twitter.com/JfkQ17">JfkQ17</a></td>
+            <td>2021-06-20</td>
+            <td>2022-07-28</td>
+            <td>23729</td>
+            <td>391</td>
         </tr></table>
 
 ## Daily reports
